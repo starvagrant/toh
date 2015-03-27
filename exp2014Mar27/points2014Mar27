@@ -1,0 +1,5 @@
+methods need parentheses pair () unless defined as variable thus Math.random() and .toString()
+must give style properties valid ranges or they don't assign at all. Color needs # plus six hexes.
+Refer to an object's children as .children, not .childNode
+Don't know why, but had a logic error with a || operator.
+When adding an event listener, the event supplied must be a string
