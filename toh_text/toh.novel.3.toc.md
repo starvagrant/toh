@@ -6,5 +6,5 @@ Road Trip in Red
 
 Ooze from the Confetti Factory
 
-Traveling with Tragedy (Phoenix) 
+Traveling with Tragedy  
 
