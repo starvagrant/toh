@@ -1,12 +1,12 @@
-Dr. Creed turned down the heat whilst traveling east on Interstate 94 to Milwaukee. He had past the state line about forty five minutes ago, and it was still on his mind. Being on the road somehow put his mind at ease. 
+Dr. Creed turned down the heat whilst traveling east on [I94][] to Milwaukee. He had past the state line about forty five minutes ago, and it was still on his mind. Being on the road somehow put his mind at ease. 
 
 It shouldn't have. There was a job waiting for him back on Minnesota, but the watching the endless neatly timed stripped yellow lines and white dashes made it seem that was in another time, far away. 
 
 It was only Wisconsin, the first, unassuming door on a potentially long trick-or-treat outing. He had intended to get some thinking done, for his uncle. He'd checked out some sociology texts from the library to play in his car. But the more he tried to focus on HADES, fragmentary truth, or Atlantis, the more forcefully his mind veered towards unrelated topics. 
 
-He was off to Milwaukee before taking the scenic route down Lake Michigan. The Lake would be frozen over this time of year, and he would have much preferred to see it over the summer. Water was more beautiful than ice. But the view would give some kind of flavor to the trip, something to keep him from getting hypnotized by the roads.  
+He was off to Milwaukee before taking the scenic route down [Lake Michigan][]. The Lake would be frozen over this time of year, and he would have much preferred to see it over the summer. Water was more beautiful than ice. But the view would give some kind of flavor to the trip, something to keep him from getting hypnotized by the roads.  
 
-He might need it in a state best known for cheese and beer. Not that these were inherently bad things... just things he'd like to brand his state. 10,000 Lakes seemed a bit more appealing. Though it was often the case that drinking cultures often provided some interesting cultural relics. The Greek Dramas, there to celebrate the Greek god of wine (among other things) Dionysus. A fertility symbol. Wine and fertility in the same god, sometimes the ancients really seemed to know the way of the world so well. 
+He might need it in a state best known for cheese and beer. Not that these were inherently bad things... just things he'd like to brand his state. 10,000 Lakes seemed a bit more appealing. Though it was often the case that drinking cultures often provided some interesting cultural relics. The Greek Dramas, there to celebrate the Greek god of wine (among other things) [Dionysus][]. A fertility symbol. Wine and fertility in the same god, sometimes the ancients really seemed to know the way of the world so well. 
 
 He sat back and wondered about how well the ancients were at acting. You couldn't quite tell from the works themselves, and who would have bothered to write reviews in the first place? How many people were literate? And how would you even go about guessing about that kind of thing? 
 
@@ -20,7 +20,7 @@ He turned around and passed her, pulling over to the side of the road. She picke
 
 "North Dakota. At least for a spell. You going all the way through?"
 
-"I'm off to Chicago."
+"I'm off to [Chicago][]."
 
 "You're headed in the wrong direction."
 
@@ -28,7 +28,7 @@ He turned around and passed her, pulling over to the side of the road. She picke
 
 "I guess it might not be a bad idea to get back to Chicago."  
 
-"But weren't you off to North Dakota?"
+"But weren't you off to [North Dakota][]?"
 
 "Well I don't have a ride. You stick with your ride old man?"
 
@@ -50,9 +50,9 @@ He turned around and passed her, pulling over to the side of the road. She picke
 
 "I have a good collection at home. But it's Plato, mostly."
 
-"Not The Republic?"
+"Not The [Republic][]?"
 
-"Phaedrus. What's wrong with that one?"
+"[Phaedrus][]. What's wrong with that one?"
 
 "Required reading. Or, sort of. Not in the mood to talk much about high school."
 
@@ -76,7 +76,7 @@ He turned around and passed her, pulling over to the side of the road. She picke
 
 "Why'd you call her that."
 
-"Because she droned on in the same toneless voice you'd find in an instruction manual. The kind nobody reads. She's really strict too. Couldn't pull out your cell phone, pass notes, make faces behind her back. Nothing. A real guardian."
+"Because she droned on in the same toneless voice you'd find in an instruction manual. The kind nobody reads. She's really strict too. Couldn't pull out your cell phone, pass notes, make faces behind her back. Nothing. A real [guardian][]."
 
 "A guardian?"
 
@@ -88,13 +88,13 @@ He turned around and passed her, pulling over to the side of the road. She picke
 
 "You like the off color sidebars?"
 
-"Especially the ones not in the chapter were reading. They were kind of my YouTube videos when I got into her class. So there was this sidebar about books over the course of the middle ages. So all these classics are written, but you can only physically write one or two new copies a year, and you might not be literate in the language that you're copying. 'Greek cannot be read'. That must have sucked huh? Eight hours a day copying squiggles I can't understand. Now draw my own squiggles for eight hours, I could do that in school no prob. It was too comical."
+"Especially the ones not in the chapter were reading. They were kind of my YouTube videos when I got into her class. So there was this sidebar about books over the course of the middle ages. So all these classics are written, but you can only physically write one or two new copies a year, and you might not be literate in the language that you're copying. '[Greek cannot be read]'. That must have sucked huh? Eight hours a day [copying squiggles][] I can't understand. Now draw my own squiggles for eight hours, I could do that in school no prob. It was too comical."
 
 "And I was in a small town in Kentucky. Well, smallish. If I wanted to find out more about ancient Greece from a live person, it had to be through Manual. So when I flunked a test I suggested a book report as makeup work. I got the Republic."
 
 "Not your thing?"
 
-"As a philosopher, my philosophy is that philosophers should be kings, even though true philosophers don't want to be kings."
+"As a philosopher, my philosophy is that [philosophers should be kings][], even though true philosophers don't want to be kings."
 
 Dr. Creed took his eyes off the road for just a bit to get a look at her. He skin was hard and dry from the cold, but she couldn't have been older than 22. Her hair was died cherry red. Not a subtle "I might actually be a redhead" shade. A "My hair is red, like my wine." kind of look. He noticed a lack of lines around her mouth, like the ones he saw in women his age. Not unusual, but he noticed they weren't there yet. 
 
@@ -108,13 +108,13 @@ Dr. Creed took his eyes off the road for just a bit to get a look at her. He ski
 
 "How'd that go for you?"
 
-"Well, Medea got delivered right after my boyfriend broke up with me." 
+"Well, [Medea][] got delivered right after my boyfriend broke up with me." 
 
-"Well. The Orestria?"
+"Well. The [Oresteia][]?"
 
 "Parents got a divorce."
 
-"Oedipus?"
+"[Oedipus][]?"
 
 "Brother failed out of college."
 
@@ -124,7 +124,7 @@ Dr. Creed took his eyes off the road for just a bit to get a look at her. He ski
 
 "The choruses. Every time the Chorus gets a line I can't help but start thinking of Broadway in ancient Greece, and I just can't feel anyone's pain. That's sort of a problem with the tragedies. The comedy was not so bad."
 
-"So do you think men would stop going to war if the ladies refused them sex."
+"So do you think men would stop going to war if the ladies refused them sex?"
 
 "I think if men didn't get sex there'd be more war, not less, but that play is pretty funny. You ever think about reading those works in the original?"
 
@@ -154,7 +154,7 @@ Dr. Creed didn't say a thing.
 
 "You're bothered by something."
 
-"So why were you going out to North Dakota, this time of year?" Dr Creed asked, trying to keep his breath steady. A groan escaped anyway. This girl was the kind of student he dreamed about during poor semesters, and she was refusing to go to college. 
+"So why were you going out to North Dakota, this time of year?" Dr Creed asked, trying to keep his breath steady. A groan escaped anyway. This girl was the kind of student he dreamed about during poor semesters, and she was [refusing to go to college][]. 
 
 "Why?"
 
@@ -168,15 +168,15 @@ Dr. Creed didn't say a thing.
 
 "Why?"
 
-"Well, there's this thing about holing up in a small shack somewhere in winter. Sometimes the people in the most remote places have the best hospitality. Partially don't have a choice if they don't want to be lonely. An exotic stranger can really brighten someone's day. The right person, anyhow. I was off to look, what with my kool aid hair Kentucky raised banjo hippie girl act. Ever traveled off the university circuit?"
+"Well, there's this thing about holing up in a small shack somewhere in winter. Sometimes the people in the [most remote places have the best hospitality][]. Partially don't have a choice if they don't want to be lonely. An exotic stranger can really brighten someone's day. The right person, anyhow. I was off to look, what with my kool aid hair Kentucky raised banjo hippie girl act. Ever traveled off the university circuit?"
 
-"The Greek islands. They've got some professional hospitalit...ers. That was a long time ago."
+"[The Greek islands][]. They've got some professional hospitalit...ers. That was a long time ago."
 
 "You look like you remember it well."
 
 Dr. Creed caught glance of his face in his driver's mirror, and knew the girl could tell. "I don't think I've ever met someone quite like you miss..."
 
-"I go by Phoenix." 
+"I go by [Phoenix][]." 
 
 "I'm surprised I'd forgotten to ask."
 
@@ -218,7 +218,7 @@ Dr. Creed, found the turn of phrase charming, but also seemed a bit much. He slo
 
 "I don't see how you could. So then we're just living in an illusory world were truth is never certain, and therefore irrelevant. I never got why that passage is so famous."
 
-"But the things casting the shadodws," Creed continued, "who's controlling them?"
+"[But the things casting the shadodws][]," Creed continued, "who's controlling them?"
 
 "Seems irrelevant."
 
@@ -245,3 +245,26 @@ Dr. Creed, a bit dazed and not putting together how long it would take to accele
 "I'm hoping you're not going to practice the crisis thing while I'm driving."
 
 "Why not? Didn't you say you wanted to live a little?"
+
+[I94]: localhost://toh/travelingwithtragedy.php I94
+[Lake Michigan]: localhost://toh/travelingwithtragedy.php&place=Lake_Michigan	"Lake Michigan"
+[Dionysus]: localhost://toh/travelingwithtragedy.php&myth=Dionysus	"Dionysus"
+[Chicago]: localhost://toh/travelingwithtragedy.php&setting=Chicago	"Chicago"
+[North Dakota]: localhost://toh/travelingwithtragedy.php&place=North_Dakota	"North Dakota"
+[Republic]: localhost://toh/travelingwithtragedy.php&text=Republic	"Republic"
+[Phaedrus]: localhost://toh/travelingwithtragedy.php&text=Phaedrus	"Phaedrus"
+[guardian]: localhost://toh/travelingwithtragedy.php&imagery=guardian	"guardian"
+[Greek cannot be read]: localhost://toh/travelingwithtragedy.php&phrase=true 	"Greek cannot be read"
+[philosophers should be kings]: localhost://toh/travelingwithtragedy.php&phrase=true "philosophers should be kings"
+[Medea]: localhost://toh/travelingwithtragedy.php Medea	"Medea"
+[Oresteia]: localhost://toh/travelingwithtragedy.php Oresteia	"Oresteia"
+[Oedipus]: localhost://toh/travelingwithtragedy.php Oedipus	"Oedipus"
+[refusing to go to college]: localhost://toh/travelingwithtragedy.php	"refusing to go to college"
+[most remote places have the best hospitality]: localhost://toh/travelingwithtragedy.php&phrase=true "most remote places have the best hospitality"
+[The Greek islands]: localhost://toh/travelingwithtragedy.php&setting=The_Greek_Islands	"The Greek islands"
+[Phoenix]: localhost://toh/travelingwithtragedy.php&character=Phoenix	"Phoenix"
+[But the things casting the shadodws]: localhost://toh/travelingwithtragedy.php&imagery=shadows	"But the things casting the shadodws"
+[google]: http://google.com/        "Google"
+
+
+	COMMENTS: Traveling with Tragedy Introduces A Character, Phoenix, who I don't plan on adding in subsequent chapters. It develops the main concept of HADES but not in a direct, linear way. The big surprise, in character development, is that Dr. Creed finds someone he'd love to teach, that refuses to consider college. She why is Dr. Creed teaching in school, if the people he wants to mentor are outside it? This provides a far more believable path for him to quit his job than in previous drafts. Also, there is a question as to whether or not Phoenix is a real person. She is a rebirth figure for Dr. Creed. She needn't be physical. 
