@@ -1,0 +1,161 @@
+CREATE TABLE `chap_char` (
+  `c_id` mediumint(8) unsigned NOT NULL,
+  `ch_id` mediumint(8) unsigned NOT NULL,
+  `descript` varchar(200) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `chap_image` (
+  `c_id` mediumint(8) unsigned NOT NULL,
+  `i_id` mediumint(8) unsigned NOT NULL,
+  `descript` varchar(200) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `chap_plot` (
+  `c_id` mediumint(8) unsigned NOT NULL,
+  `p_id` mediumint(8) unsigned NOT NULL,
+  `descript` varchar(200) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `chap_settings` (
+  `c_id` mediumint(8) unsigned NOT NULL,
+  `s_id` mediumint(8) unsigned NOT NULL,
+  `descript` varchar(200) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `chapters` (
+  `c_id` mediumint(8) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(64) DEFAULT NULL,
+  `descript` text NOT NULL,
+  PRIMARY KEY (`c_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `characters` (
+  `ch_id` mediumint(8) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(64) DEFAULT NULL,
+  `descript` text NOT NULL,
+  PRIMARY KEY (`ch_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `imagery` (
+  `i_id` mediumint(8) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(64) DEFAULT NULL,
+  `descript` varchar(200) DEFAULT NULL,
+  PRIMARY KEY (`i_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `init_calam` (
+  `calam_id` mediumint(9) NOT NULL AUTO_INCREMENT,
+  `calam_name` varchar(48) DEFAULT NULL,
+  `calam_note` varchar(1024) DEFAULT NULL,
+  PRIMARY KEY (`calam_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=latin1;
+
+CREATE TABLE `init_char` (
+  `char_id` mediumint(9) NOT NULL AUTO_INCREMENT,
+  `char_name` varchar(48) DEFAULT NULL,
+  `char_note` varchar(1024) DEFAULT NULL,
+  PRIMARY KEY (`char_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `init_film` (
+  `film_id` mediumint(9) NOT NULL AUTO_INCREMENT,
+  `film_name` varchar(48) DEFAULT NULL,
+  `film_note` varchar(1024) DEFAULT NULL,
+  PRIMARY KEY (`film_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `init_inst` (
+  `inst_id` mediumint(9) NOT NULL AUTO_INCREMENT,
+  `inst_name` varchar(48) DEFAULT NULL,
+  `inst` varchar(1024) DEFAULT NULL,
+  PRIMARY KEY (`inst_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `init_plot` (
+  `plot_id` mediumint(9) NOT NULL AUTO_INCREMENT,
+  `plot_name` varchar(48) DEFAULT NULL,
+  `plot_note` varchar(1024) DEFAULT NULL,
+  PRIMARY KEY (`plot_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `init_review` (
+  `review_id` mediumint(9) NOT NULL AUTO_INCREMENT,
+  `review_name` varchar(48) DEFAULT NULL,
+  `review_note` varchar(1024) DEFAULT NULL,
+  PRIMARY KEY (`review_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `init_theatre` (
+  `theatre_id` mediumint(9) NOT NULL AUTO_INCREMENT,
+  `theatre_name` varchar(48) DEFAULT NULL,
+  `theatre_note` varchar(1024) DEFAULT NULL,
+  PRIMARY KEY (`theatre_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=latin1;
+
+CREATE TABLE `init_theme` (
+  `theme_id` mediumint(9) NOT NULL AUTO_INCREMENT,
+  `theme_name` varchar(48) DEFAULT NULL,
+  `theme_note` varchar(1024) DEFAULT NULL,
+  PRIMARY KEY (`theme_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
+
+CREATE TABLE `plot` (
+  `p_id` mediumint(8) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(64) DEFAULT NULL,
+  `descript` varchar(200) DEFAULT NULL,
+  PRIMARY KEY (`p_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `settings` (
+  `s_id` mediumint(8) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(64) DEFAULT NULL,
+  `descript` varchar(200) DEFAULT NULL,
+  PRIMARY KEY (`s_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `them_chap` (
+  `c_id` mediumint(8) unsigned NOT NULL,
+  `t_id` mediumint(8) unsigned NOT NULL,
+  `descript` varchar(200) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `them_char` (
+  `t_id` mediumint(8) unsigned NOT NULL,
+  `ch_id` mediumint(8) unsigned NOT NULL,
+  `descript` varchar(200) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `them_image` (
+  `t_id` mediumint(8) unsigned NOT NULL,
+  `i_id` mediumint(8) unsigned NOT NULL,
+  `descript` varchar(200) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `them_plot` (
+  `t_id` mediumint(8) unsigned NOT NULL,
+  `p_id` mediumint(8) unsigned NOT NULL,
+  `descript` varchar(200) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `them_set` (
+  `t_id` mediumint(8) unsigned NOT NULL,
+  `s_id` mediumint(8) unsigned NOT NULL,
+  `descript` varchar(200) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `themes` (
+  `t_id` mediumint(8) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(64) DEFAULT NULL,
+  `descript` varchar(200) DEFAULT NULL,
+  PRIMARY KEY (`t_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `trope_calam` (
+  `id` mediumint(9) NOT NULL AUTO_INCREMENT,
+  `calamity` varchar(32) DEFAULT NULL,
+  `illusion` varchar(32) DEFAULT NULL,
+  `obsession` varchar(32) DEFAULT NULL,
+  `monolith` varchar(32) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=latin1;
+
