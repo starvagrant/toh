@@ -1,0 +1,5 @@
+Implicit Link Shortcut:
+If you want to put in a link, you can write it with link text and []
+can site as follows: [google][]
+defintion you must define the link at some point as follows:
+  [google]: http://google.com/        "Google"
