@@ -1,6 +1,6 @@
 	There was a slight wrapping heard in William Creed's office. It was his nephew Jonathon, who had come from Minnesota for a viist.
 
-	"Jnnny!" William said in delight, tossing down a few papers and grabbing his cane.
+"Jonny!" William said in delight, tossing down a few papers and grabbing his cane.
 
 "Uncle."
 

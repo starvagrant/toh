@@ -34,7 +34,52 @@ I wanted the numerologist to come later, and there to be a question as to how hu
 
 "Right. It's important to be important. But you have to seem even more important, and that means caring about appearances. So..." 
 The elder said to the son, read the book because there isn't an modernity that will give you something else to do. Flip the switch off when you go to bed."
-
 "I'm surprised I don't have to blow out a lattern."
 
 "Ha." 
+
+				@	@	@
+
+The castle loomed ominously in the background whilst Keith Parkinson Jr. and his father sat in relative silence along with their chaffeur. There was a certain unease about both the driver and the silence that compelled the son to ask the driver, "So what can you tell us about this castle?" 
+
+"It's very old. Survived a number of battles. The ground in this country is flat you see, easy to march an army across it. But the poor old bastard has still survived the centuries. They say it's haunted, but I don't believe in tales. Though I'm glad everyone else does. Means I can keep my job."
+
+"Haunted you say?" The younger asked. If there wasn't the internet, at least a geniune ghost story was at hand.
+
+"I'm afraid there's not much to tell. An old king here was declared a heretic, and he harbored some heretics. The nature of the heresy is difficult to say, the church didn't bother to write it down. Only that there was a heretic, and the people were forbidden to speak of him. Of course I'm sure people grumbled in private, but nothing really got passed down. That is, at least not for a few decades, when a subseqeunt king was murdered by his own professional assassin. There are a great number of tales linking the two. But that's all the are, tales. A castle's about a thousand years and a lot of stories are come and gone, some beyond any hope of recall."
+
+"You would excuse me," Parkinson the senior cut in, "but if you're from the area, you wouldn't happen to know why someone would set up any kind of office in such an area?" 
+
+"Your company is well off, is it not?" the driver answered.
+
+"Yes, but not because we acquire expensive real estate. Never mind, I'm sure there's some reason for it."
+
+"Why wouldn't you?" Keith Jr. asked.
+
+"Why what?"
+
+"Have castles in your holdings. They're worth money."
+
+"Well, yes, but they just set there. The don't generate income. And the aren't liquid. You can't sell them."
+
+"Only what you can be and sell huh? Does the company have no imagination?"
+
+"We're going to see a numerlogist in Europe. That's plenty imaginative."
+
+"Ah! A bee!" 
+
+"Don't panic," warned the driver. "Don't make any sudden moves. Just open up the window."
+
+"How did it get in here?" the son asked, after watching the bee escape through an opened window.
+
+"They have hives several miles from here. Sometimes the bees come down here."
+
+"Don't bees stay closer to their hives?" Keith Sr. asked.
+
+"They used to. But with the new hives... maybe the bees get lost."
+
+"How often does it happen?"
+
+"There doesn't seem to be any rhyme or reason to it. Just some days the bees go off course." 
+
+"Well, good to know." 

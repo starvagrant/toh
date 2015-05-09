@@ -4,7 +4,7 @@ It shouldn't have. There was a job waiting for him back on Minnesota, but the wa
 
 It was only Wisconsin, the first, unassuming door on a potentially long trick-or-treat outing. He had intended to get some thinking done, for his uncle. He'd checked out some sociology texts from the library to play in his car. But the more he tried to focus on HADES, fragmentary truth, or Atlantis, the more forcefully his mind veered towards unrelated topics. 
 
-He was off to Milwaukee before taking the scenic route down [Lake Michigan][]. The Lake would be frozen over this time of year, and he would have much preferred to see it over the summer. Water was more beautiful than ice. But the view would give some kind of flavor to the trip, something to keep him from getting hypnotized by the roads.  
+He was off to Milwaukee before taking the scenic route down [Lake Michigan][]. The Lake would be frozen over this time of year, and he would have much preferred to see it over the summer. Water was more beautiful than ice. But the view would give some kind of flavor to the trip, something to keep him from getting hypnotized by the roads.
 
 He might need it in a state best known for cheese and beer. Not that these were inherently bad things... just things he'd like to brand his state. 10,000 Lakes seemed a bit more appealing. Though it was often the case that drinking cultures often provided some interesting cultural relics. The Greek Dramas, there to celebrate the Greek god of wine (among other things) [Dionysus][]. A fertility symbol. Wine and fertility in the same god, sometimes the ancients really seemed to know the way of the world so well. 
 
@@ -26,7 +26,7 @@ He turned around and passed her, pulling over to the side of the road. She picke
 
 "Just got turned around."
 
-"I guess it might not be a bad idea to get back to Chicago."  
+"I guess it might not be a bad idea to get back to Chicago."
 
 "But weren't you off to [North Dakota][]?"
 
