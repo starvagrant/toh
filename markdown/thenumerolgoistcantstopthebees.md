@@ -1,3 +1,15 @@
+**Notes**
+
+Just wanted to make a note on the story, based on new ideas I've had.
+
+* I want the story to be a little more sinister. Previous versions have portrayed the actors as fools. But a story resulting in the death of every character is a tragedy. Or perhaps I should write it has a tragicomedy.
+* The Numerologist is representative of society's continued reliance on numbers, especially in profits and derivatives. Maximizing crop yields and efficiency. The tragedy element should be the feeling of the other characters that they have to yield to the ideas of the numerlogist because the company demands it. 
+* The humor should come from the ridiculousness of the sitation. Particularly the constant arrival of bees that shouldn't get there.
+* Remember some lines: **Scientists are too conservative, unable to see true patterns**
+* Also, **Can you imagine knowing your profit at any given second, in advance?** This would involve describing the nonlinear equations of business.
+
+**End Notes**
+
 Ok, I'm looking to create my own computer projects and work on the ideas in my novel.
 
 So: I remember the original idea behind the Numerologist Can't Stop the Bees. Corp. execs travel to a castle to consult with Numerologist, who keeps blathering about Numbers and Math until the bees go through the room. Cool concept, but I want characters. 
@@ -26,7 +38,7 @@ I wanted the numerologist to come later, and there to be a question as to how hu
 
 "Son." Keith the elder pronounced slowly, hoping to reach a more responsible part of his child's brain. "Compose yourself. Listen. Learn."
 
-"Ok then," the younger at least considered being patient, not complaining about the stiff bed when he rolled into it. "It seems quite impractical for a modern company such as yours to be doing business in a castle, in the middle of nowhere Europe. Why isn't this going on in a skyscraper in New York?"
+"Ok then," the younger at least considered being patient, not complaining about the stiff bed when he rolled into it. "It seems quite impractical for a modern company such as yours to be doing business in a castle, in the middle of nowhere Europe. Why isn't this going on in a skyscraper in New York?
 
 "I don't really know. Some need for secrecy, some genius' idea of taste, some genius tax dodging scheme, I don't know. The point is we're going to see someone who can make the company an awful lot of money. I don't know how, but I do know this..."
 
