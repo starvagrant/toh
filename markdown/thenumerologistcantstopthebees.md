@@ -7,7 +7,10 @@ Just wanted to make a note on the story, based on new ideas I've had.
 * The humor should come from the ridiculousness of the sitation. Particularly the constant arrival of bees that shouldn't get there.
 * Remember some lines: **Scientists are too conservative, unable to see true patterns**
 * Also, **Can you imagine knowing your profit at any given second, in advance?** This would involve describing the nonlinear equations of business.
-
+* More lines: **"Are we going to have a meeting in a dungeon?" Numerlogist: "I'm afraid not, mathematically interesting as it might be.**  
+* We're all powerless before innovation
+* Doesn't it seem weird that the best way to do things is through a consultant no one can understand? I mean the proposal may be correct, but you'd just like to know why?
+* What happens when it fails. Who do we consult when the consultant needs consulting?
 **End Notes**
 
 Ok, I'm looking to create my own computer projects and work on the ideas in my novel.
