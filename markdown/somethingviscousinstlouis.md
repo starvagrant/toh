@@ -34,13 +34,13 @@ It was chaos and confusion. One upturning discovery after another, until it beca
 
 "I've never really been able to resolve that in my mind. Only to remark all this changes in knowledge come from unique test cases and exceptions. The current test cases are being produced by accelerating particles in mile long tubes until they hit near the speed of light and smash into other particles. That you might come across a test case in your own life..."
 
-"Like my ancient Greek documents? Or your Arab scientist? Or for that matter just about anything that's ever happened in history? I know my known to survive Greek texts. The more I read, the less I'm certain about anything that actually happened in that period."
+"Like my ancient Greek documents? Or your Arab scientist? Or for that matter just about anything that's ever happened in history? I know my known-to-survive Greek texts. The more I read, the less I'm certain about anything that actually happened in that period."
 
 "Such is the case with memory. I've been losing it for decades. I don't remember how much of it I've lost, but I don't remember forgetting things as often as I do know."
 
 "And you say my comedy is bad."
 
-"Touche my nephew. Is there anything we should be looking to meet in St. Louis."
+"Touche my nephew. Is there anything we should be looking to meet in St. Louis?"
 
 "Ooze, or at least something viscuous." 
 
@@ -88,4 +88,4 @@ It was chaos and confusion. One upturning discovery after another, until it beca
 
 "The bees are disappearing."
 
-"Good a lead as any I suppose."  
+"Good a lead as any I suppose."
