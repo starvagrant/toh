@@ -1,8 +1,8 @@
--- MySQL dump 10.13  Distrib 5.5.41, for debian-linux-gnu (i686)
+-- MySQL dump 10.13  Distrib 5.5.43, for debian-linux-gnu (i686)
 --
 -- Host: localhost    Database: toh
 -- ------------------------------------------------------
--- Server version	5.5.41-0ubuntu0.12.04.1
+-- Server version	5.5.43-0ubuntu0.12.04.1
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -30,15 +30,6 @@ CREATE TABLE `chap_char` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `chap_char`
---
-
-LOCK TABLES `chap_char` WRITE;
-/*!40000 ALTER TABLE `chap_char` DISABLE KEYS */;
-/*!40000 ALTER TABLE `chap_char` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `chap_image`
 --
 
@@ -51,15 +42,6 @@ CREATE TABLE `chap_image` (
   `descript` varchar(200) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `chap_image`
---
-
-LOCK TABLES `chap_image` WRITE;
-/*!40000 ALTER TABLE `chap_image` DISABLE KEYS */;
-/*!40000 ALTER TABLE `chap_image` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `chap_plot`
@@ -76,15 +58,6 @@ CREATE TABLE `chap_plot` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `chap_plot`
---
-
-LOCK TABLES `chap_plot` WRITE;
-/*!40000 ALTER TABLE `chap_plot` DISABLE KEYS */;
-/*!40000 ALTER TABLE `chap_plot` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `chap_settings`
 --
 
@@ -97,15 +70,6 @@ CREATE TABLE `chap_settings` (
   `descript` varchar(200) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `chap_settings`
---
-
-LOCK TABLES `chap_settings` WRITE;
-/*!40000 ALTER TABLE `chap_settings` DISABLE KEYS */;
-/*!40000 ALTER TABLE `chap_settings` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `chapters`
@@ -123,15 +87,6 @@ CREATE TABLE `chapters` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `chapters`
---
-
-LOCK TABLES `chapters` WRITE;
-/*!40000 ALTER TABLE `chapters` DISABLE KEYS */;
-/*!40000 ALTER TABLE `chapters` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `characters`
 --
 
@@ -145,15 +100,6 @@ CREATE TABLE `characters` (
   PRIMARY KEY (`ch_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `characters`
---
-
-LOCK TABLES `characters` WRITE;
-/*!40000 ALTER TABLE `characters` DISABLE KEYS */;
-/*!40000 ALTER TABLE `characters` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `imagery`
@@ -171,15 +117,6 @@ CREATE TABLE `imagery` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `imagery`
---
-
-LOCK TABLES `imagery` WRITE;
-/*!40000 ALTER TABLE `imagery` DISABLE KEYS */;
-/*!40000 ALTER TABLE `imagery` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `init_calam`
 --
 
@@ -193,15 +130,6 @@ CREATE TABLE `init_calam` (
   PRIMARY KEY (`calam_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `init_calam`
---
-
-LOCK TABLES `init_calam` WRITE;
-/*!40000 ALTER TABLE `init_calam` DISABLE KEYS */;
-/*!40000 ALTER TABLE `init_calam` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `init_char`
@@ -219,15 +147,6 @@ CREATE TABLE `init_char` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `init_char`
---
-
-LOCK TABLES `init_char` WRITE;
-/*!40000 ALTER TABLE `init_char` DISABLE KEYS */;
-/*!40000 ALTER TABLE `init_char` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `init_film`
 --
 
@@ -241,15 +160,6 @@ CREATE TABLE `init_film` (
   PRIMARY KEY (`film_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `init_film`
---
-
-LOCK TABLES `init_film` WRITE;
-/*!40000 ALTER TABLE `init_film` DISABLE KEYS */;
-/*!40000 ALTER TABLE `init_film` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `init_inst`
@@ -267,15 +177,6 @@ CREATE TABLE `init_inst` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `init_inst`
---
-
-LOCK TABLES `init_inst` WRITE;
-/*!40000 ALTER TABLE `init_inst` DISABLE KEYS */;
-/*!40000 ALTER TABLE `init_inst` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `init_plot`
 --
 
@@ -289,15 +190,6 @@ CREATE TABLE `init_plot` (
   PRIMARY KEY (`plot_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `init_plot`
---
-
-LOCK TABLES `init_plot` WRITE;
-/*!40000 ALTER TABLE `init_plot` DISABLE KEYS */;
-/*!40000 ALTER TABLE `init_plot` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `init_review`
@@ -315,15 +207,6 @@ CREATE TABLE `init_review` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `init_review`
---
-
-LOCK TABLES `init_review` WRITE;
-/*!40000 ALTER TABLE `init_review` DISABLE KEYS */;
-/*!40000 ALTER TABLE `init_review` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `init_theatre`
 --
 
@@ -335,18 +218,8 @@ CREATE TABLE `init_theatre` (
   `theatre_name` varchar(48) DEFAULT NULL,
   `theatre_note` varchar(1024) DEFAULT NULL,
   PRIMARY KEY (`theatre_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `init_theatre`
---
-
-LOCK TABLES `init_theatre` WRITE;
-/*!40000 ALTER TABLE `init_theatre` DISABLE KEYS */;
-# INSERT INTO `init_theatre` VALUES (1,'Theatre of Prophets','\"\"'),(2,'Theatre of Tragedy','\"\"'),(3,'Theatre of Trivia','\"\"'),(4,'Theatre of Operations','\"\"'),(5,'Theatre of Eternity','\"\"'),(6,'Theatre of Crystal','\"\"'),(7,'Theatre of Curiosities','\"\"'),(8,'Theatre of Errata','\"\"'),(9,'Theatre of Speculation','\"\"'),(10,'Theatre of Flora','\"\"'),(11,'Theatre of the Deep',NULL);
-/*!40000 ALTER TABLE `init_theatre` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `init_theme`
@@ -364,16 +237,6 @@ CREATE TABLE `init_theme` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `init_theme`
---
-
-LOCK TABLES `init_theme` WRITE;
-/*!40000 ALTER TABLE `init_theme` DISABLE KEYS */;
-INSERT INTO `init_theme` VALUES (1,'name entry','n'),(2,'Myth of the Fall','One of the stories from the twelve prophets in Theatre of Hades. The Atlanteans were expert ship builders that expanded their floating nations by adding on to the ship. The nation threatened to overtake the sea, (Poseidon\'s domain) so Poseidon turned their notion of frredom of the seas into a project to build to the stars. The Atlanteans were experts of construction and start off on a might project, obsessed with reaching the stars -- only to have Poseidon strip it away with a wave to sink top heavy Atlantis. Atlantis in toh is a nation obsessed with the glory of its own technology, even as that technology is preparing them for doom. Ideas:\r\nThe Fall:obsession:glory:technology:sowing one\'s own destruction:prophecy');
-/*!40000 ALTER TABLE `init_theme` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `plot`
 --
 
@@ -387,15 +250,6 @@ CREATE TABLE `plot` (
   PRIMARY KEY (`p_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `plot`
---
-
-LOCK TABLES `plot` WRITE;
-/*!40000 ALTER TABLE `plot` DISABLE KEYS */;
-/*!40000 ALTER TABLE `plot` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `settings`
@@ -413,15 +267,6 @@ CREATE TABLE `settings` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `settings`
---
-
-LOCK TABLES `settings` WRITE;
-/*!40000 ALTER TABLE `settings` DISABLE KEYS */;
-/*!40000 ALTER TABLE `settings` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `them_chap`
 --
 
@@ -434,15 +279,6 @@ CREATE TABLE `them_chap` (
   `descript` varchar(200) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `them_chap`
---
-
-LOCK TABLES `them_chap` WRITE;
-/*!40000 ALTER TABLE `them_chap` DISABLE KEYS */;
-/*!40000 ALTER TABLE `them_chap` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `them_char`
@@ -459,15 +295,6 @@ CREATE TABLE `them_char` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `them_char`
---
-
-LOCK TABLES `them_char` WRITE;
-/*!40000 ALTER TABLE `them_char` DISABLE KEYS */;
-/*!40000 ALTER TABLE `them_char` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `them_image`
 --
 
@@ -480,15 +307,6 @@ CREATE TABLE `them_image` (
   `descript` varchar(200) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `them_image`
---
-
-LOCK TABLES `them_image` WRITE;
-/*!40000 ALTER TABLE `them_image` DISABLE KEYS */;
-/*!40000 ALTER TABLE `them_image` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `them_plot`
@@ -505,15 +323,6 @@ CREATE TABLE `them_plot` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `them_plot`
---
-
-LOCK TABLES `them_plot` WRITE;
-/*!40000 ALTER TABLE `them_plot` DISABLE KEYS */;
-/*!40000 ALTER TABLE `them_plot` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `them_set`
 --
 
@@ -526,15 +335,6 @@ CREATE TABLE `them_set` (
   `descript` varchar(200) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `them_set`
---
-
-LOCK TABLES `them_set` WRITE;
-/*!40000 ALTER TABLE `them_set` DISABLE KEYS */;
-/*!40000 ALTER TABLE `them_set` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `themes`
@@ -552,15 +352,6 @@ CREATE TABLE `themes` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `themes`
---
-
-LOCK TABLES `themes` WRITE;
-/*!40000 ALTER TABLE `themes` DISABLE KEYS */;
-/*!40000 ALTER TABLE `themes` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `trope_calam`
 --
 
@@ -576,15 +367,6 @@ CREATE TABLE `trope_calam` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `trope_calam`
---
-
-LOCK TABLES `trope_calam` WRITE;
-/*!40000 ALTER TABLE `trope_calam` DISABLE KEYS */;
-/*!40000 ALTER TABLE `trope_calam` ENABLE KEYS */;
-UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
@@ -595,4 +377,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2015-04-04 23:55:28
+-- Dump completed on 2015-06-09 22:12:32
