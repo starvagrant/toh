@@ -292,4 +292,140 @@ Dr. creed, a vertan of tedium, found driving Kanas interstates a chanllenge on h
 
 "Then you can tell me about your impossiblity."
 
+Dr. Creed put down a lightly spotted paper bag onto the small table provided in the room. The bag did not contain food, but the closest fcisimle that could be found at this hour. Mouse was in the shower at the moment, but on the table was an open bottle of white win and the clear plastic cups so often find in motels. Only a small amount had been consumed in his absnce. Mouse must have picked it up at the gas station without his noticing. 
 
+Dr. Creed sat down to collect his thoughts. How much of his story to relate? She seemed a sympathetic intellectual. But he thought he might pass on the confetti factory. Myabe if she stuck around for a while, he thought. He really wanted her input on one part of the story at a time, even though technically it was still in progress and he might never finish. 
+
+The shower water had stoppped, and Mouse stepped into the room wrapped in two oversized towels. It appeared the motel had "one size fits all" large towels, and the one wrapped around her head looked about ready to fall off. 
+
+Her legs looked as though she'd neglected to wash them for a moment, until Creed realized she must not have had a razor.
+
+"clothes?" she asked, pointing to the bag at Creed's feet. She must have forgotten to thake them into the shower. He pushed the bag over towards her, and she bent over to pick it up. she was holding one towel in each hand, and the towel over her head fell to the floor.
+
+Creed went to pick it up, but she replied, "Leave that there. I'll be back for it. Crred let it lay, and started thinking about what he was going to say.
+
+Not just to her, but his jouralist friend too. Intelligent mutant bees. On film of course, but quite possibly a documentary. Anything was possible at this point.
+
+Marogt exited the bathroom and interrupted his thoughts.
+
+"What are you smiling about?" she asked.
+
+"Nothing." 
+
+"Oh come on."
+
+"What?"
+
+"Say it."
+
+"Well... I can't tell. You look like a hopeless fashion trendy girl trying to be bohemian, or a bohemian hopelessly trying to be fashionable."
+
+"You don't mean that. I'm not hopeless, am I?"
+
+"No I mean... you look nice. Beautiful even. I just never know the right words to say when."
+
+"Maybe this will help," she said, closing her eyes and moving slowly towards a kiss. More than enough time for him to react, but he didn't. 
+
+Their lips met and his body stiffened..
+
+"What's the matter?" she asked. "You've been looking at me all day."
+
+"You were sopping wet. I thought you'd catch a cold."
+
+"How Sweet!" she smiled. "But you don't worry about little Marogt."
+
+"Is that your real name?"
+
+Margot stopped, flummoxed."
+
+"Wait, what did I say?" Creed asked. He imagined waking up the next day asking himself how he could ask such a dumb question, but for the moment he was certain he hadn't done anything wrong."
+
+"Nothing. I just wanted to escape that name for a while."
+
+"So you think a night in a Kansas motel room with a stranger is going to help?"
+
+"I suppose not."
+
+"Look, I can tell you're on the run from something. I have no idea what, but I'm on the run too."
+
+"No sabbatical?"
+
+"Not one recognized by my university.l"
+
+"that means no."
+
+"I can't get away from reality. Or lack thereof. I'm not sure."
+
+"Why don't you lie down. Compose your thoughts."
+
+"Sure," Creed flopped on the bed. Margot followed.
+
+"Hey! Creed protested.
+
+"If I flop on the other bed, I''l fall asleep. I want to hear what you have to say."
+
+"Fair enough. I don't know where to start. When the unexpected happens, the truly unexpected, you can't ignore it. You've got to look at it and deal with it. But how do you do that? If you knew how to do that, the events would be unexpected."
+
+"You beliefs aren't what they were." Margot added. "You aren't who you were."
+
+"Exactly. So I was sitting in my office. grading papers..." he looked over at Marogt. Here eyes were closed. 
+
+"I'm listening." she responded to the silence. Just letting my eyes rest."
+
+Creed had heard that line before. But he launched into his story about ancient documents and the secret of Atlantis anyway. When he was finished he looked over her and she was sleeping soundly. 
+
+"Practice for when I tell my story tomorrow," Creed muttered, and went to the bathroom before retiring. 
+
+He came back to the painr of beds. It would be a little awkward to get back in the same bed with Margot. But then it might be a little awkward if he didn't get back in the same bad. He wasn't quite sure which would be worse. So he curled back into the bed Margot was sleeping in. It was closer to the bathroom. 
+
+	@	@	@
+
+Dr Creed awoke in the morning to find Margot watching Animal Planet and nibbling on pretzels. 
+
+"You know it's been a long time since I watched televiosn," Creed anounced, startling Margot.
+
+"Me too."
+
+"Funny, they prbably spent more on the television than the furniture."
+
+"Well, you can't distract yourself from a crappy television by laying down on a nice bed."
+
+"You haven't done any teaching have you?"
+
+"I've played hostess a few times. Same thing."
+
+"I'll have to ask you to explain that when I wake up."
+
+"So long as you're awake when you get behind the wheel."
+
+"Well, tell me a story. then wi'll die for certain."
+
+Marogt chuckled, "I'm listening with my eyes closed. I fooled myself on that one. I'm guessing you weren't convinced.
+
+"Where did you drift off?"
+
+"Near the beginning."
+
+"Well then let's get packed, and I'll start for the top." 
+
+"Sure," Margot replied, picking up a pen, the hotel scratchpad, and her pile of wet clothes.
+
+"Just leave those here," creed told her. "no one will mind."
+
+"True, but I'd like to throw them out just the same."
+
+Creed hadn't much to do but change clothes. then it was off to the first drive thru available, for grease, carbs, and caffeine. He figured there would be a dumpseter. Margot tossed her clothes and an unepected smile came over her face.
+
+"Now we can really get started for the day."
+
+"I feel lighter. So tell me your story."
+
+Dr Creed. juggled asking her questions of her knowledge of anicient greece whislt ordering a mess that could keep them going for the next eight hours.
+
+"Tell me about Greece," Margot protested.
+
+When he finished, he replied, Of course the story is about my experience with Ancient Greece, not what you know, but I have to know you have context."
+
+"Of course."
+
+"So I don't struggle to read Greek anymore. It's not as practiced as English, but I don't struggle with it. So I find this text. It is challenging. Just the combination of unusual and archaic phrases--archaic even by Greek standards. 
