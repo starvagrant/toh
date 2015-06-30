@@ -1,4 +1,4 @@
-	There was a slight wrapping heard in William Creed's office. It was his nephew Jonathon, who had come from Minnesota for a viist.
+There was a slight wrapping heard in William Creed's office. It was his nephew Jonathon, who had come from Minnesota for a viist.
 
 "Jonny!" William said in delight, tossing down a few papers and grabbing his cane.
 

@@ -115,3 +115,181 @@ Dr. Creed turned the key and proceeded to get on the road.
 "What did he do to rile them up?"
 
 "Nothing. Well, he didn't seem to understand that social status is given to people who are right. Which was funny, because his pay depended on it. 
+
+	@	@	@
+
+"So here we are: run down thrift store in Kansas. You want some new clothing?"
+
+"That'd be good."
+
+"You do plan to go inside, don't you?"
+
+"Uh..."
+
+"It's six fifteen. Don't know how much later they'll be open."
+
+"Would you check?"
+
+"What's wrong?"
+
+"I have a phobia of thrift stores."
+
+"I'm going to get out of the car and pretend I believe that."
+
+Dr. Creed exited his car and went to look at the hours printed on the glass.
+
+"Come on," he told Mouse, looking back at the car. They close at 6:30."
+
+"Then hurry." Mouse replied.
+
+"I haven't shoppped for women's clothing before."
+
+"twenty three inch waist, 32B, tee-shirt small."
+
+Dr. Creed went to the door, and collected himself. It was a strange request, but he figured he knew why he was making it. If he pretended it made sense to him, perhaps anyone else inside would do the same, provided no one saw him stand in the door.
+
+When he opened the door, a lone girl was waiting behind a counter with a borde look on her face, a cellphone in her hands, and gum coming out in bubbles from her mouth.
+
+It'd been a long time since he'd seen a girl her age with bubble guum. He had memories of gum chewers being his worst students, though he realized he needn't worry about this sort of thing.
+
+He knew he shouldn't linger and stare, tempting as it was. Getting through this with some dignity required a cool demeanor. So he walked straight up and said the only thing he could think of."
+
+"I need help. I'm shopping for clothes for my girlfriend."
+
+"My advice is to shop somewhere else. But no one follows my advice, so what would you like?"
+
+"Why would I shop somewhere else?"
+
+"The clothing here is cheap."
+
+"Well it's second hand, not garbage right?"
+
+"Something tells me you're not good with women."
+
+"What's that got to do with anything?"
+
+"Nothing. so what's her size? I'm certain I could find her something nice."
+
+"You sound excited."
+
+"I don't get to shop often, on account of being broke. Now if I can shop with someone else's money..."
+
+"I see. Well she uh..." What kind of "look" might he offer her? It hadn't occurred to him when he walked in. find things that fit. But then his new riding buddy seeed to want to be incgnito. "She likes things to have a few miles on them."
+
+"Clearly."
+
+"Well, 23 inch waist, 32B."
+
+"How tall is she?"
+
+"5'1". 5'2" maybe."
+
+"Petite."
+
+"Yes."
+
+"You like a dainty look?"
+
+"She's 20-something. Don't doll her up."
+
+The last thing he wanted was Mouse to not dress her age and remind him of a college freshman. The was a barrage of questions about tastes and colors, of which he always deferred by asking for a specific piece of clothing, restating every question into an either / or format, Then picking his gut response twice and his second guess the third time. He felt himslef in the role of a student trying to pretend just enough knowledge to make a passing grade.
+
+There was the potentially awkward task of selecting undergraments. Mouse didn't seem to have duplicates of anything. But if there was any embarrassment to be had, his secret shoppper wasn't showing it, so he pretended it was prefectly normal.
+
+truthfully, the only particuarly annoying part of the whole affair was her constant interrupting the shopping to check her phone. He couldn't tell if she decided she wouldn't fall behind on her texts or if she were searching the web for fashion trivia.
+
+The girl worked her way through the stock, at last working in the decision of a blouse. "What color are her eyes?"
+
+He didn't remember. "Green."
+
+"This shade of green?" She pointed to a potential slection.
+
+"Hmm. The really does match her eyes."
+
+"Well then that's it. Quite the ordeal for $20 dollars of clothes."
+
+"Thanks, um..."
+
+"Tracy."
+
+"You really went the extra mile."
+
+"Not too many strange people, town this size. Little boring. Your name stranger?"
+
+Dr. Creed smiled. "Jonathon". He paid in cash then walked out the door. Mouse caught his exit immediately, glaring. When he got to the car he could feel her impatience.
+
+"Took you long enough."
+
+"tjhe salegirl help me."
+
+"Some help."
+
+"Well, I didn't think you'd want something that just got thrown together. To know you were out of fashion everywhere you went. You don't want to stick out like a sore thumb do you?"
+
+Her demeanor changed. She looked dowwards and spoke softly, "No I don't. Could we just get back on the road? Well, maybe a burger drive thru, then the road."
+
+"It's not always easy to find a motel in the dark. Do you have to go to the bathroom?"
+
+She looked annoyed. "I do know."
+
+"Why don't you want anyone to recognize you?" Creed asked.
+
+She wasn't hiding it too well, but didn't expect the question then and there."
+
+"I'll tell you at the motel. First bathroom, food, drive."
+
+"Can do. Just try not to forget who's tagging along."
+
+	@	@	@
+
+Dr. creed, a vertan of tedium, found driving Kanas interstates a chanllenge on his stmina. Mouse was uneasily silent most of the time.
+
+"So uh..." he finally started. "What are you on sabbatical for?"
+
+"I'm uh..." Mouse scrabled for words. "I've got this, a, um, non-thing."
+
+"An Nda?"
+
+"Yah, Non-Disclosure Agreement."
+
+"For a biologist."
+
+"Again, can't really talk about it."
+
+"Well then not about your current project, but in general. [Hade][Extremophile]. Have you ever come across something your academic training says is impossible. Something you have to fight your so-called knowledge to take a second look?"
+
+"I've done some work with extremeophiles. The kind of life that thrives in places you wouldn't think it would."
+
+"Such as?"
+
+"Volcanic vents, highly acidic or saline environments, that sort of thing."
+
+"Tell me more."
+
+"Well... how do I put this? Ordinarily and this was the case for my research it is in some ways trivial."
+
+"Trivial?"
+
+"Well, extremophiles are generally so odd or rare that they stick to their niche, and you don't see their structures repeated outside the extreme environments. So they end up becoming the exception that proves the rule, not the exception that disproves it. Does that mke sense?"
+
+"Some strange oddity, a weird, interesting-for-its-own-sake, but nothing in the end, a kind of circu freak show, that you pay the carnival barker and just go back home."
+
+"Yeah."
+
+"I don't know if I could agree with those sentiments."
+
+"You don't have to. That's just the way it is. My God Kansas is flat."
+
+"Yeah, if you're looking for elevation this isn't the place to be."
+
+"Isn't the driving a tad boring?"
+
+"It is difficult to pay attention to the road. You cold?"
+
+"Oh, I guess a change of clothes and a shower would be nice."
+
+"Yeah, I should stop and get gas."
+
+"Then you can tell me about your impossiblity."
+
+
