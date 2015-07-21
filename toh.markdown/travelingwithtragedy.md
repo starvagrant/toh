@@ -104,7 +104,7 @@ Dr. Creed took his eyes off the road for just a bit to get a look at her. He ski
 
 "The playful one you are."
 
-"Mom would sometimes buy clohtes off Amazon, and then forget to log out of her account. So I ordered some books. Well plays. I wanted fiction." 
+"Mom would sometimes buy clothes off Amazon, and then forget to log out of her account. So I ordered some books. Well plays. I wanted fiction." 
 
 "How'd that go for you?"
 
@@ -144,7 +144,7 @@ Dr. Creed took his eyes off the road for just a bit to get a look at her. He ski
 
 "I won't ask about high school, but what about college?"
 
-"Heh. Don't think I'd fit in. Besides, I can teach myself. In four years I may not get a piece of paper, but I won't spend the next fifteen paying it off. Don't need a degree to serve fries."
+"Huh. Don't think I'd fit in. Besides, I can teach myself. In four years I may not get a piece of paper, but I won't spend the next fifteen paying it off. Don't need a degree to serve fries."
 
 Dr. Creed didn't say a thing. 
 
@@ -212,13 +212,13 @@ Dr. Creed, found the turn of phrase charming, but also seemed a bit much. He slo
 
 "Thought you skipped that one?"
 
-"Tried. So Plato says humans are chained, and facing a cave wall, only able to see the shadows of reality blah, blah, blah. Philosophy is supposed to be the way to turn people around and see the projecting source. But how did the philsopher break free in the first place. How did they not confuse the shadows with reality, like everyone else? But Plato always gives special credit to the philosophers, of which he happens to be one."
+"Tried. So Plato says humans are chained, and facing a cave wall, only able to see the shadows of reality blah, blah, blah. Philosophy is supposed to be the way to turn people around and see the projecting source. But how did the philosopher break free in the first place. How did they not confuse the shadows with reality, like everyone else? But Plato always gives special credit to the philosophers, of which he happens to be one."
 
 "Yes, so how would you see through the projections?"
 
 "I don't see how you could. So then we're just living in an illusory world were truth is never certain, and therefore irrelevant. I never got why that passage is so famous."
 
-"[But the things casting the shadodws][]," Creed continued, "who's controlling them?"
+"[But the things casting the shadows][]," Creed continued, "who's controlling them?"
 
 "Seems irrelevant."
 
@@ -263,7 +263,7 @@ Dr. Creed, a bit dazed and not putting together how long it would take to accele
 [most remote places have the best hospitality]: localhost://toh/php/travelingwithtragedy.php&phrase=true "most remote places have the best hospitality"
 [The Greek islands]: localhost://toh/php/travelingwithtragedy.php&setting=The_Greek_Islands	"The Greek islands"
 [Phoenix]: localhost://toh/php/travelingwithtragedy.php&character=Phoenix	"Phoenix"
-[But the things casting the shadodws]: localhost://toh/php/travelingwithtragedy.php&imagery=shadows	"But the things casting the shadodws"
+[But the things casting the shadows]: localhost://toh/php/travelingwithtragedy.php&imagery=shadows	"But the things casting the shadows"
 [copy squiggles]: localhost://toh/php/travelingwithtragedy.php&action=copyingsquiggles "copying squiggles"
 [google]: http://google.com/        "Google"
 

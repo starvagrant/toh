@@ -1,10 +1,10 @@
-There was a slight wrapping heard in William Creed's office. It was his nephew Jonathon, who had come from Minnesota for a viist.
+There was a slight wrapping heard in William Creed's office. It was his nephew Jonathon, who had come from Minnesota for a visit.
 
 "Jonny!" William said in delight, tossing down a few papers and grabbing his cane.
 
 "Uncle."
 
-"What brings on the visit? You don't write you don't call. Not an email or text. I'm even on facebook this days, much as I try to avoid it."
+"What brings on the visit? You don't write you don't call. Not an email or text. I'm even on Facebook this days, much as I try to avoid it."
 
 "It was a last minute decision, to be sure."
 
@@ -12,7 +12,7 @@ There was a slight wrapping heard in William Creed's office. It was his nephew J
 
 "Or trees to add to the clutter in your office." 
 
-William looked about. "Well, the milkcrates are an improvement. Back in my day you couldn't see the floor. I've decided I'm important enough that some scholar will want to go through my paper and write a book about me. Why should I bother getting things in order for him?"
+William looked about. "Well, the milk crates are an improvement. Back in my day you couldn't see the floor. I've decided I'm important enough that some scholar will want to go through my paper and write a book about me. Why should I bother getting things in order for him?"
 
 "You can clean when you're dead?" Jonathon asked.
 
@@ -36,7 +36,7 @@ William looked about. "Well, the milkcrates are an improvement. Back in my day y
 
 "I didn't do it as a joke."
 
-"I know you didn't. It's just a position a scholar finds themself in time after time. When someone wants to *believe* something, well, records and evidence are secondary."
+"I know you didn't. It's just a position a scholar finds themselves in time after time. When someone wants to *believe* something, well, records and evidence are secondary."
 
 "Yes, well, I ran into a snag. I had access to some documents. The very oldest."
 
@@ -48,7 +48,7 @@ William looked about. "Well, the milkcrates are an improvement. Back in my day y
 
 "Plural actually. One of them's more in my area of expertise. So, as you know, history isn't what happened. It's what's on record."
 
-"Yes, I'm awere of the distinction." 
+"Yes, I'm aware of the distinction." 
 
 "So there comes a point when the remaining records are so scarce as to make it impossible to make a historical account of anyone's life. The figure in ancient Greek history worth making an historical account of, but which is impossible, is the Greek statesman Solon. The document mentions him, and events that happened before his time."
 
@@ -60,7 +60,7 @@ William looked about. "Well, the milkcrates are an improvement. Back in my day y
 
 "I'd like to hear it."
 
-"This was back in the 60's you see. There was a new book out, by Thomas Kuhn, *The Structure of Scientifc Revolutions*. Completely fascinating work, about revolutionary changes of thought and inquiry. Of course, a lot of people actually use the word revolution..."
+"This was back in the 60's you see. There was a new book out, by Thomas Kuhn, *The Structure of Scientific Revolutions*. Completely fascinating work, about revolutionary changes of thought and inquiry. Of course, a lot of people actually use the word revolution..."
 
 "...but they don't really know what it means."
 
@@ -106,7 +106,7 @@ William looked about. "Well, the milkcrates are an improvement. Back in my day y
 
 "But you think they're related."
 
-"Separated by six centuries. If related not by time. Related by occuppying the same place in my memory, I suppose, but that will pass when I do."
+"Separated by six centuries. If related not by time. Related by occupying the same place in my memory, I suppose, but that will pass when I do."
 
 "When you pass. But you've still some time to solve the riddle?"
 
