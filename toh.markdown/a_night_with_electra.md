@@ -44,7 +44,7 @@
 
 "She was there to make foreign scholars welcome, if you know what I mean."
 
-"Of course I know what you mean. Those ancient scholars and their symposiums. They want to get drunk and laid just like anybody else, so they have to event this sophisticated ritual of philosophy so they don't lose their image."
+"Of course I know what you mean. Those ancient scholars and their symposiums. They want to get drunk and laid just like anybody else, so they have to invent this sophisticated ritual of philosophy so they don't lose their image."
 
 "Of course their minds were very focused on their ideas. So, you, just hire a woman to take care of things..."
 
@@ -68,13 +68,13 @@
 
 "It was a story about the Tower of Babel. Only older, and in more detail. From someone shall we say, closer to the event? The story is inverted. In the beginning, the world's languages had already scattered. A king, and his descendants, believe if they can build one language, their kingdom will rule forever. So they construct a temple, which he block being a 'word stone'. It was a work of many generations. The end was in sight. After so much work had been done, those who were constructing the temple, how had been divided by their language in the past, could talk to each other. When they could converse, they realized what they had been saying about each other. You know, how each group was the 'chosen people', how everyone else were 'mud people', you know, how every culture has it's own smugness and arrogance to it. In the end, they all went to war, over the honor of who should destroy the temple."
 
-"So their was a bigger-dick battle?"
+"So there was a bigger-dick battle?" 
 
-"What? Oh, yes, I guess you could call it that. They didn't like the judgments passed. So the destroyed the temple. In the Biblical story God kind of crushes their pride. In this story there needed be no divine intervention. A uniting project failed because people couldn't forgive their own judgments. The original seemed so much more satisfying than the one passed down to the Hebrew writers. But then something happened. Remember miss librarian with the thick robe?"
+"What? Oh, yes, I guess you could call it that. They didn't like the judgments passed. So they destroyed the temple. In the Biblical story God kind of crushes their pride. In this story there needed be no divine intervention. A uniting project failed because people couldn't forgive their own judgments. The original seemed so much more satisfying than the one passed down to the Hebrew writers. But then something happened. Remember miss librarian with the thick robe?"
 
 "What happened with her?"
 
-"She wasn't what she appeared. Underneath her robe she had ten more arms, each carrying a flame. The Library was going to go up in flames, just as history demanded it would. Her robe was fire retardant, and she gave me a choice. I could the scroll under the robe, in which case it would survive until the present day. Or I could put myself under the robe and live. There was no telling this as a dream or a real event. I didn't think I'd make up. So I gave up the scroll for another day, for something else. It sounds like the obvious choice, but I thought about dying for the scroll. I represented everything I wanted from going into academia in the first place, I wondered if I would ever get over the loss. But I didn't have much time to choose."
+"She wasn't what she appeared. Underneath her robe she had ten more arms, each carrying a flame. The Library was going to go up in flames, just as history demanded it would. Her robe was fire retardant, and she gave me a choice. I could place the scroll under the robe, in which case it would survive until the present day. Or I could put myself under the robe and live. There was no telling this as a dream or a real event. I didn't think I'd make up. So I gave up the scroll for another day, for something else. It sounds like the obvious choice, but I thought about dying for the scroll. I represented everything I wanted from going into academia in the first place, I wondered if I would ever get over the loss. But I didn't have much time to choose."
 
 "Wow," Electra said, and averted her gaze. She reached up and rubbed the side of her neck. Creed thought she might be stiff.
 
@@ -90,8 +90,7 @@ Creed began massaging her shoulders. "You are a bit tense."
 
 "Military prison can do that to a lady."
 
-"So what," Dr asked, continuing the massage, "could I have chosen myself? Did I just choose to save my own skin? I don't think so..." 
-Creed stopped, almost as suddenly as he'd been cracked in the jaw. He expected Electra to say something. But she didn't. As he looked down into her big brown eyes for some sort of indication, the answer became apparent. A sudden sense of panic flooded his brain. He remembered the look on the face on that ancient librarian, "the scroll or your life". It did not resemble Electra's face in the slightest, except for the demand, "Now or never." It didn't take much time to decide. He leaned in and gave her a kiss. 
+"So what," Dr asked, continuing the massage, "could I have chosen myself? Did I just choose to save my own skin? I don't think so..." Creed stopped mid-sentence like he'd been cracked in the jaw. Electra had been hanging on his every word, listening with great intent. In the silence he expected Electra to say something. But she didn't. As he looked down into her big brown eyes for some sort of indication, the answer became apparent. A sudden sense of panic flooded his brain. He remembered the look on the face on that ancient librarian, "the scroll or your life". It did not resemble Electra's face in the slightest, except for the demand, "Now or never." It didn't take much time to decide. He leaned in and gave her a kiss. 
 
 What am I doing? He asked himself for a moment. He hadn't even been able to get his bearings. He was certain his job at the university was hopelessly gone. Now that he'd met up with Electra, he'd been in a rolling state of perpetual danger. Any pairing would of course would put him in a quasi father role, something he wasn't prepared for. And yet, his locked his lips with hers.
 
@@ -157,19 +156,19 @@ She pulled off his pants and then looked at him, a little dazed.
 
 "Something wrong?" He asked. 
 
-"Oh... your circumsized!" she giggled. 
+"Oh... you're circumsized!" she giggled. 
 
 He grabbed her by the hair. "That a problem?"
 
 "Should make things interesting." she replied, touching the tip of it with her tongue. She was soft, but Creed had a stunning realization of how sensitive the area was. She didn't put it in her mouth, but spread it with her saliva and stroked it while she slid out of her pants. There was only one article of clothing left. Creed looked it her as if inquiring if she was losing her nerve. This look was rewarded by her throwing her panties in his face. The aroma bombarded him and he felt a little trickle come out from his member. 
 
-"What that a...?" apparently a preejaculation was something that she'd read about but never seen before. 
+"Was that a...?" apparently a preejaculation was something that she'd read about but never seen before. 
 
-"It's a sign you're taking too long. Her threw her panties back her, but missed and they flew across the room. 
+"It's a sign you're taking too long. He threw her panties back at her, but missed and they flew across the room. 
 
 She straddled up to him and replied, "You worry about your own pacing," and then slid down on him. For a moment his consciousness made him feel like he'd been hit by a brick. Then she began to slide, and instinct took over. If before there had been a struggle, it had only been a prelude to this. The full weight of his hips tried to buck her off while he grabbed her by the waist to keep her steady. She grabbed Creed's hands to steady herself, but as this dance proceeded she found she didn't need to. She let go and felt an electricifying rhythmic weightlessness. 
 
-The was a time when she would have been tempted to wake the neighbors. She contented herself to let out muffled screams into her left hand whilst pleasuring her clit with her right. She felt like some hideous monster was trying to overwhelm her, and all she wanted to do was let go. She felt a frenzied combination of thrusting, spasming, thrusting, some wet streams, a grunt from Creed, and her heart beating so fast she was certain she'd pass out. But Creed stopped thrusting. He was rescinding. Electra let him pull out and then continued straddled his stomach, and rubbing her clit until her own climax a minute later. 
+This was a time when she was tempted to wake the neighbors. She contented herself to let out muffled screams into her left hand whilst pleasuring her clit with her right. She felt like some hideous monster was trying to overwhelm her, and all she wanted to do was let go. She felt a frenzied combination of thrusting, spasming, thrusting, some wet streams, a grunt from Creed, and her heart beating so fast she was certain she'd pass out. But Creed stopped thrusting. He was rescinding. Electra let him pull out and then continued straddled his stomach, and rubbing her clit until her own climax a minute later. 
 
 "Wow," Creed said. "I've never felt so obliterated."
 
@@ -217,7 +216,7 @@ Creed disappear, and returned with a small glass, which he seemed to down all at
 
 "You think he'd have carried a PC. But we moved unpredictably, and he worried about it getting lost in the shuffle. Laptops were available too, but even easier to lose. But he was a VIP. Access to a Unix Mainframe wasn't difficult. I got to program when the adminstrators were convinced I wouldn't run around and end up breaking anything. He kept me away good and tight. Frustrated by his employers, scared by the government, unable to talk about his passion, he needed me. But he was choking me. But those terminals... you could send mail through them. Depending on the system you might get out to the fledgling internet, though sometimes it was just university or miliatry employees. So in fact I had many friends. Friends I'd never met in person, but who I could talk to. It frightened me to death to talk about my personal problems. So it was always technical problems. Father was pleased with my progress. I was still so young, still able to ask that combination of tough and innocent questions possible of a child. Sometimes I'd ask something that stumped him that he had to riddle out for a few days. Then he'd come and reward me with whatever I wanted. Money was no obstacle. But I wanted friends. You can't buy those."
 
-"You can imagine the friction that happened when my teenage self wanted some independence. So here am I know, defensive of my independence while craving the approval of a male power figure." She shook her head. "I get arousal. I don't understand why the act is a truth serum."
+"You can imagine the friction that happened when my teenage self wanted some independence. So here am I know, defensive of my independence while craving the approval of a male power figure." She shook her head. "I understand arousal. I don't understand why the act is a truth serum."
 
 "I'm sure it has it's reasons."
 

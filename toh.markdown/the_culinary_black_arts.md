@@ -59,10 +59,10 @@ My researches led me to believe that the best way to hack their ISP would be to 
 My researches also led me to conclude that the one barrier safeguarding the machine was an administrative password.
 
 The security of a password, never really changed with the advent of computers. Outsiders must not learn the password and insiders must remember the password. Computer password should change frequently , be random, and not be written down.
-\
+
 Owing to me lack of precise technical knowledge, it seemed my best hope that the administrator had violated the best practice of not writing the password down.
 
-If it were written down, it was also likely to be quite close to the computer for easy access., and not difficult for the administer to find and refer to. Sure enough, it was there, and discovered with a determined search.
+If it were written down, it was also likely to be quite close to the computer for easy access, and not difficult for the administrator to find and refer to. Sure enough, it was there, and discovered with a determined search.
 
 Upon gaining restricted access, I had a list of files and folders that should be sufficient information for a hacker to gain access remotely. Given tips from an anonymous hacker, I succeeded in locating a file named /etc/shadow. This is usually the location of the system's encrypted passwords written in plain text. A hacker in possession of such a file has beaten security.
 
