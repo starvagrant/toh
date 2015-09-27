@@ -2,7 +2,7 @@
 
 "Yes, so peaceful too. I'm certain she won't stir until morning. What she's been through I might imagine a fitful sleep... but I think she's just tired. We can worry about dealing with her in the morning."
 
-"So going to be ok, with this?"
+"She going to be ok, with this?"
 
 "I don't know. She'll have to be at some point. Life goes on. Everyone realizes they're mortal at some point. For me it was even earlier."
 
@@ -26,7 +26,7 @@
 
 "They wanted you to see something?"
 
-"Maybe I should give up figuring out what they want, but I did see something?"
+"Maybe I should give up figuring out what they want, but I did see something."
 
 "What?"
 
@@ -58,7 +58,7 @@
 
 "Ready to take them off?"
 
-"Oh, that was part of her job description to be certain. But she thougt it might be quite profitable for American merchants to trade there, and curious about the cloth. Denim would have been royal attire back then. In any case, she took me through the library. This was a scholar's dream. Scroll after scroll, any of which could have made an academic career, laid out floor to ceiling on neat, wooden shelves. She suggested one for me."
+"Oh, that was part of her job description to be certain. But denim would have been royal attire back then, she suggested my talking to the merchants. In any case, she took me through the library. This was a scholar's dream. Scroll after scroll, any of which could have made an academic career, laid out floor to ceiling on neat, wooden shelves. She suggested one for me."
 
 "Did you read it?"
 
@@ -66,15 +66,15 @@
 
 "And?"
 
-"It was a story about the Tower of Babel. Only older, and in more detail. From someone shall we say, closer to the event? The story is inverted. In the beginning, the world's languages had already scattered. A king, and his descendants, believe if they can build one language, their kingdom will rule forever. So they construct a temple, which he block being a 'word stone'. It was a work of many generations. The end was in sight. After so much work had been done, those who were constructing the temple, how had been divided by their language in the past, could talk to each other. When they could converse, they realized what they had been saying about each other. You know, how each group was the 'chosen people', how everyone else were 'mud people', you know, how every culture has it's own smugness and arrogance to it. In the end, they all went to war, over the honor of who should destroy the temple."
+"It was like the story about the Tower of Babel. Only older, and in more detail, first hand detail. The story was inverted. The languages were scattered and the king was trying to build them into one, a grand edifice of "word-stones". It was a work of many generations. The end was in sight, until it everyone noticed the words for "chosen peoples" and "barbarians." You know, all the speakers learned about each others smugness and arrogance. So they went to war over the honor of destroying the temple."
 
 "So there was a bigger-dick battle?" 
 
-"What? Oh, yes, I guess you could call it that. They didn't like the judgments passed. So they destroyed the temple. In the Biblical story God kind of crushes their pride. In this story there needed be no divine intervention. A uniting project failed because people couldn't forgive their own judgments. The original seemed so much more satisfying than the one passed down to the Hebrew writers. But then something happened. Remember miss librarian with the thick robe?"
+"What? Oh, yes, I guess you could call it that. In the Biblical story God kind of crushes their pride. In this story there needed be no divine intervention. A uniting project failed because people couldn't forgive their own judgments. The original seemed so much more satisfying than the one passed down to the Hebrew writers. But then something happened. Remember miss librarian with the thick robe?"
 
 "What happened with her?"
 
-"She wasn't what she appeared. Underneath her robe she had ten more arms, each carrying a flame. The Library was going to go up in flames, just as history demanded it would. Her robe was fire retardant, and she gave me a choice. I could place the scroll under the robe, in which case it would survive until the present day. Or I could put myself under the robe and live. There was no telling this as a dream or a real event. I didn't think I'd make up. So I gave up the scroll for another day, for something else. It sounds like the obvious choice, but I thought about dying for the scroll. I represented everything I wanted from going into academia in the first place, I wondered if I would ever get over the loss. But I didn't have much time to choose."
+"She wasn't what she appeared. Underneath that thick robe she had ten more arms carrying torches. The Library was going to go up in flames, just as history said it would. She gave me a choice. I could place the scroll under her robe, in which case it would survive until the present day. Or I could put myself under the robe and live. I don't know if this was real. I didn't think I'd make up. I just gave up the scroll for another day, for something else. It sounds like the obvious choice, but I thought about dying for the scroll. I represented everything I wanted from going into academia in the first place. I wondered if I would ever get over the loss. But I didn't have much time to choose."
 
 "Wow," Electra said, and averted her gaze. She reached up and rubbed the side of her neck. Creed thought she might be stiff.
 
@@ -114,7 +114,7 @@ He leaned in to kiss her. An intoxicating surge of power built in him, something
 
 "Maybe I should have bit your tongue harder." she whispered.
 
-"Maybe I'll let you bite my some more. If you're into that kind of thing."
+"Maybe I'll let you bite me some more. If you're into that kind of thing."
 
 "You seem into it."
 
@@ -188,39 +188,41 @@ Creed wasn't in a mental state to be offended. "Yeah. But should I have dropped 
 
 "Ah... a favorite. A bit of a rarity in the states. Well the Midwest anyway."
 
-Creed disappear, and returned with a small glass, which he seemed to down all at once.
+Creed disappeared, and returned with a small glass, which he seemed to down all at once.
 
 "Careful," Electra warned. "You might choke."
 
 "I wouldn't bet on it. Well, I feel invincible. I mean," he took his place back on the wodden floor after grabbing two pillows off the sofa, "It's never been like this before. I didn't know I could... I'm all twisted for words. I don't understand."
 
-"There's nothing to understand. It's sex. A variation of a dance started hundred of millions of years ago, and engraved into our very existence. Sometimes the human brain just makes it more complicated. It doesn't quite just bubble to the surface like the scent of an animal in heat. But you coax it in the right way."
+"There's nothing to understand. It's sex. A variation of a dance started hundred of millions of years ago, and engraved into our very existence. Sometimes the human brain just makes it more complicated." 
 
-"And you know all the steps. It's just there."
+"But you know all the steps. It's just there."
 
-"Befpre we're born, I think. Certainly well before puberty."
+"Before we're born, I think."
 
 "You sound very convinced."
 
-"If you have any honesty and power of observation, you notice the effects of your parents. Huh..." she sighed. "Daddy's girl."
+"Well, certainly before puberty." She sighed. "Daddy's girl."
 
 "Oh?"
 
-"Don't bring this up when I'm not launching into a post-coital confession." 
+"Here comes the post-coital confession," she announced, though more to herself than Creed.
 
-"Done."
+"This going to be bad?"
 
-"My father went to an American university to study cryptography. Until a trip back to Greece to see family ended up with him meeting my mother. She died before I was too young to remember, and my dad took a lot of military contract jobs, setting up secure communications. He was paid well, in part to keep him from being contracted by someone else. The only person he thought he could trust was me. From a very early age I received a great deal of attention and approval. More than I think healthy for a child. He taught me English, and cryptography. He built me from the ground up to be his companion. I was programming at 11."
+"No, no." she stroked his chin. "I just find good lovemaking a truth serum."
+
+"I'm up for a good story." 
+
+Electra's held tilted back, and her eyes fixed at some point in the distance. It wasn't an easy memory to relate, but in the moment she wanted very much to tell it. "Mother died when I was very young. Father did cryptography for some military, though it was always difficult to figure out whose. A great deal of contracting work with people he never trusted. I was his only friend. But he couldn't relate to me in a girly way. So he taught me cryptography. I was programming at nine."
 
 "Huh, they you talk about him, I'm surprised not six."
 
-"You think he'd have carried a PC. But we moved unpredictably, and he worried about it getting lost in the shuffle. Laptops were available too, but even easier to lose. But he was a VIP. Access to a Unix Mainframe wasn't difficult. I got to program when the adminstrators were convinced I wouldn't run around and end up breaking anything. He kept me away good and tight. Frustrated by his employers, scared by the government, unable to talk about his passion, he needed me. But he was choking me. But those terminals... you could send mail through them. Depending on the system you might get out to the fledgling internet, though sometimes it was just university or miliatry employees. So in fact I had many friends. Friends I'd never met in person, but who I could talk to. It frightened me to death to talk about my personal problems. So it was always technical problems. Father was pleased with my progress. I was still so young, still able to ask that combination of tough and innocent questions possible of a child. Sometimes I'd ask something that stumped him that he had to riddle out for a few days. Then he'd come and reward me with whatever I wanted. Money was no obstacle. But I wanted friends. You can't buy those."
+"You think he'd have carried a PC. But we moved unpredictably, and he worried about it getting lost in the shuffle. Laptops were available too, but even easier to lose. But he was a VIP. Access to a Unix Mainframe wasn't difficult. I got to program when I got stuch in his office which happened a lot. Frustrated by his employers, scared by the government, unable to talk about his passion, he needed me. But I needed a friend too, and you could send mail through those terminals. Might not even get to the internet... maybe just university or military employees. Had some good pen pals, but always anonymous. You can imagine what happened when I got older and wanted more independence." 
 
-"You can imagine the friction that happened when my teenage self wanted some independence. So here am I know, defensive of my independence while craving the approval of a male power figure." She shook her head. "I understand arousal. I don't understand why the act is a truth serum."
+"Why are you telling me this?"
 
-"I'm sure it has it's reasons."
-
-"Well then, let me hear about your parents."
+"I don't know. I just feel safe with you. What about your parents?" 
 
 "My parents?"
 
@@ -230,14 +232,10 @@ Creed disappear, and returned with a small glass, which he seemed to down all at
 
 "What's libertine mean exactly?"
 
-"Oh, he maintained an affair with a student, after she graduated mind you. Never married. Sired two kids by her, paid her way through four more years of college and motherhood, when she really needed the money. Then went back to his work. He wasn't a deadbeat dad, and I think they were on and off again for a number of years. But he didn't have a family you see. Maybe he thought he'd do more harm than good, so he just never bothered. I think the arrangement was a workable one. But it wasn't "how things were done." My father was a big believer in that kind of thing. My brother thought it was scandalous, and worked hard to keep me away from him. But he couldn't get away with not inviting him to family functions. Better for him to be hateful and awkward in silence then flame famliy drama. I didn't see my uncle much, but he gave me a nice watering on my intellectual seeds. So when I wanted to be a scholar, dad wasn't to thrilled about it. Everything he'd been working to avoid. You know that goes."
+"Oh, he maintained an affair with a student. It must have been after she graduated, as it was well known and he was never reprimanded for it. I think he may have brought her to a family event once, when I was very young. That didn't happen again. He never really spoke of her, on those few occasions we had to speak. I think they were happy, but he wasn't much of a "family man". My father was a big believer in that kind of thing. My father thought it was scandalous, and worked hard to keep me away from him. But he couldn't get away with not inviting him to family functions. Better for him to be hateful and awkward in silence then flame famliy drama by snubbing him. I may not have seen my uncle much, but he gave fired my intellect all the same. So when I wanted to be a scholar, dad wasn't to thrilled about it. Everything he'd been working to avoid. You know that goes."
 
 "I know how that goes."
 
 "So this truth serum." Creed engaged her, "instinct or side effect?"
 
-"Instinct."
-
-"Clutching for trust, no matter how much you've keep something hidden in the past before?"
-
-"Maybe. Yes, that very well may be it. Now if you don't mind, I'd like to sleep on my bed. Sofa's right there."
+"Instinct," she sighed contentedly. "Now if you don't mind, I'd like to sleep on my bed. Sofa's right there."
