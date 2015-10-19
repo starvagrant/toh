@@ -1,5 +1,5 @@
 <?php
-
+session_start();
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
@@ -21,12 +21,15 @@
 </header>
 
 <nav>
+<p><?php if ($_SESSION['login'] === true) {echo "you are logged in";} else { echo "you are not logged in";} ?> </p>
   <ul>
 	<li><a href="films.php">Films</a></li>
 	<li><a href="tickets.php">Tickets</a></li>
 	<li><a href="locations.php">Locations</a></li>
 	<li><a href="reviews.php">Reviews</a></li>
 	<li><a href="about.php">About Us</a></li>
+	<li><a href="tohlogin.php">Login In</a></li>
+
   </ul>
 </nav>
 
@@ -47,7 +50,7 @@
 		<li><a href="films.php?film=theculinaryblackarts">The Culinary Black Arts</a></li>
 	</ul>
 	<ul id="calamity-list">
-		<li><h4>The Great Calamites</h4></li>	
+		<li><h4>The Great Calamites</h4></li>g
 		<li><a href="calamities.php?atlantis">The Sinking of Atlantis</a></li>
 		<li><a href="calamities.php?egypt">The Origin of the Pyramids</a></li>
 		<li><a href="calamities.php?russia">The Collapse of the Ice Palace</a></li>
@@ -89,7 +92,7 @@ so fulfilling. Happened upon a beautiful young girl (Kore, daughter of Demeter b
 under the earth and he seized her.
 	</p>
 	<p>
-		Kore did not yield to his advances. Meanwhile, Hades sought the blessings of Zeus, her father. But her mother, Demeter, who had already been desperately searching for her daughter, was outraged at this request. As a goddess of harvest, for three years she let nothing grow. The populace, starving, had no offering to the gods, and Hades relented. 	
+		Kore did not yield to his advances. Meanwhile, Hades sought the blessings of Zeus, her father. But her mother, Demeter, who had already been desperately searching for her daughter, was outraged at this request. As a goddess of harvest, for three years she let nothing grow. The populace, starving, had no offering to the gods, and Hades relented. g
 	</p>
 	<p>
 		Or so it seemed. Those who eat the food of the underworld may not leave, and before leaving Kore ate four pomegrenate seeds.
@@ -125,7 +128,7 @@ born, lives, suffers, and eventually dies. See, should you be so likely as to ac
     </ul>
     </div>
   </div>
-</div><!-- end of container -->	
+</div><!-- end of container -->g
 </body>
 
 </html>

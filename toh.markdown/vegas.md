@@ -1,4 +1,4 @@
-"So, I see you found me." Ali grinned, "Tought i can't imagine how."
+"So, I see you found me." Ali grinned, "Though I can't imagine how."
 
 "You said you were going to Vegas."
 
@@ -6,11 +6,11 @@
 
 "The name's Margot," she replied, and curtsied, though she didn't have a dress.
 
-"charming," Ali replied, "Is she current?"
+"Charming," Ali replied, "Is she current?"
 
 "Current?" Margot asked, perplexed.
 
-"Not on everything," Creed metioned..
+"Not on everything," Creed mentioned.
 
 "She knows nothing of the theatres?"
 
@@ -18,29 +18,29 @@
 
 "Theatre? What Theatre?"
 
-"Ali and I, we saw a film at a theatre. It wasn't..." Creed fumb led for a term. "Real."
+"Ali and I, we saw a film at a theatre. It wasn't..." Creed fumbled for a term. "Real."
 
 "The film was fictional."
 
-"No miss. You misunderstand the doctor. If we went to the same physical place we found it, it would not b e there."
+"No miss. You misunderstand the Doctor. If we went to the same physical place we found it, it would not be there."
 
 "How did you find it?"
 
-"We came into possession," Creed explained, of a ticket. The theatre can only be found by those with a ticket."
+"We came into possession," Creed explained, "of a ticket. The theatre can only be found by those with a ticket."
 
 "What does this ticket look lie?"
 
 "It's about the size of a business card. It says HADES on the front."
 
-Margot's mouth hung open for a minute. She turned around, curled into herself and quickly placed her hand in her shirt, produing a card from her bra, and turned again towards her companions. 
+Margot's mouth hung open for a minute. She turned around, curled into herself and quickly placed her hand in her shirt, producing a card from her bra, and turned again towards her companions. 
 
 "Yes," creed replied, "They look exactly like that."
 
-"where id you get that miss? at the scene of something very unusual?"
+"Where did you get that miss? At the scene of something very unusual?"
 
 Margot covered her face in her hands. "You could say that."
 
-"Well it's not important wehere it came form," Ali rushed to comfort her, as he would any news source. "So much as which film it leads to."
+"Well it's not important where it came form," Ali rushed to comfort her, as he would any news source. "So much as which film it leads to."
 
 "I'm not so sure I'd want to watch that film."
 
