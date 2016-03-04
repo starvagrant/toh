@@ -20,7 +20,7 @@
 
 "Oh it was an exciting time to be a physicist. The discoveries that followed! That time was relative to motion. That one could not distinguish a difference between gravity and acceleration. That there was no difference between particles and waves. That space and time were part of the same thing. That one could not observe an object without changing it. So many things that were separate in everyday existence were one and the same in the world's fundamental objects, if they can be called that. 
 
-It was chaos and confusion. One upturning discovery after another, until it became clear, to physicists at least, that the universe's behavior couldn't be described in everyday terms. Only math and equations. It's fascinating. Of course that counts out just about everyone's ability to understand the universe, since everyone hates math." 
+"It was chaos and confusion. One upturning discovery after another, until it became clear, to physicists at least, that the universe's behavior couldn't be described in everyday terms. Only math and equations. It's fascinating. Of course that counts out just about everyone's ability to understand the universe, since everyone hates math." 
 
 "So our everyday concepts of reality are just illusions that can be described with math."
 
@@ -32,7 +32,7 @@ It was chaos and confusion. One upturning discovery after another, until it beca
 
 "So if it's all relative, and your everyday experience is just based on your perspective, what do you do? Go crazy or keep on trucking?"
 
-"I've never really been able to resolve that in my mind. Only to remark all this changes in knowledge come from unique test cases and exceptions. The current test cases are being produced by accelerating particles in mile long tubes until they hit near the speed of light and smash into other particles. That you might come across a test case in your own life..."
+"I've never really been able to resolve that in my mind. Only to remark all these changes in knowledge come from unique test cases and exceptions. The current test cases are being produced by accelerating particles in mile long tubes until they hit near the speed of light and smash into other particles. That you might come across a test case in your own life..."
 
 "Like my ancient Greek documents? Or your Arab scientist? Or for that matter just about anything that's ever happened in history? I know my known-to-survive Greek texts. The more I read, the less I'm certain about anything that actually happened in that period."
 
@@ -52,7 +52,7 @@ It was chaos and confusion. One upturning discovery after another, until it beca
 
 "Well, Jonny Boy. I can't say this trip hasn't been interesting. So something viscous. How viscous? Like Tar Sands Oil?"
 
-"I think most of that's up in Canada."
+"I think mostly of that's up in Canada."
 
 "Nonsense. In a few years..."
 
