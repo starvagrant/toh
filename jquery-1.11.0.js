@@ -1,1 +1,1 @@
-../jquery-1.11.0.js
+../jquery/jquery-1.11.0.js
