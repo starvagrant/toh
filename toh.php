@@ -1,43 +1,39 @@
-<?php
-session_start();
-?>
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
 	<title>Theatre of Hades</title>
-	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-	<meta name="generator" content="Geany 1.23.1" />
+	<link rel="stylesheet" type="text/css" href="../assets/bootstrap.min.css" />
 	<link rel="stylesheet" type="text/css" href="toh.css" />
 </head>
 
 <body>
 
 <div class="container">
-<header>
-  <h1>Theatre of Hades</h1>
+<header class="jumbotron text-center">
+    <h1>Theatre of Hades</h1>
 </header>
 
-<nav>
-<p><?php if ($_SESSION['login'] === true) {echo "you are logged in";} else { echo "you are not logged in";} ?> </p>
-  <ul>
-	<li><a href="films.php">Films</a></li>
-	<li><a href="tickets.php">Tickets</a></li>
-	<li><a href="locations.php">Locations</a></li>
-	<li><a href="reviews.php">Reviews</a></li>
-	<li><a href="about.php">About Us</a></li>
-	<li><a href="tohlogin.php">Login In</a></li>
-
-  </ul>
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#"> Theatre of Hades </a>
+        </div>
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="films.php">Films</a></li>
+            <li><a href="tickets.php">Tickets</a></li>
+            <li><a href="locations.php">Locations</a></li>
+            <li><a href="reviews.php">Reviews</a></li>
+            <li><a href="about.php">About Us</a></li>
+        </ul>
+    </div>
 </nav>
 
-<div class="main">
-  <div class="archives">
-	  <ul id="films-list">
+<section id="main">
+    <div class="archives">
+	    <ul id="films-list">
 		<li><h4>Now Playing</h4></li>
-        <li><a href="films.php?film=spectreofatlantis">Spectre of Atlantis</a></li>
+                <li><a href="films.php?film=spectreofatlantis">Spectre of Atlantis</a></li>
 		<li><a href="films.php?film=civilwarsandhospitalbeds">Civil Wars And Hosptial Beds</a></li>
 		<li><a href="films.php?film=roadtripinred">Road Trip in Red</a></li>
 		<li><a href="films.php?film=oozefromtheconfettifactory">Ooze from the Confetti Factory</a></li>
@@ -50,7 +46,7 @@ session_start();
 		<li><a href="films.php?film=theculinaryblackarts">The Culinary Black Arts</a></li>
 	</ul>
 	<ul id="calamity-list">
-		<li><h4>The Great Calamites</h4></li>g
+		<li><h4>The Great Calamites</h4></li>
 		<li><a href="calamities.php?atlantis">The Sinking of Atlantis</a></li>
 		<li><a href="calamities.php?egypt">The Origin of the Pyramids</a></li>
 		<li><a href="calamities.php?russia">The Collapse of the Ice Palace</a></li>
@@ -80,8 +76,8 @@ session_start();
 		<li><a href="theatres.php?glory">Theatre of Glory</a></li>
 	</ul>
 
-  </div><!-- end of archives -->
-  <div class="news">
+    </div><!-- end of archives -->
+    <div class="news">
 	<div class="post">
 	<p class="quote"> 
 		You are entering the land of the dead. Nothing escapes the land of the dead.
@@ -108,28 +104,28 @@ Whether she was tricked, starving, or ate them willingly to put an end to the co
 		The Theatre of Hades, in some form, is as old as the story. It has only recently acquired that name. It is where reality is
 born, lives, suffers, and eventually dies. See, should you be so likely as to acquire a ticket, the birth of reality, and it's disintegration. 
 	</p>
-    </div>
-  </div><!-- end of news -->
-  
-</div><!-- end of main -->
-  <div class="footer">
+        </div>
+    </div><!-- end of news -->
+    
+</section><!-- end of main -->
+<footer>
     <div class="footer-list">
-    <h4>List One</h4>
+        <h4>List One</h4>
+        <ul>
+            <li><a href="#">We'll Be in Touch</a></li>
+            <li><a href="#">Ancient Documents Division</a></li>
+        </ul>
+    </div>
+    <div class="footer-list">
+        <h4>List Two</h4>
     <ul>
-      <li><a href="#">We'll Be in Touch</a></li>
-      <li><a href="#">Ancient Documents Division</a></li>
+        <li><a href="#">Office of Proganda</a></li>
+        <li><a href="#">Center for Antiquities</a></li>
     </ul>
     </div>
-    <div class="footer-list">
-    <h4>List Two</h4>
-    <ul>
-      <li><a href="#">Office of Proganda</a></li>
-      <li><a href="#">Center for Antiquities</a></li>
-    </ul>
-    </div>
-  </div>
-</div><!-- end of container -->g
+</footer>
+</div>
+<script src="../assets/jquery-3.1.0.min.js"></script>
+<script src="../assets/bootstrap.js"></script>
 </body>
-
 </html>
-
