@@ -62,7 +62,7 @@ Electra let out a brief laugh of light mirth. Then she gave Creed a kiss on the 
 
 "Since we watched that film. The Numerologist Can't Stop the Bees, remember?"
 
-"I remember it, no that you mention it. That seems ages ago." 
+"I remember it, now that you mention it. That seems ages ago." 
 
 "So I've been looking into that field. I think it's hogwash. People trying to explain things with numbers without having to resort to reality. But it does point to a sort of sexiness with numbers. Oh, they strike people as quite boring, but there is something in knowing 2 and 2 will always equal four, or a right triangle will always have the same proportions, no matter what culture you belong to or religion to which you believe in. I feel like numerologists are physicists that haven't found their place. Their evidence to examine."
 
@@ -70,7 +70,7 @@ Electra let out a brief laugh of light mirth. Then she gave Creed a kiss on the 
 
 "Didn't it make an impression on you? Didn't you wonder why we saw that film in particular?"
 
-"I don't think I'll puzzle out anything from what I saw."
+"Yes. But you must remember I saw other films that made bigger impressions."
 
 "I went back over your paper. The one you've been trying to publish that no one wants?"
 
@@ -78,15 +78,17 @@ Electra let out a brief laugh of light mirth. Then she gave Creed a kiss on the 
 
 "You're trying to come up with a biography of a figure so old, it's hard to know if he was merely a legend, even in the era where from Greek texts do survive. Even just a letter, or a journal entry, if it could be traced to him, might undo any narrative you might build around him now, based on the evidence." 
 
-"Such a fascinating puzzle, isn't it?"
+"I was trying to answer a question with evidence when there was no evidence. A bit like trying to conduct science without experiments. It was a fascinating puzzle, but a dead end. I'm looking for a puzzle that has some value."
 
-"Yes. But a puzzle for you, no? You're a teacher. Hasn't it struck you that in order to advance in your career you might have to teach about a puzzle that's interesting to others? That to excite your students you have to find a problem that's relevant to them?"
+"Yes. Well then, if you want to teach, you'll have to find a puzzle for your students too." 
 
-"Well, that makes sense Uncle, but what puzzle are you referring to?"
+"It's hard to know where to begin, after all I've seen. At the end, there was a suggestion that was most appealing. But teaching Greek along with it, I'm still a bit of a loss."
 
 "There are other important texts in Greek besides the classics."
 
-"The Bible? Definitely some important stuff in Greek. But... you're a skeptic, aren't you?" 
+"The Bible? I hadn't thought of that." This was not true. After his brief vision of Mary he had been thinking of her story a great deal. But he lied reflexively, because he recoiled at the thought of his uncle guessing his error. He had spent so much time in his youth being thumped by the King James Bible he had forgotten the original texts were in Greek.
+
+Definitely some important stuff in Greek. But... you're a skeptic, aren't you?" 
 
 "For my survival, of course. You can't teach the history of science without knowing how scientists think. But you teach science and you never run out of faith-oriented types that want to discuss what science can't answer. I consider that a distraction from my own area of expertise. But it might be a gig worth taking on."
 
@@ -96,9 +98,9 @@ Electra let out a brief laugh of light mirth. Then she gave Creed a kiss on the 
 
 "You know, I just dealt with this dilemma before..."
 
-"There's so much trailing off in your voice. Are you back in the present yet."
+"There's so much trailing off in your voice. Are you back in the present yet?"
 
-"It was a conundrum. I was given a choice. I could give my life to save an ancient text, or save myself and trust in a less detailed version that survived to the present day."
+"It was a conundrum. I was given a choice. I could give my life to save an ancient text, or save myself and trust on a less detailed version that survived to the present day."
 
 "Which did you pick?"
 
