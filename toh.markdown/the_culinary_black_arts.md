@@ -1,771 +1,340 @@
-### The Culinary Black Arts
+### The Culinary Black Arts (New Draft)
 
-- Notes
-- A story about unrestrained growth
-- Suddenly for no reason, it rains a black goop all over the desert of West Point, Nevada. It's considered a nuisance until an outsider eats some an reports it's delicious
-- The goop is a culinary delight that brings great wealth, turning West Point into a boom town. It seems everyone wants a piece of the pie.
-- Restaurants, agribusiness, the military, real estate, drugs, prostitution, the mob, higher education and science descend like a source of nature on this traditional town. (The military not in the original draft.
+West Point was a bunch of tin shacks pocketed away in the desert in Nevada. New construction was unheard of, such that any family of size was bursting out of their rusty trailer. I don't really know where the first set of trailers came in the first place. It was as if it had always been there, and always would be. I sometimes referred to it as the Desert of Eden in my head.
 
-### Blueprint 11/01/15
+Here, in this town, losses were permanent. Lose a girl, and she would linger in your life forever, possibly your only love. Win something and the town's remembrance of your victory would latch onto your reputation forever, burnt out only by a terrible disgrace.
 
-1. The Story of the Black Rain, as seen by a Traditionalist, from the beginning of the rain to the mayor's bamboozle.
-2. Story of the Real Estate Bubble, after the mayor's bamboozle, seen from a real estate speculator, until the full arrival of the military.
-3. The Uncovering of the plot, told from the ex-military man turned journalist
-4. The banding together of most unlikely heroes to foil the plot. 
+Not that there were what outside society would call winners in West Point. There weren't any jobs really, and I could never get it out of the elders how money came into the town. I didn't want to risk my weekly stipend figuring out either.
 
-### Blueprint 01/16/16, Remaining Scenes
-1. Hammond discusses expansion plans with mob representatives whilst tipping off the Joshua about their presence.
-2. Joshua tracing the military connection through the mob ties.
-3. Hammond, Joshua, and Scott chasing down the mob ties in Scott's truck.
-4. Clean up, as seen through Sheryl
+I was a writer, or at least was, and West Point had never heard of such a thing. Oh, people wrote books somewhere. But not here. I had been keeping a journal since the age of eight, and the fifteenth anniversary of that date was fast approaching.
 
-### Characters: 
+One might think there was nothing to keep down in a journal in a place like this, but, having lived here so long, I wondered what it make be like writing a journal like this anywhere else. There was, in this small patch of nowhere, seemingly no privacy. Act up in the one boardroom schoolhouse and your parents knew before you got home. Manage to get a hold of some booze or girlie mags and you'd be solicited for a year. The only person that had a chance of keeping a secret was you. Of course if you were too obvious about it, pressure mounted from rumors and feverish speculations. Best not to let in anything at all if you could get away with it.
 
-1. Scott Wayland, old rancher
-2. Roger Pilger, mayor
-3. Hammond Griggs, real estate speculator
-4. Sherry Grozdov, artist, and FWB with the real estate speculator
-5. Joshua Sanchez, journalist
-6. Colonel Howard Fuller, army conspirator
-7. Two Mob Goons
-8. Two Army Officers
----------------------------------------------------------------------------------------------------------------------
-## Story Begins
+It might have been best for me if no one discovered I was doing any writing at all, but I was too young to know to hide it. It some ways fortunate for my social life my mother discover my first uncoded journals. They disappeared, my mother never seemed quite the same. Seeing someone's mind too close was like looking at the sun, or so I figured, and got to making sure my subsequent explorations were secret.
 
-Scott Wayland awoke in a terrible fright to the sounds of a hideous rain he hadn't remembered since his Army days in Vietnam. He could hear it batter again the corrugated metal roof of his trailer. This was a disparaging thought--he hadn't concerned himself with waterproofing for three years on account of his living in the desert town of **West Point Nevada.** 
+I developed what the few spy magazines in the town's slush pile called a cipher. It was a new form of cursive writing designed to look like atrocious handwriting if one weren't accustomed to the alternate curves and loops. I never kept the cipher but worked on letters one at a time during boring school lessons that I always seemed to keep on top of, no matter how little I tried. When I was satisfied with my cipher I began the task of writing in it. My writings have been confiscated many times by a nosy neighbor. To their irritation they have never been able to grasp on to the fact that they can't read my writing on purpose.
 
-He jumped to his feet immediately, scrambling, almost looking to take cover under an aging oak coffee table before he regained his wits. He looked the clock on the wall and, his vision not being what it used to be, guessed it was 1:45 in the morning. He looked at the window and saw nothing but solid black. 
+It had gotten out by this time in my life I was some sort of writer, and the fact that all my work was secret was not a fact well received. Everyone had secrets in this town, but no one, in my memory, had done something in the open that suggested they were hiding something. That I think was the kicker, they resented my open secrets in an attempt to hide their own. In any case, I was shunned, at least by day. People would come to me at night sometimes, seeking some advice, clue, or solace. It was always in secrecy and always with the expectation that I keep all activity therein a secret.
 
-He went to open his door, trusting the inside of the trailer not to get too wet, only to discover the fierce splattering against the trailer roof did not appear to be rain, but black mud. He envisioned a burst in a sewage line, or perhaps an old oil pipeline from the unexplained prospecting that went had gone on before he was old enough to remember it. 
+The secrets were never particularly consequential. A crush, an irritation, and idea, not much else. At least it happened this way before the Black Rain came. It was a middle of the night affair, a splattering against the tin roofs like asphalt, mud, and water curled into one and taking properties from each. I stayed inside my trailer. I expect everyone did, as it was hard to imagine being able to breathe in such a black downpour.
 
-But as this, this viscuous muck continued to pelt down, it did not leave the kind of foul stench that could be expected of either of those to liquids.
+Sunrise revealed a black flaky goo throughout the streets. Shovels and implements were passed about. Most of the trailers had one to keep sand build along their corrugated sides. Everyone cleared as they thought they was most needed. Some started the streets, others the side walks. No one really talked, and I wondered if they though it was decent that West Point was so small, lest we have to shovel more of what seemed to be sweet smelling excrement.
 
-"Scott, what's going on?" His wife asked, just as terrified at the sound, but not as quick to react as her husband.
+I didn't really shovel much. I wanted to know why people weren't talking, I wanted to know there reaction. But I wondered the seeming stunned silence was how people were keeping to themselves that something different actually happened at West Point.
 
-"Dunno." Scott slumped. He supposed he was supposed to be frightened. But he couldn't tell what was going on and lacking any signs of sense from the scene, he just stared. What kind of precipitation was this? He wondered if he should be expecting frogs. He wasn't going to go out in weather like this, so he closed the door, and responded, "I don't know if there's anything to do until it stops." He replied. Just light a candle and I'll pour us some water." 
+The silence started to build as coarse as the desert stand until a ragged stranger waltzed into town, put a finger into the morass, and put it in his mouth. Everyone turned to him for a response.
 
-"L-l-light a candle?" his wife responded, "What are we going to do Scott?" 
+"It's delicious." he said, and began to eat it by the handful. No one dared to do or say anything. No one really seemed to trust this new substance. I think we all expected for him to drop dead. This not happening, a town hall meeting was called at once. At twenty three I was not old enough to remember much about the last one, only that it had been called what we called "The Hut" which included our VFW, bar, casino, and rec room. The pool and poker tables were pushed aside for chairs so the whole town could sit and discuss.
 
-"Sit right here until it stops. It's too thick to go out in. We're in shelter. We have food and water."
+After some wrangling the mayor finally got up and said, "So, what is it?"
 
-Scott's wife failed to be satisfied and checked the trailer's four scattered windows while Scott sat back in a rocking chair. "What if we get flooded? If it overtakes the trailer and we get.. get.. mucked in?"
+"Is it food?"
 
-"I doubt we will. But if the good Lord has decided this is how I'm going to meet my end, well I guess that's his perogative." 
+"What food looks like that?"
 
-"So then what do you think it is?"
+"But the stranger says it's delicious."
 
-"Dunno. It looks like swamp mud. It feels like swamp mud. He kicked his foot up only to realize there was still some stuck to his shoe and he'd tracked it into the house. He took his shoes off slowly under his wife's glaring eye. Then he sat down on the floor to examine them. "Like grits mixed with maple syrup," he responded. "But black."
+"That doesn't mean it's anything."
 
-"Just listen to how it's splattering!" his wife exclaimed. "When will it stop?" 
+"We should at least clean it up."
 
-It stopped. 
+"But were do we put it?"
 
-"You were saying?" Scott asked. 
+"In the sand."
 
-"What if it comes back?" 
+"But why throw it away? It's food."
 
-Scott said nothing and opened the trailer door. "Not a cloud in the sky." he responded. I'm going to get my overalls."
+"Here. Here." The mayor stopped the crowd. It was clear why there hadn't been many town meetings in my day. The folk of West Plain did much better whispering in secret over some beers than united in a group. What to do with this new wonder was probably something everyone would end up deciding for themselves, no matter what the mayor said.
 
-"Scott?"
+"We ought to form parties to clear the public property, at least. But since we don't know what this is, I think the town ought to decide how to do things best on their own land."
 
-"There's a shovel in my truck. I'll need to go get it."
+"I agree."
 
-Scott trudged to the back of his rusting ancient Ford. Bought back in when times when a slight bit of money flowed through the town from an old uranium mine, a settlement that left military contractors with most of the funds. But given the state of the town of the time, fueled by nothing but marginal ranching, it had seemed like an awful lot. 
+"Aye," came the rest of the town. It wasn't certainly the solution that involved the least squabbling. No decision was really made about the stranger either, who spent much of the rest of the week telling tall tales, drinking beer, and eating the savory muck.
 
-Scott pulled down the back hatch and swirled his arm around in the slurping mess. Black mud from the sky. Strange things hadn't happened in the town for a generation. Since a few gentleman had come from the east with promises of green sheets of paper. 
+It was hard to deny the stranger's health was improving. A skeletal boy of 5'11" and probably a hundred and thirty pounds, went from protuding collar bones to a muscled chest, involved as we all were at clearing the streets in the blazing heat and bickering over whether the thing was black manna, an ill omen or something splattered from space.
 
-What was there to do? There'd be no snow plows closer than towns from the Sierra Nevada, and they wouldn't come cheap, if at all. The town would have to band together if anyone wanted to drive anywhere. 
+As progress was being made on the streets, another ill fated town hall meeting was called. A fair portion of the town wish to dump the goop into some kind of land fill and clear it up by the desert sands, but a one Mrs. Addison vehemently refused.
 
-Scott yanked out his shovel and began to thrust heaps of the syrup out of his truck. Maybe, in the midst of the common difficulties, the folk of West Point would come together to get the town in a state of repair. That was maybe a rosy picture, but it could, after all, happen. 
+"Have you tried it?" she asked? Best food in the world if you ask me. I don't know about the rest of you, but I'm all for leaving our own stuff on our own private land. She jerked her fist, involuntarily, and I could see she was holding up a large set of jeans that were obviously not her size. I pondered this until it dawned on me that she'd lost weight, even moreso than our stranger had gained.
 
-He thought back to the days before the mine, when there were just a few ranching families and there wasn't enough food for people to disagree much. Well, you really couldn't get along without disagreements of course, jealousy over the ladies and such, but you knew that, whatever the disagreement, the town had your back. And there was something about knowing that which made for a kind of family almost. People didn't turn their backs and plot if they didn't get along. You just couldn't and make it. 
+Murmurs rang throughout the hall. Again West Point lapsed into its inability to address every member at once, turning to gossips and confidants instead.
 
-Then the prospectors came. and strangers along with them. Infrastructure too... fresh water, vehicles, mobile homes instead of shacks. But so too came the sickness, and the prospectors left, with the only thing keeping the town alive being the government settle money. 
+"If you have something to say, address the crowd," the mayor insisted.
 
-Maybe the black tar might have some use, Scott thought, grunting and throwing out another shovel load out of the back of his truck. What use, though, he could only imagine. It wasn't oil or coal--the smell was quite absent, as was any noxious vapor. Maybe it was some kind of peat. The rain clouds never quite came to this part of the country, but maybe it might be shipped elsewhere. In any case, it needed to be out of the street at some point. The trucks couldn't really bring in the town supplies anymore. It could be decided at the next town meeting. 
+"Well..." Hal Werner addressed the crowd, though seeming to lose his voice, "We don't really know what the stuff does. I haven't been so bold to eat it, and I don't think I will be, but maybe some might try it, and we can have a meeting next week."
 
-He hoped there might be some actual attendance this time. He went, at the same appointed time each month more out of a sense of duty and respect for the past than anything it had accomplished. In the old days, before the mine came, the small group of families ruled their little corner of the desert by consenus. At least until mineral rights were under discussion, in which cases notions of private property seemed to be invoked with little precedent. When the mine owners left, people, himself included, thought the lack of town meetings was where everything went wrong. But there hadn't been a decision to make in years, and the meetings were nothing but an excuse to get together and play cards. Now there was something to discuss.
+Nearly everyone in the room secretly blessed Hal Werner, not merely for calling an end to the meeting but suggesting the there was nothing wrong with want to try this mysterious culinary substance whilst simultaneously suggesting it was ok to not want to try it. Addison, despite the obvious weight loss, which really only had one probable cause, might have been a pariah, but now the townsfolk felt at leisure to enjoy as much as they might want.
 
-There weren't, after all, places to really put this stuff. It could be driven out, to seem degree, by the trucks that seem to run on rust rather the gasoline. But to subject them to so much hauling, knowing they could not be replaced, was another matter entirely. It would have to be hauled out, bucket by bucket, by human hands, to some heap not far out of town, and that labor would need organizing. That of course, would require the town hall, for not many knew what cooperation was, living as they did of a government check that was out the door as quick as it came in. Was it a return to the old days? Only a meeting would say for sure.
+At least until the next day, when Atticus Rex delivered a scathing sermon on the dangers of hell. He was not an entirely fire and brimstone preacher, but only the dullest minds failed to noticed his sermons so frequently touched on the latest gossip, which a few pious souls in silent places never failed to tell him. He saved his dangers of hell when a rumor went around that particularly displeased him.
 
----------------------------------------------------------------------
+A rumor of particularly odiousness must have hit him, for this time he went so far as to describe hell in graphic detail. Usually he let phrases like eternal hell and everlasting fire, which caused fear reflexively, to do his work. Now he described torture implements, described the beast, and warned of the return of the Whore of Babylon.
 
-"Here, here!" Roger Pilger, slammed a gavvel on the table of the crammed town hall office. The gavvel had been so ill used that Scott had thought it had disappeared. "I think you all know why this meeting was called, and that hopefully it will be short. We need to get the roads clear of course, and I expect that will be the next order of business after the meeting. But where to put it?"
+His voice seemed a bit lower, his body and bit taller, his face more severe. The whole town was there to see that sermon, for in uncertain times one never neglected church attendance, and the response to authority banning something was predictable. A few souls were frightened out of their wits to try the goop, but the rest of us gave it a shot just to be contradictory. Or at least that's how I fancy it, because I didn't try it.
 
-"Well, what is it?" a townsman asked, "I think we can't come up with a plan if we don't know what it is. If it's poison we gotta get it in some big pile down in a valley, case some day rain comes to wash it down on us."
+I was waiting for something a bit more solid than the endorsements of a complete stranger who seemed to care for nothing but loafing and Mrs. Addison. Mrs. Addison's invective was particularly damning. It was known amongst males of my age that she would sometimes approach younger men for no strings attached sex despite being married, possibly from some well hidden frustration with Mr. Addison.
 
-"Wash it down on us?" someone else replied, "It's so thick we can barely shovel it, or have you been sleeping all this time people have been digging?"
+The next week was amongst the most interesting in my life. As a journal writer and long observer of townsfolk, I noticed strange expressions on the faces of particular people. Smiles and frowns exchanged places on faces. Awkward strutting seemed to have come into fashion, for a few women looked about a dozen years younger and fifty pounds lighter. Something had clearly erased a decades worth of packaged hi-carb food. Prominent men looked nervous, geeks looked smug and confident. Sometimes these things were accompanied by a change of physical appearance, in other times there seemed to be no apparent cause.
 
-"Gentleman, gentleman," Scott interjected to bring a little civility back into the discussion. "Might I suggest that there's a great deal of work ahead, and that we not have a single idea on what to do? I think we at least ought to set out to get some scientists out to test things. Then we can think of a grand plan. Perhaps we should settle on clearing the roads."
+The most memorable of these occasions was my invitation to a Wednesday night Bible study, something not seen since there had been three preachers in town. It was run by Amanda Ashton, of all people, who spoke eloquently of Biblical passages on love. And her baked from scratch chocolate chip cookies were so delictable as to make one believe that yes, there was a God and He did love us. It was every bit as inviting as our Sunday church service had been repelling.
 
-"Here, here." One of Scott's old army buddies chimed in, trying to rally support around one of the town's elder leaders.
+It was the next day that proved to be the most memorable. Thursday had always been a particularly involved day for me, it was my casino day. Casino day on Thursday was lightly attended as most were waiting for Friday paychecks. But Thursday held a certain allure for those that could save up for it.
 
-"Bobby, old fellow," Roger picked up, we all know you've got the most reliable truck. Could you head south to Carson City, pick up a few government men? The trustworthy folk, mind you?"
+On Thursday Casino Night, no matter how much you lost, money was always coming in the next day. The players were not impulsive, and games often ground out for a long while rather than finishing in some grand gesture or spectacular failure. New Casino games were sometimes introduced Thursday nights, because of the small bets involved. In any case, it seemed to attract my kind of crowd. I usually made a few bucks which I tended to put away for next Thursday night.
 
-"From government men? From Carson City?" Bobby replied, to great laughter and gentle applause.
+This night I came up dead broke halfway through the night. I was certain someone had had some new found ability from the mud that was still trudged on the casino floor every now and then, but I couldn't tell which gambler to avoid and left early. I arrived in my trailer to see Mrs. Addison waiting for me, sitting on the couch in her husband's blue bathrobe. It was probably the only thing that fit her at this point.
 
-"Well, it's a needle in a haystack, I'm sure, but try."
+She'd gone from a 300 pound woman in her late 40's to a 130 pound woman in her early twenties. Her tummy was flat and perfect and her chest spilled out of her robe. She was really only recognizable by her haircut and the fact this was a logical conclusion to what eating the Black Rain had done to her.
 
-"I suppose..." Bobby looked down dejectedly into his hat again to great applause.
+"You want something to eat?" I asked.
 
-"As to do while we figure out what this stuff is..."
+"I need something to warm me up."
 
-"Wait!" said a man, a stranger, who by fashion preferences seemed to come from twenty years in the future. He had little sense that he had interrupted a town elder and his face and throw-away tourist cowboy hat were smeared with the brown-black of the sludge. "Do you know what this is?"
+"Cocoa then? You're not getting any of my whiskey."
 
-"Who, who are you?" Roger asked, bewildered.
+"Oh?" she asked, she seemed caught off guard. Something in her repulsed me a bit, something that made me hesitate in front of that flawless body.
 
-"Just dune-buggying out in the desert, and find a town slathered in the most delicious sauce ever made." As if he had lost all manners, to the horror of all present, he licked his fingers, as child might after a barbeque. Everyone around him look, expected him to drop dead at any moment. He, however, looked contently, as if the meeting should continue. Everyone stood in silence. For the muck's appearance no one had suspected it might be food. Those outside shoveling at night seemed dimly aware of a pleasant smell, but by now no one in town could remember the scent. 
+"You know," I said, "It's funny. Some people are still hiding what they're eating. Even that they know that you."
 
-"So.." Roger began tentatively, thinking he must keep the meeting moving somehow. "It's edible, young man?"
+"People in this town are cowards. Don't know how to take what's right in front of them."
 
-"Edible?" The stranger began, "it's the most delicious, sumptuous, ecstatic,"
+"Maybe they have a right to be cautious."
 
-"Oh enough already," replied Scott, nervous the man was disrupting any season of order and reason in the preceedings, and irritated at the fancy language of the stranger.
+"Not caution. Cowardice. They do the things they fear behind closed doors."
 
-He was right about the disruption. When it was a question of town work to be done, everyone was ready to pitch in, and explain their designs. But now there was a sense of private profit, if not to mention personal indulgence, and few seemed prepared to utter much of a word. 
+"**Things?**"
 
-"What has anyone to say about this, this stuff, be it a scourge or a blessing?" Scott replied after a few more moments of silence.
+"Yes," she said, "things." She was twirling her blue bathrobe in impatience.
 
-"Well, we ought to see what science has to say about the stuff, oughten we? Why don't we..." and here the speaker's voice quavered a little,"why don't we clear the roads, and let each man have his say about what to do with the stuff on his own land, until the verdict is in. Motion to adjourn the meeting?"
+I paused. I'd never had sex before and didn't want to blow it. But all my ponderings and observations seem to suggest some tension had to come before it. So I blurted out, dark smile on my face, "Do you think you'd ever be satisfied with one man again?"
 
-Scott was flabbergasted. Every town meeting had, for over fifteen years, required a motion to adjourn before it could be completed. An old mayor had the habit of trying to end meetings if his feelings on the matter were not in the majority, and since the instituting of that rule there had never been a problem regarding a meeting ending prematurely. Scott made the unprecedented move of making an objection.
+I could hear a silent gasp. I'd guess correctly I wasn't the first man whose bed she'd pursued with her new figure. She blushed and looked away, clearly not nearly as confident in her new real as sex symbol just yet. She took a while to answer.
 
-"What, just wait and see, and let everyone be on their way? That's not what you call a meeting for!"
+"No," she responded, turning back in defiance, licking her lips and making a come hither motion with her left finger.
 
-"Well, do you have any ideas, Scott?"
+"And why should you stay loyal to someone whose offered love has been feeble and with whom you have no children?"
 
-"I don't know exactly what to do know. But we're to express our opinions, to debate, to argue, to talk about the values of our forebears, and then come to something we can agree on, as a community."
+"Lie with me," she whispered.
 
-"But what do we say then if no one knows anything?"
+I began to notice a pattern of arousal each time I offered up something that I wondered she might be having trouble admitting herself, and I remained standing.
 
-"I don't know," said Scott, "but we ought not to give up just because a discussion might get difficult. There was a time..." Scott looked down on the floor, an old pain now fresh in his memory, "when we didn't talk."
+"And why shouldn't it be a good time to question loyalty? You've seen it change based on physical experience, and now your appearance has changed..."
 
-"But that was years ago," Scott's debator continued. "Before half of us were even alive."
+"Be gentle with me, please."
 
-"I don't care how long ago it was, it's still relevant. I say finish this meeting, no matter how many hours of unprofitable talk it might produce. Are you with me? Let's put it to a vote. Those with me, stand on my side of the town hall. Those against, on the other side."
+"You didn't come here to be gentle," I said, and kissed her on the cheek. Then I looked into those eyes. They said "take me" like her words never could. Then it was lips, breasts, hair, wetness violently rolling over the floor until a heartstopping explosion not much latter.
 
-Without another word, the members of the town parted, with most of the elders on the town on one side, and everyone else on the other side. Given the age of those wishing to remain in the meeting, in the months that were to come, this was the group that came to be known as the old timers. Only Jimmy Wayland, Scott's grandson, had come to that side. But the young outnumbered the old, even in the wasteland around West Point, and the majority stood to the other side, excepting one elder, the mayor. 
+"You put up a good fight," she said.
 
-The meeting was adjourned.
+Beginner's luck, I figured. I'd heard enough female to female conversations to know what they liked was hard to describe. Something about being mysteriously harsh seemed to tickle it. I would make a note in my journal about it at some point.
 
--------------------------------------------------------------------------------------------
+She left about as she as she arrived, no doubt to keep our meeting private. I greatly regretted it, being post-coitus punch drunk and no one to talk to. A sudden lightness that made it simple to get things off my chest and unclog my mind.
 
-"We're lost, Hammond," Sherry informed, brushing the desert dust off the map.
+The act was nothing like I imagined. I had long fantasized of having a harem of girls, all waiting patiently for my sexual whim because I was me. They fawned every moment over every fiber of my being, living only for my satisfaction. The real act had been a bit... antagonistic, like a conquest for lack of a better word. I supposed that's why I halted and took a harsh though not abusive tone. I didn't quite know what I was doing, but it didn't set still for me to pursue sex too freely given.
 
-"You're always lost, Sherry. But we're on a road. It will be fine."
+All this worried me. The harem fantasy and my swift consumation. I was not concerned with the act itself, but worried about the consequences of another Mrs. Addison, also consuming Black Liquid Lust and showing up amongst the mobile homes of every man they could lay their hands on. Sex, as I knew from my lone fantasies and my current night, was not an activity that generally encouraged sharing.
 
-"You call this a road? You draw me away from Seattle, where it's cool and wet, to this dust bowl? I swear if I have to brush one more grain out of my top..."
+I had let her go, knowing she was off to the arms of another man, but leaving a bruise in a part of her mind I expected no one else could touch. But I wondered what vendettas would be piling up, as her men fought for control of her. Not that I suspected they would ever control her now, as long as that strange tar still clogged the streets.
 
-"What do you swear, Sherry?"
+------------------------------------
 
-"I'll take the benefits out of friends with benefits."
+The next week, for the first time I had known West Point, gossiping ceased. Given the increasingly voluptuous appearance of several other women, and newly charming and muscle bound men, I imagined that the town's night life had been so active that no one talked for fear they had some secret shame to be discussed shortly.
 
-"You'll like this place Sherry, I've told no one else."
+Big gossips seem to come in two varieties. The ones deflecting shameful attention from themselves and those that had no shame to hide and were building themselves up on the humiliations of others. At least these were my observations. Whatever there motives, they were all embarassingly quiet.
 
-"Other than a few, ahem, reputable, ahem, business partners I suppose? What's the deal?"
+It struck me, however, the rivalries would be breaking out in other forms throughout the town. I did not know how many had guessed that this new precipitation might be a wish-granting fluid of some kind. How much of life, I began to preoccupy myself with, involved the possession of things that could not be shared?
 
-"You haven't been following the news?"
+Of particular interest to me was the conflict I foresaw between Amanda and Atticus. Both had upped their ante it seemed. Amanda gave her first talk at her Bible study, a three minute observation on the subject of forgiveness. I honestly don't know if anyone could pay attention to it over the sound of consuming their own brownies. On my first bite I admit to staring at mine, wondering if she knew how to break the laws of physics to fit more chocolate in than was possible by Nature's laws alone.
 
-"The bourgeois news?"
+In any case, discussion on the topic of Jesus was light and carefree without being trite and shallow. Inspirational quotes that you wanted to think about throughout the week. Atticus on the other hand had seemed to acquire a new poetic flair for descriptions of sin, hellfire, and now sexual promiscuity. West Point's Sundays seemed destined to be filled with terror, even as Monday rolled around and the town rolled back to beer gambling, and the new sport of sneaking of for fornication at any time was inconvenient.
 
-"Yet, news a real estate developer needs to follow from time to time. Let me dispel you cultivated ignorance on this topic. About a week ago, what they're calling a Black Rain came."
+Wednesday rolled around for another meeting at Amanda's, which now required a guest list in order that services should be able to fit in her trailer. I signed up for next week and went back to Thursday gambling. I had been correct in picking out the two rather improved gamblers and by avoiding them all night managed to put some money back in my gambling / book fund.
 
-"A blues musician?"
+I returned to my trailer to find Ms. Addison waiting on me. She was wearing loose jeans and an oversized t-shirt, I thought looking not to provoke. I wondered if I should tell her that no clothes were going to hide her endowment but decided against it. She wanted me alone for some reason, though I wasn't quite sure what.
 
-"A flood of some unintendified black substance. I've heard it's considered a delicacy amongst a few obscure cooks in Reno."
+"Elmer kicked me out of the trailer," she told me, before I had much time to register her presence. She'd helped herself to a full saucepan of Blackness and my biggest spoon, and was taking massive helpings that she swallowed all once, from time to time wiping her face with her fingers and taking the opportunity to lick them seductively.
 
-"A few obscure cooks in Reno, Hammond? Listen to yourself."
+"You wish to stay here?"
 
-"The won't be obscure for long. You know of course, much against your delicate sensibilities, I follow Nevada state politics. So here's the story. A backdoor d--" Hammond jumped in his seat from a well placed pinch. "Yes, a backdoor deal. So listen to this, they find this Black Rain, and apparently it's some kind of delicacy. It's being shipped slowly to some restaurants in Reno that are having to turn people away. Someone in the state government thinks to get an exclusive contract. So he offers the mayor two contracts. One to present to the town, which it is known will get rejected, and the other that he wants. So a town meeting is called, and the town reads the contract, gets incensed, and rejects, and leaves the town meeting. But, and now here's where it gets interesting, the town meetings aren't over until a vote to end them. So the mayor just waits until everyone leaves, and signs the contract."
+"No, no, I'm sure I'll find a place."
 
-"This is some Wild West fantasy with you isn't it? Some official from the government swindles some poor frontier town and you're ready to make a buck on it because you have too much time on your hands."
+"I... how much of that stuff do you eat?" I asked.
 
-"For an artist you seem short on imagination."
+"Well, it's around four saucepans, but I'm wondering about five."
 
-Sherry said nothing but grimaced. Then she sniffed a bit and said, "What's that smell?"
+"So the um... weight loss is temporary?"
 
-"Huh?" Hammond asked.
+"I don't think it will reverse or anything. It's just that I've got competition."
 
-"Something smells good. I can't put my finger on it. It's certainly not hot leather."
+"I noticed."
 
-Hammond slowed the car a bit, and the smell of the Black Rain wafted in. "It's the smell of money."
+"Someone else proposition you?" she asked, intrigued.
 
-"What scheme is in that twisted, conniving head of yours?"
+"Not yet. It just occurred to me that you wouldn't be the only one this would happen to and that fact would be..." I tried to put some sass in like last time, "problematic. Need more ingredients to compete? Your appearance hasn't changed.
 
-"Well, the first thing everybody with any kind of money or power is going to conclude on seeing the town is that no one is qualified to manage its own affairs. A bunch of cowboys. You like cowboys, don't you?"
+"But my body has," she corrected. Then she stood, raised her jeans to reveal her feet, which were oddly curling. One she gradually lifted airborne, whilst she balanced her entire weight on her upright toes. Two thoughts instantly flashed into my head. "I hope those legs are spread for me" and "How the hell is she balancing herself with all that weight on her chest? I could feel a lust rising, but I remembered how essential a little waiting, a little antagonism had carried the day.
 
-"Hey, that was different."
+"But can you pireoutte?" I asked, and then without much warning pulled her arm so that the only thing she could do to keep her balance was spin.
 
-"Why because he was from Argentina?"
+"Hey, you asshole!" she interjected at first.
 
-"I thought you liked my sexual capriciousness. At least now that it favors you."
+"Spin, spin girl. Show off your body's grace and charm."
 
-"Joking aside, people don't trust others that aren't like them. So it's simple. I've made a few calls, a few google searches, a few craiglist ads, and I'm building a new restaurant in the place. All locals mind you. So when the rest of the vultures come calling, I'll be the respectable businessman."
+She spin around several times, not losing her supernatural balance, even as I jerked her to keep the spinning going.
 
-"What do you need me for? Isn't the decadent dilettante only going to get in the way of this whole narrative?"
+"I'm a... a ballerina!" She smiled. "But you'll have to catch me!" Whilst spinning she swung her leg down, which I had to instinctively dodge to not get kicked in the groin, and she leaned over, ready to fall and I jumped in place to catch her. I caught her by her loose sweater before tucking an arm under her back.
 
-"You'll be playing the part of my seclusive, exotic wife. Aren't many folks out here call it Friends With Benefits. They call it living in sin."
+She laughed, heartily, and without any indication she could stop. Over the course of several minutes she almost seemed ready to double over in pain.
 
-"What makes you think I'll be down for this plan?"
+A loud and insistent knock startled me. I was certain after that little stunt Ms. Addison would be happy to stay a while for company which I so rarely received. I supposed I had about a 2% chance of guessing who lay behind that door. It wasn't Atticus. He would have approached me in church.
 
-"The cuisine will be excellent. The degeneration of a Wild West town, that not appeal to your sensibilities? And there will be alcohol, plenty of it."
+"Amanda?" I asked. She was weeping.
 
-"You're pretty certain on that last point."
+"I heard laughter," she said quietly. I didn't think she was trying to pin some adultery gossip on me, especially given recent events. She looked miserable.
 
-"It's a rural community. There'll be liquor."
+"You want some cocoa?" I asked.
 
-"Well, this secluded exotic wife story better include a sick mother in California I can visit if I get bored."
+"That would be wonderful," she said, taking my hand up my trailer's rickety stairs. We went, hand in hand to my kitchen, me guiding her in the low light. She retracted her arm and spouted "Her!" Looking over at the splurging saucepan of blackness, the little black stain on Mrs. Addison's oversized sweater I realized I hadn't really prepared for respectable company.
 
-"Certainly." 
+"Relax. It's her night off." The truth of that statement remained to be seen, but Mrs. Addison's ragged clothes and general undolled appearance, coupled with the explosive laughter seemed to soothe her a bit. She sat down and drank her cocoa. As hormones were raging in the area, and Amanda had something of a wholesome image to uphold, I asked.
 
-"It's devious, I'll hand it to you. I'm in. You got a name for this place?"
+"It's about a man, isn't it?"
 
-"Sure do. Desert Rains Cafe." 
+"Is it that obvious," she asked. She obviously wanted it a secret.
 
--------------------------------------------------------------------------------
+"It's the damn slime, that's how I know. It's affected people. Mrs. Addison and I were just talking about that."
 
-"Another whiskey," Scott Wayland murmurred to the waitress of the Desert Rains Cafe.
+Sensing my tact and coming to my aid, she said. "It's really hard to talk to anyone but Timothy about it. But he kind of gets it."
 
-"Why don't I take this one myself?" Hammond Griggs answered.
+"I don't think this stuff does what people think it does."
 
-"The proprieator, at last. You've been a busy man," Scott replied.
+"Oh?"
 
-"Yes, well, business never sleeps."
+"People think it only turns you into a sex object but I think it does something different."
 
-"Truer words rarely spoken."
+"I think it might reflect something in your heart. Being lonely is so very difficult and I imagine, for people who've had poor sex lives I think it manifests as an ability to attract the opposite sex, and with some much of it lying everywhere, I think a few men and women are making the night a little, interesting."
 
-"You've been at the bar asking for me for a week so I hear."
+"I didn't mean too,"
 
-"Yes, first man to set up a business in West Point since the rains arrived. Local contractors, or as close to local as you could get it, this part of Nevada. Hired people in town, every scent of someone from the West going back home now that there's finally an opportunity... man of honor in a den of thieves..."
+"But everything felt so perfect, like everything was meant to be..." Mrs. Addison added.
 
-Hammond thought of escorting him out. It was clear these ramblings hadn't originated in drink, but had been there before he waited a week to see him. Perhaps it was someone that saw through his cover. Perhaps he was an ally. He let the man elaborate. 
+Amanda wailed and hid her head in her hands. "That was my line," I whispered. It was clear the words changed based on who said them.
 
-"And a soldier, no doubt?"
+"You're a woman, Amanda. Certain things turn you on."
 
-"Yes..." it seemed the drunk man had his eye up to a looking glass. Blurred yet with clarity. "Vietnam. How could you tell?"
+"It was also to easy. I gave in so quickly. You. Mrs. Addison doesn't seemed to have swayed you."
 
-"You don't slouch."
+"Well not tonight," I responded.
 
-"Make sure you're stiff as a board, those drill sergeants. You WWII?"
+"Oh, well that does make me feel better... I mean, not like that."
 
-"Korea. Brass had us convinced we were saving the free world. Funny how that seemed to involve the boys getting in trouble and the brass staying home. Not that I have anything bad to say about the company. Best of the best. But time is catching up to them, sure as a Chinese bullet." 
+"I know. Everyone's having this problem, not just you."
 
-"It bothers you," Hammond started, pulling up a chair, "having the military show up in West Point. Though I thought that might be a reference to the military."
+"Then how do I stop it?"
 
-"Not a whit. Grandfather always told us we were the West Point of... who cares? No one cares about the past anymore."
+"Talk about smashing penises, if you can manage it."
 
-"Of course not. Always our minds on the future."
+"I suppose that would do."
 
-"The future? The future? All I think of in the future is a world I'm not in. I don't mean that in some dreary way you understand. What will be left of things when I'm gone. Where do you see this town going? You're a man of the future. What will the generals and businessmen make of this place. They trust you with such things. I'm just a no good Old Timer."
+"I don't even think people would hold it against you, not with those Bible study dessert trays I've had the pleasure of sampling."
 
-"Well, the military men, the open ones. Seem interested in the potential of a food source that can appear from nowhere."
+Upon saying it I seemed to have found her cheeriness button."
 
-"So they can send there boys off to the next middle of nowhere country that's a fatal threat to our freedom?"
+"You've liked them?" she asked expectantly. "I think, you know, that Atticus, well, he's not really capturing the whole spirit of the religion I think. I mean, we're going to have to face our sins and all but I think we're given blessings here on earth too. And you know it hasn't escaped me notice that when it wasn't necessarily safe to be a Christian, when things were all uncertain and dangerous there were certain women that really stood out, and I thought, you know. I'm sorry I didn't invite you this time, that won't happen again."
 
-"Oh, come, come. You've got to give the generals more credit than that. There's rebel groups to fund, treasonous generals to support."
+"Well, you don't want to play favorites."
 
-"Good thing to know an upstanding man keeps a sense of humor."
+"But, I don't know what I would have done... you saved them. There's no denying it. Maybe you could be, you know, a guardian for it, if you want."
 
-"As for the businessmen, there are much like myself. They see opportunity. Particularly of a monetary kind. There are many more businessman here nowadays, as there are so many more opportunities."
+"Sounds lovely. I'm going to go back to my husband I suppose. I'm sure he's suspicious in times like these... but what were you laughing at?"
 
-"We had an opportunity. The town. We could have stood by each other and took our destiny in our own hands. Some older folks sensed it. They stood by me when I said we ought to work things out as a community. So things will work their way out. A liquor store here, a brothel there, hell, maybe even a Walmart."
+I signaled for Mrs. Addison to repeat the gesture. Again she climbed to the tip of her toes, again she lifted her knee to her head.
 
-"You might be interested to know there's a ISP interested in moving into the area."
+"Spin her," I told her, and with reluctance Amanda grabbed Mrs. Addison's arms and made her twirl a bit. The humor had somewhat worn off on the struggling ballerina about Amanda let out a throaty laugh as sweet as any of her divinely inspired baked goods, and then hurried out of my trailer.
 
-"A what?"
+"You know," Mrs. Addison stared rather lovingly at me, I wanted a wild, promiscuous sex life, but I think I like this better. My nights with you. Mind if I move in?
 
-"Internet Service Provider."
+"Not a problem Mrs. Addison."
 
-"The internet. We have to have that. Tell me, they got any plans for churches or schools?"
+"Sylvia."
 
-"We couldn't have civilization without those could we? School funding is still wrangling its way through state government. As for churches, I'm surprised I arrived here before a minister."
+-----------------------------------
 
-"What's that mean?"
+West Point was to become a split world for me. I was an observer by nature. I had to think, had to riddle, had to record, it was part of my nature. There was no doubt that Sylvia took a certain edge off, but it was there still, and she never disturbed my writing.
 
-"Well a shephard has to have a flock, hasn't he? So a cleverer shephard would find a pasture first and let the sheep come later."
+Outside my trailer the world had become a little different. No longer could my role as passive observer be excepted, but everyone seemed to want to put me in a different role. Elmer, the husband, nursed a well earned grudge and betrayal and refused any sort of divorce. If she wanted other men, it would have to be in sin, he exclaimed. The town quickly pieced together we were in a monogamous relationship, which pleased just about everyone but a few men who had whispered things to Sylvia in the night that they dared not have repeated.
 
-"That's what the world follows, huh? Cleverer shephards. Wiser shephards I should hope, but those are rare to come by."
+The men in town saw me as the one who tamed her, and had a certain fear of me. The women looked at me as the one who restored her virtue, in some way that they didn't really have words for. I, a reader, had the right word for her. I had taken a mistress. I played a prominent role at Amanda's bible studies and no one let on, in front of her, any moral distaste for me. I was, in short, the macho man that conquered the untamable woman, the effeminate man that prefer to read over booze and poker, the moral man of Amanda's Wednesdays, and the moral outrage for living so openly and unrepentantly with a married woman.
 
--------------------------------------------------------------------------------------------------------
+It was this last category I grew a secret concern about, and not because I cared if that was the general sentiment of the town. I grew concerned it was the opinion of Atticus Rex. Something did not sit right with me about the man. He had always had a solid, unreadable expression, though this was something you forgot because, as an orator, he had such an expressive voice. I couldn't shake that something was wrong in him. Of course, all I really had of his minds and opinions I acquired from his sermons. He did not accept my company in any other construct.
 
-"Oh God, Hammond, I don't know how much longer I can stay here." Sheryl moaned.
+Atticus had been the undisputed religious leader in the town for well over seven years. His sermons were always rather literal. He clearly thought of sin in terms of rather specific acts, and didn't open himself up much for interpretation. I wondered if this might indeed be a weakness of his, that he was so direct he would have neglected implications in his sermons, implications that betrayed his personal feelings. The tone of his sermons had grown perceptibly darker, and I journaled them because some ache told me there was something the matter.
 
-"What? You said..."
+Thus I began recording the contents of his sermons, the books and chapters of scripture he cited, and paid attention to the biblical characters whose actions he chose to spotlight. It was not hard to pick up on his habit of using the term "The Whore of Babylon" as a specific reference to Sylvia. I was reading the Bible a bit more now, and noted every mention of this figure was incongrous with the spirit of the biblical prophecy. I think he just liked the term whore, but dared not use it directly open on someone who was incomprehensively popular among some women in the town.
 
-"I know what I said."
+If I may add a note, before the Black Rains, being a mistress in West Point would have been a terrible burden and secret. But there were still men and women, and we all knew how they were, sneaking out for gobs of goop to fuel sexual romps with members of married couples. And we all knew how ferocious tempters and temptresses they were. While I preferred the more direct title of mistress for her, the more conservative referred to my **unconventional** relationship. I think they noticed to, the ease and happiness with which a new unofficial religious leader, Amanda, felt in her company. These were reasons enough for Sylvia to return to respectable society in a way unthinkable two years ago.
 
-"Only yesterday that you've down some of your best work here. So long luscious speech about parched yellows over a scorched sun, a grey humor over a land of destiny emerging from a soil covered in black. Soaring..."
+I might add that Sylvia's acceptance and even mild popularity were infuriating to Atticus. Whilst it was pretty much accepted the everyone in town, no matter how enticing or unattractive, had carried on an affair, they all viewed these acts as sinful, and guilt over sinful acts brought people to his services, looking for some sort of absolution.
 
-"Yes. I remember the sentiment Hammond. I did, as you point out, say it only yesterday. But come out of your office for once and look what's going on around you."
+Within about two months the character of his sermons most certainly changed, as one fateful night a Friday night gambler shot another over a disputed debt. This suggested that gambling, not infidelity, was a more pressing problem. Amanda arranged a silent vigil--a new practice in West Point--while Atticus took over the traditional funeral services.
 
-"Gladly, I need a break."
+The wind in Atticus' sails came back. It wasn't talked about, but I think it was secretly guessed, that a few gambler's had gotten some swagger from the rain. They played better and won big, until the shooting at least. But far too many people and gotten attached to the muck for it really to be practical to convince the town to get rid of it. Even Sylvia, who had by now firmly settled in with me, I'd caught swallowing a few spoonfuls from time to time, "In case those wenches get any ideas." (They did.)
 
-"See for a moment how the town is laid out."
+I suspected too that Amanda's ability to please as a hostess, as well as keep an unorganized religious meeting on track, most certainly had its origins in that substance. She was doing a real service to the community, offering comfort and solace. But I couldn't help but notice how much she enjoyed being admired and respected, and her sudden flair for theology seemed a bit unnatural. I'd never observed it in her before. I didn't concern myself with it. I thought of it as her dirty little secret, although not dirty in the shameful sense. I not think she would be anxious to be rid of it.
 
-Hammond took his shades and followed Sheryl out of his office. The still, gleaming black lake now everywhere in patches from being pillaged. 
+Atticus insisted we be rid of it. That it was a sign of our moral decay. We undertook the task immediately--the task, that was, of fooling Atticus that we had any intention of moving it. As the town's less than silent observer estimated, there were probably about 75% of the town taking it. I picked out about 5 male and 3 female temptresses still in our midst, 3 or 4 gamblers, 7 to 10 businessmen, and dozens of people who were happy in their own private way. West Point was a dangerous place at night, but I gather much more pleasant in the day. It was a new town, and too much had happened to go back.
 
-"There's the old cafe, the makeshift one you built before anything else could be erected, that had a kitchen area made from an old school bus with the seats removed."
+It was too in keeping with Atticus' sermons that the one on idleness was the clear evidence he knew we were slacking off. I knew it, Sylvia knew it, and above all, Amanda knew it. I hadn't said anything to her about it, but, during a packed Friday gambling night, she came scrambling into my trailer with the black substance smeared all over her dress. Friday night was a private night, for those who did not drink, dance, or gamble, and Amanda barged into the middle one of my love making sessions that was my typical Friday night activity.
 
-"Never seen such a shoddy site, but it made enough to get me a real establishment."
+"I have to..." she scrambled for words, "go to the bathroom."
 
-"There's what we might think of as old town, where the cattle ranchers and shop-keepers gathered because they couldn't think of a better place to meet, it's only inhabitants the dust mites. What came to replace it? Those trailers out there, built from government settlement money after the uranium bust, still held together by twine because there's no other way to hang the laundry."
+I had no idea what to say, and Sylvia did nothing to hand over her a wooden spoon, presumably for consuming what was left on her clothes.
 
-"This place has certainly gotten to your artistic sensibilities, hasn't it."
+"You're hungry," she said, smiling giddily without breaking expression.
 
-"And look there, where there's a straight line of earth where all the Black Rain is removed, some by automated bulldozer working hand in hand with village residents with shovels hoping to build up a store of Rain for future sale? You know what they're making their way for. Well, a road, obviously, but then what next? Walmarts and gas stations and strip malls and K-marts and Walgreens and..."
+Amanda was beat red, standing next to a naked woman who felt no self-consciousness whatsoever.
 
-"You did leave your Adderall behind didn't you? Didn't you?"
+"You don't understand," Sylvia continued. "I know hunger. There is hunger in the belly, hunger in the loins, hunger in the mind, and yes, hunger in the soul. And there is gobs of that great discovery or accident, and it goes down smooth and tastes delicious. But it doesn't satisfy. I was hungry for the sexual approval of every man I'd ever met. I ate it straight from sauce pans with a wooden spoon when I was too embarrassed to keep eating it with my hands. But then one day I cared about the sexual approval of one man," she kissed me softly.
 
-"I just needed a little to keep me at it before, before..."
+"Your flock, you worry about them so. And now you want to make sure your legendary cheeriness does not fade, your newly discovered intellect, your delicious baked goods which I'm sure have a rather obvious secret ingredient."
 
-"When's the last time you slept?"
+Amanda didn't say a word, but slowly scooped up the smears with her wooden spoon and ate them there giggling while we grabbed some blankets for modesty's sake.
 
-"I don't remember. I... there's some Vikaden in my purse."
+"He's splitting the town in two," she replied. "I go to church too, so I see attendance to both events, and I can see the invitations being refused are the people that show up to his services without fail. My service is on a Wednesday night, Wednesday, so people can steal my left over baked goods for when there's no money on Thursday. The easiest day to come, next to a Sunday. I never meant to compete with him."
 
-"No... no mixing uppers and downers, you know that." 
+"Not competition the way you're thinking about it. But you thought something was missing from the services." I told her.
 
-"There's just going to be so much..."
+"That's how he looks at it, isn't it?"
 
-"Suburbinzation?"
+"I've been observing Atticus quite closely over the past few months. There is something in him that I'm having difficulty placing. He's losing to his own hunger, whatever it's for."
 
-"Excess."
+"Hmm..." Amanda looked perplexed at her empty mug of cocoa. "I've been writing short passage as I think of them, but I think there's something I'll have to address in the present."
 
-"Why don't we go for a walk? I've been too busy. Let your muscles wind down."
+"Good luck," I offered, as she left my trailer looking for her own and her husband. It was the last time I saw her alive. Ever the journalist, I've compiled evidence of what has happened. Sometime around 3:30 there was a ferocious blast, which I struggled to identify at that hour of the night. Within a few minutes a gunshot was fired, and followed by an additional round several minutes later.
 
-"Right, right, that's a good idea. Tell me about business. Something boring, so I can drift off."
+Amanda Ashton found dead in her bed, a shotgun blast which nicked Mr. Ashton's left shoulder. Mr. Ashton rolled off the side of the bed, drew a 9mm pistol with which he shot the preacher Atticus Rex in the stomach. Mr. Ashton claims Mr. Rex subsequently dropped the shotgun, pleaded for his life and then attempted to rearm himself and was shot in the throat, which he died shortly thereafter.
 
-"I except your compliments. Besides, I really ought to save the interesting stuff until I'm out of earshot." 
+Mr. Ashton called to report the murder and what he and his lawyers have claimed was self defense. Mr. Ashton reports the final encounter as follows, that his wife had left the light on to work on a religious speech of some kind for her Wednesday bible meeting. He claims Mr. Rex shot her in the head while she was turned away from her. Upon drawing his own gun, Ashton recalls Rex pleading with him explaining his desire to kill two more people openly living in sin. Had said people needed the fear of God in them again. Mr. Ashton responded simply, "So do you," and shot him in the stomach. Upon appearing dead, Mr. Rex attempted to arm himself and shot Mr. Ashton again, who then fatally wounded him.
 
-"I see."
+Both Mr. Rex and Mrs. Ashton returned from an autopsy with a strange substance in their digestive system, a substance which littered the streets of West Point. The substance was in Mrs. Ashton's upper GI tract, and examiner estimates a meal of the substance approximately five hours before the shooting. Mr. Rex's entire digestive tract was full of the substance, coroner believes he had been eating at a regular pace since eight in the previous morning, and trails in the esophagus indicate a large imbibing of the substance right before the shooting. Strangely, the substance does not seem to have any clear toxic or intoxicating properties that might have altered anyone's behavior before the incident.
 
-"So, to start, the money's pouring in without any sense of what to do with it. I spend more of my time turning business proposals away than I do in working with potential bidders. The only organization capable of getting any of its assets this far into the desert has been the military. Surprise they'd turn up, huh?"
+Being Mrs. Ashton's silent protege the general agreement was that I prepare her last rites. I made preparation for a silent vigil, as she had done, and refused to bring in a minister for an official burial. I gave no reason for this arrangement, though those that best know the events of that night understand I wished her passing to in no way resemble what Mr. Rex would have done, if they were his procedings.
 
-"Strange, I haven't seen them, and I've done some looking."
+"Being shot from behind, Amanda left no parting words, but she had scribbled a few lines on a speech she wished to deliver during her Bible study. "What profit a man to gain the whole word but lose his own soul? The answer of course is, (smile here to indicate joke) the world. But it is a different world to the soulless. It will not be enough, and the new world will want more worlds, worlds that can only be generated from his own head, and these worlds, fullest of a soulless imagination, will not contain anything that is not perverted, or which is satisfying, necessitating the creation of more worlds of equal fruitlessness.
 
-"They've made themselves known to the towns movers and shakers."
+"A hunger for a food that can never satisfy that is what the soulless inherits. But I hold as idle fantasy those stories about selling your soul to the devil, because a sale implies a quick and decisive purchase. One loses one's soul by filling it with hunger until...
 
-"And they've left their starving artists out in the cold. How typical."
+"The note," I informed the audience, "ends here, and considering the note in detail, I hope that it is never finished, for anyone who can knows the hunger she set out to describe. I can only imagine..." here I failed to offer a timeline, "That give her new found voice, her caring, her leadership in these strange times that hunger had been replaced by the beautiful woman we'll always keep in our memories."
 
-"They've been a bit shadowy. They don't want to pull up in war machines and give the townsfolk the wrong impression."
+I had observed, journaled, pondered the human spirit in a handwriting that no one else would ever understand. I wondered, in the strange moment, if that had not only been practice for the one time I would have to address my entire town. I go back now to contemplating words likely never to be read.
 
-"Or the right one."
+I know Atticus Rex was after myself and Sylvia next, and so I can't help but feel I should be able to describe his motives. He was a preacher that believed in the benefits of a fear of God, that humans could not be moral creatures without an awareness of their upcoming judgment. But putting the fear of God into someone who does not have it is certainly a tricky business. Particuarly when the Black Rain came.
 
-"They don't want that one either. But to some extent we're here by their good graces. They know how to keep a population supplied in the desert. None of the speculators know that, and time has worked it out of the townsfolk that did. If we strangely never seem to run out of things, they're certainly the reason."
+It was impossible in the time of the Black Rain for anyone to stop, by old standards, an epidemic of infidelity. The Black Rain, when imbibed by those who strongest urge was lust, created sex symbols beyond my wildest imaginings that creatures of the flesh were overpowered by. I know I did not resist it. I spent many hours a week making love to a voluptuous woman and it never lost its appeal, it was never less ecstatic, and I trampled on social convention to continue it, and I imagine everyone else did at some point.
 
-"What do they want?"
+There was more to it than sex. Some hungry gamblers poached victims at the card tables, but I do think this escaped Rex's notice. I think he saw the rampant sex, unblessed by a marital union, and nothing he seemed to be able to do about it. Then came Amanda, groping for a solution. We didn't know where the future of West Point was. But we saw its present, saw us coming together on a Wednesday night when most of us were at each other's throats. Her solution did not involve fear of God because she wasn't afraid of God. Everyone knows Atticus tried to put it in her, but I think her heart always short circuited the attempt. Atticus solution's was drizzling a slow demise.
 
-"An army matches in its stomach."
+But murder? It took a long time for me to try to connect the Rex vision of the future into something that could only be saved by Amanda's death. After long reflection I realized I was not looking at the picture correctly. Then those moments of hunger I had seen came back to me, as did the autopsy report. Atticus was hungry, and when I saw that all things fell into place. Atticus did not care about putting the fear of God into anyone. He cared about putting the fear of Atticus Rex into everyone. The pulpit had only been a socially acceptable place to do so. I have recently taken to imagining Atticus Rex reading with great interest the Biblical account of hell, and knowing implicitly if not explicitly that he would create his greatest fear amongst those gathered in pews.
 
-"I'm starting to feel more sober already."
+Failing this, I think he conceived the notion of himself as the deranged gunman, and that fated morning he either gorged this Sodom's new culinary feast, perhaps waffling on whether or not to do the blasted deed, or hoping there was some secret recipe in it for his success. Well, he did succeed. Atticus' memory invokes fear here a great deal here, but he did not live to see it. Nor, I might add, did he live to see the generation of children raised at the Amanda K. Ashton Memorial Orphanage, an idea taken from a scribble in Amanda's notes. Already she had clearly seen the mess that might occur to a generation which could never be sure of its paternal descent. My children have friends there.
 
-"Well, then let's turn around. Don't want to get lost in the desert."
-
-"Hammond, look up."
-
-"What Sheryl?"
-
-"Do you see a cloud in the sky?"
-
-"No."
-
-"It's nearly nightfall."
-
-"So."
-
-"We're walking west. The North Star will be out and the flickering lights from the town will be more than enough to take us back."
-
-"Woman of the night."
-
-"You're damn right."
-
-"So, we shall go out further then, in our discussion of the town?"
-
-"You said you were holding something back."
-
-"The mob."
-
-"Seriously?"
-
-"Nevada real estate bubble? Are you surprised?"
-
-"Now that... that is something. Makes me want to break this town in."
-
-"You mean sleep with someone?"
-
-"A sailor should have girl for every town, and a girl a man for every ship. We're still just friends right?"
-
-"Right. Ok, right. I will say it's easier to be friends with benefits when you're getting all the benefits. Who'd you have in mind?"
-
-"Jimmy Wayland?"
-
-"What? He's half you're age."
-
-"He's legal, and I'm not that old. You wouldn't enjoy a romp with a girl that age?"
-
-"Ughh."
-
-"Oh, he'd worship me. What's that Sheryl? Anything I can do for you Sheryl?"
-
-"At your funeral no one will say you didn't get in enough sex."
-
-"Actually, there is someone who's struck my fancy. A journalist. Thought he might be here about the Rain, but it's hard to say, as he's never mentioned it. He's hard to read. He's been interested in selling my work. But I can't tell how much personal interest he has in it and how much is professional courtesy. I'm not sure what he's really up to. He's..."
-
-"A mystery, Sheryl?"
-
-"You know me well."
-
-"The sun will be setting soon Sheryl. You do know how to get back right?"
-
-"Of course."
-
-"Because you know what will happen if we don't, right?"
-
-"What?"
-
-"We'll be two friends out in the desert. Two, just friends in the desert."
-
-"Yes, just friends." 
-
-----------------------------------------------------------------------------
-
-"So... Joshua," Sheryl said nervously. "How much for the paintings?"
-
-"Ten thousand."
-
-"Thousand? Well, I guess this is the last time I have to sell myself to prostitution to pay a gas bill."
-
-Joshua Sanchez laughed. "You have a flourish for language Sheryl. Do you write?"
-
-"Not often. I can't really explain myself with words on paper."
-
-"Being good with words is an asset. But you see things, and that is what I'm interested in. So, you moved to this town before word got out about the Black Rain. When it was still just a secret spice in single proprieator restaurants in Reno. Why did you come so quickly."
-
-"Well it was Hammond's idea originally."
-
-"Hammond Griggs, my..." Sheryl floundered. She thought of the word friend, but recognized it would blow her cover. But she didn't want to appear taken in matrimony. "...husband. Yes, it was his idea initially."
-
-"So why did you come?"
-
-She hadn't expected this line of questioning. "He thought I'd like it. Which I do, but you don't believe we're married."
-
-Joshua didn't answer.
-
-"Well, we're umm..." Sheryl didn't know the best thing to say, only to note a practiced interviewer in front of her. "friends with benefits. We have to be discreet."
-
-"Then he ought to buy you a ring."
-
-"You won't tell anyone."
-
-"All my sources have strict confidentiality."
-
-"Well, that's a comfort. I know you're a journalist, and you're here to pick up some dirt on someone. But I'm afraid I don't know about any military plans or mob dealings."
-
-"Mob dealings?"
-
-"You know, setting up casinos or brothels or that kind of thing."
-
-"I'll have to keep an eye out for that. There's something too, I'd like you to keep an eye out for. If you happen to be inspired by any unusual vehicles, might you make it a point to put down license plate numbers."
-
-"Hmm. Will do. There's something I'd ask of you."
-
-"What?"
-
-"News from the outside world."
-
-"You have been following?"
-
-"Bourgeois news dampens the imagination."
-
-"Yes, well, the restaurants in Reno are doing double time. This substance, whatever it is, is so delicious people just can't stop coming back, and if you think Sin City is going to store losing tourist dollars to Reno, you've spent a little to much time at the art colony.
-
-"Now, the authorities have had time to notice the culinary change of Western Nevada, and some tests have already been run. It's organic, to be certain, but the lab rats won't eat it voluntarily. No abnormalities detected thus far. As far as the FDA is concerned they have no reason to conclude its not safe to eat.Of course the military is interested in a strange new chemical food source, and I imagine biotech firms as well. And now apparently, the mob.
-
-"So, Sheryl, your friend Hammond,"
-
-"A lot of people have been confidential with him, I think it best you be discreet in your dealings with him. He owns the joint you're sitting in though. Wait long enough and you might get his audience. Might not be worth your time though, there's not a lot he says, even to me. And though I wouldn't want to distract you if you've got any grand designs, you might have a chat with Scott Wayland, one of the Old Timers. The military has been here before, you see, for uranium mining I believe, and he might prove most valuable to you."
-
-"Thanks for the lead. Go capture West Point before the internet gets you. It's so hard to block out, just for having a phone."
-
-"Just how badly do the internet companies want out here?"
-
-"Want? The generals are bit tired of such primitive methods as radio transmissions."
-
----------------------------------------------------------------------------
-
-
-### Fragments for the story in progress, 01/16
-
-- Joshua takes an interview with Scott about the military's first excursion into uranium mining, finds and copies the schematics before the military thinks to recover it. 
-
-- The military plot, in this stage of the game, is merely to cause the Black Rain to come under the control of the government through a food-poisoning scheme. This is the plot the three band together to stop. The boom and bust of West Point, however it might rise and fall, remains outside the full control of the army, even as it's destiny may be up to developers at some point. 
-
-- Sheryl looked at the greatest drawing of her tenure at West Point. A sketch of the canvas topped church that neighbored the newly opened gas and liquor store. It was embellished with the meeting of an army officer with a mobster, gathering in place the five institutions that made it to West Point first. The military, the mob, the church, gas, and the liquor store. She labeled it "the necessities." 
-
-## New Story
-
-I'm on a new draft where the story helps along the major plot line, in addition to working for it's own sake. In this version there will be real people. Last version was more like an essay with description. I'm planning on a journalist interviewing:
-
-1. A traditionalist
-2. A military man
-3. A real estate developer.
-
-All these characters genuinely care about their surrounding and have a point of view. The traditionalist sees the changes as inevitable but wants old town values (democracy and participation) to remain. The military man grows tired of the private contractors and politicians sucking the government coffers dry through corruption in the military. He doesn't see the military presence to be any form of protection. The real estate developer has mob contacts and understands its interest in the town without supporting it, along with not being too happy about other speculators.
-
-### The Hidden Story
-
-The four interviews conclude with the story of those three characters banding together to stop a plot by the US military to engage in weapons research by putting engineered microorganisms in the black goop to see where it pops up. When no illness pops up, and the truck covertly carrying their corrupted goods disappears, they suspect a plot. However, no matter how hard they try, they can't pin it on anything but a random robbery. The journalist uncovers this story, but makes a point to hide it away, for later revealing.
-
-### The Real Estate Developer
-
-"I'm a real estate speculator--first one to show up in West Point. The root of all evil, according to some."
-
-"To the old timers."
-
-"To them certainly, but I'm more like them than they reckon."
-
-"How so?"
-
-"I'm not giving up on this town. The construction contractors, my fellow speculators, the industry--hell from a lot I've heard the military--are all going to give up when that Black Rain doesn't come a second time.
-
-"There'll only be three groups to hang on. The old timers, the church, and the mob."
-
-"Are they here now?"
-
-"The mob? They always show up in a real estate bubble."
-
-"You seem quite certain."
-
-"Listen son, people thought I was crazy when I said the mob was infiltrating the garbage companies. Who takes your trash out now? The mob goes anywhere it thinks the law won't find it. Like when the law sees too much profit in a land bubble to care about the mob getting a cut. It's just business."
-
-"Were you certain the Black Rain wouldn't come again when you came here?"
-
-"No, I didn't It's a funny story, what changed my mind."
-
-### The military / scientific officer
-
-Amongst my stories at West Point, there is one that remains the most troublesome, not necessarily for its content but certainly for who is involved--the military. It should surprise few people that the military should show an interest in a strange and unexplained food source. An army marches on its stomach after all. But some fuss always arises from actual physical evidence. Something that makes vague worries about the government fact. So here lies the account.
-
-It occurred to me that in the hasty constructions around West Point, for about a period of two and a half months there was only one public internet service provider in West Point. It would be expected that anyone offering covert services would take protective measures regarding access to the internet. However, should I get a record of the entire period these precautions could easily have not been enough to cover the government's tracks.
-
-Here I provide enough detail on how I obtained the data to verity my claims in this piece as legitimate.
-
-My researches led me to believe that the best way to hack their ISP would be to gain physical access to the machine. A great deal of security is (and should be) directed towards the internet. Security on the physical machine is minimal by comparison.
-
-My researches also led me to conclude that the one barrier safeguarding the machine was an administrative password.
-
-The security of a password, never really changed with the advent of computers. Outsiders must not learn the password and insiders must remember the password. Computer password should change frequently, be random, and not be written down.
-
-Owing to me lack of precise technical knowledge, it seemed my best hope that the administrator had violated the best practice of not writing the password down.
-
-If it were written down, it was also likely to be quite close to the computer for easy access, and not difficult for the administrator to find and refer to. Sure enough, it was there, and discovered with a determined search.
-
-Upon gaining restricted access, I had a list of files and folders that should be sufficient information for a hacker to gain access remotely. Given tips from an anonymous hacker, I succeeded in locating a file named /etc/shadow. This is usually the location of the system's encrypted passwords written in plain text. A hacker in possession of such a file has beaten security.
-
-I could have collected more information, but as my on-site access to the computer was limited I left quickly with the contents of that file. From there an attack on the ISP was possible. though I don't personally know the depth of the attack. Potentially every record was available: it is unreasonable to assume that for two and a half months the entire organization used encrypted connections / internet services for every single piece of communication and this turns out not to be the case.
-
-I came across a great deal of information whilst an anonymous group of hackers helped me sift through the digital details in a story with real information. Not just a random collection of facts but enough mutually supporting evidence to develop a full story.
-
-Any journalist, when faced with sensitive evidence, must make a determination of what is truly best to reveal. Should one release evidence or tell a story? If a story, who's story should be told?
-
-In my case I would like to reveal the military in its own words. How did they talk to each other during the event? It seemed to me a story that should be told and that unlike other stories, it had not been adequately treated by someone else.
-
-### The traditionalist
-
-"Back in my day, when something affected the town, there was a meeting. No one told you what to do on your land. But when you did something that affected all the town, you brought it up in the meeting. People didn't always agree. Sometimes they went against the agreements reached in those meetings. But everyone knew where you stood and where the town stood, and that if you went against the consensus your voice diminished."
-
-Now West Point town halls, there was a cast of disagreeable characters that made it hard to get things done. But things that affect everybody should be talked about by everybody.
-
-People will say you can't get things done that way in the town and that's the problem. I know we can't go back to the times before the Black Rain. But we're getting rid of the one thing that mattered.
-
-"Nowadays the real estate people do real estate, the school board does education, the big city food merchants talk to the state government on distribution Nobody talks to the..."
-
-"Stakeholders."
-
-"Stockholders?"
-
-"Well in business there are stockholders and stakeholders. The stakeholders are everyone that have a stake in the company's decision. Stockholders are the ones that stand to gain or lose money by a company's profits."
-
-"Outsiders or insiders right? It's only the insiders they listen to any more. And isn't it convenient that all the old timers are outsiders, irrelevant, couldn't possibly know what's good for the new town?"
-
-"All started with the damn mayor bamboozling us and making us follow the rules and not their spirit. A few months after the rains had come a scheme from everyone. A lot of people would have supported this or that, but no one wanted a meeting.
-
-"So some folks went after the mayor. There was a rule made about 15 years ago, I remembered it as I voted on it. You couldn't end a meeting without a majority vote to have it ended.
-
-"So the mayor comes with this contract. No one likes it, so after the discussion we all vote not to sign the contract and go home.
-
-"But the contract is fake. The terms were made to look poor. Because there's a real contract, with it's share of subtle legal traps he wants to pass. He waits for everyone to leave, without voting to end the meeting. Then he signs the contract he wants to pass when no one's there.
-
-"Now no one believes the action legitimate, but because it isn't written down you need a minimum person, and it's a legal contract enforced by the state it proved too hard to put a stop to it, even though most people wanted to.
-
-"Our people saw you could get things done this way, everyone decided to do things thins way, and the process suffered as a result."
-
-### Leaders
-
-1. **The Old Timer** :
-The Charming belligerent traditionalist Everyone knows he's probably against what the meetings for. Everyone's tired of leaving him to the same story about what went wrong with the town. But at the end of the day, he treats other members with respect, and that actually makes him a strong advocate.
-
-2. **Leader two**:
-The military man. Believes the military isn't a problem so much as the politicians and business executives influence over certain officers. Feels the town's much too precious resource that needs guarding, that the military is the right k e if only these outsiders would stop meddling. wants their resource to be publicly researched and fairly distributed.
-
-3. **Leader three**:
-the generally corrupted real estate speculator. There's a politically motivated killing that happens on one of his properties. As the traditionalist and army characters would probably be male, let's make the real estate character be female.
-
-**Plot**: for a body of corrupt officials, spread throughout military, government, business, and organized crime.
-
-"I can't believe we're going to a town meeting. We're gangsters, not the peon citizenry. Why are we here?"
-
-"Because we're gangsters. You know George Malone."
-
-George 'Crazy Eyes' Malone? Runs a string of kick ass brothels in Vegas?"
-
-"You know what his day job is? How he gets his dough?"
-
-"He don't make money on the brothels?:
-
-"he runs a trash company. Behind the mob's decision to go into the disposal industry from the get go. Garbage companies get paid by the government. Political contacts. They're unionized. Union contacts. Intensive capital requirements that the money launderers love. Man's where he is today because he'll sell anything to anyone if the price is right."
-
-"So what are we selling?"
-
-"Roads. The bases will love having a new route to smuggle coke to Vegas than 1-15.
-
-### Fragment: Military
-
-"You trying to tell a story about the war?"
-
-"About West Point."
-
-"In which the military is involved?"
-
-"Yes."
-
-"It's hard to tell a story about a war."
-
-"It has it's challenges."
-
-"Too may people have an investment in how the story should look. Both sides want a negative judgment of the enemy. Or they don't care about the enemy, they just want a poor judgment of war."
-
-"You seem to have sought this through."
-
-"I've had some... time... for reflection on this matter. I didn't always see eye-to-eye with the brass. Someone leveled a false accusation. Trumped up evidence. I fought the charges and won, but I was detained for some time. Nothing to do but think."
-
-"Where did this happen? Where were you stationed?"
-
-"Afghanistan. War doesn't seem to end there."
-
-"So you didn't like how Afghanistan was being run?"
-
-"Sounds obvious doesn't it? Best answer me this, how do you go off to a foreign land, overthrow a government, and then institute one that's popular? It's not impossible."
-
-"That is tricky."
-
-"There is a tendency, I think, that when you can't win your battles, you can change your objectives. Not stupid certainly."
-
-"And you didn't like the new objectives."
-
-"I didn't like the no objectives. When's the last time you heard a list of objectives that included a win condition?"
-
-"You mean other than the rebels just lay down arms?"
-
-"Yes. The enemy will eventually realize it can't win. If we just guard our cities and patrol the territories, they'll see our superior resolve. I don't know. I wasn't selected for active duty again. The whole area had a blooming narcotics trade.
-
-"I got the feeling, and I could never pin this on any specific commander, but that no one really took the idea of ridding a terrorist threat from Afghanistan seriously. That "victory" had changed so many times that "leaving" had not only been removed for the list of conditions on winning and been put on the list of conditions for losing."
-
-"What do you think the army had to gain for a constant presence?"
-
-"The military. The army is just a branch."
-
-"Well, same question."
-
-"No army is without its pilferers. The people who are just waiting to turn your back for petty advantage. Their dream battlefield is an unguarded treasure cove for looting, but they make best of what they can. While the regiment's taking a pounding they're most likely in the brothel.
-
-"The are the kind of people that benefit from a war lasting forever. Every day is another piece of jewelry, another romp with the locals, a new stripe on the shoulder, another oil contact for his buddies back home, another opium shipment to take a cut, anything and everything that will benefit him at the cost of the people back home.
-
-"I didn't care for these types and wouldn't look the other way, so I got sent here. Where the pilfering was worse. Less violent, but more rampant."
-
-"So what happened with West Point?"
-
-### Military, Science
-
-"what is it?"
-
-Our analyses could tell sir. It functions on a food source, a delicacy, but we can't tell where it came form."
-
-"what do the locals say?"
-
-"It rained down. Once. There doesn't seem to be anything that may have burst. Just an inexplicable drop of tasty goo."
-
-"It doesn't spoil?"
-
-"It doesn't appear to."
-
-"Has this happened anywhere else since, or was it a singular event?"
-
-"Singular as much as we can tell."
-
-"This kind of thing doesn't happen without a reason. Find it."
-
-"Yes sir."
-
-"does any one have some information to add at this point? chemical analysis? Epidemiological anything?"
-
-"No sir."
-
-"It seems we have a no-spoiling resource food in the hands of civilians."
-
-"It did full on their land sir."
-
-"We really ought to clean it up as soon as possible, as much as possible. There's all manner of use for it. As a food source. As a luxury good."
-
-"What would be the best way to clean it out?"
-
-"No one knows how safe it is?"
-
-"No."
-
-"You there gentleman. Come with me." The commander pointed and the four of them entered a sound proof room.
-
-When the door was slammed shut the commander turned around. "There's nothing that gets people toss out food than some food borne illness scare."
-
-"Is the general suggesting we poison the food?"
-
-"Not the general supply no. Plenty of food goes out to the restaurants in the area. A little could go a long way."
-
-"True. But we're talking about poisoning the American people here."
-
-"I know. But our men and women in uniform have needs as well. A potentially unlimited food source, think of it. There is a element of scandal in this though. Have to keep things quiet. Hire independent contractors. Have some people inside the CDC."
-
-"You can do that?"
-
-"Didn't get to be general for nothing."
-
-###
-
-"The truck was found with a gun shot tire, the drivers nowhere to be found, and the goop missing. Tire tracks lead away from the vehicle, barely visible in the sand. If the truck hadn't a GPS unit we might never have found it."
-
-"How our CDC guy in Vegas found anything? No E. Coli outbreak? We should have expected thirty or forty cases this week."
-
-"Nothing. We might see some isolated cases, but if someone's hoarding it, we might not see a case for years."
-
-The General groaned. "Then we're in damage control. Is there someone who could have tipped them off? How many points of contact do we have?"
-
-"There's our CDC guy, and anyone he talked out to get set up. There's our suppliers."
-
-"They're fine. A small unmarked box goes through enough hands no one can pin it except the contractor."
-
-"Who's the contractor?"
-
-"Mob. some cold sons-of-bitches. They don't cross the army for petty theft. If the contractors stole it, they'd be going rogue. Mob will hunt those bastards down if that's the wind of it."
-
-"Track our CDC guy. This is robbery or scruples. It could be robbery, but the pieces don't add up. Unless there were some independent thieves. Even then, illness should have popped up. I think the CDC guy's our man. But I'm not certain. Is there anything back from the lab on this stuff?"
-
-"Chemistry can't seem to break it up. It only digests in a human stomach. There's only one definite finding: feces are loaded with carbon dioxide. Only finding."
-
-"It's organic." the general grimaced. "That's it."
-
-"Can we try this slight again?"
-
-"It will take time. E Coli has to be brought in again, CDC needs palms greased and mob needs new recruits. All under scrutiny of a possible mole. It will take some time, if it's worth doing again. For now we'll just have to purchase it like everyone else. Unless some sickness breaks out."
-
-**How do might three unlikely heroes meet?**
-
-The Old Timer was in the army, talks to the military reformer, real estate developer talks to them after uncovering the plot.
