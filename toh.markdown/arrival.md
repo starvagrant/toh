@@ -1,4 +1,4 @@
-### The Ooze Explained
+### Arrival
 
 Dr. Creed shielded his eyes from the pouring rain, and felt his shoes sink into a thick molasses of mud. They were now splattered, and the mud was clinging to him, a slow drip down, a thick disgusting goo. The rain pelted it hard but still it stuck, like a an ink consuming confetti, a genetically engineered honey out of control, a black delicacy stuck to a desert flour, the corpse of a jellyfish not yet congealed. 
 

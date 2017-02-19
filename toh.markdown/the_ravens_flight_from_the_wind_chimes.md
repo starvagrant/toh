@@ -259,7 +259,7 @@ The woman laughed. It was a musical laughter, a sing song beautiful thing, excep
 
 "I can get the money."
 
-"Money? Oh dear. Oh dear." the woman sounded like mother disappointed in her child's repeated failure. "That's not really worth much to you is it? It's not really worth much to anyone. It changes hands just as soon as there's something more worthwhile to be purchased. No, I need for to betray a secret."
+"Money? Oh dear. Oh dear." the woman sounded like mother disappointed in her child's repeated failure. "That's not really worth much to you is it? It's not really worth much to anyone. It changes hands just as soon as there's something more worthwhile to be purchased. No, I need for you to betray a secret."
 
 "What?"
 
@@ -297,7 +297,7 @@ The woman laughed. It was a musical laughter, a sing song beautiful thing, excep
 
 "Humans have been telling stories since before they discovered fire. And they are all sent to death, these stories, after they reach the last pair of ears that will retell the tale."
 
-"What does this have to do with anything."
+"What does this have to do with anything?"
 
 "Creed spent his academic career, when he wasn't teaching, trying to revive dead stories. There was a story of particular obsession for him, one he thought he could revive, or perhaps wasn't really dead. But he discovered other stories. Stories from the land of the dead."
 
@@ -376,13 +376,13 @@ Electra, Creed, and Cora sprawled out of the vent. Electra flicked her lighter a
 
 The three followed the man, Creed talking the lead. "What is that, precisely sir?" Creed asked. 
 
-"An ancient mine?"
+"An ancient mine."
 
 "What kind of mine?" Creed asked.
 
 "That was never really determined, or I guess no one really told me. Here, we've got a little motorized cart that takes us over to the Theatre." The old man lifted his torch over a rusty mine cart, and motioned the three inward. He fiddled with the cart a bit and it bellowed forward.
 
-The Soviets built laboratory over the facility. State of the art at the time, even a brand new mainframe programmed by the famous Alexandros Samaras."
+"The Soviets built laboratory over the facility. State of the art at the time, even a brand new mainframe programmed by the famous Alexandros Samaras."
 
 "What?!" Electra exclaimed in surprise.
 
@@ -397,7 +397,6 @@ The Soviets built laboratory over the facility. State of the art at the time, ev
 "Your father was... very protective of you. I don't know if he let anyone in his room when you were there but I was playing chess over the system on the old computer terminal, and there was a player who beat me senseless. The user was in your father's room, and I figured..."
 
 "My dad made dead certain I could play chess," there was defiance in Electra's voice but Creed didn't know who it was directed at.
-
 
 "He said his grandfather challenged a grandmaster in Moscow, but I always wondered if that was a cover. Not that your father ever gave me reason to think he was lying to me. He was just so... restrained. He was the kind of guy who you could never tell what he was thinking."
 
