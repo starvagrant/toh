@@ -1,270 +1,373 @@
-"It's two days earlier this time," Margot stated flatly.
+"Whiskey sour, please," requested a small blonde woman, her hair back tightly, a few locks spilling onto her lab coat. She had no shot glass in front her. The gatherer around a man crying into his sleeve.
 
-"You're curious," Mark replied, fidgeting with some bread roolls provided as appetizers.
+"Mark, I..." Margot pleaded as Mark continued to cry. "Why don't you bring this up with your wife. I... I'm no good at this sort of thing.
 
-"I am." I know this time of year is hard on you."
+"I don't want comfort," Mark replied, trying to squelch back the rest of his tears. "My wife can't help but try and comfort me. It's not in her nature to let me despair."
 
-"It is, and things are different this year."
+"I don't want you to despair Mark."
 
-"Not so different. This is the third year in a row you've taken me to this tiny Italian restaurant to mourn your daughter. Me. Not your wife."
+"Yes but... she's dead Margot. Dead."
 
-"IO can't talk to my wife. She doesn't understand."
+"I know. I know the story. Not well, mind you, you know, things you've said at work."
 
-"I should think she would understand more than me. She lost a daughter too. Maybe she understand only too well?"
+"If only I'd taken her to the zoo and not the jungle. That jungle. Why not the Amazon? Why not India? Why Southeast Asia?"
 
-"You think you don't get it. You're single. You don't have any kinds. But you're a greater comfort than you realize."
+"You didn't know combat was there. The war was decades ago. Look you can blame the birthday idea, you can blame the location, you can blame the date. Hell, you can blame that you ate cheerios and missed the tour bus."
 
-"You're somber. You have a lost. I don't understand you half the time on these get yearly get togethers. I guess I just let you be. So be. What's on your mind this year?"
+"I do. All of it. It was me."
 
-"That's just it. You let me be. There's no, "It's not your fault', 'you couldn't have known', or 'don't be so hard on yourself'. I don't want to feel happy on the eve of my daughter's death. I want to feel miserable. And you... you want to see things as they are. Maybe it's the science background. Maybe it's a curiosity that lead you into science in the first place. Have I trailed off a bit? This year is going to be especially hard. That's why I desired to meet with your early. I've finished the numbers on our experiment."
+"Or you can blame the person that planted the land mine, decades ago. That person wanted to kill and didn't really care who. That it should kill a little girl from outside the country without helping the war effort at all--it's what a land mine does. All this talk about it being you're fault is really just blaming the victim.
 
-"Are they what we hoped?"
+"I know," Mark downed his whiskey sour, soon as it got to the table.
 
-"P-value .017. Statistical significance. The experiment found something."
+"Let you know if we need another one," Margot told the waiter.
 
-"That's wonderful! I hope... I guess you'll have to work hard to stay miserable this time around."
+"But reason has nothing to do with it. I can just feel her absence in my heart. There's something in me that's convinced I ought to have her smile back, her energy back, and nothing can sate it but an acknowledgement that it's there."
 
-"Yes."
+"Well... umm. It's there. You know I'm no good at this. Telling people what they should do."
 
-"Stay away from alcohol. You might do something you regret."
+"I know. You haven't even taken your lab coat off."
 
-"So speaks a woman of experience on these matters?"
+"Oh. Umm, I guess I should do that." Margot took off her coat and place it in her lap, but the formal hunter green blouse and matching long skirt didn't do much to make her look less formal or less out of place in the aging, cigarette stained bar, chosen mostly for the likelihood it would be empty.
 
-"That's none of your business." The words came out shriller than Margot expected. She let out a nervous chuckle to smooth the tension and hoped Mark was too caught up in his sorrow to notice.
+Mark laughed.
 
-"Let's look at the facts. My late daughter wanted to see the jungle. The jungles of Southeast Asia and not free of land mines. I tried to bury myself in my work. Analysis of uptake of metallic pollution in the soil by certain plant species. This was of obvious symbolic signficance, an attempt to make amends. And we did it. The plants we engineered remove metal from the soil, and in the four intervening years my wife bore me a darling baby girl, and I want to be miserable." Mark pounded on the table for emphasis, nearly knocking over Margot's wine glass.
+"What?" Margot asked.
 
-"And share your misery with someone who's not going to tell you to look on the bright side?"
+"Mouse. Mouse. Mouse. You could look coldly formal in a bikini."
 
-"Yes."
+She smiled. "So why bother to look any other way?"
 
-"Because, in my estimation the actions you took in response to your daugters death... if those are rewarded it implies your benefited from the tragedy."
+"Keeps you single."
 
-"Pretty much."
+"Ha! Like I've met oodles and oodles of men really worth the effort?"
 
-"And if I were to speculate this is indeed the case. Your current benefits did come about because of the tragedy. But things needn't have happened this way. Some other scientist could have done this work. Some years done the line you and your wife might have had another child even without one passing away. She didn't need to die for anything."
+"Ok, but still, you might consider giving your heart out to someone."
 
-"And the loss of a child... there's just a need. You're a biologist. You understand the strength of animal need."
+"That's what catalogues are for. My first love will always be my work. Our work. But since you don't want to be comforted, I guess now would be a bad time to discuss lab results."
 
-"Yes," Margot responded, averting Mark's gaze. She was certain the remark was pure brooding without innuendo. But Margot couldn't help but think of the matter.
+"Oh?"
 
-"Something wrong?"
+"Lot number 37. Soil samples indicate a copper reduction of 19%. Finding is statistically signficant."
 
-"I need a moment to think."
+"That's great."
 
-"Our roles are to reverse?"
+"Of course, our plant modifications only remove copper from the soil. They won't disarm unexploded land mines. So if you want to keep..."
 
-"Briefly." Margot replied. She tried to squelch her unwanted desires. Mark was an unyielding sort of man, in his own personal way, and that excited her. The reasons for her excitement--the desire to yield--was even more troubling to her than her fantasies about a married man. A distance past of high school dating had been with dumb hungry animals that demanded. Mark was different somehow. She could never put her finger on a specific thing, but there was an allure, an allure hopefully Mark would never discover and was not to be acted upon.
+"No. I don't think I can maintain a day of mourning with such good news. My despair is not so profound. I wonder how long it will take to get a good batch going?"
 
-Better to do what she'd done ofr a long time: stay single and focus on her career. Embrace her nickname, "Mousy Margot" for as long as things in her life didn't change. Enjoy the company of friends.
+"I'm not sure. I think we'll have to repeat the experiment a few times to get started. Then there's genome sequencing to be done. That ought to keep you on long enough for tenure. Maybe me too, if the publication gets big enough."
 
-"You've been a great colleague Mark."
+-------------------------------------
 
-"Thank you."
+A follow up on the copper hungry plants continued Mark, Margot, and team to consider the experiments promising, and a paper written on the experiments worked its way into publication. A follow up publication, however, discussing the nature and properties proved to be of great difficulty. It seemed the plants' nature changed based on experiment.
 
-"We've done important work. We can't expect to burn and bury our garbage away. Copper is a poisonous in sufficient quantity. It may not solve everything, but it's a contribution, and I'm glad to have done it with you."
+The copper never seemed absorbed in quite the same way. Sometimes a bright shimmer deposited itself on the plant's leaves, making them droop and sometimes, after prolonged human contact, shoot sparks. The sparks themselves could never be measured, because no one seemed to have the equipment handy during the few moments it happened. Cameras were installed to record the phenomena, but seemed to frequently hiss static around the same time as the sparks. Nothing seemed to be able to be recorded.
 
-"Thanks. Though the condition of our meeting was that I was to be miserable. If I can't manage it though, I suppose I can make an exception this year."
+It was known that some plants, some, responded dramatically to light in the blue to ultra-violet spectrum. Bathing a plant in such a light, however, had the effect of causing the stem to shoot upwards so quickly as to choke the leaves and die. Extracting DNA proved difficult, and whispers floated about that the DNA was changing during attempts to extract it. Some samples offered promising genes, other samples showed identical genes to those poisoned by the copper layered soils.
 
-"So what are your plans for the future?"
+This finding were greatly complicated when mercury laden soils were provided to the labs by mistake, and some plants adapted to them. Experiments were simplified to show that it was indeed the plants swallowing up the mercury. But after this firm conclusion was reached, the plant's rapid oddness reasserted itself again. The same occurred with iron ridden soils.
 
-"We have to get this study fit for publication. We'll have to delve into all the specifics of a limited subset of species whilst hoping to see parallel developments in the field. We can read those vicarously."
+Unable to grasp at the plants behavior scientifically, a collection of superstitions arose about the plants. Superstititions it was agreed should not infect the scientific process, but seemed to call the nerves of many members on the team. "Never measure liquids in round flasks. Always use angular beakers." "If you bathe a plant in blue light, turn the light switch on an off as quick as you can in five minute intervals." Not every scientist heeded this advice. The procedures were followed to the whim of each member of the team.
 
-"And if we see a variety of species capable of metabolizing industries many pollutants?"
+But the effect of posting these rules seemed immediate. Three weeks later a reliable DNA sample was identified, with several important genes modified, but only several. They all had to do with transportation of solutes to different areas of the plant--exactly as they should expect. The findings were reported, the potpourri of folded leaves, shimmering stems, and a bitter after taste in the air were neglected in the report. If anyone replicated **their** results, well, they'd be a bit more forthcoming. It seemed though, that if anyone hoped to clean toxic metal soils, they'd have to learn how to farm the plants.
 
-"I'll find the city dump and plant a garden."
+-----------------------------------------------
 
---------------------------------------------------------
+Mark looked up at his finished grant proposal. Whilst his team had found so many inconsistencies of its new metallic jungle, there was enough to go on to ask for funds. Reports of strange plant behavior did not leak far outside Mark's team, however. Some refused to believe in the plants seeming disregard for scientific principles, others had tried to point out the behavior to strangers, only to notice that every stranger with some authority opened the door to a lab filled with sickly plants that recovered a few days after that authority's absence.
 
-"Here we are," Margot declared, "back in your little restaurant."
+It was 10:15pm, Mark had lost track of time again. He would likely be arriving an hour after his wife's bedtime. She had grown suspicious of Margot, who it seemed was at the lab every night, often to 2 or 3 am. Being suspicious about Margot he knew was completely ridiculous. You had to get two shots down her before she would even consider a date. But then, his wife's jealousy seemed a little off kilter. She ignored when his eyes lingered a little too long on a young waitress, but disliked his unattractive female colleagues.
 
-"More wine," Mark said to the waiter.
+A sort of intimacy had developed between himself and Margot. When you could feel someone else's mind working on the exact same problem, seeing the same phenomena, working through the same puzzles, it was impossible to feel alone. Maybe she was jealous of that. But if that were her concern, it shouldn't trouble her much longer. A noteworthy publication would mean a larger team and a less initimate lab. He and Margot might get split duties and not see much of each other. The late nights might be cut short due to extra staff. There was just one more night of potential couch sleeping, Mark was sure of it. He shuffled his papers to their proper slots and informed Margot he was leaving. She barely looked up.
 
-"You were saying something about incremental knowledge. Working towards a greater goal?"
+Within a few weeks the university's change in plans was announced. It did involve more laboratory staff, a larger share of the budget as anticipated, but there were also two nasty surprises. A considerable grant had been offered to the project by the military, and the university insisted the discovered genes be patented.
 
-"That was eight months ago."
+Mark sought out Margot when she was alone. He was project leader, but she, having put in so many hours, had become a sort of silent partner. Someone who's mind was on the same goal, thinking the same things.
 
-"Has so much time passed?"
+"We can't get caught up in military research," Mark insisted.
 
-"Ugh." Mark gulped down of what remained of the first wine bottle.
+"It's not military research." Margot responded. "It's a one time grant. For research that will make it into public journals."
 
-"I'll take that to mean yes."
+"I know that's what it looks like. What it means is we get a budget that we'll have to cut three years down the line if things don't pan out."
 
-"I can't understand it."
+"But that's what any grant is like. I know you don't see eye-to-eye with the military. But what possible weapon could they make from our project?"
 
-"I'm just as baffled."
+"And the patent?"
 
-"Organic life is filled with... with enzymes, proteins, genes, complex biological processes that are very specific. They don't just..."
+"I'm sure they're just worried someone will patent the genes and take the glory for themselves. Just takes a bit of risk out of the investment."
 
-"They don't just eat metal."
+"And puts the dollars into the university budget. I thought we were going to make whatever seed came out of this publicly distributable. So farmers on marginal land could still afford it."
 
-"This isn't science. It's alchemy. The plants are absorbing the metallic properties of the soil."
+"I don't think that's what the university has in mind for our project."
 
-"I just, there's got to be another explanation."
+"Well you seem all fine and dandy. Since when have you become an apologist for the corruption of science?"
 
-"What explanation? Copper is not plant food. Neither is iron. Neither is mercury."
+Margot looked over at Mark and said nothing. She looked genuinely hurt. "I thought all about it last night, after you went home."
 
-"Neither is uranium."
+"I'm sorry."
 
-"Hmph. I bet if we tested that, this plants would eat it too."
+"It does have a funny smell to it I know. It does, contrary to your persuasion, seem to me to be a slight corruption of scientifc inquiry. But our little project, well it's not so little. There are other players know, and they don't think about science like you or I do."
 
-"Well, we're going to find out soon."
+"Doesn't that frighten you?"
 
-"Since when did we get access to that?"
+"A little. I'm sure they see in our project money, power, glory even. A great discovery confers all three. I have thought about it. I think if we want to continue our academic inquiry, we have to pay to play, so to speak."
 
-"The grant proposal went through. You didn't get that email?"
+"No. No. Absolutely not. Money, power, glory, listen to yourself!"
 
-"We've been swamped. I can't remember the last time I checked it."
+"You are... taking it worse than I thought you would. It's like we're at the bar, that day of mourning you had."
 
-"I found out about it three days ago."
+"It's very much like that bar."
 
-"Why didn't you mention it?"
+"You wanted, as I recall, to feel your despair uncomforted."
 
-"We've been swamped. I've been reading up on it. It's Uranium 238, the kind that doesn't... fission. Is that a word?"
+"That's what I said. But I don't think, that I could have explained what I wanted to explain at the time."
 
-"Try split."
+"Now would be a fine time if you can express it now."
 
-"Ok, it's the Uranium atoms they don't split. It's alpha radiation, so we'll just need a little bit of protective gear. It should be safe."
+"Every step I've taken in life is now linked to my daughter's death. I had another boy, you know. He owes his life to my mistake. I changed my subject of study, that's part of it too."
 
-"How? How would the lab have access to that kind of thing? Some government agency had to have signed off on it. And I've never known bureaucrats to clear something so quickly. Some high up the ladder looked over our research. The Department of Energy maybe?"
+"So does any point in our past affect us. Your despair defines that moment as pitiful."
 
-"The military."
+"You don't understand. I **can't** profit from my daughter's death."
 
-"No."
+"You let that moment control too much of your life. I have, you know, had two or three years to toss around what you said to me in my head. You didn't expect me not to think about it did you?"
 
-"They use depleted uranium in artillery shells. I could see why they'd want to see if it could be removed from the soil. At least, that's were the uranium is coming from. Military surplus."
+"Well, I guess I shouldn't have."
 
-"Absolutely not."
+"You want it to be someone's fault. You could lay the blame on yourself, as I'm sure you've tried. But you know you couldn't have guessed. So all you have is some nameless soldier. It's his fault this happened, but you'll never meet him. He never intended it to be you. What you can't get over is that it was an accident."
 
-"Mark..." I know they don't think highly of the military.
+"You're right Margot. It was an accident. But I'm not having these experiments turn into another accident. The warning signs are all there."
 
-"They killed my daughter!"
+"I think you've blown them out of proportion."
 
-"Those were different people, in a different time."
+"Well I don't care what proportion they're in or not. If the military stays, I resign. If the patent stays, I resign. You can put your name on the work Margot. You've earned it."
 
-"No. They're the same people, in the same time. Not the same physical people. But people with the same thoughts in their heads as killed my daughter."
+-----------------------------------------------
 
-"Mark. I think you're overstating your case."
+Mark groggily answered his cell phone at 1:17am. It was Margot. He could not remember the last time they had talked.
 
-"No. People are their thoughts. Same thoughts, same people."
+"Margot?" he said in confusion, then wondered about disturbing his wife. He walked down to the kitchen in his pajamas.
 
-"I don't disagree with how you feel."
+"I need to speak with you. It's a matter of life and death."
 
-"But you want me to change my mind?"
+"What? What are you talking about? What's going on? Why haven't you called the police?"
 
-"I don't... maybe we've both had a little too much wine. Maybe we both aren't thinking clearly."
+"They can't help me... I need a place to hide Mark."
 
-"I can see what this is, drunk or sober."
+"You thinking of coming here? I'm in Omaha. I should imagine that a bit of a stretch."
 
-"Then what is it?"
+"I don't care. I'm coming tonight. I'm packed and ready. All I need is your say so."
 
-"They think we have a weapon."
+"If it's that urgent..." he began, but the send of a car engine cut him off.
 
-"We might, but it's not so simple. It's toxic metals, removed from the soil. The army used those shells in Iraq. If we could remove the traces... it would be just like you always wanted. Erasing the remnants of war. You want that don't you?"
+"I'll call you back later." As sudden as it started, it stopped. Mark wasn't even quite sure Margot really had plans to visit. But whatever it was in her voice, the wife wasn't going to like it. He sat down to eat some corn flakes alone, but he was joined by his wife and not really given time to sugar coat anything.
 
-"Of course I do. But the money will be coming from them."
+"Who was that? You sounded quite scared."
 
-"The university gets funding from a lot of sources."
+"It was Margot, honey. I don't know how to say this, but she sounded like she needed a place to stay."
 
-"Not like theirs. Their pockets don't have bottoms. They have room for as much as you can imagine, and they wouldn't be unhappy to have a brand new lab."
+"She has her own money I should hope. From the university you quit? Our budget's stretched tight as it is."
 
-"Mark, you're being unreasonable."
+"I think... she may have some cash with her, but I can't help but wonder if she's out of a job. But she's a teacher. There's work for her somewhere."
 
-"I am not. They control the purse strings, they control where the resource goes. You know as well as I that the plants absorbing the metals can't be released into the wild. They'll kill anything that eats them until we understand the chemical process."
+"As long as you two don't get caught up in any experiments."
 
-"Mark, keep your voice down." Margot implored, grabbing him by the wrist. It was a sudden move, and she thought to comfort. She thought to restrain. But the touch electrified her. They were drunk. A night of indiscretion might be forgiven...
+"Those days are behind me."
 
-"Margot, what's wrong?"
+"Good. I went to bed lonely a lot of nights because of her."
 
-"I think I'm going to be sick."
+"Because of my work."
 
-"I didn't mean to. Maybe I am a little... I don't expect my attitude to change when I sober up. But I guess I have been... I didn't mean to yell at you. I'm not angry at you."
+"Because of her. You two just get caught up in your biology... I know. I know. Mouse you call her. Couldn't attract a drunkard. But she was stealing your heart from me."
 
-"I..." she averted her gaze. "I kind of like seeing you angry."
+"No she wasn't! Well, maybe a little. We did have that weird mind meld thing happen sometimes. But the experiment's over."
 
-"You do?"
+"Not for her I'm guessing. No funny business with you mister. I'll be watching."
 
-"It shows your dedication. Your commitment to your values."
+Mark ate his corn flakes but couldn't sleep. Margot sounded more like she was fleeing domestic violence than anything that would have arisen in her job. Another phone call came in about an hour later. Mark could hear road noise.
 
-"Oh. Well, for what it's worth Margot, I don't think it would necessarily be bad, if you went ahead with the project. It's just, well, it goes against me principles. You understand principles, don't you?"
+"I'm sorry to wake you again," she apologized.
 
-"I understand the idea. What do you mean by it?"
+"I never fell back to sleep.
 
-"A principle is something that you don't go against, no matter how reasonable it may seem. A principle is something you hold in your core, and the ration and reason in the world can't get it out. Maybe that's unscientific. But then again, I'm not on the clock. I'm not conducting an experiment. I'm talking about values. I will not assist the military."
+"I just need to make sure everything stayed... private."
 
-"Even in doing an experiment you would do in their absence?"
+"What are you running from?" Mark asked.
 
-"Yes."
+"Well, you said getting military funding was a bad idea. You were right. I just need someone to talk to about the... experiment. I signed an NDA, so I needed to talk to someone you know, a little covert."
 
-"I hadn't anticipated the strength of your reaction. I think the work we've done is important. The kind of thing they immemorialize in a textbook. You're my co-author, but don't be surprised if I continue on without you."
+"Well, don't say anything you might regret."
 
-"You know I can't just let this happen."
+"That's why I need to talk to you in person. I've got a decision to make and realized I could disappear for a weekend."
 
-"No, you can't. That means resignation, doesn't it?"
+"So it's just the weekend? That'll ease the concerns of the wife."
 
-"It does."
+"She still jealous?"
 
-"Well... it's likely we can't get the uranium from anywhere else. But... you've been important to the university. If you were to resign over the funding. If you were to insist that it be purchased from the military but without any funding from the Department of Defence."
+"I promised my heart to her. She can't have some nerdy girl seduce my brain."
 
-"I might be able to stomach that Margot. If it were a one time purchase, the money might not have as much leverage as I fear. But... you've got to keep that compromise a secret. If that's the compromise I'm going to get, I'm going to have to demand more."
+"Is that why she never liked me? Well, I have a lot of science to talk about. Didn't know if I could cram it into a weekend."
 
-"Ah. Politics. I was never any good at it."
+"So what happened when I stormed out? I know there were some papers, but I didn't read them."
 
-"It wouldn't surprise you to know I've done a little war protesting."
+"You really dropped your interest that much."
 
-"It's hard to imagine you wouldn't."
+"I stopped talking to the experimenters remember? Hell, I left the university system. I had interest, especially in the early days, but no access."
 
-"It can't be my private martyrdom. The school will have to feel some heat. Student organizing, protests, rallies, editorials. Hell, get some students to yammer on social media. Facebook and Twitter and that sort of thing. The students will know how to use those tools. So..."
+"Well, you'll remember how hard it was to keep those metal siphoning plants under control. The soil wasn't enigmatic and we could measure that. But the odd crystalline structures, the metals never ending up in the same places, the incosistency of their growth patterns..."
 
-"Yes Mark?"
+"We got a handle on that, as I recall."
 
-"Can you play the good cop to my bad cop? Can you defend me to the insiders, who won't take kindly to me from the sheer negative publicity?"
+"Yes, well, I mean you know what happened. The gene sequences were so inconsistent that we just took several samples from the same specimens. Oh, our results got replicated. But no one ever reported, that lack of control."
 
-"I think I can. I do know... I do know the money can compromise the experiment. I think maybe the university values its independence and commitment to inquiry more than you're giving them credit for. So putting up a fight, I don't think the idea doesn't have value. I don't think it needs to be here, and now, on this issue. But I want you to do it."
+"Until the memo went up."
 
-"Good, because if you think things are stressful now, brace yourself. I'm going to raise hell."
+"Right! The memo. A scattering of superstitions that half of us ignored... I have been thinking, for a long time, that we were looking at a quantum phenomena. That's the only hard science were physics changes as a result of the observer. Like the rules of plant science were bending just for us. Weird."
 
-Margot began to say, "I wouldn't have it any other way," but she paused. She still hadn't forgotten the touch, and how unwanted the excitement had been. She didn't trust herself not to thrown in a little sultriness to her tone when she made that statement.
+"It was."
 
----------------------------------------
-**Note: Needs Beginning Scene**
+"Well, we continued our work. There was some talk of trying to bottle this stuff. I mean grow it in cultures, engineer plants. Then we designed an experiment as a favor to our underwriters. The military didn't seem as interested in the metals we were working with.
 
-"You were not naive," Margot responded, "You didn't want to work on a project that might be compormoised. Your leaving might leave them on their toes regarding integrity. I'm stayoing on. I'm a biologist. I can't walk away from this. I will miss you. But maybe you're leaving will mean..."
+"They were a lot more interested in plants that could absorb uranium. Not the fissile kind. The depleted kind, the kind the use to make those bunker buster bombs. Couldn't clean out battlefield toxicity without it, and they kind of had a point."
 
-"Mean what?"
+"So what happened. Did you find plants that worked like that?"
 
-"That Mousey Margot can look to your example and stand up too, if she needs to."
+"Well yes. But something happened."
 
-"Mark let a deep breath surge through his nostrils, "I am leaving the place in capable hands." He paused. Marogt wondered if he was planning something. "I think it would be best if I never entered this room after tongith. But I think I should... Have something to remember this night."
+"What?"
 
-Margot's heart started pounding. "Like what?" she said softly.
+"This guy Dobson showed up, and well, all that chaos?"
 
-"Some that has nothing to do with science. "That that damn lab coat off. It doesn't suit the moment."
+"Yeah."
 
-"What then?"
+"It disappeared. The plants went back to being, well, plants. They had odd colorations or minor structural problems, but normal. I think the man scared the plants."
 
-"I don't know, poetry maybe. Photography? I have a cell phpne. I'd sketch if I were any good at it. "Wait. Don't you darw? I thought you said you did."
+"He bad news?"
 
-"It's been a long time. I was never any good. Not really."
+"Definitely. Classified the project, made me sign an NDA."
 
-"But now's a good night for not really."
+"Then why?"
 
-"Yeah. A good night for not really. I guess I can do that."
+"Well, I haven't really told you about anything after the NDA. This is just what you would have learned if you'd stayed in contact."
 
-Scrap paper and pencils where not hard to find, but a proper angle for observation proved more challenging. What was to be emphasized? The plants or the spaces between them? They were separated from each other in precision fashion, with identical lighting applied to each. It was not conducive to a landscape.
+"But you need to say more?"
 
-Margot, having surveyed the square, proceeded a little to the left. She looked at the garden as a whole, and knew it was for the first time. Not something to measure and control. Only observe, and try to represent. She cocked her head curiously."
+"Yes. In person."
 
-"What?" asked Mark.
+"Well, I suppose we could meet at the Lonestar BBQ. I um, don't think the Omaha-Texas crossover BBQ tradition is going to attract to much attention."
 
-"There's a gradient."
+"I'm a vegan."
 
-"A gradient?"
+"So no one will think to look for you there. I'm sure you'll find something."
 
-"Yes, a gradual transition of color. There's four groups of plants--coppoer, iron, mercury, and control. The control ivy is green. But the brownish tinge with a hint of green fom the copper leaves? Look how it just fades form plant to plant. If there was major coloration for each element, you'd expect discrete colors for each row of plants. It's like they're not absorbing the elements from the soil. It's like they're breathing them from the air."
+----------------------------------
 
-"Breathing huh? I should wonder if maybe it's not an infection."
+The Lonestar BBQ was not much to look at--the fancy of two aspiring entrepeneurs that thought an Omaha strip mall was going to be the capital of a new BBQ tradition. The Kansas City tradition was closer and more what Mark would have expected customers to want. It's mostly empty chairs on a Saturday morning seemed to speak to his suspicions. The whole damn place looked like a make shift party room with cheap furniture rentals for tables.
 
-"Infection? That could certainly suggest a few experiments."
+Margot showed up alone, though Mark looked over her shoulder for some time. He yawned, watered himself with a little coffee and said, "So what's so damn important?"
 
-"Well, you might want to keep those private, considering the circumstances."
+"It's the project. Remember I talked about the uranium plants?"
+
+"Yes. That was quite the twist. Implied they did something sinister. They find weapons of mass destruction?"
+
+"We were a bit, naive, when we decided to try seeping up metal from battlefields."
+
+"What do you mean?"
+
+"The lasting environmental impact of a battlezone. We wanted to get rid of it. Wanted things to heal. But a battlefield does something. It doesn't do it well or straight-forwardly. But it, shows, really shows, the devastation of war. It creates a record, blossoms a memory that doesn't forget. Without that memory... the field is ready for another battle."
+
+"You mean the plants white wash the evidence?"
+
+"Not really of course. You find uranium consuming plants, you'll find uranium shells just waiting in the soil. But the plants look like flourishing and recovery. That's what they were interested in. You guessed it. Not what happened, but the underlying principle."
+
+"So, what are you going to do?"
+
+"Well, I can't quit the project. It's part of the agreement."
+
+"Then what do you intend to do?"
+
+"I need your opinion on this Dobson guy. All that expectation around the office? I don't know what happened but he killed it. The plants seemed to respond immediately."
+
+"You know I never really worked it out why those plants behaved so... unreally. What's the deal with this Dobson guy?"
+
+"I just. He scares me. Back in that bar all those years ago. You were trying to talk about a sorrow you couldn't reason with? Well, he's a fear I can't seem to reason with. His mind is... well, there's no invention you could fathom that he couldn't turn into a weapon. I think our pollution preventation project of ours is just a drop in the bucket. He's ruthless, and I'm terrified of what's behind him. The kind of project he's working for. So I've just sort of done my job, knowing that no matter what fascination science has for me, it will become a weapon to handle someone else."
+
+"Get out then."
+
+"I can't get out like you though. It's not that easy. I'm stuck in the contract."
+
+'Ha! Easy, you call my getting out easy? Going from hotshot experimentor to high school science teacher with a wife and two boys?"
+
+"Of course I didn't mean to..."
+
+"I know you didn't mean anything by it. What I'm say to you is, it's dealing with the unknown that's the huge obstacle. Once I settled in Omaha well, I've eked out a normal life for my family."
+
+"Yeah..." Margot looked hopeful. "I'll get out. Never say a word to anybody. Why would they bother themselves too much if I disappeared and just didn't say anything?"
+
+-----------------------------------------
+
+"Margot, Margot. I've been looking for you," Dobson chided. He looked down on her, sopping wet and trying to change a tire in the dark. "Country roads can be so dangerous in this kind of rain."
+
+"I'm not going back to work. You can find someone else to be your stooge."
+
+"You've been with the project since the beginning. You're a valuable asset." Dobson's voice was smooth and confident. I suggested a safety and security for an unresisted return.
+
+"Valuable to you, you mean," Margot fired back.
+
+"I don't think you've really appreciated the importance of your work. Come, let's get out of the rain."
+
+"I know the value of what was my work. That's why I ran."
+
+"You and your friend envisioned a world where the stains of war would be washed away--eaten by plants. You envisioned an end of undetonated explosives in fields no longer at war. So simple, and so limited. Why wouldn't it be preferable to wipe the record of the battle from existence?"
+
+"But you don't intend on wiping battles clean at all."
+
+"But I do. America remains the most prosperous nation on earth, and does half its military spending. I know the correlation is far more direct than our citizens believe it to be. There are little battefields everywhere on earth. Special forces, intelligence plots, the list swells. But awareness of these battles is dim indeed.
+
+"War has always had two components. The soldiers on the field and the soldiers at home. The soldiers at home have grown so very picky. They are swayed by arguments about justice and civilian casualties. But war is needed to ensure prosperity."
+
+"Spare me the sermon."
+
+"No sermon. Explanation. If there were simply no record of the war at all, well, imagine how much money that would save conducting it."
+
+"And I'm sure the taxpayer would rejoice at the windfall," Margot sneered.
+
+"You just don't see the beauty of a nation with no historical memory," Dobson sighed. "But don't worry. I do, and so long as you keep working for me, I suppose that will do."
+
+"I guess I can't run anymore," Margot sighed, and picked herself and her tire iron out of the mud.
+
+"No you can't," replied Dobson, "Get in my car," he beckoned with his gun and turned to his vehicle. Perhaps it was the rain, perhaps it was overconfidence, but he hadn't noticed that Margot hadn't dropped the tire iron. Within seconds of her no longer in his line of sight, he was struck hard on his right shoulder. The blow sent him sprawling and he dropped his gun. He struggled to get to his feet but then a blow landed on the back of his right leg. He swivelled away trying to get outside the reach of the tire iron, with the result that he was struck hard on the left leg. Metal crunching bone left a sickening echo in the air.
+
+He could see Margot, barely, in the light cast by his car's headlights. Dripping with mud and holding the tire iron with both hands above her head in striking mode, she did not look like one that had earned the nickname Mouse.
+
+"Margot, what are you doing?" Dobson pleaded in shock. His limbs were in no condition to attempt an escape.
+
+"Some things have to be taken by force, general. You taught me that."
+
+"What do you want? Whatever it is you want, I can get it."
+
+"I want my soul back."
+
+"You don't have to continue with your work."
+
+Another blow came crashing down on his ribs before he could help it. He gasped for air.
+
+"Not my work. My soul. I saw a world that needn't stay poisoned after war had left it. You took the light of my discoveries and turned them into a blindfold. You saw in it only a way the killing could continue. A way that war could be hidden. A way that the horrors of war would forever remain only in the hearts of those that lived and died."
+
+"But what about your own horror?"
+
+"If I must carry a burden of horror, let it be this. Let it be this."
+
+"How do you get your soul back from this?"
+
+"I will get my soul back when you die, knowing that you are a coward."
+
+"What?"
+
+"A coward. A coward. A coward. Hiding behind guns, money, institutions, the death of braver men, halfway around a planet."
+
+"Ok. Ok, I understand. You don't need my death. We can make a deal."
+
+"Men like you don't make deals," Margot sneered again. A chill went through Dobson's heart. He knew, if it were him, he would never leave someone in his position alive. But he was certain Margot's heart was different, that it did not have the conviction to end someone.
+
+"Margot, you're not..." Dobson pleaded, but the blow came just the same. Dobson's head ground itself into the mud, then bobbed gently.
