@@ -1,6 +1,11 @@
-The Spectre of Atlantis
-
-
+### The Spectre of Atlantis
+<!--
+= Chapter 1: The Spectre of Atlantis
+Characters: Dr. Creed
+Tags: History, Story of the Monolith
+Status: Complete::Staging 
+Synopsis: Dr. Creed discovers ancient documents regarding the fall of an ancient Monolith whilst drinking to forget the indignities of scholarly mediocrity.
+-->
 
 The door to Dr. Creed's office hovered a bit as he realized his belongings had been ransacked. Given that there were only three days before finals, he could only come to the conclusion that it was a student looking for a copy of an exam. Not that it would do the student any good, for Dr. Creed had long learned to make alternate versions of tests.
 
@@ -12,11 +17,7 @@ But apparently it wasn't, so he sat down at his desk and started sorting things 
 
 He then went through the more important task of putting together his personal notes. There was a chance some stray thought a great deal of time ago might suddenly be revealed to his detriment. There was little he could do about that now. So he collected the array of cocktail napkins and stray scratch paper that collected his random thoughts and shoved them in a drawer in no particular order. A casual glance showed nothing important. But a deep creased, yellowing napkin contained a phrase he'd coined and forgotten about.
 
-
-
-“There is no technical solution to the problem of being human”
-
-
+> There is no technical solution to the problem of being human.
 
 He sighed, and pulled out his bottle of wine. He didn't have any glasses so the only thing he could do was chug. It seemed disrespectful, but then again, there was no one around to complain except the wine. He finished things off with what remained of his juice.
 
@@ -30,13 +31,9 @@ He paused, wiped off his black rimmed glasses, and opened it with as few rips as
 
 
 
-Dr. Creed:
+**Dr. Creed:**
 
-
-
-Your paper is clearly written but unacceptable for publication. It is generally considered there is not enough evidence in the historical record to support the kinds of conclusions drawn in the paper. Your conclusions may be valid, but they are too speculative to be publishable.
-
-
+> Your paper is clearly written but unacceptable for publication. It is generally considered there is not enough evidence in the historical record to support the kinds of conclusions drawn in the paper. Your conclusions may be valid, but they are too speculative to be publishable.
 
 Great, he thought. Advancing in his career meant getting papers published. If he wanted to do something more than basic Greek in a small university in Minnesota, he had to make his mark in academia. Yet for some reason he persisted in taking up subjects that were rather unlikely to receive publication. He had a particular fondness for the Athenian statesman Solon. His presence was definitely in the historical record, but his was a figure so ancient there was little that could be said for certain. Wasn't it worth pushing the limits of the edge of history even if you were wrong? To not be so worried about being right that you couldn't use your imagination?
 
@@ -54,19 +51,11 @@ The experience was overall humiliating. He was a scholar. This kind of debate wa
 
 Dr. Creed put the paper aside black leather folder to his right. He looked to his next piece of mail. It was just a business card that read HADES. He tossed it up to an upper shelf and then first noticed a piece of parchment. As soon as he placed it on his desk he immediately took his hands off it. It was fragile, and had an unusual smell that reminded him of a library basement. He looked down on the scroll and read. The Greek was archaic. If he hadn't done some of the research he'd completed, he couldn't tell if he'd been able to read it. This was a noted contrast to classical Athenian Greek that he could read like English.
 
-
-
-The Fall of Atlantis as Related to Solon
-
-
+> The Fall of Atlantis as Related to Solon
 
  Dr. Creed took off his glasses and rubbed them with a Kleenex. He put them back on and reread the title.
 
-
-
-The Fall of Atlantis as Related to Solon
-
-
+> The Fall of Atlantis as Related to Solon
 
 He took out a magnifying glass and examined the parchment further. He was not an expert of the physical properties of ancient parchment, but the ridges, small tears, and uneven texture contained too much variety and subtlety to appear to be a forgery. He could not tell the parchment's age. But the text provided suggested the seventh century B.C.E., the age of Solon. If this were true it was exactly the kind of thing he was looking for. Why would someone ransack his office and leave this riddle?
 
@@ -74,47 +63,23 @@ Plato's tale of Atlantis, as told in his dialogues, claimed to be passed down fr
 
 It was possible Plato had gotten the idea to repeat this tale, and tie it to the statesman Solon, based off a text such as this. Possible, but unlikely. As the text continued, it became clear the story was quite different from the one Plato told. It mentioned a massive island of an advanced pre-historic civilization that fell in a single night. The gist. But the narrative and the purpose of the text was completely different. It was novel. It was the kind of thing that could launch a true career in the classics if it was not a forgery. Eager to share the text with colleague he began a rough translation.
 
+> These truths were passed down the Aegean Line from heir to heir to the great statesman Solon. For reasons I can only guess, he refused to believe the story and made the telling and recording of the story a crime. I write it down on this parchment until such time as it is safe to reveal.
 
+> The kingdom of Atlantis was one of far superior knowledge to that held in Athens. It was a nation not constricted to land. Via various construction methods the Atlanteans had constructed an island nation, a floating vessel country free to sail the seas as it choose. It could trade with an coastal nation, or launch a pillage whenever it pleased. In its early days, Atlanteans took it as a matter of course to acquire the iron and lumber to grow the city year after year.
 
-These truths were passed down the Aegean Line from heir to heir to the great statesman Solon. For reasons I can only guess, he refused to believe the story and made the telling and recording of the story a crime. I write it down on this parchment until such time as it is safe to reveal.
+> Thus, the island began to consume more and more of Poseidon's domain. The industrious Atlanteans never stopped in the expansion of their nation. Lest all of the ocean be swallowed, Poseidon hatched a plan. He promised Apollo a sea nymph of beauty beyond compare if he offered the Atlanteans a prophecy. Having conquered the seas, the people of Atlantis were promised they could conquer the sky.
 
+> This prophecy was contested and jeered at by many. But a prophecy from Apollo was not something to be ignored, and some builders that had dedicated themselves to expanding horizontally began plans to construct vertically. At first it was a novelty. But as Atlantean buildings grew taller the people could see further beyond the horizon. With this new sight, the world was theirs for the taking. For each new thing one could see became a new thing that could be owned.
 
+> Vertical construction took off, and all the innovation that attracted the country's greatest minds was in vertical methods. A few without the imagination of the new age continued their horizontal construction. They did not heed the rumors that Atlantis may one day touch the stars. But they did. For a time the Atlanteans could pluck stars from the sky and arrange them as they pleased. They did not give that sky much order, but is not surprising that sailors today have a star which always helps them point north.
 
-The kingdom of Atlantis was one of far superior knowledge to that held in Athens. It was a nation not constricted to land. Via various construction methods the Atlanteans had constructed an island nation, a floating vessel country free to sail the seas as it choose. It could trade with an coastal nation, or launch a pillage whenever it pleased. In its early days, Atlanteans took it as a matter of course to acquire the iron and lumber to grow the city year after year.
+> The island of Atlantis began casting a shadow wherever it made port. Upon this frightening marvel they secured great terms of trade and the country became quite rich. This wealth was used to continue in the nation's intoxication of height—a thrill known today only by a hermit living in a mountain cave. As Poseidon had schemed, Atlantis was quite tall indeed.
 
+> After the Atlantean nation passed over a sea of great depth, Poseidon sent a mighty wave to the great nation of Atlantis. It possessed such height in proportion to its base the island toppled in a single blow. Fifty foot waves followed in its wake. The People of Atlantis extolled Apollo for aid, but Apollo, god of the sun, retreated, leaving nothing for Atlantis but the sight of the stars as it plunged to the sea. Nothing survived sparing the divine aid Poseidon offered.
 
-
-Thus, the island began to consume more and more of Poseidon's domain. The industrious Atlanteans never stopped in the expansion of their nation. Lest all of the ocean be swallowed, Poseidon hatched a plan. He promised Apollo a sea nymph of beauty beyond compare if he offered the Atlanteans a prophecy. Having conquered the seas, the people of Atlantis were promised they could conquer the sky.
-
-
-
-This prophecy was contested and jeered at by many. But a prophecy from Apollo was not something to be ignored, and some builders that had dedicated themselves to expanding horizontally began plans to construct vertically. At first it was a novelty. But as Atlantean buildings grew taller the people could see further beyond the horizon. With this new sight, the world was there's for the taking. For each new thing one could see became a new thing that could be owned.
-
-
-
-Vertical construction took off, and all the innovation that attracted the country's greatest minds was in vertical methods. A few without the imagination of the new age continued their horizontal construction. They did not heed the rumors that Atlantis may one day touch the stars. But they did. For a time the Atlanteans could pluck stars from the sky and arrange them as they pleased. They did not give that sky much order, but is not surprising that sailors today have a star which always helps them point north.
-
-
-
-The island of Atlantis began casting a shadow wherever it made port. Upon this frightening marvel they secured great terms of trade and the country became quite rich. This wealth was used to continue in the nation's intoxication of height—a thrill known today only by a hermit living in a mountain cave. As Poseidon had schemed, Atlantis was quite tall indeed.
-
-
-
-After the Atlantean nation passed over a sea of great depth, Poseidon sent a mighty wave to the great nation of Atlantis. It possessed such height in proportion to its base the island toppled in a single blow. Fifty foot waves followed in its wake. The People of Atlantis extolled Apollo for aid, but Apollo, god of the sun, retreated, leaving nothing for Atlantis but the sight of the stars as it plunged to the sea. Nothing survived  sparing the divine aid Poseidon offered.
-
-
-
-Twelve humans were spared on the condition that both they and their progeny send forth a warning to all nations regarding the fall of Atlantis. Without exception these were foreign born traders, instructed to tell the tale in their native language to their native peoples. I am progeny of the twelve. I write this story in hopes that it shall be safe to pass the story on to other cities of Greece and the progeny of Solon. They must know the dangers of attempting to conquer the sky and the sea. The story of Atlantis must not be forgotten.
-
-
+> Twelve humans were spared on the condition that both they and their progeny send forth a warning to all nations regarding the fall of Atlantis. Without exception these were foreign born traders, instructed to tell the tale in their native language to their native peoples. I am progeny of the twelve. I write this story in hopes that it shall be safe to pass the story on to other cities of Greece and the progeny of Solon. They must know the dangers of attempting to conquer the sky and the sea. The story of Atlantis must not be forgotten.
 
 Dr. Creed looked up at the clock. It was three in the morning and he had a 7:30 class. He locked the door to his office and hoped to catch enough sleep to make it through the next day.
-
-
-
-
-
-
 
 Dr. Creed's next class was quite different after reading his newly acquired piece of parchment. The teaching and memorizing of a dead language whose importance he'd struggled for his academic career to justify seemed to require re-evaluation. People didn't want the details of a language they were likely never to speak. They wanted Atlantis. He knew this. The disparity in time and money between his incomes and television engagements made it hard to ignore.  Dr. Creed forced the notion out of his mind until the end of his 11:30 class. Not one to stand on ceremony, he found an obscure corner of the library and simply fell asleep.
 
@@ -132,23 +97,17 @@ Dr. Creed reached in the corner where he thought he'd replaced the parchment. It
 
 He picked up a pile of papers and was ready to throw them in the air, but something was amiss. The weight felt wrong in his hand, and a subtle, brittle sound could be heard as he moved them towards the air. Amongst his papers there was something that was not paper, or at least not modern paper. It was papyrus, and written in hieroglyphs. It was greatly weathered. Dr. Creed knew quite little about Egypt, except that knowledge of Egyptian was unnecessary to translate hieroglyphs. He scrounged a text from an old undergrad course and began to translate this new wonder.
 
+**The False Scribe of the Sea Kingdom**
 
-The False Scribe of the Sea Kingdom
+> The ancient pharaohs passed down the story of a scribe with a jar of nectar. It was give to Pharoah to sample, and it was sweeter than anything known. He sent a great number of scholars to examine the substance, which the scribe called star wine. After the demonstration, and the examination, the scribed secreted the star wine away.
 
+> As the living son of Osiris Pharaoh demanded to know about the scribe’s magic. He claimed to come from a kingdom far away in the sea, but that his kingdom had discovered this wisdom by approaching the heavens.
 
-The ancient pharaohs passed down the story of a scribe with a jar of nectar. It was give to Pharoah to sample, and it was sweeter than anything known. He sent a great number of scholars to examine the substance, which the scribe called star wine. After the demonstration, and the examination, the scribed secreted the star wine away.
+> Upon hearing this Pharoah ordered his builders to discuss plans for reaching the heavens. He asked the scribe if he had the magic to reach the heavens and the scribe said no, but only told the pharaoh how the structure should not be built. He told pharaoh that his kingdom, upon reaching the heavens, had sunk into the sea by making his building too tall. He suggested a structure with a wide base, so as to keep it from falling. The pyramid was the most obvious solution to the problem.
 
-As the living son of Osiris Pharaoh demanded to know about the scribe’s magic. He claimed to come from a kingdom far away in the sea, but that his kingdom had discovered this wisdom by approaching the heavens.
+> Then, having set about to build this pyramid, Pharoah wished to know what might lie in the heavens. The scribe answered the heavens were the domain of Ra, and his domain was a harem without measure in next life for any pharaoh that managed to reach it.
 
-Upon hearing this Pharoah ordered his builders to discuss plans for reaching the heavens. He asked the scribe if he had the magic to reach the heavens and the scribe said no, but only told the pharaoh how the structure should not be built. He told pharaoh that his kingdom, upon reaching the heavens, had sunk into the sea by making his building too tall. He suggested a structure with a wide base, so as to keep it from falling. The pyramid was the most obvious solution to the problem.
-
-Then, having set about to build this pyramid, Pharoah wished to know what might lie in the heavens. The scribe answered the heavens were the domain of Ra, and his domain was a harem without measure in next life for any pharaoh that managed to reach it.
-
-Stone was laid on stone for centuries, and the scribe’s line reached a great multitude...
-
-
-
-
+> Stone was laid on stone for centuries, and the scribe’s line reached a great multitude...
 
 Dr Creed stopped his translation. He'd lost track of time and felt a throbbing headache at the base of his skull, near the top of his spine. Each word had been wrestled out with tedious search, and he wasn't even half way finished. He knew this document, should it not be a forgery, would probably undo just as much known about Egypt as the previous parchment would have been for Greece.
 
@@ -168,3 +127,9 @@ So he turned on his computer and typed his translations. Every so often he'd sto
 
 A story that would be believed by no one but him. Because they were told on documents he might never recover. The documents seemed to barge into his office with a will of their own and leave nothing behind. Except a business card. HADES.
 
+<!-- 
+Quotes: (Paraphrased)
+    "There is no technical solution to the problem of being human"
+    "The Greeks were the first in the Western world to write it down, no longer content to let historical distortion fade with the passage of time."
+    "The Classics were a antidote to something. They had rescued an age no longer content with faith and revealed truth, and they could do it again. But what could they revive? Climate Change? Global disaster? A second depression?"
+-->
