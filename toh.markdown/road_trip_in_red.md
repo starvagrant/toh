@@ -1,6 +1,12 @@
 ### Road Trip in Red
-
-Dr. Creed had spent the last few nights alone in his office. He thought he'd been anxious to see people after leaving the hospital, possibly to get out and about. But instead he found it more pleasing to put his office in order. He put his spring semester lesson in order, started to track down the citations and journal entries of his old research. This had done him a world of good against his conscious expectations.
+<!--
+= Chapter 3: Road Trip in Red
+Characters: Dr. Creed, Ali Johnson
+Tags: Seeds of Doubt, Emergence, Fear of Knowledge, Death
+Status: Complete::Staging 
+Synopsis: Dr. Creed meets Ali Johnson and they go to a theatre of HADES which will play Ooze From the Confetti Factory. They discuss faith, doubt, life after death, and dangerous knowledge.
+-->
+Dr. Creed had spent the last few nights alone in his office. He thought he'd be anxious to see people after leaving the hospital, possibly to get out and about. But instead he found it more pleasing to put his office in order. He put his spring semester lessons in order, started to track down the citations and journal entries of his old research. This had done him a world of good against his conscious expectations.
 
 Sometime on a Thursday evening two weeks before class, his reorganized home was disrupted by an unknown caller.
 
@@ -16,9 +22,9 @@ Sometime on a Thursday evening two weeks before class, his reorganized home was 
 
 “The location of the wreck.”
 
-“You can't find it?”
+“You can't find it? Who is this I might add.”
 
-“I followed the police reports. There's no sign of wreckage at the location they gave.”
+"I go by Ali Johnson. I'm a reporter following up on some leads. “I followed the police reports. There's no sign of wreckage at the location they gave.” 
 
 “Everything is completely cleared?”
 
@@ -30,7 +36,7 @@ Sometime on a Thursday evening two weeks before class, his reorganized home was 
 
 “The guy mentioned seeing a billboard for a museum of some sort. A munitions factory for the civil war.”
 
-“That doesn't make any sense. What would one of those be doing in Minnesota?”
+“That doesn't make any sense," Creed gulped. Whatever strangeness happened in the hospital had certainly not run its course, no matter how organized his office was. "What would one of those be doing in Minnesota?”
 
 “Any museums you noticed along the highway?”
 
@@ -48,7 +54,7 @@ Sometime on a Thursday evening two weeks before class, his reorganized home was 
 
 “I need a second opinion.”
 
-“I have a little time to spare. You at the Starbucks eight miles east, near highway 52?”
+“I have a little time to spare." He told the mysterious caller, which was technically true if he didn't mind not being prepared for his classes. You at the Starbucks eight miles east, near highway 52?”
 
 “That's the one.”
 
@@ -56,25 +62,23 @@ Sometime on a Thursday evening two weeks before class, his reorganized home was 
 
 Dr. Creed barrelled through the roads to the coffee shop. Perhaps incident number five would be a definitive break. Amongst the documents he wasn't supposed to have, the HADES card left in his office, the illness from an ancient past, and a trucker he had never talked to... there was a lot of explanations to go around.
 
-The doctor left his house without as much as a glare in the mirror, his thoughts trying to outrace his vehicle. A screeching blare brought him back to attention after he'd run a red light. Much as he wasn't sure about this new stranger, they'd be taking his car. Two near collision and another new screw up in eght minutes had left him the impression that he might have been driving drunk. In any case, he didn't feel completely in the world.
+The doctor left his house without as much as a glare in the mirror, his thoughts trying to outrace his vehicle. A screeching blare brought him back to attention after he'd run a red light. Much as he wasn't sure about this new stranger, they'd be taking his car, not Creed's. Two near collisions and another new screw up in eight minutes had left him the impression that he might have been driving drunk. In any case, he didn't feel completely in the world.
 
-Walking into the coffee shop he felt he knew exactly the man to talk to. The man sat in a collared shirt tapping away at a laptop Of Mediterrean extraction of some sort, he he imagined him an Arab. He maintained a well trimmed beard that suggested the explsion of beard he could have grown.
-
-As Dr. Creed approached him he fiddled over a smart phone and almost spilled a latte when he noticed how quickly he was being approached.
+Walking into the coffee shop he felt he knew exactly the man to talk to. The man sat in a collared shirt tapping away at a laptop. The man was of Mediterrean extraction of some sort, he imagined him an Arab. He was six feet tall, broad, and maintained a well trimmed beard that suggested the explosion of beard he could have grown. He looked like the ancestor of a warrior tossed in a suit and with a laptop instead of a scimitar. This might not have bothered him if he had gotten the opportunity to approach and introduce himself. Instead the man approached him with intimidating purpose.
 
 “Jonathon Creed?” he asked.
 
-“Yes.”
+“Yes. Ali Johnson? I figured it was you.”
 
 “You recognized me?”
 
 “I guessed.”
 
-“Ali Johnson. What gave me away? I pride myself on my purely Midwestern accent.”
+“What gave me away? I pride myself on my purely Midwestern accent.”
 
-“If you weren't unusual in some way I'd have been surprised. The way things are. May I sit?”
+“If you weren't unusual in some way I'd have been surprised. The way things are. May we sit?”
 
-“Yes of course. The way things are?” Ali asked.
+“Yes of course. The way things are?” Ali asked as pulled a chair out from the nearest table."
 
 “Oh enough with the facade. You know what I'm talking about.”
 
@@ -82,11 +86,11 @@ As Dr. Creed approached him he fiddled over a smart phone and almost spilled a l
 
 “Yes, the Emergence. What do you know about it?”
 
-“Not much really. It's tightly under wraps. There's only a little I do know. But as a journalist I'm dead certain I'm on to something. To many little details don't make sense. Like the discrepancy between police reports and hospital records regarding the truck driver on that accident on the highway. Along with the discrepancy of records regarding your own stay in the hospital.”
+“Not much really. It's tightly under wraps. There's only a little I do know. But as a journalist I'm dead certain I'm on to something. Too many little details don't make sense. Like the discrepancy between police reports and hospital records regarding the truck driver on that accident on the highway. Along with the discrepancy of records regarding your own stay in the hospital.”
 
 “My stay?”
 
-“In one record you have inflamation of the lungs and associated fever. In another you have a highly infectious strain of some “typhus -like” fever and are placed under isolation.”
+“In one record you have inflamation of the lungs and associated fever. In another you have a highly infectious strain of some “typhus-like” fever and are placed under isolation.”
 
 “How could that... wait how did you find those records? Aren't they confidential?”
 
@@ -94,11 +98,11 @@ As Dr. Creed approached him he fiddled over a smart phone and almost spilled a l
 
 “Sewer's been compromised?”
 
-“Oh, sorry, computer lingo. Sewer, the computer architecture behind the computer network, the plumbing, where information is...”
+“Oh, sorry, computer lingo. Sewer, the architecture behind the computer network, the plumbing, where information is...”
 
-“I get it. Why the hospital.”
+“I get it. Why the hospital?”
 
-“They called it a 'depository'. Didn't know what that meant. Didn't know what an 'emergence' was either. But they've been decent sources before.”
+“They called it a 'Depository'. Didn't know what that meant. Didn't know what an 'Emergence' was either. But they've been decent sources before.”
 
 “Sources for what?”
 
@@ -106,7 +110,7 @@ As Dr. Creed approached him he fiddled over a smart phone and almost spilled a l
 
 “Certainly.”
 
-Ali dropped a tip and the pair went out to Ali's Toyota and they took off.
+Ali dropped a tip for his own coffee and the pair went out to Ali's Toyota and the took off.
 
 “You a general journalist, or do you specialize in medicine?”
 
@@ -130,7 +134,7 @@ Ali dropped a tip and the pair went out to Ali's Toyota and they took off.
 
 “I haven't been able to in a while.”
 
-“Because a specialist becomes a cog in the machine. Useful, yes. Able to pursue their interest, yes. But able to alter the course of their life... no.”
+“Because a specialist becomes a cog in the machine. Useful, yes. Able to pursue their interests, yes. But able to alter the course of their life... no.”
 
 “It's been six years since I've been to Greece.” Dr. Creed sighed. “And my papers get rejected again and again.”
 
@@ -144,25 +148,25 @@ Ali dropped a tip and the pair went out to Ali's Toyota and they took off.
 
 “Break the rules of evidence gathering.”
 
-“It might work in journalism. You can keep sources anonymous. Everything has to be laid out in a scholarly journal.”
+“It might work in journalism. You can keep sources anonymous. Not history. everything has to be laid out in a scholarly journal.”
 
 “So then publish outside academia.”
 
-“Hmm... wait a minute. The sign, the print museum.” Dr. Creed pointed and Ali pulled the car over.
+“Hmm... wait a minute," Creed pointed out the window. "The sign, you talked about. The print museum.” Dr. Creed pointed and Ali pulled the car over. The lettering of the sign was powder blue and terribly faded. It didn't look like an advertisement for anything, or at least not one likely to draw visitors. 
 
-“You see signs of damage any where?” Ali asked.
+“You see signs of damage any where?” Ali asked. "The supposed 'accident'?"
 
 “No,” Dr. Creed, walking toward the sign, answered.
 
 “Maybe a dead end. We could try the print factory huh?”
 
-The was no response.
+Creed offered no response.
 
 “Hey Jonny, the print making factory?”
 
 Dr. Creed walked up to the sign and saw a dark red puddle. It trailed inexorably towards the sign.
 
-“Ali! Check this out!” he yelled.
+“You spotted something?" Ali yelled. He rushed over to Creed, who was momentarily startled to have the massive Arab behind him, then towering above him, looking down into the puddle.
 
 It was a thick red muck running up the corroded metal pole like a long open wound, as flesh ripped by a blade. It was the same color of the well water he had seen in his vision.
 
@@ -172,21 +176,21 @@ Ali came over and looked. “What is that?” he asked. “Paint? Blood?”
 
 “Dyed maple syrup?”
 
-“From where? You think someone climbed thirty feet last night with maple syrup at the exact spot we're looking for?”
+“From where?" Creed's eyes followed the color upwards to the sign. He couldn't make out any red on the powder blue, but he felt certain it was there. You think someone climbed thirty feet last night with maple syrup at the exact spot we're looking for?”
 
 “It's a bit of a jump.”
 
-“Dr. Creed looked up to see some slight paper falling through the breezeless air. He held out his hand to reach for it, but it simply fell straight into his hand.
+Dr. Creed looked up to see some slight paper falling through the breezeless air. He held out his hand to reach for it, but it simply fell straight into his hand.
 
 Ali looked over and gasped at the content of his partner's hand. Dr. Creed looked over, surprised at his alarm. Then he looked at his hands and saw a business card that read HADES.
 
 He looked back over to Ali and said, “You've seen one of these before, haven't you Ali?”
 
-“No,” he answered breathlessly.”
+“No,” he answered breathlessly. It was a damn lie, but Creed didn't express his suspicions.
 
 “But you know what it is?”
 
-“It's a ticket isn't it. It just says HADES.”
+“It looks like a ticket isn't it? But without time or location. It just says HADES.”
 
 “What does that mean?”
 
@@ -198,11 +202,19 @@ He looked back over to Ali and said, “You've seen one of these before, haven't
 
 “What does that mean!”
 
-“It's a theatre that shows films from the land of the dead. Hades.”
+Ali looked over Creed quite suspiciously. Under Ali's uncomfortable gaze Creed turned away. "How did you know to look for it?" Ali asked finally.
 
-“Why should it be here?”
+"I didn't exactly look for it. It was in the air. I just reached out and there it was. I found it. You know what it is don't you?"
 
-“It felll into your hands good doctor. It's for you.”
+There's a theatre that shows films from the land of the dead. Hades.”
+
+"Where is this, this theatre?"
+
+"I don't know. There're rumored to be a rather unpredicable thing. Best found while on the move.
+
+“Why shouldn't it be here? Close by I mean.”
+
+“It fell into your hands good doctor. That's for you to uncover.”
 
 “Why should I be given such a thing?”
 
@@ -212,27 +224,27 @@ He looked back over to Ali and said, “You've seen one of these before, haven't
 
 “What have you heard about this theatre?”
 
-“I've heard some things mentioned in chat rooms. Nothing escapes the land of the dead.”
+“I've heard some things mentioned in chat rooms. There's a phrase that gets tossed about. Nothing escapes the land of the dead. I imagine it's code for something.”
 
 “Why would they want to show me a film?”
 
-“I don't know. I wouldn't turn the offer down.”
+“I don't know. I wouldn't turn the offer down, personally. I've been in parts of the world you couldn't go to an unofficial theatre.”
 
-“Are you serious?”
+"Well, I suppose I wouldn't be granted a second opportunity, if I missed the show. But then I'm not so sure I really want to see a dead film. Of deadness and all." 
 
-“Of course I'm serious. Don't you want to know?”
+"You could stand not knowing?" Again Ali seemed threatening, but there was only curiosity in his voice.
 
-“I don't know if I want to know.”
+"I don't know. You seem to have a great interest in this."
 
-“But would you prefer not to know?”
+"I'm a journalist. I always wonder why people stick their head in the sand. You seem like you wouldn't shy away from answering such a question."
 
-“Then what are you going to do?”
+"I'm not sticking my head in the sand. It's caution. Reason. It might... lead to something nasty." Creed said cryptically.
 
-“Well I guess I have to find the Theatre first aren't I?”
+“So what are you going to do?”
 
-“What about the red stuff?” Creed asked.
+“Well I guess I have to find the Theatre first don't I? Maybe the red stuff holds some answers?” Creed asked.
 
-“Oh yeah. It's not blood or paint. Somebody may have climbed the sign to dump it but that doesn't give us a clue as to what it is. It must be synthetic. Maybe toxic.”
+“Well it's not blood or paint. Somebody may have climbed the sign to dump it but that doesn't give us a clue as to what it is. It must be synthetic. Maybe toxic.”
 
 “And it's not frozen, even in this weather.”
 
@@ -248,17 +260,17 @@ He looked back over to Ali and said, “You've seen one of these before, haven't
 
 “Get it.”
 
-Ali nodded, and dashed back to the car. He came back with the newspaper, panting.”
+Ali nodded, and dashed back to the car. He came back with the newspaper, panting.
 
 “You know something I don't?” he asked.
 
-“We'll see,” He tore off a page. As soon as the paper hit the red ooze the ink slowly dissolved, as though bleached seeped through the paper. The color of the paper itself remained unchanged.
+“We'll see,” He tore off a page. As soon as the paper hit the red ooze the ink slowly dissolved, as though bleach seeped through the paper. The color of the paper itself remained unchanged.
 
 “Son of a bitch.” Ali exclaimed.
 
-“Some chemical in print manufacturing process?”
+“Some chemical in print manufacturing processes?”
 
-“Yeah, and guess where a print museum just so happens to be?”
+“Yeah, with a print museum right by.”
 
 “Excellent, well this trip was well worth it. You going to do a story on it?”
 
@@ -280,7 +292,7 @@ Dr. Creed took one look over to check this assertion. The newsprint was complete
 
 “No. But if I ever find this Theatre of HADES that will take the cake.”
 
-“What do you think happens after you die?”
+“What do you think happens after you die?” Creed pondered, given his supposed destination.
 
 “There is no God but Allah,” Ali replied, “and Mohammed is his prophet.”
 
@@ -288,7 +300,7 @@ Dr. Creed took one look over to check this assertion. The newsprint was complete
 
 “Well you sound disappointed.”
 
-“No I'm not.”
+“No I'm not. It's your religion after all, right?"
 
 “It's not what I believe anymore.”
 
@@ -310,29 +322,27 @@ Dr. Creed took one look over to check this assertion. The newsprint was complete
 
 “That doesn't sound so compelling. Just one verse?”
 
-“But it is insidious. You don't know which one. Oh there are thousands of verses and the actual probability of finding it would be quite low. But you come across something in the Quran you don't like or don't understand and think, could this be the one? And when you ask yourself that question too many time well... there goes your faith. The idea is so very simple. I didn't even have to read the book. It isn't supposed to be possible to find an untruth in the Quran you're taught. But you find it all the same.”
+“But it is insidious. You don't know which one. Oh there are thousands of verses and the actual probability of finding it would be quite low. But it can grow from such a tiny little seed to a full blown loss of faith. Every verse you come across that you don't like or understand, that can be the one! And you start seeing untruth everywhere you look, just by letting that seed blossom the way all seeds blossom, when they have good soil.
 
-“That one thing you can't explain...”
+“Something you can't explain, just rolling, rolling, unraveling." Creed responded, dumb struck.
 
 “You seem to know the experience.”
 
-“An anomaly appeared in my life really. I don't know what I would have done if it was the only one . But they keep showing up.”
+“An anomaly appeared in my life recently. I don't know what I would have done if it was the only one. But they keep showing up.”
 
-“Do they? I think it's the times. This day and age.”
-
-“We live in the age of information. How can anomaly stay secret for long?”
+“Do they? I think it's the times. This day and age. We live in the age of information. How can anomaly stay secret for long?”
 
 “Point taken.”
 
 “What about you? Life after death?”
 
-“I don't seem to recall an answer from you on this point. But... sure, why not?”
+“I don't seem to recall an answer from you when I asked. But... sure, why not?”
 
 “Why not huh?”
 
 “No one knows how consciousness is created. How do we know how it is ended?”
 
-“We eat then get eaten. Such is the way of things. I'll worry about these things when I get older.”
+“We eat then get eaten. Such is the way of things. I'll worry about these things when I get older.” Ali said sardonically.
 
 “I see. How much further to the print factory?”
 
@@ -346,7 +356,7 @@ Dr. Creed took one look over to check this assertion. The newsprint was complete
 
 The road and landscape were splattered by red spots which were occasionally impossible to avoid. They set the car a bit off course and made the sound of slurping mud. From time to time recent tire marks could be seen on the road, though never fresh enough to give the impression of habitation.
 
-There were no cars in the parking lot of the printing factory. Upon entering the car door the pair had their nostrils drenched with the smell of cherry caramel, burnt newspaper and bleach.
+There were no cars in the parking lot of the printing factory. Upon entering the door the pair had their nostrils drenched with the smell of cherry caramel, burnt newspaper and bleach.
 
 Ali tucked his nose under his shirt and Creed did the same. They hopped over puddles of red that reflected only the slightest light, and carefully trudged up the stairs to the door appearing to be the entrance. The railing was dripping red.
 
@@ -358,13 +368,13 @@ Creed pulled out the one he recently found and starting looking through his wall
 
 “You have a second one?” Ali asked.
 
-“Two tickets will not be necessary sir. I'm told the film is to have room for two. And a film only has a single ticket, from my experience.”
+“Two tickets will not be necessary sir. I'm told the film is to have room for two. And these films have only single tickets, from my experience.”
 
-“So there's another...”
+“So there's another...” Creed whispered in astonishment.
 
 “Please hurry sir. Time is of the essence.”
 
-“Why should that be” Creed insisted.
+“Why should that be?” Creed insisted.
 
 “That which escapes the Land of the Dead rarely does so for long.”
 
@@ -372,5 +382,17 @@ Creed pulled out the one he recently found and starting looking through his wall
 
 “No,” the usher replied, “It's yours.”
 
+<!--
+Quotes and Terms:
 
+Emergence:  a term for the emergence of reality from death and dogma
+Depository: a place were reality bending occurs with greater frequency
+Sewer: computer architecture behind security measures.
 
+"Nothing escapes the land of the dead. I'm sure it's a code for something." The code is of course that nothing which is truly dead never returns, but that which plant seeds for the future blossom in time.
+
+“Because a specialist becomes a cog in the machine. Useful, yes. Able to pursue their interests, yes. But able to alter the course of their life... no.”
+
+"Break the rules of evidence gathering." "So then publish outside academia."
+
+"But it can grow from a seed to a full grown loss of faith."
