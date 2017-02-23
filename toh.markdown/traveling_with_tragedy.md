@@ -1,20 +1,29 @@
-Dr. Creed turned down the heat whilst traveling east on [I94][] to Milwaukee. He had past the state line about forty five minutes ago, and it was still on his mind. Being on the road somehow put his mind at ease. 
+### Traveling with Tragedy
+<!--
+= Chapter 4: Traveling with Tragedy
+Characters: Dr. Creed, Phoenix
+Tags: Greek Drama, Philosophy, Plato's Cave, Education
+Status: Complete::Development
+Synopsis: The Chapter Begins with Ali's taking his frustration out on Creed. The key concepts in this dialogue are the shadows or projections, that resembled films, and the Greek drama traditions.
+-->
 
-It shouldn't have. There was a job waiting for him back on Minnesota, but the watching the endless neatly timed stripped yellow lines and white dashes made it seem that was in another time, far away. 
+Dr. Creed turned down the heat whilst traveling east on [I94][] to Milwaukee. He had past the state line about forty five minutes ago, and it was still on his mind. Being on the road somehow put his mind at ease.
 
-It was only Wisconsin, the first, unassuming door on a potentially long trick-or-treat outing. He had intended to get some thinking done, for his uncle. He'd checked out some sociology texts from the library to play in his car. But the more he tried to focus on HADES, fragmentary truth, or Atlantis, the more forcefully his mind veered towards unrelated topics. 
+It shouldn't have. There was a job waiting for him back on Minnesota, but the watching the endless neatly timed stripped yellow lines and white dashes made it seem that was in another time, far away.
+
+It was only Wisconsin, the first, unassuming door on a potentially long trick-or-treat outing. He had intended to get some thinking done, for his uncle. He'd checked out some sociology texts from the library to play in his car. But the more he tried to focus on HADES, fragmentary truth, or Atlantis, the more forcefully his mind veered towards unrelated topics.
 
 He was off to Milwaukee before taking the scenic route down [Lake Michigan][]. The Lake would be frozen over this time of year, and he would have much preferred to see it over the summer. Water was more beautiful than ice. But the view would give some kind of flavor to the trip, something to keep him from getting hypnotized by the roads.
 
-He might need it in a state best known for cheese and beer. Not that these were inherently bad things... just things he'd like to brand his state. 10,000 Lakes seemed a bit more appealing. Though it was often the case that drinking cultures often provided some interesting cultural relics. The Greek Dramas, there to celebrate the Greek god of wine (among other things) [Dionysus][]. A fertility symbol. Wine and fertility in the same god, sometimes the ancients really seemed to know the way of the world so well. 
+He might need it in a state best known for cheese and beer. Not that these were inherently bad things... just things he'd like to brand his state. 10,000 Lakes seemed a bit more appealing. Though it was often the case that drinking cultures often provided some interesting cultural relics. The Greek Dramas, there to celebrate the Greek god of wine (among other things) [Dionysus][]. A fertility symbol. Wine and fertility in the same god, sometimes the ancients really seemed to know the way of the world so well.
 
-He sat back and wondered about how well the ancients were at acting. You couldn't quite tell from the works themselves, and who would have bothered to write reviews in the first place? How many people were literate? And how would you even go about guessing about that kind of thing? 
+He sat back and wondered about how well the ancients were at acting. You couldn't quite tell from the works themselves, and who would have bothered to write reviews in the first place? How many people were literate? And how would you even go about guessing about that kind of thing?
 
-Yeah, how? He asked, his eyes beginning to fix to hard on a billboard for an Olive Garden that he started veering into another lane. A honk woke him in a start. He corrected course and noticed a red dot in the distance. It seemed disembodied at first, until he could notice it as hair following out of a grey coat about the same color as the road. She was walking west. Where she might be going was anyone's guess, but she was holding a thumb out to anyone that would stop by. He'd have to take the next exit and turn around if he wanted to pick her up. 
+Yeah, how? He asked, his eyes beginning to fix to hard on a billboard for an Olive Garden that he started veering into another lane. A honk woke him in a start. He corrected course and noticed a red dot in the distance. It seemed disembodied at first, until he could notice it as hair following out of a grey coat about the same color as the road. She was walking west. Where she might be going was anyone's guess, but she was holding a thumb out to anyone that would stop by. He'd have to take the next exit and turn around if he wanted to pick her up.
 
-Well, what was a road trip without at least one random traveling companion? He tried to speed up incrementally, so it wouldn't look like he'd turned around. Not that he would probably be able to hide it for long when he turned around. Still, he didn't want to make an initial poor impression. 
+Well, what was a road trip without at least one random traveling companion? He tried to speed up incrementally, so it wouldn't look like he'd turned around. Not that he would probably be able to hide it for long when he turned around. Still, he didn't want to make an initial poor impression.
 
-He turned around and passed her, pulling over to the side of the road. She picked up her pace and came over to the car, and he rolled down the window. 
+He turned around and passed her, pulling over to the side of the road. She picked up her pace and came over to the car, and he rolled down the window.
 
 "Where you headed?" Dr. Creed asked.
 
@@ -42,7 +51,7 @@ He turned around and passed her, pulling over to the side of the road. She picke
 
 "Sure." Creed replied and obliged. The girl sat down.
 
-"They classics?" 
+"They classics?"
 
 "Yeah."
 
@@ -84,7 +93,7 @@ He turned around and passed her, pulling over to the side of the road. She picke
 
 "Right. Yeah. Ok."
 
-"So the only thing to actually distract me is my own history textbook. Surely their sidebars must have something only mildly related to the class material right?" 
+"So the only thing to actually distract me is my own history textbook. Surely their sidebars must have something only mildly related to the class material right?"
 
 "You like the off color sidebars?"
 
@@ -96,7 +105,7 @@ He turned around and passed her, pulling over to the side of the road. She picke
 
 "As a philosopher, my philosophy is that [philosophers should be kings][], even though true philosophers don't want to be kings."
 
-Dr. Creed took his eyes off the road for just a bit to get a look at her. He skin was hard and dry from the cold, but she couldn't have been older than 22. Her hair was died cherry red. Not a subtle "I might actually be a redhead" shade. A "My hair is red, like my wine." kind of look. He noticed a lack of lines around her mouth, like the ones he saw in women his age. Not unusual, but he noticed they weren't there yet. 
+Dr. Creed took his eyes off the road for just a bit to get a look at her. He skin was hard and dry from the cold, but she couldn't have been older than 22. Her hair was died cherry red. Not a subtle "I might actually be a redhead" shade. A "My hair is red, like my wine." kind of look. He noticed a lack of lines around her mouth, like the ones he saw in women his age. Not unusual, but he noticed they weren't there yet.
 
 "That one gets the fame. Some of his other stuff is much better."
 
@@ -104,11 +113,11 @@ Dr. Creed took his eyes off the road for just a bit to get a look at her. He ski
 
 "The playful one you are."
 
-"Mom would sometimes buy clothes off Amazon, and then forget to log out of her account. So I ordered some books. Well plays. I wanted fiction." 
+"Mom would sometimes buy clothes off Amazon, and then forget to log out of her account. So I ordered some books. Well plays. I wanted fiction."
 
 "How'd that go for you?"
 
-"Well, [Medea][] got delivered right after my boyfriend broke up with me." 
+"Well, [Medea][] got delivered right after my boyfriend broke up with me."
 
 "Well. The [Oresteia][]?"
 
@@ -134,7 +143,7 @@ Dr. Creed took his eyes off the road for just a bit to get a look at her. He ski
 
 "Well, I don't know if I'm going to be able to get around to it. I've learned to travel light."
 
-"There's stuff smaller than a big fat textbook." 
+"There's stuff smaller than a big fat textbook."
 
 "No, but then there's the notes and all the organization that has to come with it. I've got my smart phone, my journal, and my banjo. Can't keep track of much else, unless it has an immediate use."
 
@@ -146,7 +155,7 @@ Dr. Creed took his eyes off the road for just a bit to get a look at her. He ski
 
 "Huh. Don't think I'd fit in. Besides, I can teach myself. In four years I may not get a piece of paper, but I won't spend the next fifteen paying it off. Don't need a degree to serve fries."
 
-Dr. Creed didn't say a thing. 
+Dr. Creed didn't say a thing.
 
 "What?"
 
@@ -154,7 +163,7 @@ Dr. Creed didn't say a thing.
 
 "You're bothered by something."
 
-"So why were you going out to North Dakota, this time of year?" Dr Creed asked, trying to keep his breath steady. A groan escaped anyway. This girl was the kind of student he dreamed about during poor semesters, and she was [refusing to go to college][]. 
+"So why were you going out to North Dakota, this time of year?" Dr Creed asked, trying to keep his breath steady. A groan escaped anyway. This girl was the kind of student he dreamed about during poor semesters, and she was [refusing to go to college][].
 
 "Why?"
 
@@ -176,7 +185,7 @@ Dr. Creed didn't say a thing.
 
 Dr. Creed caught glance of his face in his driver's mirror, and knew the girl could tell. "I don't think I've ever met someone quite like you miss..."
 
-"I go by [Phoenix][]." 
+"I go by [Phoenix][]."
 
 "I'm surprised I'd forgotten to ask."
 
@@ -184,7 +193,7 @@ Dr. Creed caught glance of his face in his driver's mirror, and knew the girl co
 
 "Why Phoenix?"
 
-"Well I couldn't go by Tragedy could I? Or Drama? Phoenix is... it's Greek enough to me." 
+"Well I couldn't go by Tragedy could I? Or Drama? Phoenix is... it's Greek enough to me."
 
 Dr. Creed, found the turn of phrase charming, but also seemed a bit much. He slowly turned over to Phoenix and asked, "Are you real?"
 
@@ -194,9 +203,9 @@ Dr. Creed, found the turn of phrase charming, but also seemed a bit much. He slo
 
 "What else would I be? A shadow on the wall of Plato's cave?"
 
-"Hmph," Dr. Creed muttered, looked in the driver's mirror, then the passenger side mirror. He had to get off the road until something got cleared up. 
+"Hmph," Dr. Creed muttered, looked in the driver's mirror, then the passenger side mirror. He had to get off the road until something got cleared up.
 
-"What is it?" Phoenix asked, though without the kind of tremor Creed would have expected. 
+"What is it?" Phoenix asked, though without the kind of tremor Creed would have expected.
 
 "You... that's a good image is all. I've been wrapped up in something."
 
@@ -226,45 +235,32 @@ Dr. Creed, found the turn of phrase charming, but also seemed a bit much. He slo
 
 "And so we see a shadow world of their design and we can't know. The same circle."
 
-Creed hadn't told Phoenix about HADES. But he thought more about the cave in Plato's story. There were people who moved the "real" objects past the flame that cast shadows against the cave walls. Could the agents of HADES be the ones responsible for moving projections? For casting some false reality on his life, like ancient documents or civil war enthusiast truckers? 
+Creed hadn't told Phoenix about HADES. But he thought more about the cave in Plato's story. There were people who moved the "real" objects past the flame that cast shadows against the cave walls. Could the agents of HADES be the ones responsible for moving projections? For casting some false reality on his life, like ancient documents or civil war enthusiast truckers?
 
-The idea felt like it could lead to some sanity. But then the issue could pushed into the same area Phoenix found so fruitless. There'd be no way to know. The actual logic led to a dead end. But the idea of HADES, its agents and theatres, were somehow involved with some process that altered or controlled reality seemed to fit. But how and more importantly why? Something felt right, but the full nature of this idea remained vague and unformed in his mind. 
+The idea felt like it could lead to some sanity. But then the issue could pushed into the same area Phoenix found so fruitless. There'd be no way to know. The actual logic led to a dead end. But the idea of HADES, its agents and theatres, were somehow involved with some process that altered or controlled reality seemed to fit. But how and more importantly why? Something felt right, but the full nature of this idea remained vague and unformed in his mind.
 
 Phoenix looked over at him. "Are you ok?" she asked.
 
-"Oh I'm fine," he replied. "I think I can get back on the road now." 
+"Oh I'm fine," he replied. "I think I can get back on the road now."
 
-"I should hope so. You looked like you were about to break down. Nice to see I can give someone an existential crisis. Maybe next time I can do it on purpose." 
+"I should hope so. You looked like you were about to break down. Nice to see I can give someone an existential crisis. Maybe next time I can do it on purpose."
 
 "Look over my shoulder for me, would ya?"
 
 "Sure."
 
-Dr. Creed, a bit dazed and not putting together how long it would take to accelerate to highway speed nearly caused a wreck when he pulled into the lane off the shoulder. But the car on a collision course with him sped up and passed the car coming up on his left before he could rear end into Creed's vehicle. Creed sped up, but the near death encounter could not be undone. 
+Dr. Creed, a bit dazed and not putting together how long it would take to accelerate to highway speed nearly caused a wreck when he pulled into the lane off the shoulder. But the car on a collision course with him sped up and passed the car coming up on his left before he could rear end into Creed's vehicle. Creed sped up, but the near death encounter could not be undone.
 
 "I'm hoping you're not going to practice the crisis thing while I'm driving."
 
 "Why not? Didn't you say you wanted to live a little?"
 
-[I94]: localhost://toh/php//travelingwithtragedy.php&setting=I94
-[Lake Michigan]: localhost://toh/php/travelingwithtragedy.php&place=Lake_Michigan	"Lake Michigan"
-[Dionysus]: localhost://toh/php/travelingwithtragedy.php&myth=Dionysus	"Dionysus"
-[Chicago]: localhost://toh/php/travelingwithtragedy.php&setting=Chicago	"Chicago"
-[North Dakota]: localhost://toh/php/travelingwithtragedy.php&place=North_Dakota	"North Dakota"
-[Republic]: localhost://toh/php/travelingwithtragedy.php&text=Republic	"Republic"
-[Phaedrus]: localhost://toh/php/travelingwithtragedy.php&text=Phaedrus	"Phaedrus"
-[guardian]: localhost://toh/php/travelingwithtragedy.php&imagery=guardian	"guardian"
-[Greek cannot be read]: localhost:/toh/php//travelingwithtragedy.php&phrase=true 	"Greek cannot be read"
-[philosophers should be kings]: localhost:/toh/php//travelingwithtragedy.php&phrase=true "philosophers should be kings"
-[Medea]: localhost://toh/php/travelingwithtragedy.php&myth=Medea	"Medea"
-[Oresteia]: localhost://toh/php/travelingwithtragedy.php&myth=Oresteia	"Oresteia"
-[Oedipus]: localhost://toh/php/travelingwithtragedy.php&myth=Oedipus	"Oedipus"
-[refusing to go to college]: localhost://toh/php/travelingwithtragedy.php&phrase=true	"refusing to go to college"
-[most remote places have the best hospitality]: localhost://toh/php/travelingwithtragedy.php&phrase=true "most remote places have the best hospitality"
-[The Greek islands]: localhost://toh/php/travelingwithtragedy.php&setting=The_Greek_Islands	"The Greek islands"
-[Phoenix]: localhost://toh/php/travelingwithtragedy.php&character=Phoenix	"Phoenix"
-[But the things casting the shadows]: localhost://toh/php/travelingwithtragedy.php&imagery=shadows	"But the things casting the shadows"
-[copy squiggles]: localhost://toh/php/travelingwithtragedy.php&action=copyingsquiggles "copying squiggles"
-[google]: http://google.com/        "Google"
-
-	COMMENTS: Traveling with Tragedy Introduces A Character, Phoenix, who I don't plan on adding in subsequent chapters. It develops the main concept of HADES but not in a direct, linear way. The big surprise, in character development, is that Dr. Creed finds someone he'd love to teach, that refuses to consider college. She why is Dr. Creed teaching in school, if the people he wants to mentor are outside it? This provides a far more believable path for him to quit his job than in previous drafts. Also, there is a question as to whether or not Phoenix is a real person. She is a rebirth figure for Dr. Creed. She needn't be physical. 
+<!--
+Quotes and Images:
+Guardian: an 'educator' that so bores and disempowers studies as to prevent them from learning.
+"Greek cannot be read":
+I am a philsopher and philosophers should be kings.[philosophers should be kings]:
+Phoenix's refusal to go to college.
+"most remote places have the best hospitality":
+Plato's circle: If all you see is shadows, and there are people controlling the shadows, how can you be sure you're not just seeing more shadows when you turn your head?
+-->
