@@ -1,266 +1,201 @@
 ### Traveling with Tragedy
 <!--
-= Chapter 4: Traveling with Tragedy
+= Chapter 5: Traveling with Tragedy
 Characters: Dr. Creed, Phoenix
 Tags: Greek Drama, Philosophy, Plato's Cave, Education
 Status: Complete::Development
 Synopsis: The Chapter Begins with Ali's taking his frustration out on Creed. The key concepts in this dialogue are the shadows or projections, that resembled films, and the Greek drama traditions.
 -->
 
-Dr. Creed turned down the heat whilst traveling east on [I94][] to Milwaukee. He had past the state line about forty five minutes ago, and it was still on his mind. Being on the road somehow put his mind at ease.
+The word FINITE lingered on the screen, and the Theatre turned to blackness.
 
-It shouldn't have. There was a job waiting for him back on Minnesota, but the watching the endless neatly timed stripped yellow lines and white dashes made it seem that was in another time, far away.
+"Fragmentary truth. Truth that's good enough for the moment." Creed stated in wonderment.
 
-It was only Wisconsin, the first, unassuming door on a potentially long trick-or-treat outing. He had intended to get some thinking done, for his uncle. He'd checked out some sociology texts from the library to play in his car. But the more he tried to focus on HADES, fragmentary truth, or Atlantis, the more forcefully his mind veered towards unrelated topics.
+"That's it?" Ali protested, in direct opposition to Creed's appreciation.
 
-He was off to Milwaukee before taking the scenic route down [Lake Michigan][]. The Lake would be frozen over this time of year, and he would have much preferred to see it over the summer. Water was more beautiful than ice. But the view would give some kind of flavor to the trip, something to keep him from getting hypnotized by the roads.
+"Well it's great symbol, confetti. Like my students, just placing a bunch of symbols on a test paper so they can get through class without remembering a thing."
 
-He might need it in a state best known for cheese and beer. Not that these were inherently bad things... just things he'd like to brand his state. 10,000 Lakes seemed a bit more appealing. Though it was often the case that drinking cultures often provided some interesting cultural relics. The Greek Dramas, there to celebrate the Greek god of wine (among other things) [Dionysus][]. A fertility symbol. Wine and fertility in the same god, sometimes the ancients really seemed to know the way of the world so well.
+"Don't patronize me." Ali stared him down.
 
-He sat back and wondered about how well the ancients were at acting. You couldn't quite tell from the works themselves, and who would have bothered to write reviews in the first place? How many people were literate? And how would you even go about guessing about that kind of thing?
+"Patronize? I liked it. There was always that suggestion in it that Shawn blew it with Jessica and didn't know it. But it was never stated."
 
-Yeah, how? He asked, his eyes beginning to fix to hard on a billboard for an Olive Garden that he started veering into another lane. A honk woke him in a start. He corrected course and noticed a red dot in the distance. It seemed disembodied at first, until he could notice it as hair following out of a grey coat about the same color as the road. She was walking west. Where she might be going was anyone's guess, but she was holding a thumb out to anyone that would stop by. He'd have to take the next exit and turn around if he wanted to pick her up.
+"You know what I mean. Don't play dumb."
 
-Well, what was a road trip without at least one random traveling companion? He tried to speed up incrementally, so it wouldn't look like he'd turned around. Not that he would probably be able to hide it for long when he turned around. Still, he didn't want to make an initial poor impression.
+"What am I missing here?" Creed asked.
 
-He turned around and passed her, pulling over to the side of the road. She picked up her pace and came over to the car, and he rolled down the window.
+"You really don't know. How did you, of all people, end up with that ticket? What have you done that merits HADES attention? I've travelled to the ends of the earth. You're just some hack professor."
 
-"Where you headed?" Dr. Creed asked.
+"Now wait a minute!" Creed protested. "I didn't ask to have all this happen!"
 
-"North Dakota. At least for a spell. You going all the way through?"
+"Didn't fucking ask. It was just mysteriously given to you. People have died for these tickets."
 
-"I'm off to [Chicago][]."
+"Well then I certainly hope to make the most of it by enjoying them."
 
-"You're headed in the wrong direction."
+"Fragmentary truth! How the hell's that supposed to help anyone? I came to America for answers. I might have learned more about reality dealing blackjack in Vegas then coming here. And why, might I had, do you think there was a blackjack table in that film."
 
-"Just got turned around."
+"I'm sure it had something to do with social control. That was a big part of the film."
 
-"I guess it might not be a bad idea to get back to Chicago."
+"Social control! What do I need a film to learn about social control? Bollocks! I'm off."
 
-"But weren't you off to [North Dakota][]?"
+"You're welcome," Creed responded, when he was certain Ali was out of earshot. A red viscous mess. That seemed relevant to him. He stood in the dark for a while wondering what Ali thought he was supposed to get out of the film. 
 
-"Well I don't have a ride. You stick with your ride old man?"
+At last he decided it didn't matter. Ali had stormed out of his life with the same speed he entered it. Creed still had his ticket, and he was intending to see the show. Ali's explosion only seemed to underscore how important the tickets must be. 
 
-"Old?" he asked. "Well I suppose I have students your age."
+However, he reckoned as he climbed back into his car, he had no direction. The film hadn't shown him anything about what to do with these rising phantasms he was now experience. That was a big clincher. As that truth nestled in him he started to empathize with Ali's explosion a little more, though he hadn't really forgiven him for calling him a hack. He supposed he'd never need to. 
 
-"You teach Greek?"
+He made the determination that he had to see his uncle, who taught at the University of Chicago. He had always thought of him as a sort of guide, though that characterization he knew was inaccurate. His father had always been both a pious and jealous man. His uncle was a historian of science well respected in his field. He was both quite secular and successful--a resented rival of his brother. Yes, he would have to see him, if only to clear the noise out of his head. His job could wait, he couldn't exactly teach without being in control of his mind. So he turned up the heat of his car felt a great relief to be on the road for once.
 
-"He'd you know?"
+The whole row with his father and uncle would have to be reconsidered. His father had been a strictly religious man. Church every Sunday, Bible reading every night. He had emphasized hard work, sacrifice, and of course faith. He had not, like his trucker, felt the blessings of faith. He had been more like Ali, he didn't like the idea of having his thoughts bounded by certain ideas or books. Better put, he didn't like the feeling of being bounded, because he felt something a long time before he had words for it. 
 
-"Your books, she said, pointing to the passenger seat. Could you move them? I'm cold."
+Then there was his uncle. He did not know him particularly well, because his father had done everything he could to keep him away. He always did this under the guise that his uncle was not a moral man and proved this when he slept with a student. Creed always suspected what really happened was far less straightforward, and had only become an unforgivable sin because his father wanted to hate his uncle.
 
-"Sure." Creed replied and obliged. The girl sat down.
+In any case, they hadn't spoken much. They'd only seen each other at family gatherings when meetings could not be prevented. Forbidding Creed to speak to his uncle had the precisely opposite effect his father had intended, for he listened in rapt attention to everything he said and glorified him as an idol. Determined to follow in his footsteps, he eventually grew fond of secular academia and a religion tradition of a very different sort from Christianity.
 
-"They classics?"
+As line after line rolled by, so too did the realization that this was a problem his uncle's advice might not be able to resolve. He was an academic too, and put great stock in gathering evidence of which Creed lacked. But the only thing to do was keep his view on the road. He decided to take the scenic route down Lake Michagen to keep something vast and beautiful in his view. 
 
-"Yeah."
+After some time, in the distance, he spotted a small ball of red. As he approached he realized at was a head of cherry red hair, attached to a girl in a tattered blue coat who couldn't have been older than in her early twenties. She could have been one of his students, she had her thumb stuck out but was on the other side of road, headed north in winter.
 
-"Which ones?"
+A little desperate for company, he crossed over the opposing lane of traffic onto the shoulder. Despite his obvious position of going in the wrong direction, she ran up to the car as fast as she could. She seemed to know hitchhikers couldn't be too chosy.
 
-"I have a good collection at home. But it's Plato, mostly."
+"Where you headed miss?"
 
-"Not The [Republic][]?"
+"North Dakota."
 
-"[Phaedrus][]. What's wrong with that one?"
+"What's in North Dakota?" Creed asked, mostly in surprise.
 
-"Required reading. Or, sort of. Not in the mood to talk much about high school."
+"Oil boom towns."
 
-"Oh, why not?"
+"Oil boom towns?"
 
-"I'm not much for the American schooling system."
+"Yeah, well, I read about them somewhere, and they seemed interesting, so I thought I might go."
 
-"Huh. Me either. But what high school teacher would be having you read the Republic and capable of recognizing Greek as at a distance?"
+"I'm off to Chicago."
 
-"Turn the car on will you? It's cold."
+"Mind if I tag along?"
 
-"Right. Driving. Chicago?"
+"Umm, no. But how do expect to get to where you're going if you take the wrong direction?"
 
-"Chicago."
+"You have any food?"
 
-"So, who in high school would be teaching you Greek?"
+"I can get some."
 
-"Me. The two things school taught me were how to daydream and fake paying attention."
+"Is it warm in your car?"
 
-"Someone must have turned you on to the idea. Well, history class. Mrs. Emmanuel, or as we called her, the Manual."
+"Heater on."
 
-"Why'd you call her that."
+"Well then, I guess I'm going back to Chicago. I'll see if I can't go to Dakota in the spring."
 
-"Because she droned on in the same toneless voice you'd find in an instruction manual. The kind nobody reads. She's really strict too. Couldn't pull out your cell phone, pass notes, make faces behind her back. Nothing. A real [guardian][]."
+"Fair enough."
 
-"A guardian?"
+"You a Greek professor?" she asked.
 
-"The kind of professor so dull you get the feeling they're try to protect there students from learning anything."
+"What makes you say that?"
 
-"Right. Yeah. Ok."
+"The books in your passenger seat that I don't want to sit on." 
 
-"So the only thing to actually distract me is my own history textbook. Surely their sidebars must have something only mildly related to the class material right?"
+Creed started to clear the books in his car and a few fast food wrappers that he'd never bothered to get rid of. The girl put down a back pack in front of the seat and put a banjo in her lap.
 
-"You like the off color sidebars?"
+"You a musician."
 
-"Especially the ones not in the chapter were reading. They were kind of my YouTube videos when I got into her class. So there was this sidebar about books over the course of the middle ages. So all these classics are written, but you can only physically write one or two new copies a year, and you might not be literate in the language that you're copying. '[Greek cannot be read]'. That must have sucked huh? Eight hours a day [copying squiggles][] I can't understand. Now draw my own squiggles for eight hours, I could do that in school no prob. It was too comical."
+"Aspiring. A musical instrument's a great tool for a traveler. They don't pay artist's shit, but if you have an instrument they buy you beer and put you up for the night, even if you're underage."
 
-"And I was in a small town in Kentucky. Well, smallish. If I wanted to find out more about ancient Greece from a live person, it had to be through Manual. So when I flunked a test I suggested a book report as makeup work. I got the Republic."
+"You taking a year off after high school before going off to college? They do that a lot in Europe."
 
-"Not your thing?"
+"Huh. I'm not going to college. Four years of studying and a fifteen year debt to pay off? No. Guess you're starting your winter semester aren't you? Round this time of year I like to head north and hole up."
 
-"As a philosopher, my philosophy is that [philosophers should be kings][], even though true philosophers don't want to be kings."
+"Why north?"
 
-Dr. Creed took his eyes off the road for just a bit to get a look at her. He skin was hard and dry from the cold, but she couldn't have been older than 22. Her hair was died cherry red. Not a subtle "I might actually be a redhead" shade. A "My hair is red, like my wine." kind of look. He noticed a lack of lines around her mouth, like the ones he saw in women his age. Not unusual, but he noticed they weren't there yet.
+"People in remote places have the best hospitality. They know you've got nowhere to go, and they're in for a painfully boring winter except a redhead with a banjo and a thick Kentucky accent's going to be your guess."
 
-"That one gets the fame. Some of his other stuff is much better."
+"But you don't have a Kentucky accent."
 
-"Stayed away from philosophy after that one. But I was determined to like something about history, to spite my teacher."
+"I just try and sound like my grandmother." 
 
-"The playful one you are."
+"That works?"
 
-"Mom would sometimes buy clothes off Amazon, and then forget to log out of her account. So I ordered some books. Well plays. I wanted fiction."
+"It's a schtick. But when you're in a foreign land, you've got to run with what's working. You travel?"
 
-"How'd that go for you?"
+"I've tried to make it to the Greek islands, when I can. I think that's where I left my heart, a long time ago."
 
-"Well, [Medea][] got delivered right after my boyfriend broke up with me."
+"That's so sad. Do you umm... have any recommended reading. I could stand to catch up on the classics. Especially the dramas."
 
-"Well. The [Oresteia][]?"
+"Well, there's Medea..."
 
-"Parents got a divorce."
+"Read it when I broke up with my boyfriend."
 
-"[Oedipus][]?"
+"The Orestria?"
 
-"Brother failed out of college."
+"Read it when my parents split up."
 
-"You know I've never liked Greek Drama. Especially the dramas."
+"Oedipus."
 
-"Why not?"
+"Read when my brother failed out of college."
 
-"The choruses. Every time the Chorus gets a line I can't help but start thinking of Broadway in ancient Greece, and I just can't feel anyone's pain. That's sort of a problem with the tragedies. The comedy was not so bad."
+"You seem to read Greek tragedies at the worst possible time."
 
-"So do you think men would stop going to war if the ladies refused them sex?"
+"At the most powerful possible time. Gives you words for your feelings, characters for your company, an outlet for your emotion. A good cry. They're tear jerkers."
 
-"I think if men didn't get sex there'd be more war, not less, but that play is pretty funny. You ever think about reading those works in the original?"
+"I guess that's one way of looking at it. I never could stand for the choruses. They make the works seem like cheesy musicals."
 
-"I know some people talk about that kind of thing."
+"Oh, but to see them performed! Drunk of your ass in Dionysian wine and wailing together with the audience over life's harshness? I've always wanted to go to one of those arty film festivals but I don't think they could really top the Greek Theatre."
 
-"I couldn't describe the difference exactly. You just have a more intimate relationship with the author when you can read the words he wrote."
+"Say," Creed began, "What do you know about the Theatre of HADES?"
 
-"Well, I don't know if I'm going to be able to get around to it. I've learned to travel light."
+"Theatre of HADES? That part of the classical tradition? I could use a reading list. Anything but Plato. He's not your favorite is he?"
 
-"There's stuff smaller than a big fat textbook."
+"You have a biff with the man?" 
 
-"No, but then there's the notes and all the organization that has to come with it. I've got my smart phone, my journal, and my banjo. Can't keep track of much else, unless it has an immediate use."
+"I had to read the Republic. I'm a philosophers and I think philosophers should be kings. I don't know if I should be impressed by the arrogance or by the bs he wrote to justify it."
 
-"But you do read?"
+"I certainly haven't found all his dialogues convincing. What error do you see in it."
 
-"From libraries and basements the country over. Whatever's there."
+"You don't really have to go further than the cave metaphor. He sees as trapped in our senses, and draws as people chained by our necks, looking up at shadows, right?"
 
-"I won't ask about high school, but what about college?"
+"Ok."
 
-"Huh. Don't think I'd fit in. Besides, I can teach myself. In four years I may not get a piece of paper, but I won't spend the next fifteen paying it off. Don't need a degree to serve fries."
+"Other people in the cave are moving the objects casting the shadows. This are supposed to be the true forms. But it never takes into account that we, the chained, are experiencing our lives under the influence of those casting the shadows. How can we know those controlling the shadows aren't just going to show us another shadow when our necks are unchained?"
 
-Dr. Creed didn't say a thing.
+"For someone who doesn't like Plato you seem to have thought about the Republic an awful lot."
 
-"What?"
+"Yeah, well, it was really just to spite Mrs. Emmanuel. We called her "the manual" because she was never any more exciting than an instruction manual. She was a real Guardian."
 
-"Nothing."
+"Guardian?"
 
-"You're bothered by something."
+"That's the name I have for people that make their subject so uninteresting that you don't want to learn anything about it. They guard you from your knowledge. I'm sure I'd meet more than my share at college."
 
-"So why were you going out to North Dakota, this time of year?" Dr Creed asked, trying to keep his breath steady. A groan escaped anyway. This girl was the kind of student he dreamed about during poor semesters, and she was [refusing to go to college][].
+"Well, it's not that easy. You've never been a teacher. I'm more a guardian than I want to be. I'm just stuck."
 
-"Why?"
+"What's the matter?"
 
-"Well, what's in North Dakota that a young girl such as yourself would be trudging and hitchhiking over there?"
+"You know your Greek historians? Herodotus? Thucydides?"
 
-"Some oil boom towns. At least so I hear. A fair amount of them where in the Chicago scene. Thought I'd check it out."
+"I've read of them."
 
-"But in winter? Didn't you have a fallback plan?"
+"Revolutionary writers. They thought what really happened in life was worth writing down. I think we take that for granted, and shouldn't. Most histories before that were tribal. They only sought to record things from the tribes point of view... and an inflated one at that. They really started a conversation about what constitutes historical evidence."
 
-"Yeah, hitchhiking back to Chicago. Would have loved to have made it though."
+"Tell me more."
 
-"Why?"
+"I'm just stuck. I've been working on this Athenian statesman Solon. The evidence surrounding him is limited. He's really a test to the limits of history, and I've been testing those limits, see? But since there are limits, I can't get published. It's too speculative. The journals won't publish it. I don't published, I get pegged as mediocre. That means introductory courses where I can't delve into the complexities. The Greek I teach is so basic to me, it's hard to make interesting. Being able to read the Classic in the original, now that is the reward. But I can't get there in a semester. I try quite hard not to be the guardian. But..." Creed sighed. "I guess I end up as one anyway."
 
-"Well, there's this thing about holing up in a small shack somewhere in winter. Sometimes the people in the [most remote places have the best hospitality][]. Partially don't have a choice if they don't want to be lonely. An exotic stranger can really brighten someone's day. The right person, anyhow. I was off to look, what with my kool aid hair Kentucky raised banjo hippie girl act. Ever traveled off the university circuit?"
+The girl didn't speak for some time. "Unable to stop being what you hate," she finally said, "Wow, that's intense." 
 
-"[The Greek islands][]. They've got some professional hospitalit...ers. That was a long time ago."
+"Are you real?" Creed finally asked.
 
-"You look like you remember it well."
+"Real? You think you've been talking to yourself?"
 
-Dr. Creed caught glance of his face in his driver's mirror, and knew the girl could tell. "I don't think I've ever met someone quite like you miss..."
+"Then you have a name?"
 
-"I go by [Phoenix][]."
+"Oh. Phoenix."
 
-"I'm surprised I'd forgotten to ask."
+"Jonathon Creed. Dr. Jonathon Creed. And I'll get you your book list. It'll soothe me, I think."
 
-"It comes up when it comes up if your hitching."
-
-"Why Phoenix?"
-
-"Well I couldn't go by Tragedy could I? Or Drama? Phoenix is... it's Greek enough to me."
-
-Dr. Creed, found the turn of phrase charming, but also seemed a bit much. He slowly turned over to Phoenix and asked, "Are you real?"
-
-"Am I real? I'm odd but..."
-
-"It's not the most usual thing to ask I know but..."
-
-"What else would I be? A shadow on the wall of Plato's cave?"
-
-"Hmph," Dr. Creed muttered, looked in the driver's mirror, then the passenger side mirror. He had to get off the road until something got cleared up.
-
-"What is it?" Phoenix asked, though without the kind of tremor Creed would have expected.
-
-"You... that's a good image is all. I've been wrapped up in something."
-
-"I can tell you're a little tense."
-
-"Hmm... Plato's cave. I just need to work this one through."
-
-"Go on. I'm not going anywhere."
-
-"So Plato thinks that what we see with our senses is only a projection of a concept, illuminated by the sun. The physical world consists of shadows, which we confuse with reality because we're unable to turn around and see what's doing the projecting. Right?"
-
-"Yeah, the whole cave thing. Always thought that was kind of bullshit."
-
-"Thought you skipped that one?"
-
-"Tried. So Plato says humans are chained, and facing a cave wall, only able to see the shadows of reality blah, blah, blah. Philosophy is supposed to be the way to turn people around and see the projecting source. But how did the philosopher break free in the first place. How did they not confuse the shadows with reality, like everyone else? But Plato always gives special credit to the philosophers, of which he happens to be one."
-
-"Yes, so how would you see through the projections?"
-
-"I don't see how you could. So then we're just living in an illusory world were truth is never certain, and therefore irrelevant. I never got why that passage is so famous."
-
-"[But the things casting the shadows][]," Creed continued, "who's controlling them?"
-
-"Seems irrelevant."
-
-"But they control the shadows being projected..."
-
-"And so we see a shadow world of their design and we can't know. The same circle."
-
-Creed hadn't told Phoenix about HADES. But he thought more about the cave in Plato's story. There were people who moved the "real" objects past the flame that cast shadows against the cave walls. Could the agents of HADES be the ones responsible for moving projections? For casting some false reality on his life, like ancient documents or civil war enthusiast truckers?
-
-The idea felt like it could lead to some sanity. But then the issue could pushed into the same area Phoenix found so fruitless. There'd be no way to know. The actual logic led to a dead end. But the idea of HADES, its agents and theatres, were somehow involved with some process that altered or controlled reality seemed to fit. But how and more importantly why? Something felt right, but the full nature of this idea remained vague and unformed in his mind.
-
-Phoenix looked over at him. "Are you ok?" she asked.
-
-"Oh I'm fine," he replied. "I think I can get back on the road now."
-
-"I should hope so. You looked like you were about to break down. Nice to see I can give someone an existential crisis. Maybe next time I can do it on purpose."
-
-"Look over my shoulder for me, would ya?"
-
-"Sure."
-
-Dr. Creed, a bit dazed and not putting together how long it would take to accelerate to highway speed nearly caused a wreck when he pulled into the lane off the shoulder. But the car on a collision course with him sped up and passed the car coming up on his left before he could rear end into Creed's vehicle. Creed sped up, but the near death encounter could not be undone.
-
-"I'm hoping you're not going to practice the crisis thing while I'm driving."
-
-"Why not? Didn't you say you wanted to live a little?"
-
-<!--
-Quotes and Images:
-Guardian: an 'educator' that so bores and disempowers studies as to prevent them from learning.
-"Greek cannot be read":
-I am a philsopher and philosophers should be kings.[philosophers should be kings]:
-Phoenix's refusal to go to college.
-"most remote places have the best hospitality":
-Plato's circle: If all you see is shadows, and there are people controlling the shadows, how can you be sure you're not just seeing more shadows when you turn your head?
+<!-- 
+Symbols and Sayings:
+Guardian: one who hides liberating knowledge via Dogma
+Tragedies give words to your despair
+The Greek Drama Festivals vs. Creed's own Hades film festival
+Perceived life as the movements of shadows controlled by
+the shadow casters.
+"Can't avoid being what you hate."
+Not taking for granted the subversiveness in the idea of history
 -->
