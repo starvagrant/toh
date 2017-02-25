@@ -1,14 +1,27 @@
-There was a slight wrapping heard in William Creed's office. It was his nephew Jonathon, who had come from Minnesota for a visit.
+### A Needle In Istanbul
+<!--
+= Chapter 7: A Needle In Istanbul
+Characters: Dr. Creed, Dr. Walter Creed
+Tags: History of Science, Life's Dead Ends, Morality of Falsification
+Status: Complete::Development
+Synopsis: Walter tells Creed a cautionary tale from his own youthful ambition, to discover the origins of science in Arabic scholarship. He had in fact discovered a text that might do that, but just like Jonathon the text disappeared and he was left with a HADES theatre ticket. Walter provides caution and tells how he moved to his new topic the history of 20th century theoretical physics. It's revealed he still has a ticket to the Theatre of Hades from a text that he found but lost, just like Jonathon.
+-->
 
-"Jonny!" William said in delight, tossing down a few papers and grabbing his cane.
+After dropping Phoenix off at a grimy apartment building to return to her four roommates, Jonathon took a turn towards the presitigious University of Chicago. It was the presitigious institution that he'd long dreamed of teaching in when visits to his uncle had been so taboo. He knew the number and location of his uncle's office, though circumstances had always seem to make him put off a visit. After breathing deeply and trying to collect himself, he knocked.
 
-"Uncle."
+"Walter Creed's office," a man said mechanically.
 
-"What brings on the visit? You don't write you don't call. Not an email or text. I'm even on Facebook this days, much as I try to avoid it."
+"It's your nephew. It's Jonathon.
+
+"Jonny!" William said in delight, tossing down a few papers and grabbing his cane. "You know your father would very much disapprove of our meeting."
+
+"Screw him." 
+
+"Oh how sharper than a serpent's tooth it is to have a thankless child! What brings on the visit? You don't write. You don't call. Not an email or text. I'm even on Facebook this days, much as I try to avoid it."
 
 "It was a last minute decision, to be sure."
 
-"Jonny you aren't on a run from the law now are you? There's only so much more adventure left in this old bones."
+"Jonny you aren't on a run from the law now are you? There's only so much more adventure left in these old bones."
 
 "Or trees to add to the clutter in your office." 
 
@@ -20,11 +33,11 @@ William looked about. "Well, the milk crates are an improvement. Back in my day 
 
 "Well, I have a question."
 
-"One which merits a personal visit?"
+"One which merits a personal visit? You have my attention."
 
 "Yes. Your professional opinion."
 
-"Oh?" he asked, raising an eyebrow.
+"Oh? Still having trouble getting published?"
 
 "I've been working on a history project."
 
@@ -36,7 +49,11 @@ William looked about. "Well, the milk crates are an improvement. Back in my day 
 
 "I didn't do it as a joke."
 
-"I know you didn't. It's just a position a scholar finds themselves in time after time. When someone wants to *believe* something, well, records and evidence are secondary."
+"I know you didn't. It's just a character you keep having to take on, when you believe in evidence and someone believes in something else."
+
+"Well, I've come across some evidence I'm having difficulty believing."
+
+"You have? That's the very best kind. At least... if holds fast in the face of skepticism."
 
 "Yes, well, I ran into a snag. I had access to some documents. The very oldest."
 
@@ -46,102 +63,66 @@ William looked about. "Well, the milk crates are an improvement. Back in my day 
 
 "Original singular, or originals plural?"
 
-"Plural actually. One of them's more in my area of expertise. So, as you know, history isn't what happened. It's what's on record."
+"Plural actually. One of them's more in my area of expertise, and very much in contradiction to the known texts of Greece. And I can't, I don't have the physical document. It needed document analysis. If it stood up to the tests, I would have my publication. It's what I've been looking for! But it's lost."
 
-"Yes, I'm aware of the distinction." 
+"Hmm..." Walter mused. "Shut the door, and lock it."
 
-"So there comes a point when the remaining records are so scarce as to make it impossible to make a historical account of anyone's life. The figure in ancient Greek history worth making an historical account of, but which is impossible, is the Greek statesman Solon. The document mentions him, and events that happened before his time."
+"You have some secret?"
 
-"And you've no physical evidence this document ever existed."
+"More of a tale to tell, and I don't want to be interrupted." 
 
-"That sums it up."
+"What is this tale?"
 
-"You know, I'm only teaching one class this semester. I'm still teaching because I don't quite have it in me to retire. I've read a great deal of history papers, and in all that time, I've played the scholar that said *'bring forth the evidence'*. In many ways I regret that. It always seemed at least once a year I had a student with the most inventive thing I'd ever seen, but the evidence was lacking. I know I've spent my time trying to breed skepticism, but there were moments where I felt I might be looking at some new line of inquiry, and I shot it down. Maybe I was right. But if I have any regrets on the subject, those would be it. And there was one in particular..."
+"It was right after I read Thomas Kuhn's "The Structure of Scientific Revolutions". As you can imagine, I was full of intellectual zeal. What Kuhn was really talking about, were those periods of science where two explanations fit the same phenomena, and they could both potentially explain the evidence. Over time, of course, evidence mounted in one direction. But the losing school of thought, well, they never accepted the other school, always they continued to twist their school to fit the facts. But newer students didn't have the investment see, and saw the better solution."
 
-"I'd like to hear it."
+"So what happened?"
 
-"This was back in the 60's you see. There was a new book out, by Thomas Kuhn, *The Structure of Scientific Revolutions*. Completely fascinating work, about revolutionary changes of thought and inquiry. Of course, a lot of people actually use the word revolution..."
+"Oh, give an incorrugable lecturer a little time to ramble. I was fascinated, and, through a series of imaginative leaps, I started questioning the first Scientific Revolution, aptly called the Scientific Revolution. History, I think, builds gradually. We only think of in terms of grand thrusts because no one wants to explore the boring stuff, the actual perusal of documents. Well, I got it into my head that there were unguessed inspirations in that term period. I thought maybe the old Islamic empire, that had been the seat of knowledge before the Renaissance, may have anticipated it. 
 
-"...but they don't really know what it means."
+"So I set out to learn the languages, Arabic, Turkish. I set out to learn the flowering culture of that Empire, so chaotic and cut into tiny waring pieces now. It was not a common subject in my day. Historians were much more Eurocentric then they are now. I set out to make a name for myself in the field, sketched out a tour of the great Middle Eastern universities, rummage through their rare collections. 
 
-"You've heard this lecture?"
+"I was in Istanbul, the Western tip of the Middle East. The collections department wasn't open at the late hours but I was exhausted from my tour. I found something of great interest. So, in the Islamic tradition, Mohammed is the last Prophet, sent by Allah to reveal the final correct teaching of the God of Abraham. Of course, why the question of why God didn't just give the correct version to Abraham is one of those chicaneries religions engage in to give special status to their own prophets. 'The people weren't ready for the truth,' they say, but then how the people are going to prepare themselves with an incomplete or fragmentary truth..."
 
-"I remember a few parts."
+"Have to interrupt you there Uncle. Fragmentary truth?"
 
-"Well, suffice it to say, that I often say revolutions sound sexy, but rarely do they actually happen. In any case I was young, fascinated, and reckless, looking for some new ground to cover in history."
+"Well, yes, that's always how it goes isn't it? If the person has a new truth to tell, and they don't want to contradict tradition, they just call it fragmentary. It's very effect mental gymnastics. It allows people to ascertain new and better ideas without having to admit they were wrong about the old ones. But I digress. This is about my story. So anyway I was in Istanbul, reading this writer, who was greatly concerned with the idea of a last prophet. That meant that while the concepts and morality of Islam were complete. But history is ongoing see. So that meant the collective experience of all peoples after the Koran would never be clarified by a prophet. You could only interpret, and without a prophet, everyone could interpret differently. 
+So he asked himself, what can we know outside of interpretation?"
 
-"The fighting between relativity and quantum mechanics?"
+Walter stopped for a moment, and Creed thought he was letting a point set in.
 
-"That came later. That's really where I could stake my name. Not enough historians with enough vigor to make their way through the math. Made tenure at the University of Chicago. But before that."
+"I forget myself Jonny. You know a different kind of history. That's the question that leads to science. What can I know without resulting to prophets, dogmas, holy texts, unseen divinities? This question leads one to really the pinnacle of science. Not just the experiments and the laws of nature. How can I live a life in which all my knowledge can be shown to be false? How should I live my life in which all my knowledge can be shown to be false? The writer, being religious, was greatly concern with morals, not what we'd come to see as science. But the ideas were so compelling I was sure I'd find citations and I'd have my brilliant paper. 
 
-"Before?"
+"But I fell asleep, in the afternoon sun, and when I woke up the text wasn't there any more. But there was this strange business card. It said HADES."
 
-"I don't think I've really ever told this story to you, though perhaps you remember some Turkish or Arabic phrase I taught you? You must have been four or five at the time."
+"That's what I came to ask you about! I got one too. What did you do with it?"
 
-"I don't really remember that. Just your summer vacation house, by Lake Huron."
+"It's here somewhere. It doesn't do anything. It just displays that word, HADES. I really only kept it as a memento. Yes see, my researches didn't get me anywhere. I thought in that one moment, I had really turned the history of science on its head. I thought I had pierced the veil of history with a needle and caught a glimpse of the other side. But it went nowhere. The veil's puncture just... headled. Then I started the line of inquiry that was to bring the glory. The great drama of relativity against quantum mechanics. All I have from those days are the card and the bookmark I jostled a cryptic note on. You will see life and death where two great rivers meet."
 
-"Sold that house some time ago I'm afraid. Another of my few regrets. In any case, I took after that book, and started studying the history of science. I tried winding back the clock, to as far back as science would go. I'm sure you're quite aware the much of our knowledge of the classics comes from surviving Arabic translations. So that's where I went, with all my intellectual energy. 
+"I've never figured it out. Hell, I never had to."
 
-"It was a dead end, and I found a niche that was more contemporary. A lot of my colleagues just couldn't stomach the math. Hell, even I tried learning a new language and studying abroad before I broached it myself."
+"Well, I want to figure my riddle out. I don't have time to change course like you did."
 
-"Where'd you study?"
+"Time? You call the years worth of calculus and physics I had on top of a history degree something that didn't take time?"
 
-"Istanbul. Istanbul. The Western tip of the Middle East. I was up, it was late at night. I was reading the journals of an obscure fellow from Islamic history. His journal entry, it picked at the tenets of *revealed truth* a tradition common to Christians and Muslims, and spelled out what "could" be known / studied. The arguments were much the same as their counterparts in the scientific revolution, Bacon, Hobbes, etc. 
+"Ok, so maybe I could change course. That's the very thing I came to talk to you about. I got the same card, HADES. Not the same documents, but the same riddle, that same moment of puncture. Only I want to solve it."
 
-"I thought here was my revolutionary thinker. But it was late at night. I had this vague sense that I was doing some wrong. At least against the rules. I didn't want to say anything so I just kept reading. He kept mentioning some kind of *'festival of the damned'* for which he'd been given some kind of ticket. In that festival there seemed to be some kind of *'Theatre of Prophets'*. It might have been at that festival where he'd first stumbled on these ideas. 
+"I understand. So I have to tell you what happened with me. The early twentieth century, physics was on fire. The sheer weight and counterintiutiveness of the discoveries... I realized there was a real story there, and I knew from the journals that it wasn't getting told well enough. So I did the goddamn math, and I told the story. I didn't let a flash of imagination control my life. I let the true story of the emergence of a whole new world view guide my life."
 
-"I was writing down some bibliographic notes on my bookmark, because I didn't want to get up to get some paper. I fell asleep in the room. The book had been replaced, and I only felt a sense of uneasiness when I inquired about it with the university where I was studying. But I know the book must have existed because my notes were still there. And there was what appeared to be some sort of invitation, very cryptic."
+"I don't think following the flash is surrending control of your life. Besides, I already know what the card is."
 
-"What did it say?"
+"You do?"
 
-"You will see life and death where two great rivers meet." 
+"It's a ticket to the Theatre of HADES. I've been there. I watched a film. What I don't understand is why these tickets should appear, under such strange circumstances. If the theatre is involved with the underworld, it shouldn't be in the land of the living. I have to find out why. Do you think after all this time you can go back to that moment? That needle in Istanbul?"
 
-"That's all?" 
+"If you know where you're going."
 
-"That's all. It's funny, I've never been able to forget it. Or the feeling I had around it. Like you're going to puncture reality. But then reality feels your pin prick and heals and you never see where the pin went. Swallows it up like death and never gives it back." 
+"Where two great rivers meet. St. Louis."
 
-"So what did you do after that?"
-
-"Made a name for myself in some completely unrelated time period."
-
-"But you think they're related."
-
-"Separated by six centuries. If related not by time. Related by occupying the same place in my memory, I suppose, but that will pass when I do."
-
-"When you pass. But you've still some time to solve the riddle?"
-
-"Well yes. But I gave up on it a long time ago. Big rivers meet all the time. They're called tributaries. I've looked over my notes a thousand times for some geographical hint as to which rivers it might be, and I'm not about to jaunt about the Middle East looking for some damn fool experience I had fifty years ago."
-
-"Given up on the topic?"
-
-"In a way? I'm not sure. I feel there is a answer. I just felt it wasn't something I would be able to do. I'd love to solve it, or it wouldn't have stayed in my mind all this time. What rivers would the gentleman be referring to?"
-
-"Well, suppose there isn't a gentleman."
-
-"Hmm?"
-
-"Hard for a historian, but forget the source. If someone just showed you a map of your location, and told you to find two big rivers, where would you go?"
-
-"St. Louis, I suppose. Missouri and Mississippi meet. Or maybe a bit further south. Cairo, where the Ohio and Mississippi meet."
-
-"A trip to St. Louis?"
-
-"On that flimsy reasoning?"
-
-"You still have that invitation?"
-
-"Yes?"
-
-"And you can find it in *this* office?"
-
-"Yes... I see your point."
-
-"Well then, you coming?"
-
-"I've got a few loose ends to tie up."
-
-"I don't have forever."
-
-"Ok, one of two." 
-
-### Make sure to actually talk about Scientific Revolutions, as you've glossed over that interesting subject
+<!--
+Quotes and Images:
+"Physics was on fire, an emergence of a whole new world view."
+"I changed course. You don't think it took time?"
+"I want to solve the riddle. I don't think following the flash [of inspiration] is surrending control of your life."
+Two competing scientific paradigms.
+How do I live when everything I know can be falsified? How should I live when everything I know can be falsified.
+-->
