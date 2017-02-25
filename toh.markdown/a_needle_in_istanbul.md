@@ -1,6 +1,6 @@
 ### A Needle In Istanbul
 <!--
-= Chapter 7: A Needle In Istanbul
+= Chapter 6: A Needle In Istanbul
 Characters: Dr. Creed, Dr. Walter Creed
 Tags: History of Science, Life's Dead Ends, Morality of Falsification
 Status: Complete::Development

@@ -1,6 +1,6 @@
 ### Something Viscous in St. Louis
 <!--
-= Chapter 8: Something Viscous in St. Louis
+= Chapter 7: Something Viscous in St. Louis
 Characters: Dr. Creed, Dr. Walter Creed
 Tags: Enigmas,Imagination vs. Insight,Sex,Jealousy
 Status: Annotated::Staging

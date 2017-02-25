@@ -1,6 +1,6 @@
 ### The Numerologist Can't Stop the Bees
 <!--
-= Chapter 9: The Numerologist Can't Stop the Bees
+= Chapter 8: The Numerologist Can't Stop the Bees
 Characters: Jim Vickers, Mary Monaco, Tood Aaronson, Martin Gordon, The Numerologist, The Screaming Beekeeper
 Tags: Greed, Over Dependance on Technology, Mathematics, Wrath of Nature
 Status: Complete::Staging
