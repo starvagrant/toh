@@ -1,100 +1,206 @@
-**Notes**
+### The Numerologist Can't Stop the Bees
+<!--
+= Chapter 9: The Numerologist Can't Stop the Bees
+Characters: Jim Vickers, Mary Monaco, Tood Aaronson, Martin Gordon, The Numerologist, The Screaming Beekeeper
+Tags: Greed, Over Dependance on Technology, Mathematics, Wrath of Nature
+Status: Complete::Staging
+Synopsis: A group of executives, each based on an archetype of greed, heads to a castle to discuss genetically engineered bees to a numerologist. The GE has made the bees more aggressive, they storm the castle, and slay everyone inside.
+-->
 
-Just wanted to make a note on the story, based on new ideas I've had.
+"So that's it?" protested Jim Vickers as he pointed. "That's the castle we're having this meeting in?" He pulled his hand back when he noticed his Rolex watch wasn't on quite straight.
 
-* I want the story to be a little more sinister. Previous versions have portrayed the actors as fools. But a story resulting in the death of every character is a tragedy. Or perhaps I should write it has a tragicomedy.
-* The Numerologist is representative of society's continued reliance on numbers, especially in profits and derivatives. Maximizing crop yields and efficiency. The tragedy element should be the feeling of the other characters that they have to yield to the ideas of the numerologist because the company demands it. 
-* The humor should come from the ridiculousness of the situation. Particularly the constant arrival of bees that shouldn't get there.
-* Remember some lines: **Scientists are too conservative, unable to see true patterns**
-* Also, **Can you imagine knowing your profit at any given second, in advance?** This would involve describing the nonlinear equations of business.
-* More lines: **"Are we going to have a meeting in a dungeon?" Numerologist: "I'm afraid not, mathematically interesting as it might be.**  
-* We're all powerless before innovation
-* Doesn't it seem weird that the best way to do things is through a consultant no one can understand? I mean the proposal may be correct, but you'd just like to know why?
-* What happens when it fails. Who do we consult when the consultant needs consulting?
-**End Notes**
+"Yes," Mary Monaco answered, "at 11:45 am promptly. I have meeting minutes from the previous meeting in my briefcase if you'd like to form a better idea of the discussion."
 
-Ok, I'm looking to create my own computer projects and work on the ideas in my novel.
+"None of us were in the other meeting," Jim responded, "The castle's so banal. Where are like the towers, and ramparts, and other war bearing structures?"
 
-So: I remember the original idea behind the Numerologist Can't Stop the Bees. Corp. execs travel to a castle to consult with Numerologist, who keeps blathering about Numbers and Math until the bees go through the room. Cool concept, but I want characters. 
+Todd Aaronson pulled his iPhone from his jacket pocket, and touchkeyed his password. He flicked it with his phone a bit before answering.
 
-I want the numerologist to be both an obsession with math and profits with an obliviousness to the world around him. The exec's should have a nagging sense of something being wrong. 
+"The castle was constructed in the 12th century by the Flemish to protect a trading empire. Not designed for the kind of nation-state battles we so often associate with the Middle Ages, but rather for roving bandits and undisciplined Crusaders far off the standard eastern routes, it lacks some of the common structures such as archer towers common to castles in this period."
 
-I wanted the numerologist to come later, and there to be a question as to how human he actually is. 
+"Thank you wikipedia," Todd's manager Martin gave a slight sneer.
 
-"Have you actually read this?" Keith Parkinson Jr. accosted his father, then through his copy of a 200 page treatise onto a stray table, where it resided momentarily before falling on the floor.
+"Say, is that the new iPhone?" Jim asked.
 
-"I didn't read the whole thing. Enough to get down the vocabulary."
+"Yes. I haven't got all my contacts, photos, notifications, and applications transferred though, so I couldn't tell you just how much better it is. But it's a fine machine.
 
-"The vocabulary? It's a hundred and fifty pages of math."
+"Jim, if you're curious, the company worked out a deal with the Flemish government. Castle and cultural restoration tax credits, sealed the deal."
 
-"Yes, combined with a difficult fifty pages of English, if you bothered to check."
+"Not to mention it's pretty swank to run your company from a castle. I mean, out of the way, but no roads my Porsche can't handle. I wonder how the office is structured. I think I'll commission a coat-of-arms. I mean, if I end up staying on this operation anyway."
 
-"You said this was important business. *Statistical Variation of Spirals in Improved Bees, and its Implication for Further Genetic Improvement*. How could that be important business?"
+"The castle's coat of arms is the image of a dragon eating it's own tail," Todd reported, having not put down the iPhone to listen but hearing the phrase suit of arms and finding relevant material. "It illustrates the castle's military contingent strategy. We'll gnaw off our legs before surrendering to the enemy. The castle itself once withstood siege for six... Ow!" Todd started, and dropped his iPhone.
 
-"The world runs on numbers Junior."
+Martin said nothing, but smiled.
 
-"And what kind of hotel is this anyway. Brick walls? No phone, no internet, no cable."
+"Don't worry one bit," Todd declared. "New iPhone, shatterproof." He picked it up and the phone appeared uninjured. Todd fiddled with it some more and proclaimed, "It's not working!" He rubbed a sore on his hand.
 
-"Peace and quiet. I'm hoping I'll get some at some point on this trip. Listen, Junior."
+"You probably don't have a good wifi signal Todd," Martin replied. "We're a little removed from civilization."
 
-"Don't call me Junior."
+"Hmph. Well I'm sure they'll put up a good 4G network, way this company is making money."
 
-"Son." Keith the elder pronounced slowly, hoping to reach a more responsible part of his child's brain. "Compose yourself. Listen. Learn."
+"What happened to your hand Todd?" Mary asked with concern.
 
-"Ok then," the younger at least considered being patient, not complaining about the stiff bed when he rolled into it. "It seems quite impractical for a modern company such as yours to be doing business in a castle, in the middle of nowhere Europe. Why isn't this going on in a skyscraper in New York?
+"Oh. Bee sting," he replied.
 
-"I don't really know. Some need for secrecy, some genius' idea of taste, some genius tax dodging scheme, I don't know. The point is we're going to see someone who can make the company an awful lot of money. I don't know how, but I do know this..."
+"Oh," Mary smiled. "I have something in my briefcase for that." Mary unlatched her briefcase and pulled out a tube of antibiotic ointment.
 
-"An executive is expendable. If the CEO can't make enough profit the shareholders will find a new one, and that goes straight down the ladder. I've heard the speech before."
+"You keep that in your briefcase?" Todd asked bemused, rubbing a bit on his hand.
 
-"Right. It's important to be important. But you have to seem even more important, and that means caring about appearances. So..." 
-The elder said to the son, read the book because there isn't an modernity that will give you something else to do. Flip the switch off when you go to bed."
-"I'm surprised I don't have to blow out a lantern."
+"Well, an executive really can't carry around a purse--it's unprofessional. But I find people don't quite put the same items in briefcases as purses. I don't see why. With a first aid quit and a swiss army knife you're just as prepared for outdoors as the office. You can't really put make up in it but I don't see the need. When a woman chops up her day, minute by minute, you spend fifteen minutes a day putting it on, fifteen minutes taking it off. You could schedule a business meeting in every day out that... Aghh! A bee! Oh I guess its a good thing I brought that ointment."
 
-"Ha." 
+"If you don't mind me asking..." Martin interjected. "Mary, you're secretary to the Numerologist. Weren't the bee hives he was working with five miles from the castle?"
 
-				@	@	@
+"Well, yes. I have a map of the place in my briefcase if you'd like to consult it."
 
-The castle loomed ominously in the background whilst Keith Parkinson Jr. and his father sat in relative silence along with their chauffeur. There was a certain unease about both the driver and the silence that compelled the son to ask the driver, "So what can you tell us about this castle?" 
+"No. It does concern me to be seeing bees so far away from the hives. Such creatures can't be efficient at their work from such a distance."
 
-"It's very old. Survived a number of battles. The ground in this country is flat you see, easy to march an army across it. But the poor old bastard has still survived the centuries. They say it's haunted, but I don't believe in tales. Though I'm glad everyone else does. Means I can keep my job."
+"Oh, the Numerologist has never mentioned any problems with bees before. I've been organizing his meetings for the last two months."
 
-"Haunted you say?" The younger asked. If there wasn't the internet, at least a genuine ghost story was at hand.
+"Well, no bees better come after me," Jim announced, raising him palms in a fighting stance. "Or it's bee fu," he made an exaggerated chopping motion and was stung be a bee.
 
-"I'm afraid there's not much to tell. An old king here was declared a heretic, and he harbored some heretics. The nature of the heresy is difficult to say, the church didn't bother to write it down. Only that there was a heretic, and the people were forbidden to speak of him. Of course I'm sure people grumbled in private, but nothing really got passed down. That is, at least not for a few decades, when a subsequent king was murdered by his own professional assassin. There are a great number of tales linking the two. But that's all the are, tales. A castle's about a thousand years and a lot of stories are come and gone, some beyond any hope of recall."
+"Bees respond to sudden movements," Martin whispered loud enough for everyone to hear.
 
-"You would excuse me," Parkinson the senior cut in, "but if you're from the area, you wouldn't happen to know why someone would set up any kind of office in such an area?" 
+"Want some ointment?" Mary asked.
 
-"Your company is well off, is it not?" the driver answered.
+"No. It'll take more than one bee sting to take down the great Jim Vickers." He held his kung fu stance, this time timidly frozen.
 
-"Yes, but not because we acquire expensive real estate. Never mind, I'm sure there's some reason for it."
+"So Mary," Martin began, "I heard with these new bees, the ones we'll be discussed, have ramped up production 127%."
 
-"Why wouldn't you?" Keith Jr. asked.
+"Yes. That's right. I have a report dealing with the methods and history of the report in my briefcase if you'd like to read it."
 
-"Why what?"
+"No. I'm sure it's long dry reading. I really just need the number so my department can see to the price fixing we're going to need to do. Besides, I shouldn't need the report if the Numerologist can hit the fine points."
 
-"Have castles in your holdings. They're worth money."
+"Price fixing?" Todd asked his boss.
 
-"Well, yes, but they just set there. The don't generate income. And the aren't liquid. You can't sell them."
+"Yes. Production like would flood the market, tear our new honey profits out the window. What we really need to do is to get people to consume 127% more honey. Then pricing's a breeze. Of course, we'll need some slick new marketing. Maybe I could get you transferred to marketing, and you could handle the viral marketing campaign."
 
-"Only what you can be and sell huh? Does the company have no imagination?"
+"You'd do that for me boss?"
 
-"We're going to see a numerologist in Europe. That's plenty imaginative."
+"Yeah, I've been talking to Rick, you know VP of Marketing? We're starting to agree you could probably do more for the company with a promotion to another department."
 
-"Ah! A bee!" 
+"Excellent. I'll have no time whipping up a viral marketing campaign I'll have you know. I have 1,900 friends on Facebook alone."
 
-"Don't panic," warned the driver. "Don't make any sudden moves. Just open up the window."
+"Precisely." Martin responded, before the party made it to the eroded ditch that had one time probably been a moat. The oak castle doors shot up from the ground 25 feet.
 
-"How did it get in here?" the son asked, after watching the bee escape through an opened window.
+"This thing doesn't have any big brass knockers, or anything?" Jim asked. But before they could riddle out what to do with the entrance, the doors ominously swung open, apparently by some pulley system that had been operated by the Numerlogist.
 
-"They have hives several miles from here. Sometimes the bees come down here."
+"Welcome," the Numerologist stated flatly. He voice contrasted with his physical form, which was not one of a typical academic. He had his blonde hair slicked back and wore a tailored suit with vertical lines and sharp angles. His flamboyant tie featured a multicolor spiral design. "The office is really in a wretched state of affairs." He pointed, though in truth a modern be-cubicled office lay in front of them with water coolers, vending machines, and small printed mission statements. The Numerlogist explained, "The engineers really showed no mathematical imagination. The cubicles, as you can see, are square. Oh it's the most economical arrangement of course, but you can't expected employees to have vision if they're stuck in squares all day."
 
-"Don't bees stay closer to their hives?" Keith Sr. asked.
+"I suppose your office is a few floors up?" Jim asked.
 
-"They used to. But with the new hives... maybe the bees get lost."
+"On the seventh floor, naturally. Along with my lovely secretary's."
 
-"How often does it happen?"
+"Oh stop it," Mary feigned a complaint.
 
-"There doesn't seem to be any rhyme or reason to it. Just some days the bees go off course." 
+"No, I must treat you properly, my dear. The castle restoration is underway, and as such there's really only space for two rooms on the seventh floor. Two, you'll know from numerology, represents the fall from unity. It is a most disastrous number, so I really must see my secretary is well. She's quite the model of efficiency."
 
-"Well, good to know." 
+"That she is," Martin responded.
+
+The Numerologist guided them to a spiral staircase and began an ascent. "Surely of course I can begin my discussion with you on the way. I should feel the spirals just rejuventate you."
+
+"Why exactly is that?" Jim frowned.
+
+"That's what we've come to discuss. Spirals, their properties, and their implications in bee modification."
+
+The group nodded feebly and began the ascent to the seventh floor. The Numerologist, Mary, and Jim trod the wooden contraption with ease. Martin and Todd were both a little winded by the time they reached the top.
+
+The seventh floor opened in fact to a spiral room. The numerologists office, seemed the biggest room, but only because there wasn't a clear separation between the desk in his office and the elliptical table and empty space right beside it. It seemed designed for the Numerologist both to have frequent guests and to have plenty of space to walk if decided to leave his desk. There was a small rod going up one of the walls which he touched with great animation.
+
+"The room's a spiral design. It starts here, and you can then of course trace the spiral via the placement of the rooms."
+
+No one else really saw this. They merely saw rooms facing odd directions and nodded.
+
+"Ok, so Mary, call the meeting to order," began the Numerologist.
+
+"I call this meeting to order," Mary said.
+
+"Good, now you all know what great strides this company his been making in the honey business. One might say they're, spiraling out of control, eh?"
+
+The group uttered the compulsory half-hearted laughter at the pun.
+
+"Yes," Martin chimed up, "Production rates are at 127%. How is that possible. Will this boom fluctuate with time? What's the science behind it?"
+
+"Science? Oh, there's science behind it to be sure, but scientists are too conservative. Unable to see true patterns."
+
+Todd, startled, scrambled to get to the iPhone in his pocket, and the spectacle interrupted the meeting. "Sorry, heard something buzzing. I thought it was my cell set to vibrate."
+
+"Todd," Martin reminded, "there's no wifi."
+
+"Does anyone hear the buzzing though?" Todd asked.
+
+"No." Martin replied.
+
+"You were tell them about true patterns, weren't you?" Mary helped.
+
+"Yes. Our honey production has greatly expanded because we have induced our bees to store their honey in a more useful shape. Bees naturally make honey in combs, which is a great structural shape they've made use of for ages. But it's not quite so great a shape for extraction. Our bees make honey in spirals. As the hives grow bigger, they require exponentially more honey to fill. Production sky rockets as a result."
+
+"Yes. 127%" Mary added.
+
+"But frankly, I'm not satisfied. More can be done."
+
+"What do you propose?"
+
+"The bees are engineer to make honey in spirals, but the lack the perfection of the Great Golden Spiral. Ow! Damnit!" the Numerologist swatted something on the back of his neck. "Damn bees."
+
+"You want ointment?"
+
+"Not now dear. So, you see, it's a matter of perfecting the spirals the company's got to worry about."
+
+"Yes, all very interesting," Jim said seriously. "But the air feels a little strange in here. Can you adjust the castle's heating system?"
+
+"The thermostat is set," the Numerologist replied.
+
+"Than what's that sound?" Jim asked.
+
+"There is no sound. I specifically ordered this room soundproof. Mathematics is complicated and I must not be interrupted. Ow! Goddamn bees!" the Numerology rubbed his neck, miffed.
+
+"Mary, and the vents shut? There were to be no interruptions."
+
+"All the vents are shut sir. It's a castle. We must have brought a few in while we were walking to the castle."
+
+"Ok," the numerologist said irritably. "Check you persons."
+
+"There's one on my iPhone!"
+
+"There's one on my briefcase!"
+
+"There's one on my Rolex."
+
+"There's one just flying about in my space." Martin finished the chorus.
+
+"Is it possible the genetic engineering has made the bees more aggressive?" Todd asked.
+
+"Don't be ridiculous. Bees only attack dangers to their hives. The don't go gallavanting through five miles of empty space to attack an airtight room. You're letting your phobias get the best of you."
+
+A horrid racket bulleted up the stairs and burst through the doors. "Bees!" the shaped yelled, crashing through the door and revealing itself to be a man in a beekeeper suit.
+
+"The are two areas to understand in our project. DNA, and the golden ratio."
+
+"Bees!" the figure screamed, "The castle is surrounded by bees!"
+
+"Personally, I think the starting with the mathematical approach..."
+
+"The mathematical approach is there's eighty million bees right outside the walls!" the beekeeper screamed in exasperation.
+
+"What do we do boss?" Todd asked Martin in desperation.
+
+"Don't look at me," Martin sneer contemptuously. Doesn't your iPhone have an app for that? Don't you have some insect repellant in the briefcase, Mary? Doesn't your Rolex shoot a time-displacement transducer array Jim?"
+
+"We're all doomed?" Todd glumped.
+
+"We are not all doomed!" the Numerologist barked. "No, I was explaining the Golden Ratio."
+
+"I can hear them getting louder," the beekeeper screamed. "Louder! I'm bolting before it's too late!" With just as much clamor as he arrived, he left, tripping on the staircase after being stung and screaming in a grinding and unpredictable rather, as if responding to each of a thousand bee stings individually."
+
+"See what happens if you panic?" the Numerologist asked. "I suppose we had not adequately taken bee aggression into consideration."
+
+"I have a study on the subject in my briefcase," Mary added.
+
+"Yes, well. The project as you know is incomplete. But we're in a soundproof room and the vents are shut. Given the extent of the room I'm sure we'll have enough air before the company arrives."
+
+"Damnit!" Jim yelled, turning his back to the Numerologist. "I'll take you all on myself. Measly insects won't get the best of Jim Vickers. No, I'll... Oh my god, they bees are coming through the walls.
+
+"Castle walls?" the numerologist asked in exasperation.
+
+"Yes, don't you see them! Attacking straight through the..." Jim fell silent as he thrashed about, in vain trying to dodge the swarm he now faced. The roaring of wings filled the spiral shaped room, and suddenly they were everywhere. Todd, tucked himself into a corner in a fetal position after throwing his iPhone at the swarm. Mary had ran off to her desk, trying to extract a rug to hide under before falling over. Martin made the quick motions of a Catholic cross in front of desk before being stung to death.
+
+The Numerologist, furtherest from where the bees had entered, gaped in horror. "We shouldn't have mass produced the bees before perfecting the spirals..." he muttered, before he fell in a heap, his suit was ruined.
