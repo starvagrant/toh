@@ -1,24 +1,33 @@
-Dr. Creed barreled down 1-70 in the pouring rain, trying to keep his eyes on the road, he'd put St. Louis and much of the rest of Missouri behind him and the place was already beginning to stretch out, the length between exits growing in distance with every smile. 
+### A Mouse Named Margot
+<!--
+= Chapter 8: A Mouse Named Margot
+Characters: Dr. Creed, Margot
+Tags: On the Run, Exceptions, Sex
+Status: Complete::Staging
+Synopsis: Dr. Creed meets a mysterious hitchhiker on the way to Vegas. A biologist who like him seems to have left her job at academia. She seems nervous and jittery, and after a bit to drink, tries to sleep with Dr. Creed, who is a little repulsed not so much by the act but her apparent desperation.
+--> 
 
-On the shoulder was a human figure, on a westward course, but it's small size and the pouring rain made it impossible to see until his vehicle shot a stream of water on it.
+Dr. Creed barreled down 1-70 in the pouring rain, he'd shut off the radio, a tad dismayed at his uncle's reaction to the film. "Glad I kept my day job," was the gist of it, but more disturbing was the "Well, you replaced a decades old riddle I never bothered to solve and replaced it with a newer more difficult riddle I probably couldn't solve if I tried." There was some sorrow in that response, for he felt he uncle kept his ticket all those years for good reason. He felt strongly enough about it to part ways at the airport and continue the only clue he had, that Ali might be in Vegas.
 
-Dr. Creed braked and came to an immediate halt. He couldn't, in his trip to Vegas, to hook up with his new Arab journalist contact, avoid picking up a hitchhiker. The road was likely to put him asleep, and the trip would definitely seemed stained. He hoped he would be forgiven for the drenching, though one really couldn't get any wetter. He reached over and opened the door.
+Missouri was now well behind him, and the exits were stretching in distance from each other. Soon he pictured the NPR station fizzling out, leaving him four country stations and conversative AM talk radio. Unnerved by the coming silence and the bareness likely to be his thoughts after the had taken in such long stretches of radio, he spotted a human figure on the shoulder. It was walking west.
+
+On closing in, Dr. Creed braked and came to an immediate halt. He couldn't, in his trip to Vegas, to hook up with his new Arab journalist contact, avoid picking up a hitchhiker. The road was likely to put him asleep, and the trip would definitely seemed stained. He hoped he would be forgiven for the drenching that had occurred as he pulled out in front, though given the rain it couldn't have made the person that much wetter. He reached over and opened the door.
 
 She walked in and sat in the passenger's seat, closing the door. She said nothing, and her size made him wonder if he weren't picking up a run away. With a good look, though, she had a few too many lines to be younger than her late twenties.
 
 "Where were you headed?"
 
-"Out of the rain. You?"
+"Out of the rain. You?" Creed began to appreciate the shelter of a car based on her comment.
 
-"Las Vegas."
+"Las Vegas." Creed declared proudly.
 
-"Oh? You don't seem the Vegas type."
+"Oh? You don't seem the Vegas type," she responded
 
 "Not to gamble."
 
 "Oh... you lonely?"
 
-"I'm off to meet a reporter."
+In some irritation he replied, "I'm off to meet a reporter."
 
 "Oh? what sort of news?"
 
@@ -26,7 +35,7 @@ She walked in and sat in the passenger's seat, closing the door. She said nothin
 
 She didn't say anything for a while.
 
-"Could you introduce me?"
+"Could you introduce me?" she asked at last.
 
 "A name might help."
 
@@ -34,17 +43,17 @@ Again, silence. "Call me Mouse."
 
 Dr. Creed turned the key and proceeded to get on the road.
 
-"You don't sound like you like that name."
+"You don't sound like you like that name," Creed commented.
 
 "An old nickname."
 
 "You didn't like it, did you Mouse?"
 
-"No I didn't---for a long time. But it grew on me."
+"No I didn't--for a long time. But it grew on me."
 
 "It must have been very small."
 
-"What?"
+"What?" she asked perplexed.
 
 "To grow on you. It must have been small."
 
@@ -56,7 +65,7 @@ Dr. Creed turned the key and proceeded to get on the road.
 
 "Dr. Creed."
 
-"And what are you a doctor of?"
+"And what are you a doctor of?" Margot asked with some interest.
 
 "The classics."
 
@@ -66,11 +75,11 @@ Dr. Creed turned the key and proceeded to get on the road.
 
 "Nice to get a break sometimes. Me? I teach biology."
 
-"Also on sabbatical?"
+"Also on sabbatical?" Creed offered Mouse the same vague safe haven.
 
 "Yes."
 
-"Two teachers off to Vegas in February rain."
+"Two teachers off to Vegas in February rain," Creed played the narrator.
 
 "Sounds like a terrible poem."
 
@@ -80,59 +89,59 @@ Dr. Creed turned the key and proceeded to get on the road.
 
 "How about tea?"
 
-"You must not invoke the wrath of Mouse! I can be deadly."
+"You must not invoke the wrath of Mouse! I can be deadly." 
 
-"Oh, and drink for the lady. Maybe a change of clothes too? You don't seem to have packed much of anything."
+Creed chuckled. "Oh, and drink for the lady. Maybe a change of clothes too? You don't seem to have packed much of anything."
 
-"So I left in a hurry. I want a drink."
+"So I left in a hurry. I want a drink." Mouse demanded.
 
-"Should we stop off and get some clothes?"
+"Should we stop off and get some clothes?" Creed added.
 
 "Do you think we could wait? Buy something in Kansas?"
 
-"Do you know any stores in Kansas?"
+"We're in Kansas. Do you know any stores in Kansas?"
 
 "No."
 
 "We'd probably..."
 
-"Wrath of Mouse!"
+"Wrath of Mouse!" Mouse explained, not really nowing if Creed was objecting or not.
 
 "I suppose we can wait. You're a strange one, you are."
 
-"And you're not?"
+"And you're not?" Mouse shot back.
 
-"What makes you say that?"
+"What makes you say that, Mouse?"
 
 "What else would make you want to teach a foreign culture in the Midwest? Any Greek relatives?"
 
 "No. I kind of took after my uncle. An academic."
 
-"And I'm sure his family thought highly of it."
+"And I'm sure his family thought highly of it," Mouse patronized.
 
-"Umm... they only thought highly of him because he was thought highly of by others. I'm the only one who really looked up to him."
+"Umm... depends. Mother adored him. The rest kind of thought highly of him because he was thought highly of by others. I'm the only one who really looked up to him."
 
-"What did he do to rile them up?"
+"What did he do to rile them up?" Mouse inquired.
 
-"Nothing. Well, he didn't seem to understand that social status is given to people who are right. Which was funny, because his pay depended on it. 
+"Other than being a degenerate secularist. I think it was jealousy. There's social status that comes with being right. Though I don't think he thought of things that way. Which is funny, because his salary depended on it.
 
-	@	@	@
+--------------------------------
 
-"So here we are: run down thrift store in Kansas. You want some new clothing?"
+"So here we are: run down thrift store in Kansas. You want some new clothing?" Creed asked.
 
 "That'd be good."
 
-"You do plan to go inside, don't you?"
+"You do plan to go inside, don't you Mouse?"
 
 "Uh..."
 
-"It's six fifteen. Don't know how much later they'll be open."
+"It's six fifteen. Don't know how much later they'll be open Mouse..."
 
-"Would you check?"
+"Would you check?" Mouse asked.
 
 "What's wrong?"
 
-"I have a phobia of thrift stores."
+"I have a phobia of thrift stores." Mouse's excuse was proposterous, but seemed unlikely to be withdrawn.
 
 "I'm going to get out of the car and pretend I believe that."
 
@@ -144,29 +153,29 @@ Dr. Creed exited his car and went to look at the hours printed on the glass.
 
 "I haven't shopped for women's clothing before."
 
-"twenty three inch waist, 32B, tee-shirt small."
+"Twenty three inch waist, 32B, T-shirt small."
 
-Dr. Creed went to the door, and collected himself. It was a strange request, but he figured he knew why he was making it. If he pretended it made sense to him, perhaps anyone else inside would do the same, provided no one saw him stand in the door.
+Dr. Creed went to the door, and collected himself. He didn't want to show signs he thought this unusual. If he acted all was normal, maybe no note would be made.
 
 When he opened the door, a lone girl was waiting behind a counter with a bored look on her face, a cellphone in her hands, and gum coming out in bubbles from her mouth.
 
 It'd been a long time since he'd seen a girl her age with bubble gum. He had memories of gum chewers being his worst students, though he realized he needn't worry about this sort of thing.
 
-He knew he shouldn't linger and stare, tempting as it was. Getting through this with some dignity required a cool demeanor. So he walked straight up and said the only thing he could think of."
+He knew he shouldn't linger and stare, tempting as it was. Getting through this with some dignity required a cool demeanor. So he walked straight up and said the only thing he could think of.
 
 "I need help. I'm shopping for clothes for my girlfriend."
 
 "My advice is to shop somewhere else. But no one follows my advice, so what would you like?"
 
-"Why would I shop somewhere else?"
+"Why would I shop somewhere else?" Creed asked puzzled.
 
-"The clothing here is cheap."
+"The clothing here is cheap," she pointed out.
 
 "Well it's second hand, not garbage right?"
 
-"Something tells me you're not good with women."
+"Something tells me you're not good with women," she responded.
 
-"What's that got to do with anything?"
+"What's that got to do with anything?" Creed protested.
 
 "Nothing. so what's her size? I'm certain I could find her something nice."
 
@@ -188,15 +197,15 @@ He knew he shouldn't linger and stare, tempting as it was. Getting through this 
 
 "Yes."
 
-"You like a dainty look?"
+"You like a dainty look?" she asked.
 
 "She's 20-something. Don't doll her up."
 
-The last thing he wanted was Mouse to not dress her age and remind him of a college freshman. The was a barrage of questions about tastes and colors, of which he always deferred by asking for a specific piece of clothing, restating every question into an either / or format, Then picking his gut response twice and his second guess the third time. He felt himself in the role of a student trying to pretend just enough knowledge to make a passing grade.
+The last thing he wanted was Mouse to not dress her age and remind him of a college freshman. The barrage of questions about tastes and colors, he deferred by asking for a specific piece of clothing, restating every question into an either / or format, then picking his gut response twice and his second guess the third time. He felt himself in the role of a student trying to pretend just enough knowledge to make a passing grade.
 
 There was the potentially awkward task of selecting undergarments. Mouse didn't seem to have duplicates of anything. But if there was any embarrassment to be had, his secret shopper wasn't showing it, so he pretended it was perfectly normal.
 
-truthfully, the only particularly annoying part of the whole affair was her constant interrupting the shopping to check her phone. He couldn't tell if she decided she wouldn't fall behind on her texts or if she were searching the web for fashion trivia.
+Truthfully, the only particularly annoying part of the whole affair was her constant interrupting the shopping to check her phone. He couldn't tell if she decided she wouldn't fall behind on her texts or if she were searching the web for fashion trivia.
 
 The girl worked her way through the stock, at last working in the decision of a blouse. "What color are her eyes?"
 
@@ -204,9 +213,9 @@ He didn't remember. "Green."
 
 "This shade of green?" She pointed to a potential selection.
 
-"Hmm. The really does match her eyes."
+"Hmm. That really does match her eyes."
 
-"Well then that's it. Quite the ordeal for $20 dollars of clothes."
+"Well then that's it." She piled a full outfit on the counter. Quite the ordeal for $20 dollars of clothes."
 
 "Thanks, um..."
 
@@ -218,11 +227,11 @@ He didn't remember. "Green."
 
 Dr. Creed smiled. "Jonathon". He paid in cash then walked out the door. Mouse caught his exit immediately, glaring. When he got to the car he could feel her impatience.
 
-"Took you long enough."
+"Took you long enough," Mouse stated, crossing her arms.
 
-"the salesgirl help me."
+"The salesgirl helped me."
 
-"Some help."
+"Some help," she continued to pout.
 
 "Well, I didn't think you'd want something that just got thrown together. To know you were out of fashion everywhere you went. You don't want to stick out like a sore thumb do you?"
 
@@ -230,17 +239,17 @@ Her demeanor changed. She looked downwards and spoke softly, "No I don't. Could 
 
 "It's not always easy to find a motel in the dark. Do you have to go to the bathroom?"
 
-She looked annoyed. "I do know."
+She looked annoyed. "I do now."
 
 "Why don't you want anyone to recognize you?" Creed asked.
 
 She wasn't hiding it too well, but didn't expect the question then and there."
 
-"I'll tell you at the motel. First bathroom, food, drive."
+"I'll tell you at the motel. First bathroom, food, drive." He she been male, Creed would have described Mouse's tone as a grunt.
 
 "Can do. Just try not to forget who's tagging along."
 
-	@	@	@
+-------------------------------------
 
 Dr. creed, a veteran of tedium, found driving Kansas interstates a challenge on his stamina. Mouse was uneasily silent most of the time.
 
@@ -248,184 +257,131 @@ Dr. creed, a veteran of tedium, found driving Kansas interstates a challenge on 
 
 "I'm uh..." Mouse scrambled for words. "I've got this, a, um, non-thing."
 
-"An NDA?"
+"An NDA?" he suggested.
 
 "Yeah, Non-Disclosure Agreement."
 
-"For a biologist."
+"For a biologist?" Creed asked puzzled.
 
 "Again, can't really talk about it."
 
-"Well then not about your current project, but in general. [Hade][Extremophile]. Have you ever come across something your academic training says is impossible. Something you have to fight your so-called knowledge to take a second look?"
+"Well then not about your current project, but in general. Have you ever come across something your academic training says is impossible? Something you have to fight your so-called knowledge to take a second look?"
 
-"I've done some work with extremeophiles. The kind of life that thrives in places you wouldn't think it would."
+"I've done some work with extremeophiles. The kind of life that thrives in places you wouldn't think it would," Mouse answered.
 
 "Such as?"
 
 "Volcanic vents, highly acidic or saline environments, that sort of thing."
 
-"Tell me more."
+"Tell me more," Creed implored.
 
-"Well... how do I put this? Ordinarily and this was the case for my research it is in some ways trivial."
+"Well... how do I put this? Ordinarily, and this was the case for my research, they were in some ways trivial."
 
 "Trivial?"
 
-"Well, extremophiles are generally so odd or rare that they stick to their niche, and you don't see their structures repeated outside the extreme environments. So they end up becoming the exception that proves the rule, not the exception that disproves it. Does that make sense?"
+"Well, extremophiles are generally so odd or rare that they stick to their niche, and you don't see their structures repeated outside the extreme environments. So they end up becoming the exception that proves the rule, not the exception that disproves it. Does that make sense?" Mouse paused.
 
-"Some strange oddity, a weird, interesting-for-its-own-sake, but nothing in the end, a kind of circus freak show, that you pay the carnival barker and just go back home."
+"Some strange oddity, a weird, interesting-for-its-own-sake, but nothing in the end, a kind of circus freak show, that you pay the carnival barker for and just go back home."
 
-"Yeah."
+"Yeah, thanks for the adjectives doctor."
 
-"I don't know if I could agree with those sentiments."
+"I don't know if I could agree with those sentiments," Creed shot back.
 
 "You don't have to. That's just the way it is. My God Kansas is flat."
 
 "Yeah, if you're looking for elevation this isn't the place to be."
 
-"Isn't the driving a tad boring?"
+"Isn't the driving a tad boring?" Mouse inquired.
 
-"It is difficult to pay attention to the road. You cold?"
+"It is difficult to pay attention to the road. You cold?" Creed asked.
 
 "Oh, I guess a change of clothes and a shower would be nice."
 
-"Yeah, I should stop and get gas."
+"Yeah, I should stop and get gas." Creed noted.
 
-"Then you can tell me about your impossibility."
+"Then you can tell me about your impossibility?" Mouse asked. Creed was a bit taken a back. He stalled by trying to accumulate the fast food wrappers into a pile for easy disposal.
 
-Dr. Creed put down a lightly spotted paper bag onto the small table provided in the room. The bag did not contain food, but the closest facsimile that could be found at this hour. Mouse was in the shower at the moment, but on the table was an open bottle of white win and the clear plastic cups so often find in motels. Only a small amount had been consumed in his absence. Mouse must have picked it up at the gas station without his noticing. 
+"You have a phone? We're going to need to find a motel."
 
-Dr. Creed sat down to collect his thoughts. How much of his story to relate? She seemed a sympathetic intellectual. But he thought he might pass on the confetti factory. Maybe if she stuck around for a while, he thought. He really wanted her input on one part of the story at a time, even though technically it was still in progress and he might never finish. 
+"If I had a phone, it would be broken." Mouse responded.
 
-The shower water had stopped, and Mouse stepped into the room wrapped in two oversized towels. It appeared the motel had "one size fits all" large towels, and the one wrapped around her head looked about ready to fall off. 
+"If I had a phone, I wouldn't know how to use it for that sort of thing. If you really want me to tell you about my impossibility, you'll have to keep an eye out for motel signs."
 
-Her legs looked as though she'd neglected to wash them for a moment, until Creed realized she must not have had a razor.
+"When they arrive." Mouse said glumly.
 
-"clothes?" she asked, pointing to the bag at Creed's feet. She must have forgotten to take them into the shower. He pushed the bag over towards her, and she bent over to pick it up. she was holding one towel in each hand, and the towel over her head fell to the floor.
+"Ok. Have you ever had evidence just disappear?"
 
-Creed went to pick it up, but she replied, "Leave that there. I'll be back for it. Creed let it lay, and started thinking about what he was going to say.
+"I always found compiling quotes from journals difficult," Mouse responded.
 
-Not just to her, but his journalist friend too. Intelligent mutant bees. On film of course, but quite possibly a documentary. Anything was possible at this point.
+"No, I mean disappear. And not just journal notes. I mean like experiment data that vanished."
 
-Margot exited the bathroom and interrupted his thoughts.
+"No, look, she said, Day's Inn. Burger King."
 
-"What are you smiling about?" she asked.
+"You just ate."
 
-"Nothing." 
+"I've been cold all day and now I'm hungry," she said angrily. "Could you ditch me at the motel first and pick up something at the restaurant? I want to shower."
 
-"Oh come on."
+"That would work. This story will take some time to tell. Here, I'm going to pull over for gas."
+Creed pulled over, went inside to pre-pay, and filled his tank. He came back to an empty car, presumably Margot had gone to the bathroom. She returned a few minutes later to the passenger seat.
 
-"What?"
+"So my story might take a while."
 
-"Say it."
+"I've got time."
 
-"Well... I can't tell. You look like a hopeless fashion trendy girl trying to be bohemian, or a bohemian hopelessly trying to be fashionable."
+"You have any plans for Vegas? Might be a tight spot if you don't have any money."
 
-"You don't mean that. I'm not hopeless, am I?"
+"I'll wing it," Mouse declared. 
 
-"No I mean... you look nice. Beautiful even. I just never know the right words to say when."
+"Well, let me get us a motel room. I'll give you the key, and off to the restaurant I go."
 
-"Maybe this will help," she said, closing her eyes and moving slowly towards a kiss. More than enough time for him to react, but he didn't. 
+"Keep thinking about your story," she responded, waiting for him in silence. He negotiated a room and returned with the key, which Margot grabbed from him. 
 
-Their lips met and his body stiffened..
+Upon finishing his food retrieval he parked in front of the hotel room and entered. Margot sat on her bed, wrapped in a two white towels: one for her body and one for her hair. She had the remote in her hands and was flipping channels.
 
-"What's the matter?" she asked. "You've been looking at me all day."
+"Food," Creed announced. He offered her a Whopper and sat down on the other bed. She devoured the burger, licking her lips like some carnal animal.
 
-"You were sopping wet. I thought you'd catch a cold."
+"You've quite the appetite."
 
-"How Sweet!" she smiled. "But you don't worry about little Margot."
+"I'm a carnivore," she stated proudly. "An incorrigible meat eater. You're not vegan or anything are you?"
 
-"Is that your real name?"
+"No. It's the cold I bet. Sapped your strength huh? Need nourishment."
 
-Margot stopped, flummoxed."
+Mouse looked around in a bit of embarrassment. "You don't seem cold now though," Creed added.
 
-"Wait, what did I say?" Creed asked. He imagined waking up the next day asking himself how he could ask such a dumb question, but for the moment he was certain he hadn't done anything wrong."
+"The shower was too hot. I needed to cool off," Margot responded. She was sipping something in a plastic cup. He first thought hotel ice water, then noticed a bottle of white wine on the counter. She must have picked it up in the gas station. Creed picked up a plastic cup and filled it with the wine as well.
 
-"Nothing. I just wanted to escape that name for a while."
+"So my story. I don't know where to begin. You know the feeling when up is down, right is left. When what you think you'd do is an illusion because you view of life was inadequate?"
 
-"So you think a night in a Kansas motel room with a stranger is going to help?"
+"Only too well," Mouse responded, taking a big gulp this time and immediately pouring herself some more. 
 
-"I suppose not."
+"I came across some ancient documents. Enough to turn classical scholarship on its head. They were exactly the kind of thing I'd wanted for so many, many years. And then they were taken from me."
 
-"Look, I can tell you're on the run from something. I have no idea what, but I'm on the run too."
+"I know how you feel."
 
-"No sabbatical?"
+"You do?" Creed asked.
 
-"Not one recognized by my university.l"
+"Only too well," she raised her plastic cup glass as if in a toast. She did not lower her arm, and the now awkward motion was making clear Mouse wanted to make a toast. Creed got off his bed and raised his arm in solute.
 
-"that means no."
+"To Dr. Margot and Dr. Creed, and the day the made peace with their loss. She tried to get up, but she was both drunk and not on the side of the bed. She staggered, about ready to fall to the floor when Creed caught her, his face next to hers. She kissed him softly once. Creed returned it eagerly, and Mouse (now Margot) tried to stick in her tongue. The smell of hot breath and alcohol filled Creed's nostrils and made him recoil.
 
-"I can't get away from reality. Or lack thereof. I'm not sure."
+"Is this what you want, Margot?" he asked.
 
-"Why don't you lie down. Compose your thoughts."
+"What do you mean?"
 
-"Sure," Creed flopped on the bed. Margot followed.
+"Sex with a stranger in a cheap motel on cheap gas station wine?"
 
-"Hey! Creed protested.
+"No," Margot looked down, beat red. "Something terrible's come up in my life, and I don't want to be alone."
 
-"If I flop on the other bed, I''l fall asleep. I want to hear what you have to say."
+"There's a better solution than this."
 
-"Fair enough. I don't know where to start. When the unexpected happens, the truly unexpected, you can't ignore it. You've got to look at it and deal with it. But how do you do that? If you knew how to do that, the events would be unexpected."
+"What do you propose exactly?"
 
-"You beliefs aren't what they were." Margot added. "You aren't who you were."
+"I'm going to Vegas to see a journalist friend. He's got to know people, that's his job. If you've got a doctorate in biology I'm sure something can be arranged. It'll all work out Margot."
 
-"Exactly. So I was sitting in my office. grading papers..." he looked over at Margot. Here eyes were closed. 
+"Thanks."
 
-"I'm listening." she responded to the silence. Just letting my eyes rest."
-
-Creed had heard that line before. But he launched into his story about ancient documents and the secret of Atlantis anyway. When he was finished he looked over her and she was sleeping soundly. 
-
-"Practice for when I tell my story tomorrow," Creed muttered, and went to the bathroom before retiring. 
-
-He came back to the problem of beds. It would be a little awkward to get back in the same bed with Margot. But then it might be a little awkward if he didn't get back in the same bad. He wasn't quite sure which would be worse. So he curled back into the bed Margot was sleeping in. It was closer to the bathroom. 
-
-	@	@	@
-
-Dr Creed awoke in the morning to find Margot watching Animal Planet and nibbling on pretzels. 
-
-"You know it's been a long time since I watched television," Creed announced, startling Margot.
-
-"Me too."
-
-"Funny, they probably spent more on the television than the furniture."
-
-"Well, you can't distract yourself from a crappy television by laying down on a nice bed."
-
-"You haven't done any teaching have you?"
-
-"I've played hostess a few times. Same thing."
-
-"I'll have to ask you to explain that when I wake up."
-
-"So long as you're awake when you get behind the wheel."
-
-"Well, tell me a story. then we'll die for certain."
-
-Margot chuckled, "I'm listening with my eyes closed. I fooled myself on that one. I'm guessing you weren't convinced.
-
-"Where did you drift off?"
-
-"Near the beginning."
-
-"Well then let's get packed, and I'll start for the top." 
-
-"Sure," Margot replied, picking up a pen, the hotel scratchpad, and her pile of wet clothes.
-
-"Just leave those here," creed told her. "no one will mind."
-
-"True, but I'd like to throw them out just the same."
-
-Creed hadn't much to do but change clothes. then it was off to the first drive thru available, for grease, carbs, and caffeine. He figured there would be a dumpster. Margot tossed her clothes and an unexpected smile came over her face.
-
-"Now we can really get started for the day."
-
-"I feel lighter. So tell me your story."
-
-Dr Creed. juggled asking her questions of her knowledge of ancient Greece whilst ordering a mess that could keep them going for the next eight hours.
-
-"Tell me about Greece," Margot protested.
-
-When he finished, he replied, Of course the story is about my experience with Ancient Greece, not what you know, but I have to know you have context."
-
-"Of course."
-
-"So I don't struggle to read Greek anymore. It's not as practiced as English, but I don't struggle with it. So I find this text. It is challenging. Just the combination of unusual and archaic phrases--archaic even by Greek standards. 
+Of course, there wasn't any real guarantee of finding Ali in Vegas, if that's where he'd been off to, and every day on the road Creed thought a place for him to return to was fading in the distance.
+<!--
+Quotes and Symbols:
+Extremophiles: are trivial, they adapt to strange environments only to not have their structures not passed on or duplicated. So while they are different, they are not really disruptive. 
+-->
