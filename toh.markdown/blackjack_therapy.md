@@ -1,10 +1,10 @@
-### Black Jack Therapy
+### Blackjack Therapy
 <!--
-= Chapter 9: The Numerologist Can't Stop the Bees
+= Chapter 10: Blackjack Therapy
 Characters: Margot, Ali Johnson, Dr. Creed
 Tags: [Tyrant's Aura][The Grand Scope of Random Acts][Rebels and Tyrants]
 Status: Annotated::Staging
-Synopsis: Creed, following up on the potential idea that Ali was actually serious when he suggested that he would go to Vegas to play blackjack, is discovered by Ali who put a tracing mechanism on his car. Here Ali meets Margot, who is eager to let someone know the truth regarding the murder she is later revealed to commit in the film The Garden of Treason. Before these revelations, Ali speaks of his boyhood in a Muslim boarding school. 
+Synopsis: Creed, following up on the potential idea that Ali was actually serious when he suggested that he would go to Vegas to play blackjack, is discovered by Ali who put a tracing mechanism on his car. Here Ali meets Margot, who is eager to let someone know the truth regarding the murder she is later revealed to commit in the film The Garden of Treason. Before these revelations, Ali speaks of his boyhood in a Muslim boarding school.
 -->
 
 #### Ali talks to Dr. Creed
@@ -93,7 +93,7 @@ Margot reached down her shirt and reached for something in her bra. "Like this?"
 
 "Umm..."
 
-"Just stay here. You should be safe in a public place," Ali reassured. 
+"Just stay here. You should be safe in a public place," Ali reassured.
 
 "Then I'll wait for your return." Margot said curtly.
 <!--

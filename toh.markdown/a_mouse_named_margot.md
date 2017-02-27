@@ -1,11 +1,11 @@
 ### A Mouse Named Margot
 <!--
-= Chapter 8: A Mouse Named Margot
+= Chapter 9: A Mouse Named Margot
 Characters: Dr. Creed, Margot
 Tags: On the Run, Exceptions, Sex
 Status: Complete::Staging
 Synopsis: Dr. Creed meets a mysterious hitchhiker on the way to Vegas. A biologist who like him seems to have left her job at academia. She seems nervous and jittery, and after a bit to drink, tries to sleep with Dr. Creed, who is a little repulsed not so much by the act but her apparent desperation.
---> 
+-->
 
 Dr. Creed barreled down 1-70 in the pouring rain, he'd shut off the radio, a tad dismayed at his uncle's reaction to the film. "Glad I kept my day job," was the gist of it, but more disturbing was the "Well, you replaced a decades old riddle I never bothered to solve and replaced it with a newer more difficult riddle I probably couldn't solve if I tried." There was some sorrow in that response, for he felt he uncle kept his ticket all those years for good reason. He felt strongly enough about it to part ways at the airport and continue the only clue he had, that Ali might be in Vegas.
 
@@ -89,7 +89,7 @@ Dr. Creed turned the key and proceeded to get on the road.
 
 "How about tea?"
 
-"You must not invoke the wrath of Mouse! I can be deadly." 
+"You must not invoke the wrath of Mouse! I can be deadly."
 
 Creed chuckled. "Oh, and drink for the lady. Maybe a change of clothes too? You don't seem to have packed much of anything."
 
@@ -330,11 +330,11 @@ Creed pulled over, went inside to pre-pay, and filled his tank. He came back to 
 
 "You have any plans for Vegas? Might be a tight spot if you don't have any money."
 
-"I'll wing it," Mouse declared. 
+"I'll wing it," Mouse declared.
 
 "Well, let me get us a motel room. I'll give you the key, and off to the restaurant I go."
 
-"Keep thinking about your story," she responded, waiting for him in silence. He negotiated a room and returned with the key, which Margot grabbed from him. 
+"Keep thinking about your story," she responded, waiting for him in silence. He negotiated a room and returned with the key, which Margot grabbed from him.
 
 Upon finishing his food retrieval he parked in front of the hotel room and entered. Margot sat on her bed, wrapped in a two white towels: one for her body and one for her hair. She had the remote in her hands and was flipping channels.
 
@@ -352,7 +352,7 @@ Mouse looked around in a bit of embarrassment. "You don't seem cold now though,"
 
 "So my story. I don't know where to begin. You know the feeling when up is down, right is left. When what you think you'd do is an illusion because you view of life was inadequate?"
 
-"Only too well," Mouse responded, taking a big gulp this time and immediately pouring herself some more. 
+"Only too well," Mouse responded, taking a big gulp this time and immediately pouring herself some more.
 
 "I came across some ancient documents. Enough to turn classical scholarship on its head. They were exactly the kind of thing I'd wanted for so many, many years. And then they were taken from me."
 
@@ -383,5 +383,5 @@ Mouse looked around in a bit of embarrassment. "You don't seem cold now though,"
 Of course, there wasn't any real guarantee of finding Ali in Vegas, if that's where he'd been off to, and every day on the road Creed thought a place for him to return to was fading in the distance.
 <!--
 Quotes and Symbols:
-Extremophiles: are trivial, they adapt to strange environments only to not have their structures not passed on or duplicated. So while they are different, they are not really disruptive. 
+Extremophiles: are trivial, they adapt to strange environments only to not have their structures not passed on or duplicated. So while they are different, they are not really disruptive.
 -->
