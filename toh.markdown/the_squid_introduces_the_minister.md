@@ -1,6 +1,6 @@
 ### The Squid Introduces the Minister
 <!--
-= Chapter 16: The Collapse of the Tower of Words
+= Chapter 17: The Squid Introduces the Minister
 Characters: Dr. Creed, Creed's Father, Squid Interrogator, Minister, Reverend Lee, Anthony Boggs, Amy Fencington, unlined football lineman
 Tags: [Religion][Dreaming][Faith][Fear][Opposite of Reality][Satan's Deception][Satan the Clown]
 Status: Annotated::Staging
