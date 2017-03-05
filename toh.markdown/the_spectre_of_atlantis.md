@@ -101,15 +101,24 @@ He picked up a pile of papers and was ready to throw them in the air, but someth
 
 > The ancient pharaohs passed down the story of a scribe with a jar of nectar. It was give to Pharoah to sample, and it was sweeter than anything known. He sent a great number of scholars to examine the substance, which the scribe called star wine. After the demonstration, and the examination, the scribed secreted the star wine away.
 
-> As the living son of Osiris Pharaoh demanded to know about the scribe’s magic. He claimed to come from a kingdom far away in the sea, but that his kingdom had discovered this wisdom by approaching the heavens.
+> As the living son of Osiris Pharaoh demanded to know the scribe’s magic. He claimed to come from a kingdom far away in the sea, but that his kingdom had discovered this wisdom by approaching the heavens.
 
 > Upon hearing this Pharoah ordered his builders to discuss plans for reaching the heavens. He asked the scribe if he had the magic to reach the heavens and the scribe said no, but only told the pharaoh how the structure should not be built. He told pharaoh that his kingdom, upon reaching the heavens, had sunk into the sea by making his building too tall. He suggested a structure with a wide base, so as to keep it from falling. The pyramid was the most obvious solution to the problem.
 
 > Then, having set about to build this pyramid, Pharoah wished to know what might lie in the heavens. The scribe answered the heavens were the domain of Ra, and his domain was a harem without measure in next life for any pharaoh that managed to reach it.
 
-> Stone was laid on stone for centuries, and the scribe’s line reached a great multitude...
+> Stone was laid on stone for centuries under the scribe's instruction, and the large and numerous line that profited by the dreams of the pharoahs. For the scribe, and his line, had set out to teach the pharoahs the folly of such a construction. He instructed each new pharoah that the last had failed, and the new pharoah constructed a new pyramid. Thus did great buildings tower in the land of Egypt.
 
-Dr Creed stopped his translation. He'd lost track of time and felt a throbbing headache at the base of his skull, near the top of his spine. Each word had been wrestled out with tedious search, and he wasn't even half way finished. He knew this document, should it not be a forgery, would probably undo just as much known about Egypt as the previous parchment would have been for Greece.
+> Until at last a pharoah came who would challenge the story of the scribe. The seventh son of the previous incarnation of Osiris, he had watched all his brothers die of a young age before ascending the throne, lived well into adulthood thinking the position of Pharoah would never be his. In this condition, he had questioned greatly the profits of this world. 
+
+> He had heard the story many times, and had not truly believed it. Upon gaining the throne he became fully aware of the costs of construction and the costs of maintaining a court so full of descendants of the first scribe. 
+
+> He sought to judge the value of such expenses. "Bring me the star wine that is so often spoken of in the tales. I must drink it myself," he declared, only to discover the star wine had long since run dry. He called forth his most presitigious scribe to explain the tale from start to finish.
+
+> Upon hearing it in full, he proclaimed, "Insolent wretch! You promise a harem beyond measure, fertility beyond imagination. But all I see is sterile stones arranged in piles, and a race of scribes that has greatly profited from advising the pile constructors. I declare the story of your ancestors is not wisdom but folly, and therefore cast your tribe forever from the land of Egypt, and forever shall I warn against constructing stairways to the stars."
+
+
+Dr Creed stopped his translation. He'd lost track of time and felt a throbbing headache at the base of his skull, near the top of his spine. Each word had been wrestled out with tedious search. He knew this document, should it not be a forgery, would probably undo just as much of what was known about Egypt as the previous parchment would have been for Greece.
 
 The tale was intriguing. The scribe was supposed to warn Egypt about the dangers of obsession with the heavens. He instead seemed to have instigated it. The land of ancient Egypt saw a proliferation of monolithic tombs. Pharaohs preparing themselves to be dead while still alive. 		
 
@@ -132,4 +141,5 @@ Quotes: (Paraphrased)
     "There is no technical solution to the problem of being human"
     "The Greeks were the first in the Western world to write it down, no longer content to let historical distortion fade with the passage of time."
     "The Classics were a antidote to something. They had rescued an age no longer content with faith and revealed truth, and they could do it again. But what could they revive? Climate Change? Global disaster? A second depression?"
+    "Insolent wretch! You promise a harem with measure, a fertility unimagined, but all I see are piles of stones."
 -->

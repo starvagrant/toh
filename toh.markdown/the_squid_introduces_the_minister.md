@@ -1,16 +1,18 @@
 ### The Squid Introduces the Minister
 
-Dr. Creed looked around his shoulder, to get a last glimpse of that ancient store of knowledge, now a pile of ash whose only use would be to scatter to the winds. Instead he saw the outline of a figure, something not quite human. It was certainly not the one who had given him the Blood of Apollo. 
+Dr. Creed let his minds drift from the words of the King James Bible that the Blood of Apollo had allowed him to see. Its remaining prophetic power was likely in serious decline. He left his seat to check the door, and it was indeed locked. He checked the room for something to pick the lock, only to discover the remaining drawers and cabinets were also locked. He shivered to imagine what lay behind them. 
 
-As it stepped into the light he could see a rubbery creature with tentacles protruding from its head. It's mouth, hidden away, appeared as a circle, as if the jaw holding it shut could move the mouth in two directions rather than one. A small dab of pungent liquid metal hung about its face, what appeared to be the remains of a jellyfish of the type Creed was quite familiar.
+As he was yanking at the cabinets, he heard the door open. Creed looked around his shoulder, tired to get an additional glimpse from the lasts traces of his concoction. He saw the outline of a figure enter, something not quite human. Its silence and solemnity did not suggest it was a prophetic character.
 
-"How are you?" Creed asked.
+As it stepped into the light he could see a rubbery creature with tentacles protruding from its head. Its mouth, hidden away, appeared as a circle, as if the jaw holding it shut could move the mouth in two directions rather than one. A small dab of pungent liquid metal hung about its face, what appeared to be the remains of a manowar of the type Creed was quite familiar.
 
-"Hmm..." the creature said interested. "Funny you should ask my name before asking me what I am. But, as with both we, you are no ordinary person."
+"Who are you?" Creed asked.
+
+"Hmm..." the creature said interested. "Funny you should ask my name before asking me what I am. But, as with both us, you are no ordinary person."
 
 "What am I doing here?"
 
-"Hades, the thing which you seem so keen to understand, is a in many ways a fragmented and disparate thing. You have been brought here by a most crude enemy, the military. A military which suspects you may possess a weapon of some kind, and will let nothing stand in its way, except the orders of a superior officer."
+"HADES, the thing which you seem so keen to understand, is a in many ways a fragmented and disparate thing. You have been brought here by a most crude enemy, the military. A military which suspects you may possess a weapon of some kind, and will let nothing stand in its way, except the orders of a superior officer."
 
 "A weapon?"
 
@@ -20,11 +22,11 @@ Water spilt out of the creatures mouth as it spoke, yet everything was spoken in
 
 "A threat to who exactly, or to what?"
 
-"If you'll indulge your imagination for a moment, enriched as it's been by several enigmatic films, you should be able to draw to your mind every motivation for which one would wish to keep a secret and then imagine that there are individuals in HADES which that possess that motivation. Not your secret perhaps, but for someone's." 
+"If you'll indulge your imagination for a moment, enriched as it's been by several enigmatic films, you should be able to draw to your mind every motivation for which one would wish to keep a secret and then imagine that there are individuals in HADES which possess that motivation. Not your secret perhaps, but someone's." 
 
-"Then the blood of Apollo, that was, an interrogation technique?"
+"Then the blood of Apollo was an interrogation technique?"
 
-"An obscure and sinister one. The blood of Apollo reveals, in symbolic terms, a conflict of particular importance to the drinker. To have someone drink it and listen to the babble that follows can prove particularly effective if the drinker cannot put into words his concern, for that kind of information cannot be extracted even through the most refined methods of torture. Of course, giving the blood of Apollo to someone in fear for their life can produce the effect of having the victim a glimpse of their own demise. This would cause a great deal of self doubt regarding all the drinker's future choices, neutralizing them."
+"An obscure and sinister one. The blood of Apollo reveals, in symbolic terms, a conflict of particular importance to the drinker. To have someone drink it and listen to the babble that follows can prove particularly effective if the drinker cannot put into words his concern, for that kind of information cannot be extracted even through the most refined methods of torture. Of course, giving the Blood of Apollo to someone in fear for their life can produce the effect of having the victim a glimpse of their own demise. This would cause a great deal of self doubt regarding all the drinker's future choices, neutralizing them."
 
 "So why was it given to me?"
 
@@ -40,13 +42,13 @@ Water spilt out of the creatures mouth as it spoke, yet everything was spoken in
 
 "What?"
 
-"Yes, quite familiar with the sullen and bookish Jonathon Creed. Familiar with the boy who resisted his religious schooling not because his brain was developed enough to call forth reasoned argument against it, but because it made him feel lonely. Yes, lonely during his many catechisms because they required his memorization, not his input. Lonely during sermons he did not feel bold enough to asks question of his minister. Lonely because his favorite books in the library were never a topic of bible study. Yes. Yes. All quite familiar that your misgivings about your religious background were emotional in origin, and that your now well thought out and reasoned objections were after thoughts of a much older rejection in your childhood."
+"Yes, quite familiar with the sullen and bookish Jonathon Creed. Familiar with the boy who resisted his religious schooling not because his brain was developed enough to call forth reasoned argument against it, but because it made him feel lonely. Yes, lonely during his many catechisms because they required his memorization, not his input. Lonely during sermons he did not feel bold enough to ask questions of his minister. Lonely because his favorite books in the library were never a topic of bible study. Yes. Yes. All quite familiar that your misgivings about your religious background were emotional in origin, and that your now well thought out and reasoned objections were after thoughts of a much older rejection before your adolescence."
 
 "Familiar, I am as well, of your many days in the town's small public library. A small two room affair you visited often, and with a mixture of comfort and guilty pleasure. I know the pleasure you experienced reading there. I remember the silence, the appreciation that you would not be disturbed, and your growing realization that a book allowed you a rich opportunity to explore another's mind. I remember when you flicked open your first page of the few Greek classics in that place, how you persisted in reading them despite their difficulty at your age, and how you discovered a world older than Christianity that no one spoke of.
 
-"No one, of course, except your uncle, who had some background in the classics, and whom you idealized for that reason. From him, or more appropriately, from the man you imagined him to be, you imagined a life away from that little town where it seemed your heart and mind were living on a battlefield rather than in a school or a home. 
+"No one, of course, except your uncle, who had some background in the classics, and whom you idealized for that reason. From him, or more appropriately, from the man you imagined him to be, you saw a life away from that little town where it seemed your heart and mind were living on a battlefield rather than in a school or a home. 
 
-"Most of all I am aware that the dream like quality of your existence all these long months. Far more aware than you have been, of the fact..." The creature paused for dramatic effect, "that the reason for it all is because you are still asleep in Mrs. Ogden's rather tedious American history class."
+"Most of all I am aware that the dream-like quality of your existence all these long months. Far more aware than you have been, of the fact..." The creature paused for dramatic effect, "that the reason for it all is because you are still asleep in Mrs. Ogden's rather tedious American history class."
 
 Dr. Creed, if he could still be called that, woke with a start after something thumped quite close to has head. Getting up cautiously, he indeed saw himself in Mrs. Ogden's tedious history lessons. "Is there something you'd like to add?" she asked sternly.
 
