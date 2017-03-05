@@ -1,7 +1,7 @@
 ### The Raven and the Wind Chimes
 <!--
 = Chapter 18: The Raven's Flight from the Wind Chimes
-Characters: Dr. Creed, Electra, Cora...
+Characters: Dr. Creed, Electra, Cora, soldier, woman from HADES, theatre usher.
 Tags: [Freedom][Flight][Secrecy]
 Status: Annotated::Staging
 Synopsis: Creed escapes his interrogation room thanks to a prophetic Cora pointing out the door was opened. In this state, Electra is rescued as Cora runs after a bird in her vision. (Bird = Flight). They arrive in a room with a Unix terminal and a great deal of information before attempting to escape through the ventilation shaft. Upon termination of the shaft, the discover the computer parts mentioned in Electra's hacks and the Theatre of Hades. It is revealed that the head programmer of the base was in fact Electra's father. Upon reaching the Theatre he gets the chapter's previous riddle "He'll come out the same way he came in refers to his dress."
