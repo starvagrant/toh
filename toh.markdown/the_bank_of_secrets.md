@@ -1,6 +1,6 @@
 ### The Bank of Secrets 
 <!--
-= Chapter 19: The Bank of Secrets
+= Chapter 18: The Bank of Secrets
 Characters: Jonas, Bartender, Rachel, Waiter
 Tags: [Secrecy][Secrecy Loans][Aggregation of Secrets][Death's Secret Account][Fate]
 Status: Annotated::Staging
