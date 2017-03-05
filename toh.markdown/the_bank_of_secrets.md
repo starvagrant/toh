@@ -1,4 +1,11 @@
 ### The Bank of Secrets 
+<!--
+= Chapter 19: The Bank of Secrets
+Characters: Jonas, Bartender, Rachel, Waiter
+Tags: [Secrecy][Secrecy Loans][Aggregation of Secrets][Death's Secret Account][Fate]
+Status: Annotated::Staging
+Synopsis: Story begins with Jonas' conversation with a bartender, both over his attraction to married women and his employment in the Bank of Secrets, which manages loans (of secrets) and aggregates them for sale to clients. Jonas recounts his new department which it is suggested is for death, specifically assigning a timeframe of 24 hours for cause of death. Jonas then uses this information, along with his experience, to seduce a formerly engaged woman away from the planned location of her death. Unbeknownedst to him a contigency is set up. Rachel perishes, as ill fates fall upon so many of Jonas' seductions.
+-->
 
 "All the good ones are taken," Jonas lifted his whiskey glass in toast. The man to the left of him clinked a glass, not really in agreement but to save Jonas the embarassment of holding his toasting glass up for no reason. The bartender came to fill it. He turned to the man who had taken part of the toast and began to speak, uninvited. 
 
@@ -26,23 +33,23 @@ Jonas sat back and let the drunkenness take over him for a while. Where to begin
 
 "Secret methods?" Jonas mused. "You are a secret keeper no doubt. I mean, your patrons talk to you because you offer drinks, not judgments."
 
-"Well, I suppose."
+"Well, I suppose," The bartender agreed.
 
 "It's my son's third birthday. Born of a married woman, you've likely riddled out I'm sure, who never wants to see me again and will of course tell her husband everything... after the funeral, on his grave."
 
-"And thus are adulterers passed to the next generation."
+"And thus are adulterers passed to the next generation," the bartender mused.
 
 "Hmph," I like you. "Here is another tip, should you prove attentive to more story," he passed the man another twenty. "You see, it would be easily disregarded if told by a sober man. And a drunken man, even worse. For I work at a most unusual bank. I wouldn't expect people to believe it exists."
 
-"What bank?"
+"What bank?" the bartender squinted.
 
 "The Bank of Secrets. We have a trade in secrets."
 
-"Oh really?"
+"Oh really?" the bartender snorted.
 
 "Some imagination is required to understand how the bank operates. How we make money, I mean. But in today's modern world, well, anything that can be bought and sold can be a business."
 
-"True words, my friend. True words."
+"True words, my friend," The bartender agreed, "True words."
 
 "But privacy has been valued since man wore clothes. Though of course the bank couldn't have taken it's present form without the invention of currency. We aren't humanity's oldest profession."
 
@@ -50,23 +57,23 @@ Jonas sat back and let the drunkenness take over him for a while. Where to begin
 
 "No, no. I wouldn't have time tonight."
 
-"Special lady?"
+"Special lady?" the bartender winked.
 
 "You could call her that. But no, no, I ought to tell you of the Bank of Secrets before she comes."
 
-"After a circle around the bar?"
+"After a circle around the bar?" the bartender asked.
 
 "Certainly, wouldn't have you neglecting your duties. Fill my glass while you're at it." Jonas sit back and watched the bartender mechanically fill out orders as they came. He had no doubt been behind this bar some years, and Jonas wondered how many more years he had.
 
-"The modern bank, of course, is built upon a solid principle. It has money that it can spend right away. Give you money, exactly when you need it most, and then, with interest, wait for you to pay it back in small chunks whose total is more than the lent sum. A Bank of Secrets would operate in much the same way. A devastating secret is a big one you want hidden right away. Something you would be willing to trade for many little secrets over a long time. Secrets that don't impact your standing that much." 
+"The modern bank, of course, is built upon a solid principle. It has money that it can spend right away. Give you money, exactly when you need it most, and then, with interest, wait for you to pay it back in small chunks whose total is more than the lent sum. A Bank of Secrets would operate in much the same way. A devastating secret is a big one you want hidden right away. Something you would be willing to trade for many little secrets over a long time. Secrets that don't impact your standing that much. 
 
-"But when a hundred, a thousand, a million tell their little secrets collectively over time the total comes to be worth more than those little secrets on their own, if you could compile them in such a way as to be useful--to intelligence agencies, the press, marketers, you know. That was my division." 
+"But when a hundred, a thousand, a million..." Jonas paused for effect "tell their little secrets collectively over time the total comes to be worth more than those little secrets on their own, if you could compile them in such a way as to be useful--to intelligence agencies, the press, marketers, you know. That was my division." 
 
-"And that compilation of secrets was worth something to an aspiring Romeo?"
+"And that compilation of secrets was worth something to an aspiring Romeo?" the bartender suggested.
 
 "Of course, I never used the secrets of my clients directly. I took some pride in my work you know. But I found a certain set of secrets predictably led to an estranged wife that was not a client, see. The contracts were for keeping the clients' secrets. Their other assets were for other banks. You must understand we sold secrets to those who could also read between lines, always for an ulterior motive, never for the secret itself. I did what our customers did, for my own goals.
 
-"And what goals they were. Beautiful women, beautiful. And they project on you such a powerful image, that you are everything their husband is not, that the secrets of their hearts are yours, that they and the night belong to you alone... but I suppose I offer too much nostalgia. Those affairs were my compensation for such a long houred and tedious job. For when the secret for the hundredth time is greed well, it was a data entry job, basically."
+"And what goals they were. Beautiful women, beautiful. And they project on you such a powerful image, that you are everything their husband is not, that the secrets of their hearts are yours, that they and the night belong to you alone... but I suppose I offer too much nostalgia. Those affairs were my compensation for such a long houred and tedious job. For when the secret for the hundredth time is greed--well, it was a data entry job, basically."
 
 "Tending bar isn't really a sexy job either," the bartender replied.
 
@@ -74,7 +81,7 @@ Jonas sat back and let the drunkenness take over him for a while. Where to begin
 
 "As tedious as your bank, no doubt."
 
-"Well, you might as well check the rounds. This next part is... rather difficult."
+"Well, you might as well check the rounds. This next part is... rather difficult," Jonas said ominously.
 
 The dates, what do I tell him about the dates? Jonas wondered.
 
@@ -82,7 +89,7 @@ The dates, what do I tell him about the dates? Jonas wondered.
 
 "I dealt with the tedium of my job with unusual strategies. I got rather good at it. My favorite was alternative facts. That is, a set of facts that occurs alongside the supposed actual facts. What I learned is, the part of the brain involved in certainty handles two things simultaneously: facts and convictions. Certainty, in other words. Understand what triggers certainty, and you can craft alternative facts. And there is no useful argument that can be made between two sets of facts. Including arguments about secrets, of which there are many."
 
-"You are a clever fellow."
+"You are a clever fellow," the bartender nodded.
 
 "Not clever enough to turn down a promotion. You see, some client accounts are so extensive as to require separate divisions. Clients whose secrets require special perspective."
 
@@ -90,11 +97,11 @@ The dates, what do I tell him about the dates? Jonas wondered.
 
 "Very dangerous. Normal client secrets are easy to infer value, delicacies of exquisite beauty. This client's desired secrets do not correspond to any human heart I can fathom. And he... or perhaps I should say it, is only interested in final secrets. Secrets taken to the grave."
 
-"He must have a great deal of power."
+"He must have a great deal of power," commented the bartender.
 
-"Yes, I'm certain he does. A secret taken to the grave is final. But here is what I don't understand. I just don't understand it. I think maybe I need another drink."
+"Yes, I'm certain he does. A secret taken to the grave is final. But here is what I don't understand. I just don't understand it. I think maybe I need another drink," Jonas added.
 
-"You... wouldn't want to slur your story? I'll see if I can make up for the windfall with another round, ok?"
+"You... wouldn't want to slur your story? I'll see if I can make up for the windfall with another round, ok?" The bartender asked, mechanically filling his duties.
 
 "As you see fit," Jonas put his head on the side of the bar. The droplets of ice and alcohol soaked into his hair, refreshing him like water splashed on the face. He watched the bartender return.
 
@@ -108,7 +115,7 @@ The dates, what do I tell him about the dates? Jonas wondered.
 
 "Yes. I was instructed that that date never change. But the profiles always had the cause of death on them, and it seems the cause of death was a bit of guesswork. The cause of death was always an impossibility. So, I invented a set of alternative facts about how they died you see. I wasn't a judge, see, nor an executioner. I chose whether the executioner bore a sword or an axe, or stood on the gallows or guillotine."
 
-"I don't think there's enough alcohol in the world to forget something like that. But it's not my job to stop you from trying."
+"I don't think there's enough alcohol in the world to forget something like that. But it's not my job to stop you from trying," the bartender offered no judgment.
 
 "No. No, I'm not really disturbed by that any more. These people had their name on a list. A list of someone kicking ass and taking names, for want of a better phrase. If I didn't do it someone else would. These people were marked, nothing could change this. And to tell them this, to not only reveal their days were numbered, which they should have figured out, but that that number was determined in an advance would be an act of great cruelty. It would be to rob them of their lives. Secrecy is the heart of life. All our decisions are impacted by being unable to predict the future."
 
@@ -116,7 +123,7 @@ The dates, what do I tell him about the dates? Jonas wondered.
 
 "Of course, secrets don't always remain such. No employee ever let nothing slip through, and big accounts always had some leak. Well, come to think about it, no one's ever told me of a leak from my current department."
 
-"It'll happen. Humans are fallible. Keeps me in business."
+"It'll happen. Humans are fallible. Keeps me in business," the bartender chuckled and wiped some glasses
 
 "I think," Jonas announced, "It's time for my bill. I have a hotel room to procure."
 
@@ -126,111 +133,111 @@ The dates, what do I tell him about the dates? Jonas wondered.
 
 Jonas watched a bead of sweat rolling down towards his date Rachel's black dress. She had not come dressed for an electronic music dance club, but could not help losing herself in a new passion. She had danced to near exhaustion before Jonas brought her to a jazz cocktail lounge.
 
-"Don't you think I look a little, sweaty, for a mellow lounge like this?"
+"Don't you think I look a little, sweaty, for a mellow lounge like this?" Rachel asked.
 
-"A woman cannot possess true beauty, without some strangeness in it."
+"A woman cannot possess true beauty, without some strangeness in it." Jonas mused.
 
-"Who said that? You're quoting."
+"Who said that? You're quoting," Rachel poked Jonas a few times.
 
 "You're so very certain are you? Edgar Allan Poe."
 
-"I thought he only wrote horror."
+"I thought he only wrote horror," replied Rachel.
 
 "Mystery as well, dear Rachel. Practically invented the genre."
 
-"There doesn't seem to be anything you don't know. Or did you just look at my facebook profile?"
+"There doesn't seem to be anything you don't know. Or did you just look at my facebook profile?" Rachel accused.
 
-"I knew you for four years. The high school's hot shot saxophone player."
+"I knew you for four years. The high school's hot shot saxophone player," Jonas reminded her.
 
 "But we barely spoke in all that time. Nestled away you were, as I recall, on the debate team and an acne ridden face."
 
 "It's clear now."
 
-"Time... time has a way of sorting men out. You weren't the kind that blooms in high school, only to fade from that moment on."
+"Time... time has a way of sorting men out," Rachel declared. You weren't the kind that blooms in high school, only to fade from that moment on."
 
-"You had to throw men away, as I recall."
+"You had to throw men away, as I recall," noted Jonas.
 
 Rachel let out a knowing giggle. "They never lasted long with me. Men don't like a girl who can think for herself and isn't easy to pressure."
 
 "High school men," Jonas corrected.
 
-"Yes, well, high school was when I got beautiful."
+"Yes, well, high school was when I got beautiful," Rachel mused.
 
-"And remained." 
+"And remained," Jonas added. 
 
-"Oh, now cut that out. It'll make me doubt your intentions."
+"Oh, now cut that out. It'll make me doubt your intentions," Rachel informed.
 
-"Doubt them then. It'll make the night more unpredictable."
+"Doubt them then. It'll make the night more unpredictable," challenged Jonas.
 
 "You've... you've gotten a little confident since last we met. You were quite nervous last time." 
 
-"I have a poker face now."
+"I have a poker face now," Jonas said, staring her down.
 
 "You are nervous aren't you? Something told me you were, but I can't put my finger on it this time. Can't discover your tell."
 
-"I had a crush on you. All throughout high school."
+"I had a crush on you. All throughout high school." Jonas told her.
 
 "But you never said a word."
 
-"That doesn't make you uncomfortable does it? Scared you'll lose a friend because he's not man enough to hear no?"
+"That doesn't make you uncomfortable does it? Scared you'll lose a friend because he's not man enough to hear no?" Jonas asked.
 
-"I wasn't thinking that. You... you've become quite the man."
+"I wasn't thinking that. You... you've become quite the man," Rachel noted.
 
-"Well, I realized something. We're all lonely, you see, so fearing someone else... if they're not a mortal enemy, well, it's silly."
+"Well, I realized something. We're all lonely, Rachel, so fearing someone else... if they're not a mortal enemy, well, it's silly."
 
 "You think I'm lonely? Is this just a general principle or can you tell how you see it in me?"
 
-"Well, going out on a date with someone from your past..." 
+"Well, going out on a date with someone from your past..." Jonas trailed off.
 
-"We bumped into each other."
+"We bumped into each other," corrected Rachel.
 
-"But this has not been an ordinary date. Too much honesty, too many questions that ought to have been put off to a later date, It's been too confessional, too intimate, for there to be more than just a good time."
+"But this has not been an ordinary date. Too much honesty, too many questions that ought to have been put off to a later date, It's been too confessional, too intimate, for there to be more than just a good time," Jonas pontificated.
 
-"Ok, I admit. I was, engaged to be married."
+"Ok, I admit. I was, engaged to be married," Rachel whispered. 
 
-"There's that too. You still have a band of pale skin around your ring finger."
+"There's that too. You still have a band of pale skin around your ring finger," informed Jonas.
 
 "I've been wondering. I haven't found a man to answer this question. I was engaged two years. Michael did not show signs of unhappiness. But then this Argentinian girlfriend comes along. I should think three years of dating, of building trust, shouldn't come to nothing. I anticipate she's going to marry him for his money. Oh I'm sure the sex will be great, but not so much else. What would cause someone, some man, to just jump ship like that?"
 
 "You sure you want to know the answer to that?"
 
-"Yes, I do."
+"Yes, I do." Rachel looked at him most assuredly.
 
 "Boredom. He was beginning to see an entire life with you, and he ditched it for an exciting unknown. That's how men are. Well, a lot of men." 
 
-"Thank you for your candor. I don't know how he moved on so quickly."
+"Thank you for your candor. I just don't know how he moved on so quickly." Rachel looked away.
 
 "He'd probably been thinking about it a few months. Didn't say a word, I'm guessing."
 
-"No, he didn't. You seem to... know a lot about men. How about women?"
+"No, he didn't. You seem to... know a lot about men. How about women?" Rachel's tone grew excited.
 
 "They can take the secrets of their heart to the grave." Rachel seemed like she was hit by a club, and Jonas took the opportunity to play footsie with her.
 
-"Just what do you think you're doing their buster?"
+"Just what do you think you're doing their buster?" Rachel asked.
 
 "Making a move," Jonas replied, his eyes looking straight into her. After an expectant look, she turned away, looked down, and placed her hand on her neck.
 
 "It's too soon."
 
-"Too soon?"
+"Too soon?" Jonas asked.
 
 "Too soon after my breakup."
 
-"You know, when I was a child and got new shoes, my mother always complained that I brought them back muddy. Too soon to get them dirty, even though that was how they were going to end up anyway."
+"You know," Rachel, "when I was a child and got new shoes, my mother always complained that I brought them back muddy. Too soon to get them dirty, even though that was how they were going to end up anyway."
 
 "But we're not talking about shoes. We're talking about my heart."
 
 "And you'll find another to give it to, and another, and another, until you settle on one. Why wait?"
 
-"Because I feel like I hadn't honored..."
+"Because I feel like I hadn't honored..." Rachel trailed off.
 
-"The love of a man who cheated on you?"
+"The love of a man who cheated on you?" Jonas finished.
 
 "I think I need a drink. Waiter!"
 
-"Nervous?"
+"Nervous, Rachel?"
 
-"I feel like I can't hide from you. You've been up to something haven't you, since you've been in school? You can read people."
+"I feel like I can't hide from you. You've been up to something haven't you, since you've been in school? You can read people," Rachel noted.
 
 "People are not hard to read. Their hearts hold the same secrets, the same desires. It's what they value most that differs."
 
@@ -240,49 +247,49 @@ Rachel let out a knowing giggle. "They never lasted long with me. Men don't like
 
 "Yes madam," the waiter scurried away.
 
-"You're afraid of me, aren't you?"
+"You're afraid of me, aren't you, Rachel?"
 
 "No. Not you. Just..."
 
-"You want to know what I've been doing? My work I mean?"
+"You want to know what I've been doing? My work I mean?" Jonas asked.
 
-"Yes, I should very much like to hear what seems to have changed you so."
+"Yes, I should very much like to hear what seems to have changed you so," said Rachel.
 
 "I work at a place called the Bank of Secrets. In hindsight it shouldn't come as a shock such a bank exists. Secrets are extraordinarily valuable."
 
-"But, how do you turn a profit at an institution like that?"
+"But, how do you turn a profit at an institution like that?" Rachel inquired.
 
 "There are big secrets and little secrets. Big secrets are terrifying, lead clients desperate for some service to hide them. This we do, for a price. They tell us little secrets over time. Like interest. It is not so different from human interaction. We relay the trivia in our lives in hopes that the burning desires that consume us lay unguessed. Lay in a furtive look or a stare held a little too long."
 
 Jonas put his finger on Rachel's heart, to underscore its rapid beating. Rachel clutched it instinctively with her hands, but having grabbed it, did not remove it. The waiter returned with her drink, which was gone in seconds. 
 
-"Tell me more about the bank."
+"Tell me more about the bank," Rachel said.
 
-"Well, if you have a pool of customers and a pool of small secrets... eventually it adds to more value to the Bank than the big secret was to the client. It works a little like insurance you see, except that secrets are a little harder to organize and value."
+"Well, if you have a pool of customers and a pool of small secrets..." Jonas collected his thoughts, "eventually it adds to more value to the Bank than the big secret was to the client. It works a little like insurance you see, except that secrets are a little harder to organize and value."
 
-"How so?"
+"How so?" asked Rachel.
 
 "With most secrets, their value fades with time. Do you suppose you really have an childhood secrets that damaging to you?"
 
 "Well, there's stuff I wouldn't want people to know but..."
 
-"As compared to your ex-fiancee, who I'm sure no doubt, dated the Argentinian whilst still keeping you his fiancee in case anything went wrong."
+"As compared to your ex-fiancee, Rachel? Who I'm sure no doubt, dated the Argentinian whilst still keeping you his fiancee in case anything went wrong?"
 
-"The bastard. I suppose he did."
+"The bastard," Rachel exclaimed. "I suppose he did."
 
 "Things would have really fell apart then. But his choice is over. A secret is more potent in the middle of a transgression."
 
-"This was your work? It sounds fascinating. Why don't I order another gin and tonic?"
+"This was your work?" Rachel asked. "It sounds fascinating. Why don't I order another gin and tonic?"
 
 "I don't think you need one. Your heart is pounding. You're seeking comfort in drink and safety in conversation when in fact, you want to transgress with me."
 
-"I'm an honorable woman."
+"I'm an honorable woman." Rachel flitted nervously.
 
-"Which just makes you all the more conflicted."
+"Which just makes you all the more conflicted," noted Jonas.
 
 The waiter returned with another gin and tonic that disappeared just as fast.
 
-"I have a hotel room. It's a penthouse."
+"I have a hotel room. It's a penthouse," Jonas offered.
 
 "You're right. I do want to go."
 
@@ -296,7 +303,7 @@ Jonas and Rachel arrived at Jonas' penthouse suite, he laid her gently, on the b
 
 "Oh?"
 
-"I'm not as timid a lover as I've been making it out to be."
+"I'm not as timid a lover as I've been making it out to be, Jonas." 
 
 With little warning, Rachel seemed to go from embarassed princess to lady of the night. She moaned, she screamed, she tossed champagne in his face. Jonas could feel her loneliness mix with her lust, her heartbreak mix with her passion and it was explosive. 
 
@@ -310,7 +317,7 @@ He knew he should have guessed it. Someone in his department had also received R
 
 Contigency plans must not have troubled the worker at all. He had been seducing the hearts of forbidden women for some time now. He did not now why he did it, only that there was an intoxicating feeling of power, a jolt of confidence, a strengthened conviction that he was a man. But then there sometimes came the feeling that the women in his life would have been better off never knowing him in the first place.
 
-He lay down back in bed and tried to finish what was left of the champagne. He expected he'd need a little time to wash away the guilt, as he had done when he learned he'd had a son that he was never to see. But instead in his mind was a different sort of question. He had known Rachel for some time. True, not in those intervening years after high school, but he wondered what secret should have sent her to the grave. What secrets was his client really after? Why choice Rachel over some corrupt official in Africa, or Chicago mob boss?
+He lay down back in bed and tried to finish what was left of the champagne. He expected he'd need a little time to wash away the guilt, as he had done when he learned he'd had a son that he was never to see. But instead in his mind was a different sort of question. He had known Rachel for some time. True, not in those intervening years after high school, but he wondered what secret should have sent her to the grave. What secrets was his client really after? Why choose Rachel over some corrupt official in Africa, or Chicago mob boss?
 
 Rachel was a music teacher. What grand secret could be in her heart that it needed the protection of a grave? Or, as he had inkling suspicions at the time, was his employer fundamentally different from those he had worked with in his previous position? They had wanted money, power, sex. For this client, it seemed the act of death was more important than its practical applications. That it was an end in itself.
 
@@ -322,4 +329,12 @@ But someone working for his client had decided it not to be, and Jonas at last f
 
 But it seemed inescapable that her plans had only come up because of the potential seduction. That he had made her, the secret. That it was him, in the end, that caused her death.
 
-----------------------------
+<!--
+"You see a secret to a married woman is secrets. 
+"Secrecy is the heart of life. All our decisions are impacted by being unable to predict the future."
+"Time... time has a way of sorting men out. 
+Big secrets are terrifying, lead clients desperate for some service to hide them. 
+"With most secrets, their value fades with time." 
+"A secret is more potent in the middle of a transgression."
+But what were these rifts and ripples between the world of the living and the dead? 
+Death and Secrets: A client that only wants secrets taken to the grave. If a client held all the secrets created by a death, that must be more than the bank can manage."
