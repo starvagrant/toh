@@ -6,14 +6,14 @@ Tags: [Military][Ambiguity][Culture][Falling Monolith]
 Status: Annotated::Staging
 Synopsis: After the manowar incident, Creed, Electra, and Cora are apprehended by a Russian military squad and taken to a base somewhere about a ten hour drive for Greece, outside the border. Creed is stuck with merely waiting, and we don't see the other two characters. The Russian interrogator Anna seems to know Creed has been coming into contact with manifestations of HADES and the earthly branch of its Theatre, but wishes the full summary. She is gathering information as to whether Creed has seen to much and should be shot.
 
-However, someone behind the Theatre of HADES, someone who sames to have an active and more knowledgable role in Creed's adventure, relieves Anna of her duty before Creed dies of poisoning. He offers Creed a substance known as the Blood of Apollo, which will give him a vision offering a choice. He is offered the chance to martyr himself for an important lost scroll or to let historical distortion remain. He chooses the later. The man leaves, but his departure does not seem to indicate an end to his quest.
+However, someone behind the Theatre of HADES, someone who sames to have an active and more knowledgeable role in Creed's adventure, relieves Anna of her duty before Creed dies of poisoning. He offers Creed a substance known as the Blood of Apollo, which will give him a vision offering a choice. He is offered the chance to martyr himself for an important lost scroll or to let historical distortion remain. He chooses the later. The man leaves, but his departure does not seem to indicate an end to his quest.
 -->
 
-The crowd at the beach parted at the sight of military uniforms, halted only by a desire to avoid the mound of metal now trying to soak it's way into the sands. When Creed gave a glance the first time, he had only been looking for enough signals to indicate there was a military. He had expected a Greek unit armed mostly with crowd control weaponry. When he looked back, he saw both AK-47's and Cyrllic characters on the uniforms rather than Greek. They were Russian military uniforms, and sorely out of jurisdiction. This was a covert operations team, although how covert they were being at the moment seemed minuscule.
+The crowd at the beach parted at the sight of military uniforms, halted only by a desire to avoid the mound of metal now trying to soak it's way into the sands. When Creed gave a glance the first time, he had only been looking for enough signals to indicate there was a military. He had expected a Greek unit armed mostly with crowd control weaponry. When he looked back, he saw both AK-47's and Cyrillic characters on the uniforms rather than Greek. They were Russian military uniforms, and sorely out of jurisdiction. This was a covert operations team, although how covert they were being at the moment seemed minuscule.
 
 Creed lifted his hands above his head, and instructed Cora to do likewise. He would have gone willing, but a rifle butt clocked him in the temple and sent him sprawling. They duct taped his mouth and lead him away in handcuffs. His vision had been too blurry to see what was going on with Cora and Electra. After being dragged ten to twenty feet he was thrown into the back of trunk. It was tilted open slightly, hopefully for breathing. A few rays of light made their way in before being absorbed by the black trunk bed. Now there was nothing to do but wait.
 
-He certainly needed time for reflection, time to get a grip. But trapped with nothing to do, his mind faltered instead. It strained with distracted boredom, as if the deprival of his senses had deprived him of the rest of his faculties as well. He could tell only that, despite the feeling of moving on top of wheels, with all their swerves and bumps, nothing was changing. It was all still the same trunk, still the same car, still the same trap, with little reference to time, other than a few scattered rays.
+He certainly needed time for reflection, time to get a grip. But trapped with nothing to do, his mind faltered instead. It strained with distracted boredom, as if the deprivation of his senses had deprived him of the rest of his faculties as well. He could tell only that, despite the feeling of moving on top of wheels, with all their swerves and bumps, nothing was changing. It was all still the same trunk, still the same car, still the same trap, with little reference to time, other than a few scattered rays.
 
 Those slowly faded from view, and Creed hoped they would reach their destination before nightfall, so that he would at least have his clock. Everything else was gone, save for a pair of increasingly uncomfortable swimming trunks. His memory remained, though he wondered when that, too, would fail. He tried remembering a place he would rather be.
 
@@ -41,7 +41,7 @@ He was soon greeted in the room by a woman named Anna, he was small, had a cheer
 
 "Yes," Anna's short answer did not betray amusement.
 
-"A horde of manowar swarmed the beach. I stayed quite still. They must have been reacting to the sudden movements of the other beachgoers."
+"A horde of manowar swarmed the beach. I stayed quite still. They must have been reacting to the sudden movements of the other beach goers."
 
 "I've been informed multiple people tried your tactic. You and that woman were the only ones in the water to remain alive."
 
@@ -203,7 +203,7 @@ Slowly taking the world in, he noticed a female figure close by trying to get hi
 
 "Dr. Creed."
 
-"You're from Greece? The land of Alexender?" she inquired enthusiastically.
+"You're from Greece? The land of Alexander?" she inquired enthusiastically.
 
 "No, I'm from America, but I studied in Greece."
 
@@ -253,7 +253,7 @@ Lydia's appearance was slowly becoming more vivid. She more a long linen robe, a
 
 "We have paper," Creed informed.
 
-"Perhaps an exchange can be made? We have an acquistions department. Is there any knowledge your kingdom would greatly value? We can supply it."
+"Perhaps an exchange can be made? We have an acquisitions department. Is there any knowledge your kingdom would greatly value? We can supply it."
 
 Yes, Creed thought, there was material here to fill a hundred journals. Perhaps there might have been better things, but there were his two stories that needed explanation. They prove nothing but fanciful tales according to classical scholarship, but they were a part of his adventure, and seemed more important than anything else.
 
@@ -291,9 +291,9 @@ Yes, Creed thought, there was material here to fill a hundred journals. Perhaps 
 
 "Yes, let's."
 
-Dr. Creed have grave doubts Lydia could find the work described so vaguely amidst so many other texts. The library's classification scheme might not have a classification system as broad or deep as a modern library, let alone the speed of something like the Internet. Personal knowledge of the library's idiosyncracies would have a great role to play. Creed would not have minded this had he been certain he was actually in the library. Browsing the Library of Alexandria was a classical scholar's unbridled fantasy. Less than a dozen of these scrolls could secure an academic future. But how exactly he was going to transport said scrolls across time and space was beyond his imagination. 
+Dr. Creed have grave doubts Lydia could find the work described so vaguely amidst so many other texts. The library's classification scheme might not have a classification system as broad or deep as a modern library, let alone the speed of something like the Internet. Personal knowledge of the library's idiosyncrasies would have a great role to play. Creed would not have minded this had he been certain he was actually in the library. Browsing the Library of Alexandria was a classical scholar's unbridled fantasy. Less than a dozen of these scrolls could secure an academic future. But how exactly he was going to transport said scrolls across time and space was beyond his imagination. 
 
-Lydia led Dr. Creed downstairs. She began muttering to herself in strange language. Occassionally a Greek word would slip in, and surprisingly some Hebrew ones. Then Lydia began walking down past a few aisles. Dr. Creed was still breathless to see scroll after scroll.
+Lydia led Dr. Creed downstairs. She began muttering to herself in strange language. Occasionally a Greek word would slip in, and surprisingly some Hebrew ones. Then Lydia began walking down past a few aisles. Dr. Creed was still breathless to see scroll after scroll.
 
 "Just of curiosity, what do they trade in America?" Lydia asked.
 
@@ -403,7 +403,7 @@ But then, that was what he was looking for too, was it not? A citation. A citati
 
 1. And the whole earth was of one language, and of one speech
 2. And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there
-3. And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for mortar
+3. And they said one to another, Go to, let us make brick, and burn them thoroughly. And they had brick for stone, and slime had they for mortar
 4. And they said, Go to, let us build a city and a tower, whose top may reach unto heaven, and let us make us a name, lest we be scattered abroad upon the face of the whole earth.
 5. And the Lord came down to see the city and the tower, which the children of men builded.
 6. And the Lord said, Behold, the people is one, and they have all one language, and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.
@@ -415,11 +415,11 @@ In remembering it, it seemed like his decision was guided not by choosing a bett
 
 Creed looked for other points of agreement, but his mind kept leaning towards the contradictions. The Tower of Words was a gift constructed, and the Towel of Babel was a gift rescinded. The tower of Babel spoke of a humanity to great, The Tower of Words revealed a human weakness, hidden among the confounded languages. The weight and struggle of the many languages could be overcome. But the weight of judgment, self-righteousness, and cultural fanaticism--that no human construction could bear. No Lord was needed to bring down a tower of universal human language--that we could do on our own, and that message seemed lost in the Biblical version.
 
-But there were other versions of this story; he had been presented with two back in his office. The construction and fall of a great towering monolith. That story of Atlantis, the floating tower of Atlantis, and it's greed for the stars, for something not of this earth, something transcendant, something not to be reached on a foundation of water. Greed too, had been present in the Egyptian story, in the form of lust. A harem without measure--in the afterlife. Another transendence, sexual ecstasy, not to be approached in this life--despite this transcendence being an earthly delight. And what was left was not the pharoah's line, but inanimate objects of such size as to outlast the human race, or at least it's empires.
+But there were other versions of this story; he had been presented with two back in his office. The construction and fall of a great towering monolith. That story of Atlantis, the floating tower of Atlantis, and it's greed for the stars, for something not of this earth, something transcendent, something not to be reached on a foundation of water. Greed too, had been present in the Egyptian story, in the form of lust. A harem without measure--in the afterlife. Another transcendence, sexual ecstasy, not to be approached in this life--despite this transcendence being an earthly delight. And what was left was not the Pharaoh's line, but inanimate objects of such size as to outlast the human race, or at least it's empires.
 
 In every story existed a culture whose structures exceeded their reach. Sometimes a divinity intervened, in others a truth intervened and the structures fell to their own contradictions. Still, they all maintained this tragedy, this fall from greatness. But even though that character remained in the only surviving version of the tale, Creed the burning of his own text of one great personal loss.
 
-A highly developed language was amongst the things that was uniquely human. The other apes had precursors, could grasp it in chunks. But that ability to stitch together memories into stories, stories into histories, phemenona into ideas, ideas into experiments, love in letters, pain into poetry, judgments into laws, persons into tribes, and yes, iron into swords, held great power that needed a story. A narrative like the tower of words. Not a mere explanation of the many languages as God's whim towards an ancient people. 
+A highly developed language was amongst the things that was uniquely human. The other apes had precursors, could grasp it in chunks. But that ability to stitch together memories into stories, stories into histories, phenomenon into ideas, ideas into experiments, love in letters, pain into poetry, judgments into laws, persons into tribes, and yes, iron into swords, held great power that needed a story. A narrative like the tower of words. Not a mere explanation of the many languages as God's whim towards an ancient people. 
 
 But, in the end, the tower of Babel was the one that lived, and not merely in the text of the Bible. The Bible had been full of stories, his early education had made this well known. But it was a large work, and many of its stories were lost to mainstream American thought. People remembered things like David and Goliath, or Noah's Ark, whilst a hundred forgotten stories lay hidden to those not actively reading the Bible. The Tower of Babel had captured people's imaginations, just as those Biblical stories had, just as the story of Atlantis had. There were variations, artworks, apocryphal literature surrounding the tale, perhaps enough that if he compiled it all, it might contain the power of his own story several times over. 
 

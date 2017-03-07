@@ -7,7 +7,7 @@ Status: Complete::Development
 Synopsis: Walter tells Creed a cautionary tale from his own youthful ambition, to discover the origins of science in Arabic scholarship. He had in fact discovered a text that might do that, but just like Jonathon the text disappeared and he was left with a HADES theatre ticket. Walter provides caution and tells how he moved to his new topic the history of 20th century theoretical physics. It's revealed he still has a ticket to the Theatre of Hades from a text that he found but lost, just like Jonathon.
 -->
 
-After dropping Phoenix off at a grimy apartment building to return to her four roommates, Jonathon took a turn towards the presitigious University of Chicago. It was the presitigious institution that he'd long dreamed of teaching in when visits to his uncle had been so taboo. He knew the number and location of his uncle's office, though circumstances had always seem to make him put off a visit. After breathing deeply and trying to collect himself, he knocked.
+After dropping Phoenix off at a grimy apartment building to return to her four roommates, Jonathon took a turn towards the prestigious University of Chicago. It was the prestigious institution that he'd long dreamed of teaching in when visits to his uncle had been so taboo. He knew the number and location of his uncle's office, though circumstances had always seem to make him put off a visit. After breathing deeply and trying to collect himself, he knocked.
 
 "Walter Creed's office," a man said mechanically.
 
@@ -77,11 +77,11 @@ William looked about. "Well, the milk crates are an improvement. Back in my day 
 
 "So what happened?"
 
-"Oh, give an incorrugable lecturer a little time to ramble. I was fascinated, and, through a series of imaginative leaps, I started questioning the first Scientific Revolution, aptly called the Scientific Revolution. History, I think, builds gradually. We only think of in terms of grand thrusts because no one wants to explore the boring stuff, the actual perusal of documents. Well, I got it into my head that there were unguessed inspirations in that term period. I thought maybe the old Islamic empire, that had been the seat of knowledge before the Renaissance, may have anticipated it. 
+"Oh, give an incorrigible lecturer a little time to ramble. I was fascinated, and, through a series of imaginative leaps, I started questioning the first Scientific Revolution, aptly called the Scientific Revolution. History, I think, builds gradually. We only think of in terms of grand thrusts because no one wants to explore the boring stuff, the actual perusal of documents. Well, I got it into my head that there were unguessed inspirations in that term period. I thought maybe the old Islamic empire, that had been the seat of knowledge before the Renaissance, may have anticipated it. 
 
-"So I set out to learn the languages, Arabic, Turkish. I set out to learn the flowering culture of that Empire, so chaotic and cut into tiny waring pieces now. It was not a common subject in my day. Historians were much more Eurocentric then they are now. I set out to make a name for myself in the field, sketched out a tour of the great Middle Eastern universities, rummage through their rare collections. 
+"So I set out to learn the languages, Arabic, Turkish. I set out to learn the flowering culture of that Empire, so chaotic and cut into tiny warring pieces now. It was not a common subject in my day. Historians were much more Eurocentric then they are now. I set out to make a name for myself in the field, sketched out a tour of the great Middle Eastern universities, rummage through their rare collections. 
 
-"I was in Istanbul, the Western tip of the Middle East. The collections department wasn't open at the late hours but I was exhausted from my tour. I found something of great interest. So, in the Islamic tradition, Mohammed is the last Prophet, sent by Allah to reveal the final correct teaching of the God of Abraham. Of course, why the question of why God didn't just give the correct version to Abraham is one of those chicaneries religions engage in to give special status to their own prophets. 'The people weren't ready for the truth,' they say, but then how the people are going to prepare themselves with an incomplete or fragmentary truth..."
+"I was in Istanbul, the Western tip of the Middle East. The collections department wasn't open at the late hours but I was exhausted from my tour. I found something of great interest. So, in the Islamic tradition, Mohamed is the last Prophet, sent by Allah to reveal the final correct teaching of the God of Abraham. Of course, why the question of why God didn't just give the correct version to Abraham is one of those chicaneries religions engage in to give special status to their own prophets. 'The people weren't ready for the truth,' they say, but then how the people are going to prepare themselves with an incomplete or fragmentary truth..."
 
 "Have to interrupt you there Uncle. Fragmentary truth?"
 
@@ -96,7 +96,7 @@ Walter stopped for a moment, and Creed thought he was letting a point set in.
 
 "That's what I came to ask you about! I got one too. What did you do with it?"
 
-"It's here somewhere. It doesn't do anything. It just displays that word, HADES. I really only kept it as a memento. Yes see, my researches didn't get me anywhere. I thought in that one moment, I had really turned the history of science on its head. I thought I had pierced the veil of history with a needle and caught a glimpse of the other side. But it went nowhere. The veil's puncture just... headled. Then I started the line of inquiry that was to bring the glory. The great drama of relativity against quantum mechanics. All I have from those days are the card and the bookmark I jostled a cryptic note on. You will see life and death where two great rivers meet."
+"It's here somewhere. It doesn't do anything. It just displays that word, HADES. I really only kept it as a memento. Yes see, my researches didn't get me anywhere. I thought in that one moment, I had really turned the history of science on its head. I thought I had pierced the veil of history with a needle and caught a glimpse of the other side. But it went nowhere. The veil's puncture just... healed. Then I started the line of inquiry that was to bring the glory. The great drama of relativity against quantum mechanics. All I have from those days are the card and the bookmark I jostled a cryptic note on. You will see life and death where two great rivers meet."
 
 "I've never figured it out. Hell, I never had to."
 
@@ -108,7 +108,7 @@ Walter stopped for a moment, and Creed thought he was letting a point set in.
 
 "I understand. So I have to tell you what happened with me. The early twentieth century, physics was on fire. The sheer weight and counterintiutiveness of the discoveries... I realized there was a real story there, and I knew from the journals that it wasn't getting told well enough. So I did the goddamn math, and I told the story. I didn't let a flash of imagination control my life. I let the true story of the emergence of a whole new world view guide my life."
 
-"I don't think following the flash is surrending control of your life. Besides, I already know what the card is."
+"I don't think following the flash is surrendering control of your life. Besides, I already know what the card is."
 
 "You do?"
 
@@ -122,7 +122,7 @@ Walter stopped for a moment, and Creed thought he was letting a point set in.
 Quotes and Images:
 "Physics was on fire, an emergence of a whole new world view."
 "I changed course. You don't think it took time?"
-"I want to solve the riddle. I don't think following the flash [of inspiration] is surrending control of your life."
+"I want to solve the riddle. I don't think following the flash [of inspiration] is surrendering control of your life."
 Two competing scientific paradigms.
 How do I live when everything I know can be falsified? How should I live when everything I know can be falsified.
 -->

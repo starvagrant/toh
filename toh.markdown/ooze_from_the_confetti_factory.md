@@ -31,7 +31,7 @@ Avery picked up the contraption Shawn had placed on his desk. He shook it, as in
 
 “Well, you handle sales."
 
-“I might have tried to sell that a few years ago. But things are different. We have the confetti factory now. And two dozen employees. The dozen employees without a wit of initiative in them. These days I don't wan't to ask what I can sell. I want to know what will sell. And a decapitated frog noise won't move.
+“I might have tried to sell that a few years ago. But things are different. We have the confetti factory now. And two dozen employees. The dozen employees without a wit of initiative in them. These days I don't want to ask what I can sell. I want to know what will sell. And a decapitated frog noise won't move.
 
 “Not that I don't value your talents. Your refinement of confetti manufacture has been an art. Twice the colors and half the cost eh? When are you going to get my stuff to glow in the dark, huh? Or integrate it with a cell phone app?”
 
@@ -51,7 +51,7 @@ Avery picked up the contraption Shawn had placed on his desk. He shook it, as in
 
 “To talk to you without a clear idea in mind.”
 
-“Wait what?" Shawn aksed in disbelief, readjusting how his glass sat on his nose. "You've always looked for my output.”
+“Wait what?" Shawn asked in disbelief, readjusting how his glass sat on his nose. "You've always looked for my output.”
 
 “Yes but...”
 
@@ -101,13 +101,13 @@ Avery picked up the contraption Shawn had placed on his desk. He shook it, as in
 
 "What?"
 
-"You know Shawn, I don't believe you've shaved since we were in a startup. You have no sense of style. Not that I'm trying to cut you down or anything. But perception, appearances."
+"You know Shawn, I don't believe you've shaved since we were in a start up. You have no sense of style. Not that I'm trying to cut you down or anything. But perception, appearances."
 
 "And he could see that over the phone?"
 
 "Look, Shawn, this is what sells. Closes the deal. Brings home the bacon."
 
-Shawn looked down again at the trite slogans, the jargon, and the nimwitted insults. "This is what sells?"
+Shawn looked down again at the trite slogans, the jargon, and the nim witted insults. "This is what sells?"
 
 “Oh yes. 7 million.”
 
@@ -147,14 +147,14 @@ Shawn flipped to another page of the binder, and scanned through it, “Hmm... a
 
 “And know what to do if there's a short, a fire, a spill.” Shawn added.
 
-Producing a connesieur wine bottle, Avery responded “Yeah, that too. Shawn... here's to a lot of money.”
+Producing a connoisseur wine bottle, Avery responded “Yeah, that too. Shawn... here's to a lot of money.”
 
 
 ------------------------------------------------------------------------------------------------
 
 “Avery, my partner, you've no doubt began preparations for expansion.” Lars stated, seating himself in front of his desk. You'll need to lure more personnel of course. I've brought my associate Ms. Whitmore to discuss business. Karen, why don't you sit?”
 
-Karen obliged, and as her body came directly into view he could see she was voluptous. But there was a chill in her demeanor that gave an imperiousness to her movements. Her eyes were cold and distant.
+Karen obliged, and as her body came directly into view he could see she was voluptuous. But there was a chill in her demeanor that gave an imperiousness to her movements. Her eyes were cold and distant.
 
 “You're going to have to hire a great deal of people, and fire a few.” Karen stated.
 
@@ -224,7 +224,7 @@ Karen obliged, and as her body came directly into view he could see she was volu
 
 “Agitate?”
 
-“Get folked riled enough to motivate, teach things could be different, make an organization for action.”
+“Get folk riled enough to motivate, teach things could be different, make an organization for action.”
 
 “Oh.”
 
@@ -250,7 +250,7 @@ Karen obliged, and as her body came directly into view he could see she was volu
 
 “That's because you're selling to small time clients.” 
 
-Karen's coldness, along with her sensous body, made him feel small. Like a rejected date. “I...” Avery protested reflexively after 'small time'. “We deal with some big name distributors.”
+Karen's coldness, along with her sensuous body, made him feel small. Like a rejected date. “I...” Avery protested reflexively after 'small time'. “We deal with some big name distributors.”
 
 “No you don't." Karen responded. Her body, Avery thought, belonged in a bikini, strutting on a runaway, looking down at lesser mortals. Admittedly, her voice and suit had the same effect. "But you will." Avery lost his sense of smallness. "Now, the confetti, it will have print. Not more than 100 characters, shorter being better. A phrase is best.”
 
@@ -268,7 +268,7 @@ Karen laughed with a light, easy contempt. The phrase product employee had been 
 
 "Yes, yes, business always depends on the buyer. But who will I be selling to?"
 
-"I think that's Lars' department," Karen responded. Lars, who had convienently left the consultation. Getting in touch with him would be a circus of hoop jumping no doubt.
+"I think that's Lars' department," Karen responded. Lars, who had conveniently left the consultation. Getting in touch with him would be a circus of hoop jumping no doubt.
 
 "But I can give you an overview. The biggest customers for phrased based confetti are politics and celebrities. Not my area of expertise, but even I know that market's saturated. But there's plenty of room for a start up."
 
@@ -286,7 +286,7 @@ Avery looked down the list, “Entertainment, Technology, Sports, Games, Politic
 
 “What?”
 
-“Onsite gambling can mean loads for a business. People can gamble away their wages.”
+“On site gambling can mean loads for a business. People can gamble away their wages.”
 
 “I... that's clever. There are some workers I wouldn't need to pay as much. Why let them lose money gambling on their own time? Might cause some problems with management though, employing gambling addicts," Avery laughed nervous.
 
@@ -318,7 +318,7 @@ Avery looked down the list, “Entertainment, Technology, Sports, Games, Politic
 
 “Done.”
 
-“How about college sports?" Avery flipped through Karen's catalogue. "I'm a big football fan.”
+“How about college sports?" Avery flipped through Karen's catalog. "I'm a big football fan.”
 
 “That field's locked at the pro level. But college, on the other hand, is so regional, so dispersed, such a heterogeneous fan base...”
 
@@ -367,7 +367,7 @@ Karen handed him what appeared to be about two hundred sheets of paper, and Aver
 
 Avery resented what he heard in that tone. He was certain it suggested he not consult with the people he trusted. 
 
-"Yes, and a good CEO listens to his advisors, weighs their input, before he overrides them." Unstated was his inclination to ignore everything Karen had said. But then, Lars had set up this meeting for a reason, and it must have been part of his process before he handed over his money. 
+"Yes, and a good CEO listens to his advisers, weighs their input, before he overrides them." Unstated was his inclination to ignore everything Karen had said. But then, Lars had set up this meeting for a reason, and it must have been part of his process before he handed over his money. 
 
 "Sorry if I sounded defensive. Shawn and Jessica have been here since the beginning. I don't discount my contributions, but my business stands because of them."
 
@@ -647,7 +647,7 @@ Purely synthetic paper, purely synthetic ink of 8 separate colors. With this ink
 
 The print process gave off the clicking of an author at a typewriter. The clicking was a heady, treble mix to the hissing of compressed gases and the twinkling of ice crystal chemicals. Someday, Shawn wondered if it might turn from an ear-scraping endeavor into a manner of gauging the system, like learning a new language--impenetrable at first, but snowballing into place. At the end the confetti was separating by a highly adjustable matrix of boron carbide which would never dull though first it was treated with hydrofluoric acid to remove bits of glass that somehow arose during the process.
 
-That was a bit disturbing to Shawn. How glass might end up in the process. Silcion was the most abundant element in the earth's crust, but why the steam freeze process couldn't get rid of it he wasn't sure.
+That was a bit disturbing to Shawn. How glass might end up in the process. Silicon was the most abundant element in the earth's crust, but why the steam freeze process couldn't get rid of it he wasn't sure.
 
 In any case, after all was said and done the confetti also got put back in those boxes, again by people that were probably on Lars' payroll. They marked the boxes with symbols that did not correspond to an alphabet he could recognize from the internet, except that it contained a few Cyrillic characters here and there.
 
@@ -769,7 +769,7 @@ The answer seemed a tad evasive. Lars was supposed to be an expert, but what did
 
 “Shouldn't Jessica have shown you the numbers?” Shawn asked, but his question fell on deaf ears. Avery seemed fine with this indeterminate red substance gathering in his electronics, but Shawn was not. Not until he could riddle out the confetti printing system.
 
-There were really two approaches to the problem. He could try sequentially reading the manual from start to finish and understand the process. Not a common approach for engineers, but maybe the best. There was also interesting anomalies for which he could try to riddle things out. One of his new jobs was inspections, things vital to the printing process. The liquid nitrogen was being stored at a specific temperature and pressure that had to be checked regularly. The newly delivered coal had to have the right balance of impurities. The water supplied for the steam also had to contain a certain balance of impurities. This last point was particularly counterintuitive to a scientist that took great pains to get distilled water.
+There were really two approaches to the problem. He could try sequentially reading the manual from start to finish and understand the process. Not a common approach for engineers, but maybe the best. There was also interesting anomalies for which he could try to riddle things out. One of his new jobs was inspections, things vital to the printing process. The liquid nitrogen was being stored at a specific temperature and pressure that had to be checked regularly. The newly delivered coal had to have the right balance of impurities. The water supplied for the steam also had to contain a certain balance of impurities. This last point was particularly counter-intuitive to a scientist that took great pains to get distilled water.
 
 So he counted on a plan of trying to map things start to finish, riddling out the system's apparent choke points, and looking at the actual mechanical parts as well to investigate this new machine. And when everyone else had gone home, he opened up the jukebox again. The red driplets had returned. However, as the situation called for him not to wipe them out systematically, he collected them in an eye dropper.
 
@@ -779,9 +779,9 @@ He hastened to make sure the substance was sealed well and tight. He planned to 
 
 The red ooze which had started in the music box now had traces throughout the entire factory. It had been slow to appear, and its pathway was anything but predictable. It started showing up in the filters, which Shawn had replaced twice until giving up on that kind of solution. When Avery mentioned all that money the factory would be making, Shawn reflected, he neglected to tell Shawn one thing: that demand would be so high there'd be little time for any maintenance. The machines were on 24 hours a day, a radical departure from the days when they only needed to keep them on for eight. Maintenance ground production to a halt. So against his instincts as an engineer he let the filters go. They did not seem to change the printing process, which Shawn could not account for.
 
-He looked down at a crumpled sheet in his pocket, a sheet of phrases as of yet uncut into pieces of confetti. These phrases printed on the confetti had been guarded like a trade secret, and you could be certain the final product was surveilled. However, Shawn had been able to pick out an uncut sheet from a worker every so often. An employee at who worked on the line occasionally inspected those uncut sheets, and Shawn offered his services as a spotter at the dealer. At times he would declare a sheet defaulty and pass it to Shawn when he did well at the tables.
+He looked down at a crumpled sheet in his pocket, a sheet of phrases as of yet uncut into pieces of confetti. These phrases printed on the confetti had been guarded like a trade secret, and you could be certain the final product was surveilled. However, Shawn had been able to pick out an uncut sheet from a worker every so often. An employee at who worked on the line occasionally inspected those uncut sheets, and Shawn offered his services as a spotter at the dealer. At times he would declare a sheet faulty and pass it to Shawn when he did well at the tables.
 
-The nature of the phrases had been interesting to say the least. This week seemed a sudden influx in demand for slogans about freedom. Quality seemed to be irrelevant. “One cannot secure the blessings of freedom without liberty.” was one he remembered in particular. One might expect that as some kind of joke, but the general pattern was a scattershot of slogans about freedom that didn't even make sense as satire, and Shawn was certain whatever client wanted these slogans would cancel their contract within two weeks.
+The nature of the phrases had been interesting to say the least. This week seemed a sudden influx in demand for slogans about freedom. Quality seemed to be irrelevant. “One cannot secure the blessings of freedom without liberty.” was one he remembered in particular. One might expect that as some kind of joke, but the general pattern was a scatter-shot of slogans about freedom that didn't even make sense as satire, and Shawn was certain whatever client wanted these slogans would cancel their contract within two weeks.
 
 That had been a regular cycle, though it had been hard to gauge at first. Avery just struck him as being horribly moody about the ooze. It never went away when it showed up somewhere in the production cycle. The filters were the first stage in the process. The batches of color started turning red. By Shawn's gauge the number of colors that could be produced had dropped 40%--each possibility replaced by a dark red. But orders did not correlate to the relentless progress of red.
 
@@ -815,11 +815,11 @@ This time, when he did so, he heard Avery screaming. Shawn had grown accustomed 
 
 “That's the problem Jessica?” Shawn asked.
 
-“No. The production's fine. Contract after contract gets cancelled.” Avery snarled at Jessica's implication that things were fine on Shawn's end.
+“No. The production's fine. Contract after contract gets canceled.” Avery snarled at Jessica's implication that things were fine on Shawn's end.
 
 “Not renewed,” Jessica corrected, “they expire monthly, as per the agreement we had when we set up the system.”	
 
-Avery let out a huge sigh, one that reverberated out and left nothing but silence in its wake. “When big names keep cancelling contracts that means I have to hedge every new one I sign. That costs money. And there's never a guarantee that a new company will pick up the product.”
+Avery let out a huge sigh, one that reverberated out and left nothing but silence in its wake. “When big names keep canceling contracts that means I have to hedge every new one I sign. That costs money. And there's never a guarantee that a new company will pick up the product.”
 
 “Well you should have thought of that when you wanted to enter this market. The nature of the product...” Jessica stopped as if she'd said something wrong.
 
@@ -897,7 +897,7 @@ Avery sighed, “Lars would be the lowest bidder, and he's already gotten a 15% 
 
 “This is the first I've heard of it.”
 
-“Like I said, it was off the books. Every cancelled contract that went out and needing his hedging services. He'd set up some accounting arrangement in exchange for shares. He must have known the nature of the business in advance. In any case I'm ditching my thirty two percent and starting a new company. Why don't you come join me Shawn? It will be like it was.”
+“Like I said, it was off the books. Every canceled contract that went out and needing his hedging services. He'd set up some accounting arrangement in exchange for shares. He must have known the nature of the business in advance. In any case I'm ditching my thirty two percent and starting a new company. Why don't you come join me Shawn? It will be like it was.”
 
 “It won't be like it was. I'm staying.”
 
@@ -950,7 +950,7 @@ Avery walked out the door and slammed it shut as though he'd never be back.
 <!--
 Quotes and Images:
 Images: Ooze, Fragmentary Truth, Product Employees. 
-Qoutes: "You work with idiots? Then you have labor problems." 
+Quotes: "You work with idiots? Then you have labor problems." 
 "The ones with energy often have the worst ideas."
 "Of course organizing falls apart next to entrenched apathy.
 "Few people have an appreciation for how sound affects their daily activities."

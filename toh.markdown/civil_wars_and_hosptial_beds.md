@@ -29,7 +29,7 @@ Dr. Creed let his copy of the newspaper slide out of his hands and drop by the b
 
 He didn't think himself so ill as to be delirious. He opened up his puzzle book to see if the paper was changing in the same manner. It wasn't. He strained his eyes to see if the fibers were actually still wet with red ink. Then he had a coughing fit onto the front page and decided it didn't matter. He would just flip through the pages to see where if he could find any stains. In the final page, the opinion section, he found the following blurb:
 
-> Freedom of religion is a commandment from God whose sanctity cannot be trampled upon. The murder of a child is murder. It does not matter if tht child is elected. That child has a right to take up the call to office, and we must respect that right and put that child in office.
+> Freedom of religion is a commandment from God whose sanctity cannot be trampled upon. The murder of a child is murder. It does not matter if that child is elected. That child has a right to take up the call to office, and we must respect that right and put that child in office.
 
 located in what appeared to be an article defending a number of anti-abortion laws passed throughout the country. The rest of the article then proceeded as though nothing had happened. There were no other pages like this. Dr. Creed folded the paper up neatly, tried to bundle it up as it came, except for discarding the front cover. Then he opened it up again, going back to the offending blurb. Unlike his mysterious documents, it was still there. He didn't know what to think. He called a nurse for water and occupied his mind on word puzzles. He asked for his copy of a Hitchhiker's Guide to the Galaxy to be adjusted a bit so he could read better.
 
@@ -37,7 +37,7 @@ The book read a little differently this time around. The earth is about to be de
 
 “So long, and thanks for all the frustration,” Dr. Creed uttered, and then let himself curl into this fantasy of interstellar travel. Without a roommate or anyone else to occupy him, he lost track of time until dinner, around five o' clock. Without a pair of hands to keep a book open, he decided to turn on the 5 o'clock news.
 
-The story to plaster the news for the rest of the hour was the story of a rollover of a diesel truck carrying liquid nitrogen, that had overturned on Highway 52, freezing the roads and causing a multicar pile up. Snow would pick up the next day or two and it was urgent to clear the wreckage. The truck driver had been reported to have been admitted to the Creed's hospital. Perhaps the driver might still have some liquid nitrogen stashed away, though once Dr. Creed had the strength to go find said trucker, his fever would likely be over. Then there was the issue of finding the fellow, though he imagined he'd simply have to follow the reporters.
+The story to plaster the news for the rest of the hour was the story of a rollover of a diesel truck carrying liquid nitrogen, that had overturned on Highway 52, freezing the roads and causing a multi-car pile up. Snow would pick up the next day or two and it was urgent to clear the wreckage. The truck driver had been reported to have been admitted to the Creed's hospital. Perhaps the driver might still have some liquid nitrogen stashed away, though once Dr. Creed had the strength to go find said trucker, his fever would likely be over. Then there was the issue of finding the fellow, though he imagined he'd simply have to follow the reporters.
 
 
 ------------------------------------
@@ -100,7 +100,7 @@ It elicited riotous laugh from the trucker. “Great I've got a funny man for a 
 
 “The losers always remember the war longer than the winners?” Dr. Creed interrupted, not knowing why.
 
-“You could say it that way and it twouldn't be wrong. My great granddaddy's farm got burned in General Sherman's march to the sea. So yeah the South, we remember. But it was the American crisis. That's what those damned fools don't understand. You wanna fly the Confederate flag and they say it's just plain racist. I don't fly the flag, because I think it divides people. We oughtn't have another Civil War, you know what I mean? It was brutal. Brother against brother.
+“You could say it that way and it wouldn't be wrong. My great granddaddy's farm got burned in General Sherman's march to the sea. So yeah the South, we remember. But it was the American crisis. That's what those damned fools don't understand. You wanna fly the Confederate flag and they say it's just plain racist. I don't fly the flag, because I think it divides people. We oughtn't have another Civil War, you know what I mean? It was brutal. Brother against brother.
 
 “Course there was no way to stop a succession other than to destroy the other army. You lose one battle you can just retreat five miles and set up fort again.” Dr. Creed responded though it had been a long while since he'd read much on the topic.
 
@@ -134,7 +134,7 @@ It elicited riotous laugh from the trucker. “Great I've got a funny man for a 
 
 ---------------------------------------------
 
-“Well, Dr. Creed,” the doctor looked over him, “your's is a most perplexing case. You're running a fever, have an elevated white blood cell count, and body wide inflammation. Your body is fighting something that's not responding to anti-biotics. The tests came back and we still can't locate the source of infection. But... you're in remarkable health for someone running your level of fever. I've never seen anything like it.”
+“Well, Dr. Creed,” the doctor looked over him, “yours is a most perplexing case. You're running a fever, have an elevated white blood cell count, and body wide inflammation. Your body is fighting something that's not responding to anti-biotics. The tests came back and we still can't locate the source of infection. But... you're in remarkable health for someone running your level of fever. I've never seen anything like it.”
 
 “Am I going to get better? I've barely slept for four days.”
 
@@ -214,7 +214,7 @@ At least he asked. “How long were Adam and Eve in the garden being cast out?�
 
 “So this uh... Greek civil war, what was it like?”
 
-“The Pelopenesian War... the great battle of the ancients. A nation of warriors, the Spartans, a power of agricultural wealth and slave labor.”
+“The Peloponnesian War... the great battle of the ancients. A nation of warriors, the Spartans, a power of agricultural wealth and slave labor.”
 
 “The South.”
 
@@ -222,7 +222,7 @@ At least he asked. “How long were Adam and Eve in the garden being cast out?�
 
 “The North.”
 
-“There were similiarities. But the power balance was more evenly matched and so it was longer.”
+“There were similarities. But the power balance was more evenly matched and so it was longer.”
 
 “And without guns.”
 
@@ -286,7 +286,7 @@ He was back in his hospital bed. The injured trucker was gone and the heat less 
 
 He looked up and over, and the IV with antibiotics remained and his eyes trailed down the tubing until he saw where it entered his arm, which he hadn't noticed until he saw it.
 
-He again pushed a button to call a nurse. He looked around his room again and it seemed to be nothing but white cotton and clear plastic. Not a hue of cloor remained though a veteran television did remain mounted seven feet above the ground, a few feet past the edge of his bed, though it caught the light as if plastic wrapped.
+He again pushed a button to call a nurse. He looked around his room again and it seemed to be nothing but white cotton and clear plastic. Not a hue of color remained though a veteran television did remain mounted seven feet above the ground, a few feet past the edge of his bed, though it caught the light as if plastic wrapped.
 
 The nurse took considerable time to arrive, and appeared as if dressed for surgery, hair in cap, mask, disposable glass and gown.
 
@@ -344,7 +344,7 @@ He felt himself trapped in a civil war of his own kind, which by historical acco
 
 “Maybe it's a study you're not supposed to know about.”
 
-“Military bioweapons research in a state university? I think not doctor.”
+“Military bio-weapons research in a state university? I think not doctor.”
 
 “What do you want from me?”
 

@@ -47,7 +47,7 @@ Creed looked over and unbuttoned his jacket, placing it on Cora, who was shiveri
 
 "A what?" Creed asked.
 
-"A terminal. Me might have some limited access to the computer system. Password protected. Of course. God damnit! A password in Russian no doubt."
+"A terminal. Me might have some limited access to the computer system. Password protected. Of course. God damn it! A password in Russian no doubt."
 
 "You're a hacker, aren't you?" Creed reminded.
 
@@ -57,7 +57,7 @@ Creed looked over and unbuttoned his jacket, placing it on Cora, who was shiveri
 
 "You were saying?" Creed asked.
 
-"Don't get to cocky. This is an old military facility. Who knows what wonky, antiquated, classified system they're running?" Electra typed into the console. "Login in successful. Huh," Electra paused, see didn't speak for several seconds, as if a blunt object stunned her vocal chords. "Unix."
+"Don't get to cocky. This is an old military facility. Who knows what wonky, antiquated, classified system they're running?" Electra typed into the console. "Login successful. Huh," Electra paused, see didn't speak for several seconds, as if a blunt object stunned her vocal chords. "Unix."
 
 "You know it then?"
 
@@ -65,7 +65,7 @@ Creed looked over and unbuttoned his jacket, placing it on Cora, who was shiveri
 
 Creed sighed. Playing cards with a child locked in a covert military facility was not quite what he had in mind when he left teaching to find HADES. But making things up as he went along was starting to feel like the default mode his existence.
 
-"Try go fish," Electra chuckled then turning back to the screen quickly snorted,"Damnit. Is this Unix from the 1970's. Yell at the computer, Creed thought. That worked some times.
+"Try go fish," Electra chuckled then turning back to the screen quickly snorted,"Damn it. Is this Unix from the 1970's. Yell at the computer, Creed thought. That worked some times.
 
 Creed discovered go fish was not the proper card game to play against a child recovering from the effects of prophet blood. 
 
@@ -107,7 +107,7 @@ Creed trailed off for a moment. It seemed possible he could work out what had ha
 
 Creed looked over at Electra. He was certain she hadn't heard a word, though their was a trickle of blood around her lips. Some nervous tick had drawn blood.
 
-"Damnit!" she exclaimed, "I can't do anything important without root access! Creed, check the damn soldiers pockets again. 
+"Damn it!" she exclaimed, "I can't do anything important without root access! Creed, check the damn soldiers pockets again. 
 
 He went through the soldier's pockets. He noticed Cora still shivering again. It started his own restless shiver. They hadn't let her change. Wearing her down by cold, by sleep deprivation, by psychological coercion, all the techniques other than implements of physical torture. Dangerous people wanted them all dead. He redoubled his efforts, then shifted to the soldier's pants as well. Nothing.
 
@@ -123,7 +123,7 @@ Electra slid down in the chair in front of the computer. "This computer's so old
 
 "Hmm... but don't owners sometimes leave a key in the area surrounding the house?" Creed asked.
 
-"Of course, if you work on the consideration that the system's already been hacked..." Electra went hammering away at the keyboard with renewed vigour. Within minutes she was pounding a panel next to the wall. Creed thought she was furious.
+"Of course, if you work on the consideration that the system's already been hacked..." Electra went hammering away at the keyboard with renewed vigor. Within minutes she was pounding a panel next to the wall. Creed thought she was furious.
 
 "My dad told me about this exploit. Just... and a root shell. Admin access! The damn system had already been hacked!"
 
@@ -153,7 +153,7 @@ Having died trying to fix an electrical socket, the soldier did indeed have tool
 
 Creed counted himself lucky that the upcoming seconds in the open were not going to get him any points for style. Electra had holstered the soldier's gun by having Creed thrust it down the back of her swimsuit, where he wondered if the weight of the damn thing might make it slip out or slip down, he couldn't decide. 
 
-The absconded soldiers oversized pants which were held up only by his tool belt. Screwdrivers, wrenches, wirestrippers, a junk pile of wires, nuts, bolts, and duct tape were shoved in it. The AK-47 was strapped around Creed's back. The remaining items were stuffed in the shirt Cora was wearing: the playing cards, two smoke grenades, and a pack of cigarettes. Creed didn't think they'd be able to make much of a quick getaway in this outfit, but Electra's determined eyes soothed him. 
+The absconded soldiers oversized pants which were held up only by his tool belt. Screwdrivers, wrenches, wire strippers, a junk pile of wires, nuts, bolts, and duct tape were shoved in it. The AK-47 was strapped around Creed's back. The remaining items were stuffed in the shirt Cora was wearing: the playing cards, two smoke grenades, and a pack of cigarettes. Creed didn't think they'd be able to make much of a quick getaway in this outfit, but Electra's determined eyes soothed him. 
 
 Creed imagined there would never be a right moment for in which a soldier was not looking. At least he imagined never being able to find it without more Blood of Apollo. But the hallway was so dead he could hear his heartbeat better than boots clocking on the floor.
 
@@ -199,7 +199,7 @@ He had forgotten he was working on a deadline and the result of not making it. H
 
 "How's Cora supposed to get up here?" he asked.
 
-"Oh damnit. The soldier, did he have any rope on him?" Electra asked.
+"Oh damn it. The soldier, did he have any rope on him?" Electra asked.
 
 Creed scrounged his tool belt, "Just wiring." 
 
@@ -229,7 +229,7 @@ The Electra stopped. The vent went straight over a room in which people were tal
 
 "You did nothing to alert us," the man complained.
 
-"My interrogators finished in the time that was alloted to them. Both Creed and Samaras were interrogated according to procedure."
+"My interrogators finished in the time that was allotted to them. Both Creed and Samaras were interrogated according to procedure."
 
 "What about the girl?"
 
@@ -278,7 +278,7 @@ The woman laughed. It was a musical laughter, a sing song beautiful thing, excep
 
 "No."
 
-"Or maybe your dick is two inches. Maybe your testicles never descended from your abodomen? Would you tell me about that?"
+"Or maybe your dick is two inches. Maybe your testicles never descended from your abdomen? Would you tell me about that?"
 
 "Enough. Save for the classified information, how would that do you any good?"
 
@@ -355,9 +355,9 @@ capture him before that happens."
 
 "Better than starving or being shot," mentioned Creed.
 
-Three through walked about a hundred feet to a different crawlspace, this time close to the floor and not cramped. The three set out without a word, listening for conversations, alarms, anything that would tell them what the base was up to, but the only sounds were their hands and knees scuffing against the pipes and occassional blasts of warm air.
+Three through walked about a hundred feet to a different crawlspace, this time close to the floor and not cramped. The three set out without a word, listening for conversations, alarms, anything that would tell them what the base was up to, but the only sounds were their hands and knees scuffing against the pipes and occasional blasts of warm air.
 
-Then Electra stopped in front of a vent panel, and held a lighter up. A big floodlamp, came pouring out through the panel. Electra froze. 
+Then Electra stopped in front of a vent panel, and held a lighter up. A big flood lamp, came pouring out through the panel. Electra froze. 
 
 "Are you, here for the show?" A man asked in English.
 
@@ -405,7 +405,7 @@ The three followed the man, Creed talking the lead. "What is that, precisely sir
 
 "My dad made dead certain I could play chess," there was defiance in Electra's voice but Creed didn't know who it was directed at.
 
-"He said his grandfather challenged a grandmaster in Moscow, but I always wondered if that was a cover. Not that your father ever gave me reason to think he was lying to me. He was just so... restrained. He was the kind of guy who you could never tell what he was thinking," the man reminisced.
+"He said his grandfather challenged a grand master in Moscow, but I always wondered if that was a cover. Not that your father ever gave me reason to think he was lying to me. He was just so... restrained. He was the kind of guy who you could never tell what he was thinking," the man reminisced.
 
 "Oh," Electra said. "Well dad didn't trust people. He wouldn't tell me why."
 

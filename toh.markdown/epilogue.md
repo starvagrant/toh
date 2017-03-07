@@ -98,7 +98,7 @@ Definitely some important stuff in Greek. But... you're a skeptic, aren't you?"
 
 "But I'm not Christian either," Creed protested.
 
-"Would that be a requirement? I think not. My brother... he has had own form of Christianity. You needn't think it the only example. As a professor you'd be dealing with relgion in a far different time, place, and position. And If you're looking at legend beyond the texts, Jesus is a solid bet. You know the Greek. What do you think?" Walter asked.
+"Would that be a requirement? I think not. My brother... he has had own form of Christianity. You needn't think it the only example. As a professor you'd be dealing with religion in a far different time, place, and position. And If you're looking at legend beyond the texts, Jesus is a solid bet. You know the Greek. What do you think?" Walter asked.
 
 "You know, I just dealt with this dilemma before..." he stated, though he wondered if this was just an expression of the dilemma he had always been facing.
 
@@ -127,7 +127,7 @@ Definitely some important stuff in Greek. But... you're a skeptic, aren't you?"
 "Noted. I'll have a few more stories to tell, some day. And who knows? Maybe another adventure."
 
 <!--
-As a professor you'd be dealing with relgion in a far different time, place, and position. And If you're looking at legend beyond the texts, Jesus is a solid bet. You know the Greek. What do you think?" Walter asked.
+As a professor you'd be dealing with religion in a far different time, place, and position. And If you're looking at legend beyond the texts, Jesus is a solid bet. You know the Greek. What do you think?" Walter asked.
 There is something in knowing 2 and 2 will always equal four."
 I feel like numerologists are physicists that haven't found their place. 
 He had spent so much time in his youth being thumped by the King James Bible he had forgotten the original texts were in Greek.

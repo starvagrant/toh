@@ -1,8 +1,8 @@
 ### The Numerologist Can't Stop the Bees
 <!--
 = Chapter 8: The Numerologist Can't Stop the Bees
-Characters: Jim Vickers, Mary Monaco, Tood Aaronson, Martin Gordon, The Numerologist, The Screaming Beekeeper
-Tags: Greed, Over Dependance on Technology, Mathematics, Wrath of Nature
+Characters: Jim Vickers, Mary Monaco, Todd Aaronson, Martin Gordon, The Numerologist, The Screaming Beekeeper
+Tags: Greed, Over Dependence on Technology, Mathematics, Wrath of Nature
 Status: Complete::Staging
 Synopsis: A group of executives, each based on an archetype of greed, heads to a castle to discuss genetically engineered bees to a numerologist. The GE has made the bees more aggressive, they storm the castle, and slay everyone inside.
 -->
@@ -13,11 +13,11 @@ Synopsis: A group of executives, each based on an archetype of greed, heads to a
 
 "None of us were in the other meeting," Jim responded, "The castle's so banal. Where are like the towers, and ramparts, and other war bearing structures?"
 
-Todd Aaronson pulled his iPhone from his jacket pocket, and touchkeyed his password. He flicked it with his phone a bit before answering.
+Todd Aaronson pulled his iPhone from his jacket pocket, and touch-keyed his password. He flicked it with his phone a bit before answering.
 
 "The castle was constructed in the 12th century by the Flemish to protect a trading empire. Not designed for the kind of nation-state battles we so often associate with the Middle Ages, but rather for roving bandits and undisciplined Crusaders far off the standard eastern routes, it lacks some of the common structures such as archer towers common to castles in this period."
 
-"Thank you wikipedia," Todd's manager Martin gave a slight sneer.
+"Thank you Wikipedia," Todd's manager Martin gave a slight sneer.
 
 "Say, is that the new iPhone?" Jim asked.
 
@@ -45,7 +45,7 @@ Martin said nothing, but smiled.
 
 "You keep that in your briefcase?" Todd asked bemused, rubbing a bit on his hand.
 
-"Well, an executive really can't carry around a purse--it's unprofessional. But I find people don't quite put the same items in briefcases as purses. I don't see why. With a first aid quit and a swiss army knife you're just as prepared for outdoors as the office. You can't really put make up in it but I don't see the need. When a woman chops up her day, minute by minute, you spend fifteen minutes a day putting it on, fifteen minutes taking it off. You could schedule a business meeting in every day out that... Aghh! A bee! Oh I guess its a good thing I brought that ointment."
+"Well, an executive really can't carry around a purse--it's unprofessional. But I find people don't quite put the same items in briefcases as purses. I don't see why. With a first aid quit and a Swiss army knife you're just as prepared for outdoors as the office. You can't really put make up in it but I don't see the need. When a woman chops up her day, minute by minute, you spend fifteen minutes a day putting it on, fifteen minutes taking it off. You could schedule a business meeting in every day out that... Aghh! A bee! Oh I guess its a good thing I brought that ointment."
 
 "If you don't mind me asking..." Martin interjected. "Mary, you're secretary to the Numerologist. Weren't the bee hives he was working with five miles from the castle?"
 
@@ -81,9 +81,9 @@ Martin said nothing, but smiled.
 
 "Precisely." Martin responded, before the party made it to the eroded ditch that had one time probably been a moat. The oak castle doors shot up from the ground 25 feet.
 
-"This thing doesn't have any big brass knockers, or anything?" Jim asked. But before they could riddle out what to do with the entrance, the doors ominously swung open, apparently by some pulley system that had been operated by the Numerlogist.
+"This thing doesn't have any big brass knockers, or anything?" Jim asked. But before they could riddle out what to do with the entrance, the doors ominously swung open, apparently by some pulley system that had been operated by the Numerologist.
 
-"Welcome," the Numerologist stated flatly. He voice contrasted with his physical form, which was not one of a typical academic. He had his blonde hair slicked back and wore a tailored suit with vertical lines and sharp angles. His flamboyant tie featured a multicolor spiral design. "The office is really in a wretched state of affairs." He pointed, though in truth a modern be-cubicled office lay in front of them with water coolers, vending machines, and small printed mission statements. The Numerlogist explained, "The engineers really showed no mathematical imagination. The cubicles, as you can see, are square. Oh it's the most economical arrangement of course, but you can't expected employees to have vision if they're stuck in squares all day."
+"Welcome," the Numerologist stated flatly. He voice contrasted with his physical form, which was not one of a typical academic. He had his blonde hair slicked back and wore a tailored suit with vertical lines and sharp angles. His flamboyant tie featured a multicolor spiral design. "The office is really in a wretched state of affairs." He pointed, though in truth a modern be-cubicled office lay in front of them with water coolers, vending machines, and small printed mission statements. The Numerologist explained, "The engineers really showed no mathematical imagination. The cubicles, as you can see, are square. Oh it's the most economical arrangement of course, but you can't expected employees to have vision if they're stuck in squares all day."
 
 "I suppose your office is a few floors up?" Jim asked.
 
@@ -95,7 +95,7 @@ Martin said nothing, but smiled.
 
 "That she is," Martin responded.
 
-The Numerologist guided them to a spiral staircase and began an ascent. "Surely of course I can begin my discussion with you on the way. I should feel the spirals just rejuventate you."
+The Numerologist guided them to a spiral staircase and began an ascent. "Surely of course I can begin my discussion with you on the way. I should feel the spirals just rejuvenated you."
 
 "Why exactly is that?" Jim frowned.
 
@@ -139,7 +139,7 @@ Todd, startled, scrambled to get to the iPhone in his pocket, and the spectacle 
 
 "What do you propose?"
 
-"The bees are engineer to make honey in spirals, but the lack the perfection of the Great Golden Spiral. Ow! Damnit!" the Numerologist swatted something on the back of his neck. "Damn bees."
+"The bees are engineer to make honey in spirals, but the lack the perfection of the Great Golden Spiral. Ow! Damn it!" the Numerologist swatted something on the back of his neck. "Damn bees."
 
 "You want ointment?"
 
@@ -169,7 +169,7 @@ Todd, startled, scrambled to get to the iPhone in his pocket, and the spectacle 
 
 "Is it possible the genetic engineering has made the bees more aggressive?" Todd asked.
 
-"Don't be ridiculous. Bees only attack dangers to their hives. The don't go gallavanting through five miles of empty space to attack an airtight room. You're letting your phobias get the best of you."
+"Don't be ridiculous. Bees only attack dangers to their hives. The don't go gallivanting through five miles of empty space to attack an airtight room. You're letting your phobias get the best of you."
 
 A horrid racket bulleted up the stairs and burst through the doors. "Bees!" the shaped yelled, crashing through the door and revealing itself to be a man in a beekeeper suit.
 
@@ -183,9 +183,9 @@ A horrid racket bulleted up the stairs and burst through the doors. "Bees!" the 
 
 "What do we do boss?" Todd asked Martin in desperation.
 
-"Don't look at me," Martin sneer contemptuously. Doesn't your iPhone have an app for that? Don't you have some insect repellant in the briefcase, Mary? Doesn't your Rolex shoot a time-displacement transducer array Jim?"
+"Don't look at me," Martin sneer contemptuously. Doesn't your iPhone have an app for that? Don't you have some insect repellent in the briefcase, Mary? Doesn't your Rolex shoot a time-displacement transducer array Jim?"
 
-"We're all doomed?" Todd glumped.
+"We're all doomed?" Todd slumped.
 
 "We are not all doomed!" the Numerologist barked. "No, I was explaining the Golden Ratio."
 
@@ -197,10 +197,10 @@ A horrid racket bulleted up the stairs and burst through the doors. "Bees!" the 
 
 "Yes, well. The project as you know is incomplete. But we're in a soundproof room and the vents are shut. Given the extent of the room I'm sure we'll have enough air before the company arrives."
 
-"Damnit!" Jim yelled, turning his back to the Numerologist. "I'll take you all on myself. Measly insects won't get the best of Jim Vickers. No, I'll... Oh my god, they bees are coming through the walls.
+"Damn it!" Jim yelled, turning his back to the Numerologist. "I'll take you all on myself. Measly insects won't get the best of Jim Vickers. No, I'll... Oh my god, they bees are coming through the walls.
 
 "Castle walls?" the numerologist asked in exasperation.
 
 "Yes, don't you see them! Attacking straight through the..." Jim fell silent as he thrashed about, in vain trying to dodge the swarm he now faced. The roaring of wings filled the spiral shaped room, and suddenly they were everywhere. Todd, tucked himself into a corner in a fetal position after throwing his iPhone at the swarm. Mary had ran off to her desk, trying to extract a rug to hide under before falling over. Martin made the quick motions of a Catholic cross in front of desk before being stung to death.
 
-The Numerologist, furtherest from where the bees had entered, gaped in horror. "We shouldn't have mass produced the bees before perfecting the spirals..." he muttered, before he fell in a heap, his suit was ruined.
+The Numerologist, furthest from where the bees had entered, gaped in horror. "We shouldn't have mass produced the bees before perfecting the spirals..." he muttered, before he fell in a heap, his suit was ruined.

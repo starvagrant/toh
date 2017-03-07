@@ -4,10 +4,10 @@
 Characters: Dr. Creed, Dr. Walter Creed
 Tags: Enigmas,Imagination vs. Insight,Sex,Jealousy
 Status: Annotated::Staging
-Synopsis: Jonathon, now under full sway of wanting to solve the riddle of HADES, is off to St. Louis on rather flimsy evidence. Anxious to clear up an old family rumor, he asked his uncle Walter about the sexual indescretion that his father was so affronted by. That down, Creed tries to solve the problem by thinking too hard, and Walter takes both the role of skeptic (regarding HADES) and the one to tell Creed to just calm down.
+Synopsis: Jonathon, now under full sway of wanting to solve the riddle of HADES, is off to St. Louis on rather flimsy evidence. Anxious to clear up an old family rumor, he asked his uncle Walter about the sexual indiscretion that his father was so affronted by. That down, Creed tries to solve the problem by thinking too hard, and Walter takes both the role of skeptic (regarding HADES) and the one to tell Creed to just calm down.
 -->
 
-"Well, Jonny my boy, you definitely know how to rouse a profesor's attention," Walter said as he entered the car. "I just got out of my Thursday class, but I need to be back by Monday. Is there anything else in the world that needs illuminating?"
+"Well, Jonny my boy, you definitely know how to rouse a professor's attention," Walter said as he entered the car. "I just got out of my Thursday class, but I need to be back by Monday. Is there anything else in the world that needs illuminating?"
 
 "There is an unsolved riddle from the past I've never gotten to ask you about."
 
@@ -117,7 +117,7 @@ Synopsis: Jonathon, now under full sway of wanting to solve the riddle of HADES,
 
 "Then sell me on your approach. If you can't explain an idea, it's not clear enough in your head to act on."
 
-"I'm not so sure you're right about that. I just... have you ever... Sometimes, as a professor, I've come across some rather original writing. Something with nerve, something bold. And I've knocked those papers down. Not enough evidence. Pooring reasoning. Haven't you ever felt you've let a genius paper slip through because it didn't follow the assignment?"
+"I'm not so sure you're right about that. I just... have you ever... Sometimes, as a professor, I've come across some rather original writing. Something with nerve, something bold. And I've knocked those papers down. Not enough evidence. Poor reasoning. Haven't you ever felt you've let a genius paper slip through because it didn't follow the assignment?"
 
 "Uggh. Yes. I do worry about that sort of thing. But look at it from my point of view. Science is an accrued body of knowledge. Knowledge responsible for so much wonder in the world. I've seen too many leeches try to apply a thin veneer of science to their poor reasoning and sell it on unsuspecting dupes."
 
@@ -129,7 +129,7 @@ Synopsis: Jonathon, now under full sway of wanting to solve the riddle of HADES,
 
 "I'll get us some coffee. We might see what there is to do in this town other than visiting the Arch."
 
-Dr. Creed pulled out some change, and picked up the St. Louis Post-Dispatch, along with a few free publications and zines, when happened to be close to the coin opearted distributors. He sat down at an outdoor cafe and went straight to the opinion section. Given the last film he expected a botched sentence or two in an opinion piece. But in the end, it was really just opinions of the day. A little more refined than backdoor gossip, but still, what people felt, rather than what they knew. 
+Dr. Creed pulled out some change, and picked up the St. Louis Post-Dispatch, along with a few free publications and zines, when happened to be close to the coin operated distributors. He sat down at an outdoor cafe and went straight to the opinion section. Given the last film he expected a botched sentence or two in an opinion piece. But in the end, it was really just opinions of the day. A little more refined than backdoor gossip, but still, what people felt, rather than what they knew. 
 
 There was a press conference from the mayor's office, a fatal shooting, a status report on a controversial construction project. He read the last one with great interest. Controversy seemed something the Theatre was all about, and construction might lead to an unusual location. After picking it clean, noting and writing down the officials involved, he quit the story in frustration. The local politics and businesses were a bore. So to were the stories about economics and the biographies of local families. Someone rescued his pet snake from a toilet, which was an amusing image, but left no traces. 
 
@@ -141,7 +141,7 @@ Finding a discrepancy in an obituary would take some patience. Much of what an o
 
 But as he was focusing on committing names and causes of death to memory, he ran across something that puzzled him. The obituary of a one Robert Friedman, numerologist, who had been stabbed outside the Rio de Oculto bookstore. This struck him as strange because he would have thought the paper would have mentioned a fatal stabbing much closer to the front page. 
 
-He showed the entry to his uncle Walter for a second opinion. Walter replied that sometimes, in morbid interest, he followed the latest writings of "kooks and quacks". He justified this interest on the grounds that he was curious as to the motivation of trying to turn science back into mythology and thus reverse it's progress. He had not heard Friedman, who had apparently written 12 books on the subject, covering such topics as Nostradamus' prophecies, The numerological implications of the work of the Free Masons, and numerological biograhpy of Edgar Cayce and his prophecies of regarding the continent of Atlantis. This last part Walter pointed out to Creed.
+He showed the entry to his uncle Walter for a second opinion. Walter replied that sometimes, in morbid interest, he followed the latest writings of "kooks and quacks". He justified this interest on the grounds that he was curious as to the motivation of trying to turn science back into mythology and thus reverse it's progress. He had not heard Friedman, who had apparently written 12 books on the subject, covering such topics as Nostradamus' prophecies, The numerological implications of the work of the Free Masons, and numerological biography of Edgar Cayce and his prophecies of regarding the continent of Atlantis. This last part Walter pointed out to Creed.
 
 "Guess you won't have to disprove this guy on a television show, huh? Hey, don't sweat it, death is a fiercer adversary." It was a little morbid for his uncle. But this really felt right, and it provided a place to look, the Rio de Oculto bookstore. They got back into Creed's car and Walter reached for his smart phone, and googled the store.
 
@@ -151,7 +151,7 @@ He showed the entry to his uncle Walter for a second opinion. Walter replied tha
 
 "Something wrong?" Walter asked.
 
-"I hate smart phones," Creed responded. He wanted to approach the project at hand, though an irritating computer generated female voice offering directions irritated him. Creed had only surmised that the older and more industrial parts of town would be near the river. The phone took him on a winding trek of streets he had no familiarity with. A few circles around the block and an occassional illegal U-turn were needed to get them to the old grubby bookstore.
+"I hate smart phones," Creed responded. He wanted to approach the project at hand, though an irritating computer generated female voice offering directions irritated him. Creed had only surmised that the older and more industrial parts of town would be near the river. The phone took him on a winding trek of streets he had no familiarity with. A few circles around the block and an occasional illegal U-turn were needed to get them to the old grubby bookstore.
 
 The building itself seemed to have been built in the nineteenth century, as he could see a combination of dirty and open windows on the second and third floors. Rio de Oculto did not seem like a store that have enough books to fill three floors. There was no nob on the door inside, just a steel bar across the frame. Creed opened it and stepped inside.
 

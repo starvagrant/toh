@@ -3,7 +3,7 @@
 Characters: Mark, Margot, General Dobson
 Tags: [Military][Memory][Rejecting the System][Working in the System][Organic Healing][Cowardice][Losing a Child]
 Status: Annotated::Staging
-Synopsis: A pair of scientists work on genetically engineering plants that can absorb / metabolize heavy metals. One, Mark, quits the project over ethical concerns with the project's success while the other, Margot stays on. The project is comandeered by the military, against Margot's will. Trapped and cornered, Margot kills the military man overseeing the project, General Dobson
+Synopsis: A pair of scientists work on genetically engineering plants that can absorb / metabolize heavy metals. One, Mark, quits the project over ethical concerns with the project's success while the other, Margot stays on. The project is commandeered by the military, against Margot's will. Trapped and cornered, Margot kills the military man overseeing the project, General Dobson
 
 -->
 
@@ -31,7 +31,7 @@ Synopsis: A pair of scientists work on genetically engineering plants that can a
 
 "Let you know if we need another one," Margot told the waiter.
 
-"But reason has nothing to do with it. I can just feel her absence in my heart. There's something in me that's convinced I ought to have her smile back, her energy back, and nothing can sate it but an acknowledgement that it's there."
+"But reason has nothing to do with it. I can just feel her absence in my heart. There's something in me that's convinced I ought to have her smile back, her energy back, and nothing can sate it but an acknowledgment that it's there."
 
 "Well... umm. It's there. You know I'm no good at this. Telling people what they should do."
 
@@ -53,11 +53,11 @@ Margot smiled. "So why bother to look any other way?"
 
 "Ok, but still, you might consider giving your heart out to someone," Mark said in more earnestness.
 
-"That's what catalogues are for. My first love will always be my work. Our work. But since you don't want to be comforted, I guess now would be a bad time to discuss lab results."
+"That's what catalogs are for. My first love will always be my work. Our work. But since you don't want to be comforted, I guess now would be a bad time to discuss lab results."
 
 "Oh?" Mark perked up.
 
-"Lot number 37. Soil samples indicate a copper reduction of 19%. Finding is statistically signficant." Margot repated the report verbatim.
+"Lot number 37. Soil samples indicate a copper reduction of 19%. Finding is statistically significant." Margot repeated the report verbatim.
 
 "That's great."
 
@@ -77,7 +77,7 @@ It was known that some plants, some, responded dramatically to light in the blue
 
 These finding were greatly complicated when mercury laden soils were provided to the labs by mistake, and some plants adapted to them. Experiments were simplified to show that it was indeed the plants swallowing up the mercury. But after this firm conclusion was reached, the plant's rapid oddness reasserted itself again. The same occurred with iron ridden soils.
 
-Unable to grasp at the plants behavior scientifically, a collection of superstitions arose about the plants. Superstititions it was agreed should not infect the scientific process, but seemed to calm the nerves of many members on the team. "Never measure liquids in round flasks. Always use angular beakers." "If you bathe a plant in blue light, turn the light switch on an off as quick as you can in five minute intervals." Not every scientist heeded this advice. The procedures were followed to the whim of each member of the team.
+Unable to grasp at the plants behavior scientifically, a collection of superstitions arose about the plants. Superstitions it was agreed should not infect the scientific process, but seemed to calm the nerves of many members on the team. "Never measure liquids in round flasks. Always use angular beakers." "If you bathe a plant in blue light, turn the light switch on an off as quick as you can in five minute intervals." Not every scientist heeded this advice. The procedures were followed to the whim of each member of the team.
 
 But the effect of posting these rules seemed immediate. Three weeks later a reliable DNA sample was identified, with several important genes modified, but only several. They all had to do with transportation of solutes to different areas of the plant--exactly as they should expect. The findings were reported, the potpourri of folded leaves, shimmering stems, and a bitter after taste in the air were neglected in the report. If anyone replicated **their** results, well, they'd be a bit more forthcoming. It seemed though, that if anyone hoped to clean toxic metal soils, they'd have to learn how to farm the plants.
 
@@ -115,7 +115,7 @@ Margot looked over at Mark and said nothing. She looked genuinely hurt. "I thoug
 
 "I'm sorry."
 
-"It does have a funny smell to it I know. It does, contrary to your persuasion, seem to me to be a slight corruption of scientifc inquiry. But our little project, well it's not so little. There are other players now, and they don't think about science like you or I do."
+"It does have a funny smell to it I know. It does, contrary to your persuasion, seem to me to be a slight corruption of scientific inquiry. But our little project, well it's not so little. There are other players now, and they don't think about science like you or I do."
 
 "Doesn't that frighten you, Margot?"
 
@@ -223,7 +223,7 @@ Mark ate his corn flakes but couldn't sleep. Margot sounded more like she was fl
 
 "I stopped talking to the experimenters remember? Hell, I left the university system. I had interest, especially in the early days, but no access."
 
-"Well, you'll remember how hard it was to keep those metal siphoning plants under control. The soil wasn't enigmatic and we could measure that. But the odd crystalline structures, the metals never ending up in the same places, the incosistency of their growth patterns..."
+"Well, you'll remember how hard it was to keep those metal siphoning plants under control. The soil wasn't enigmatic and we could measure that. But the odd crystalline structures, the metals never ending up in the same places, the inconsistency of their growth patterns..."
 
 "We got a handle on that, as I recall," Mark interrupted.
 
@@ -271,7 +271,7 @@ Mark ate his corn flakes but couldn't sleep. Margot sounded more like she was fl
 
 ----------------------------------
 
-The Lonestar BBQ was not much to look at--the fancy of two aspiring entrepeneurs that thought an Omaha strip mall was going to be the capital of a new BBQ tradition. The Kansas City tradition was closer and more what Mark would have expected customers to want. Its mostly empty chairs on a Saturday morning seemed to speak to his suspicions. The whole damn place looked like a make shift party room with cheap furniture rentals for tables.
+The Lonestar BBQ was not much to look at--the fancy of two aspiring entrepreneurs that thought an Omaha strip mall was going to be the capital of a new BBQ tradition. The Kansas City tradition was closer and more what Mark would have expected customers to want. Its mostly empty chairs on a Saturday morning seemed to speak to his suspicions. The whole damn place looked like a make shift party room with cheap furniture rentals for tables.
 
 Margot showed up alone, though Mark looked over her shoulder for some time. He yawned, watered himself with a little coffee and said, "So what's so damn important?"
 
@@ -283,7 +283,7 @@ Margot showed up alone, though Mark looked over her shoulder for some time. He y
 
 "What do you mean?"
 
-"The lasting environmental impact of a battlezone. We wanted to get rid of it. Wanted things to heal. But a battlefield does something. It doesn't do it well or straight-forwardly. But it, shows, really shows, the devastation of war. It creates a record, blossoms a memory that doesn't forget. Without that memory..." Margot paused for effect, "the field is ready for another battle,"
+"The lasting environmental impact of a battle zone. We wanted to get rid of it. Wanted things to heal. But a battlefield does something. It doesn't do it well or straight-forwardly. But it, shows, really shows, the devastation of war. It creates a record, blossoms a memory that doesn't forget. Without that memory..." Margot paused for effect, "the field is ready for another battle,"
 
 "You mean the plants white wash the evidence?" Jason asked incredulously.
 
@@ -299,13 +299,13 @@ Margot showed up alone, though Mark looked over her shoulder for some time. He y
 
 "You know I never really worked it out why those plants behaved so... unreally. What's the deal with this Dobson guy?"
 
-"I just. He scares me." I took some time for Margot to continue. "Back in that bar all those years ago. You were trying to talk about a sorrow you couldn't reason with? Well, he's a fear I can't seem to reason with. His mind is... well, there's no invention you could fathom that he couldn't turn into a weapon. I think our pollution preventation project of ours is just a drop in the bucket. He's ruthless, and I'm terrified of what's behind him. The kind of project he's working for. So I've just sort of done my job, knowing that no matter what fascination science has for me, it will become a weapon to handle someone else."
+"I just. He scares me." I took some time for Margot to continue. "Back in that bar all those years ago. You were trying to talk about a sorrow you couldn't reason with? Well, he's a fear I can't seem to reason with. His mind is... well, there's no invention you could fathom that he couldn't turn into a weapon. I think our pollution prevention project of ours is just a drop in the bucket. He's ruthless, and I'm terrified of what's behind him. The kind of project he's working for. So I've just sort of done my job, knowing that no matter what fascination science has for me, it will become a weapon to handle someone else."
 
 "Get out then." Mark advised.
 
 "I can't get out like you though. It's not that easy. I'm stuck in the contract."
 
-'Ha! Easy, you call my getting out easy? Going from hotshot experimentor to high school science teacher with a wife and two boys?"
+'Ha! Easy, you call my getting out easy? Going from hotshot experimenter to high school science teacher with a wife and two boys?"
 
 "Of course I didn't mean to..."
 
@@ -331,7 +331,7 @@ Margot showed up alone, though Mark looked over her shoulder for some time. He y
 
 "But you don't intend on wiping battles clean at all."
 
-"But I do. America remains the most prosperous nation on earth, and does half its military spending. I know the correlation is far more direct than our citizens believe it to be. There are little battefields everywhere on earth. Special forces, intelligence plots, the list swells. But awareness of these battles is dim indeed.
+"But I do. America remains the most prosperous nation on earth, and does half its military spending. I know the correlation is far more direct than our citizens believe it to be. There are little battlefields everywhere on earth. Special forces, intelligence plots, the list swells. But awareness of these battles is dim indeed.
 
 "War has always had two components. The soldiers on the field and the soldiers at home. The soldiers at home have grown so very picky. They are swayed by arguments about justice and civilian casualties. But war is needed to ensure prosperity."
 
@@ -345,7 +345,7 @@ Margot showed up alone, though Mark looked over her shoulder for some time. He y
 
 "I guess I can't run anymore," Margot sighed, and picked herself and her tire iron out of the mud.
 
-"No you can't," replied Dobson, "Get in my car," he beckoned with his gun and turned to his vehicle. Perhaps it was the rain, perhaps it was overconfidence, but he hadn't noticed that Margot hadn't dropped the tire iron she was clutching. Within seconds of her no longer in his line of sight, he was struck hard on his right shoulder. The blow sent him sprawling and he dropped his gun. He struggled to get to his feet but then a blow landed on the back of his right leg. He swivelled away trying to get outside the reach of the tire iron, with the result that he was struck hard on the left leg. Metal crunching bone left a sickening echo in the air.
+"No you can't," replied Dobson, "Get in my car," he beckoned with his gun and turned to his vehicle. Perhaps it was the rain, perhaps it was overconfidence, but he hadn't noticed that Margot hadn't dropped the tire iron she was clutching. Within seconds of her no longer in his line of sight, he was struck hard on his right shoulder. The blow sent him sprawling and he dropped his gun. He struggled to get to his feet but then a blow landed on the back of his right leg. He swiveled away trying to get outside the reach of the tire iron, with the result that he was struck hard on the left leg. Metal crunching bone left a sickening echo in the air.
 
 He could see Margot, barely, in the light cast by his car's headlights. Dripping with mud and holding the tire iron with both hands above her head in striking mode, she did not look like one that had earned the nickname Mouse.
 

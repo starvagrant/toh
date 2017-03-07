@@ -2,13 +2,13 @@
 <!--
 = Chapter 12: He Who The Angel Fear to Change
 Characters: Dr. Creed, Electra Samaras
-Tags: [Love and Change][Crossing the Threshold][Mob Mentality][Satanic Independecne]
+Tags: [Love and Change][Crossing the Threshold][Mob Mentality][Satanic Independence]
 Status: Annotated::Staging
 Synopsis: Dr. Creed wavers on his decision to take a series of flights to Greece, only to find a poem, stuffed in his passenger's seat titled He Who The Angels Fear to Change. This poem revolves around an angelic chorus, and Satan's insistence not to stay bound to it. The poem itself deals with a topic: how does one love things that can change? In the case of the Angels it is Fear.
 
 Reflecting on this topic indirectly leads to Creed gathering his courage to meet a hacker named Electra in the obscure Greek town of Kavala. They talk, and Electra tells a newspaper story of a cave discovery not subsequently printed anywhere else. They follow this lead and find a Theatre of Hades, leading them to the film, the Garden of Treason.
 -->
-Dr. Creed watched from the long-term parking lot the airplanes taking flight from the Las Vegas International Airport. He and Ali had had considerable debate on the nature of that viscuous glop that had so changed the nature of West Point.
+Dr. Creed watched from the long-term parking lot the airplanes taking flight from the Las Vegas International Airport. He and Ali had had considerable debate on the nature of that viscous glop that had so changed the nature of West Point.
 
 Upon returning to Margot, it became clear she had something she needed to say to a journalist, some sensitive topic that she would not discuss with Creed on the grounds that she wanted to tell as few people as possible. She wished to remain anonymous, and point an investigator to uncovering a tale of some kind. Ali was most happy to oblige her, and, so all should be equal, gave Margot's ticket to Creed.
 
@@ -78,7 +78,7 @@ With whom we sang, embraced, and loved?
 Your heart need only know their song.
 
 > And knowest most for your own sake,
-A choice did your other brethern make.
+A choice did your other brethren make.
 I cannot know, 'tis wondrous strange,
 They loved the God they feared to change.
 
@@ -86,17 +86,17 @@ It struck him as a most unusual poem. The theology was novel. The long accepted 
 
 Lucifer had sought more than the Chorus, more than the Hymn of the Consensus. Creed, too, would be leaving the consensus. Not that he hadn't taken considerable steps already, but he hadn't taken the step of no return. He had not been tossed from "Paradise" as it would have been called if he completed the Christian metaphor.
 
-But there was something more in the poem than the struggle of good and evil. More than separation for the Everlasting One. There was this idea of love and change. It seemed to him abominable, that love should be succepted to no change. Was it not the fundamental experience of human life to change, to exist from one time to another? Was not the love of something which could not change somehow inhuman? Would not returning to a professorship, that sapped him of inspiration for being the same year-to-year, be of equal folly?
+But there was something more in the poem than the struggle of good and evil. More than separation for the Everlasting One. There was this idea of love and change. It seemed to him abominable, that love should be susceptible to no change. Was it not the fundamental experience of human life to change, to exist from one time to another? Was not the love of something which could not change somehow inhuman? Would not returning to a professorship, that sapped him of inspiration for being the same year-to-year, be of equal folly?
 
 No, Ali had made him an appointment, in the provincial Greek town of Kavala, with a female computer hacker named Electra Samaras, and he attended on keeping it. He walked now with assured calm towards the airport. He knew what would happen next: the ticket exchanges, customs, security, waiting for a seat. There would be several connecting flights: New York, Lisbon, and Athens. Then, as he was firmly on the ground, a two hour bus ride east to Kavala.
 
 It seemed a rather unlikely place to meet a hacker--he wondered to just what extent internet access would be available at all. He was, however, excited to be going to a part of Greece with which he was quite unfamiliar. He tried to imagine, as his plane took off, the reverse process that would happen eighteen hours later, in Athens. His memory was a bit too dim for the exercise, and instead he watched the clouds, and that blue band that seemed to separate earth from space at 30,000 feet.
 
-Airports always held a dual feeling for Creed. The mass of people on journeys all in one place was inspiring, but the congregation of so many dirty and tired travelers was a bit revolting. He knew the airport in New York to some degree, as he had been there to record for some of those odious Atlantis shows, but Lisbon was a confounding place, as he sought his connecting flight without knowing Portugese. But, in his terminal, there were translations in Greek directing him to his plane.
+Airports always held a dual feeling for Creed. The mass of people on journeys all in one place was inspiring, but the congregation of so many dirty and tired travelers was a bit revolting. He knew the airport in New York to some degree, as he had been there to record for some of those odious Atlantis shows, but Lisbon was a confounding place, as he sought his connecting flight without knowing Portuguese. But, in his terminal, there were translations in Greek directing him to his plane.
 
 The Athens airport was sparse and surprisingly unwelcoming. He was certain the town itself would feel like a second home, but the character of Athens streets seemed different after all that had transpired in Europe. He sensed an anger and wariness where crowds were gathered, and the bus ride to Kavala was wearisome and uncomfortable. His being on the ground, he figured, had allowed the jet lag to start wearing him down.
 
-When at last he got to his feet, the pictersque town uplifted him from his exhaustion. Here was something he did not grow tired of seeing: a town laid out before the days of automobiles and steel, where the layout of downtown had been built from the beginning based on the properties of clay. Mopeds and pushcarts navigated the alleyways from a time when sidewalks were really the only thing worth lying out.
+When at last he got to his feet, the picturesque town uplifted him from his exhaustion. Here was something he did not grow tired of seeing: a town laid out before the days of automobiles and steel, where the layout of downtown had been built from the beginning based on the properties of clay. Mopeds and pushcarts navigated the alleyways from a time when sidewalks were really the only thing worth lying out.
 
 Best of all, there was a beach. The great Aegean Sea. So many tales had been told of its crossing, from the Odyssey to the accounts of the Battle of Salamis, when Athens hemmed in might Persia. Saltwater was abrasive and unfit for consumption, but being near it was a soft and simple pleasure long forgotten in Creed's days in Minnesota.
 

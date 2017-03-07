@@ -9,7 +9,7 @@ Synopsis: Dr. Creed meets a mysterious hitchhiker on the way to Vegas. A biologi
 
 Dr. Creed barreled down 1-70 in the pouring rain, he'd shut off the radio, a tad dismayed at his uncle's reaction to the film. "Glad I kept my day job," was the gist of it, but more disturbing was the "Well, you replaced a decades old riddle I never bothered to solve and replaced it with a newer more difficult riddle I probably couldn't solve if I tried." There was some sorrow in that response, for he felt he uncle kept his ticket all those years for good reason. He felt strongly enough about it to part ways at the airport and continue the only clue he had, that Ali might be in Vegas.
 
-Missouri was now well behind him, and the exits were stretching in distance from each other. Soon he pictured the NPR station fizzling out, leaving him four country stations and conversative AM talk radio. Unnerved by the coming silence and the bareness likely to be his thoughts after the had taken in such long stretches of radio, he spotted a human figure on the shoulder. It was walking west.
+Missouri was now well behind him, and the exits were stretching in distance from each other. Soon he pictured the NPR station fizzling out, leaving him four country stations and Conservative AM talk radio. Unnerved by the coming silence and the bareness likely to be his thoughts after the had taken in such long stretches of radio, he spotted a human figure on the shoulder. It was walking west.
 
 On closing in, Dr. Creed braked and came to an immediate halt. He couldn't, in his trip to Vegas, to hook up with his new Arab journalist contact, avoid picking up a hitchhiker. The road was likely to put him asleep, and the trip would definitely seemed stained. He hoped he would be forgiven for the drenching that had occurred as he pulled out in front, though given the rain it couldn't have made the person that much wetter. He reached over and opened the door.
 
@@ -105,7 +105,7 @@ Creed chuckled. "Oh, and drink for the lady. Maybe a change of clothes too? You 
 
 "We'd probably..."
 
-"Wrath of Mouse!" Mouse explained, not really nowing if Creed was objecting or not.
+"Wrath of Mouse!" Mouse explained, not really knowing if Creed was objecting or not.
 
 "I suppose we can wait. You're a strange one, you are."
 
@@ -141,7 +141,7 @@ Creed chuckled. "Oh, and drink for the lady. Maybe a change of clothes too? You 
 
 "What's wrong?"
 
-"I have a phobia of thrift stores." Mouse's excuse was proposterous, but seemed unlikely to be withdrawn.
+"I have a phobia of thrift stores." Mouse's excuse was preposterous, but seemed unlikely to be withdrawn.
 
 "I'm going to get out of the car and pretend I believe that."
 
@@ -267,7 +267,7 @@ Dr. creed, a veteran of tedium, found driving Kansas interstates a challenge on 
 
 "Well then not about your current project, but in general. Have you ever come across something your academic training says is impossible? Something you have to fight your so-called knowledge to take a second look?"
 
-"I've done some work with extremeophiles. The kind of life that thrives in places you wouldn't think it would," Mouse answered.
+"I've done some work with extremophiles. The kind of life that thrives in places you wouldn't think it would," Mouse answered.
 
 "Such as?"
 

@@ -23,7 +23,7 @@ The word FINITE lingered on the screen, and the Theatre turned to blackness.
 
 "What am I missing here?" Creed asked.
 
-"You really don't know. How did you, of all people, end up with that ticket? What have you done that merits HADES attention? I've travelled to the ends of the earth. You're just some hack professor."
+"You really don't know. How did you, of all people, end up with that ticket? What have you done that merits HADES attention? I've traveled to the ends of the earth. You're just some hack professor."
 
 "Now wait a minute!" Creed protested. "I didn't ask to have all this happen!"
 
@@ -51,11 +51,11 @@ Then there was his uncle. He did not know him particularly well, because his fat
 
 In any case, they hadn't spoken much. They'd only seen each other at family gatherings when meetings could not be prevented. Forbidding Creed to speak to his uncle had the precisely opposite effect his father had intended, for he listened in rapt attention to everything he said and glorified him as an idol. Determined to follow in his footsteps, he eventually grew fond of secular academia and a religion tradition of a very different sort from Christianity.
 
-As line after line rolled by, so too did the realization that this was a problem his uncle's advice might not be able to resolve. He was an academic too, and put great stock in gathering evidence of which Creed lacked. But the only thing to do was keep his view on the road. He decided to take the scenic route down Lake Michagen to keep something vast and beautiful in his view. 
+As line after line rolled by, so too did the realization that this was a problem his uncle's advice might not be able to resolve. He was an academic too, and put great stock in gathering evidence of which Creed lacked. But the only thing to do was keep his view on the road. He decided to take the scenic route down Lake Michigan to keep something vast and beautiful in his view. 
 
 After some time, in the distance, he spotted a small ball of red. As he approached he realized at was a head of cherry red hair, attached to a girl in a tattered blue coat who couldn't have been older than in her early twenties. She could have been one of his students, she had her thumb stuck out but was on the other side of road, headed north in winter.
 
-A little desperate for company, he crossed over the opposing lane of traffic onto the shoulder. Despite his obvious position of going in the wrong direction, she ran up to the car as fast as she could. She seemed to know hitchhikers couldn't be too chosy.
+A little desperate for company, he crossed over the opposing lane of traffic onto the shoulder. Despite his obvious position of going in the wrong direction, she ran up to the car as fast as she could. She seemed to know hitchhikers couldn't be too choosy.
 
 "Where you headed miss?"
 
@@ -145,7 +145,7 @@ Creed started to clear the books in his car and a few fast food wrappers that he
 
 "You have a biff with the man?" 
 
-"I had to read the Republic. I'm a philosophers and I think philosophers should be kings. I don't know if I should be impressed by the arrogance or by the bs he wrote to justify it."
+"I had to read the Republic. I'm a philosophers and I think philosophers should be kings. I don't know if I should be impressed by the arrogance or by the BS he wrote to justify it."
 
 "I certainly haven't found all his dialogues convincing. What error do you see in it."
 

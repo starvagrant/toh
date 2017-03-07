@@ -10,7 +10,7 @@ Dr. Creed had spent the last few nights alone in his office. He thought he'd be 
 
 Sometime on a Thursday evening two weeks before class, his reorganized home was disrupted by an unknown caller.
 
-“Is this Jonathon Creed?” the man asked brisquely.
+“Is this Jonathon Creed?” the man asked briskly.
 
 “You stay in the hospital with that injured trucker, yes?”
 
@@ -60,11 +60,11 @@ Sometime on a Thursday evening two weeks before class, his reorganized home was 
 
 “Ok then, I have a few things to clear up.”
 
-Dr. Creed barrelled through the roads to the coffee shop. Perhaps incident number five would be a definitive break. Amongst the documents he wasn't supposed to have, the HADES card left in his office, the illness from an ancient past, and a trucker he had never talked to... there was a lot of explanations to go around.
+Dr. Creed barreled through the roads to the coffee shop. Perhaps incident number five would be a definitive break. Amongst the documents he wasn't supposed to have, the HADES card left in his office, the illness from an ancient past, and a trucker he had never talked to... there was a lot of explanations to go around.
 
 The doctor left his house without as much as a glare in the mirror, his thoughts trying to outrace his vehicle. A screeching blare brought him back to attention after he'd run a red light. Much as he wasn't sure about this new stranger, they'd be taking his car, not Creed's. Two near collisions and another new screw up in eight minutes had left him the impression that he might have been driving drunk. In any case, he didn't feel completely in the world.
 
-Walking into the coffee shop he felt he knew exactly the man to talk to. The man sat in a collared shirt tapping away at a laptop. The man was of Mediterrean extraction of some sort, he imagined him an Arab. He was six feet tall, broad, and maintained a well trimmed beard that suggested the explosion of beard he could have grown. He looked like the ancestor of a warrior tossed in a suit and with a laptop instead of a scimitar. This might not have bothered him if he had gotten the opportunity to approach and introduce himself. Instead the man approached him with intimidating purpose.
+Walking into the coffee shop he felt he knew exactly the man to talk to. The man sat in a collared shirt tapping away at a laptop. The man was of Mediterranean extraction of some sort, he imagined him an Arab. He was six feet tall, broad, and maintained a well trimmed beard that suggested the explosion of beard he could have grown. He looked like the ancestor of a warrior tossed in a suit and with a laptop instead of a scimitar. This might not have bothered him if he had gotten the opportunity to approach and introduce himself. Instead the man approached him with intimidating purpose.
 
 “Jonathon Creed?” he asked.
 
@@ -90,7 +90,7 @@ Walking into the coffee shop he felt he knew exactly the man to talk to. The man
 
 “My stay?”
 
-“In one record you have inflamation of the lungs and associated fever. In another you have a highly infectious strain of some “typhus-like” fever and are placed under isolation.”
+“In one record you have inflammation of the lungs and associated fever. In another you have a highly infectious strain of some “typhus-like” fever and are placed under isolation.”
 
 “How could that... wait how did you find those records? Aren't they confidential?”
 
@@ -210,7 +210,7 @@ There's a theatre that shows films from the land of the dead. Hades.”
 
 "Where is this, this theatre?"
 
-"I don't know. There're rumored to be a rather unpredicable thing. Best found while on the move.
+"I don't know. They are rumored to be a rather unpredictable thing. Best found while on the move.
 
 “Why shouldn't it be here? Close by I mean.”
 
@@ -294,7 +294,7 @@ Dr. Creed took one look over to check this assertion. The newsprint was complete
 
 “What do you think happens after you die?” Creed pondered, given his supposed destination.
 
-“There is no God but Allah,” Ali replied, “and Mohammed is his prophet.”
+“There is no God but Allah,” Ali replied, “and Mohamed is his prophet.”
 
 “Oh,”
 
@@ -318,7 +318,7 @@ Dr. Creed took one look over to check this assertion. The newsprint was complete
 
 “How?”
 
-“It's not hard to imagine how. The book has a premise. The premise is that the devil was allowed to insert a single verse into the Quran that wasn't true. One blemish on the direct word of God.”
+“It's not hard to imagine how. The book has a premise. The premise is that the devil was allowed to insert a single verse into the Koran that wasn't true. One blemish on the direct word of God.”
 
 “That doesn't sound so compelling. Just one verse?”
 

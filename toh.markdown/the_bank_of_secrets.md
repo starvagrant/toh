@@ -4,10 +4,10 @@
 Characters: Jonas, Bartender, Rachel, Waiter
 Tags: [Secrecy][Secrecy Loans][Aggregation of Secrets][Death's Secret Account][Fate]
 Status: Annotated::Staging
-Synopsis: Story begins with Jonas' conversation with a bartender, both over his attraction to married women and his employment in the Bank of Secrets, which manages loans (of secrets) and aggregates them for sale to clients. Jonas recounts his new department which it is suggested is for death, specifically assigning a timeframe of 24 hours for cause of death. Jonas then uses this information, along with his experience, to seduce a formerly engaged woman away from the planned location of her death. Unbeknownedst to him a contigency is set up. Rachel perishes, as ill fates fall upon so many of Jonas' seductions.
+Synopsis: Story begins with Jonas' conversation with a bartender, both over his attraction to married women and his employment in the Bank of Secrets, which manages loans (of secrets) and aggregates them for sale to clients. Jonas recounts his new department which it is suggested is for death, specifically assigning a time frame of 24 hours for cause of death. Jonas then uses this information, along with his experience, to seduce a formerly engaged woman away from the planned location of her death. Unbeknownst to him a contingency is set up. Rachel perishes, as ill fates fall upon so many of Jonas' seductions.
 -->
 
-"All the good ones are taken," Jonas lifted his whiskey glass in toast. The man to the left of him clinked a glass, not really in agreement but to save Jonas the embarassment of holding his toasting glass up for no reason. The bartender came to fill it. He turned to the man who had taken part of the toast and began to speak, uninvited. 
+"All the good ones are taken," Jonas lifted his whiskey glass in toast. The man to the left of him clinked a glass, not really in agreement but to save Jonas the embarrassment of holding his toasting glass up for no reason. The bartender came to fill it. He turned to the man who had taken part of the toast and began to speak, uninvited. 
 
 "So I ask you, what's a man to yearn for? The bad ones, or the taken?" When the man chuckled nervously and faced the bartender and asked the same question.
 
@@ -29,7 +29,7 @@ Jonas sat back and let the drunkenness take over him for a while. Where to begin
 
 "Hey, right, that's a good one. Of course, there are a hundred phrases just like that, things she says. But if you make it a point to know all the hundred phrases well then, there's not a secret she can keep."
 
-"I see," the bartender said. "Now if you'll give me a moment," he cirlced around the bar, taking drinks as necessary. As the bar was sparsely populated, this did not take long. Upon returning the bartender inquired, "So what occassions you telling me your secret methods?"
+"I see," the bartender said. "Now if you'll give me a moment," he circled around the bar, taking drinks as necessary. As the bar was sparsely populated, this did not take long. Upon returning the bartender inquired, "So what occasions you telling me your secret methods?"
 
 "Secret methods?" Jonas mused. "You are a secret keeper no doubt. I mean, your patrons talk to you because you offer drinks, not judgments."
 
@@ -105,7 +105,7 @@ The dates, what do I tell him about the dates? Jonas wondered.
 
 "As you see fit," Jonas put his head on the side of the bar. The droplets of ice and alcohol soaked into his hair, refreshing him like water splashed on the face. He watched the bartender return.
 
-"So, here's what I don't get. I worked day after day cataloguing the value of secrets. Tax evasion, sexual misconduct, murder. With the exception of the latter, most secrets decay in value over time. Secrets never seem to do so much damage as when they are revealed within a few days of the transgression. A secret taken to the grave, by a person of no historical importance, frequently ceases to have any practical value at all. Someone who could see the value of those secrets, and have such a large account with us, I've been imagining is in fact dead. Dead but who has a hand in the land of the living... here of course, is where you won't believe me."
+"So, here's what I don't get. I worked day after day cataloging the value of secrets. Tax evasion, sexual misconduct, murder. With the exception of the latter, most secrets decay in value over time. Secrets never seem to do so much damage as when they are revealed within a few days of the transgression. A secret taken to the grave, by a person of no historical importance, frequently ceases to have any practical value at all. Someone who could see the value of those secrets, and have such a large account with us, I've been imagining is in fact dead. Dead but who has a hand in the land of the living... here of course, is where you won't believe me."
 
 "Who cares?" the bartender asked. "It's a great story. Another drink? Calm the nerves?"
 
@@ -145,7 +145,7 @@ Jonas watched a bead of sweat rolling down towards his date Rachel's black dress
 
 "Mystery as well, dear Rachel. Practically invented the genre."
 
-"There doesn't seem to be anything you don't know. Or did you just look at my facebook profile?" Rachel accused.
+"There doesn't seem to be anything you don't know. Or did you just look at my Facebook profile?" Rachel accused.
 
 "I knew you for four years. The high school's hot shot saxophone player," Jonas reminded her.
 
@@ -305,7 +305,7 @@ Jonas and Rachel arrived at Jonas' penthouse suite, he laid her gently, on the b
 
 "I'm not as timid a lover as I've been making it out to be, Jonas." 
 
-With little warning, Rachel seemed to go from embarassed princess to lady of the night. She moaned, she screamed, she tossed champagne in his face. Jonas could feel her loneliness mix with her lust, her heartbreak mix with her passion and it was explosive. 
+With little warning, Rachel seemed to go from embarrassed princess to lady of the night. She moaned, she screamed, she tossed champagne in his face. Jonas could feel her loneliness mix with her lust, her heartbreak mix with her passion and it was explosive. 
 
 He marveled at the results. He wasn't entirely sure how much he liked Rachel. At least, he wasn't sure how much his own motives, his own well kept secret, would keep his mind away from his lovemaking. But Rachel's seeming determination to go all night long and make it through the entire champagne bottle quickly melted away any reservations.
 
@@ -313,9 +313,9 @@ Jonas remembered looking at the clock and seeing it say 4:15 before he knew it w
 
 He awoke sometime in the afternoon, he stumbled through a moderate hangover and a pain that spread from his manhood outward, balled in his hips and upper thighs. He picked up a remote control for the local news only to discover a story of a car accident not far from his hotel. Rachel was listed dead.
 
-He knew he should have guessed it. Someone in his department had also received Rachel's file, knew he was a blocking character in Rachel's death, and had likely arranged contigencies if he should remove her from her proposed place of death. Likely too, he sighed with bitter resentment, that there had been a plan if he had failed to seduce her, and a plan if he had succeeded. 
+He knew he should have guessed it. Someone in his department had also received Rachel's file, knew he was a blocking character in Rachel's death, and had likely arranged contingencies if he should remove her from her proposed place of death. Likely too, he sighed with bitter resentment, that there had been a plan if he had failed to seduce her, and a plan if he had succeeded. 
 
-Contigency plans must not have troubled the worker at all. He had been seducing the hearts of forbidden women for some time now. He did not now why he did it, only that there was an intoxicating feeling of power, a jolt of confidence, a strengthened conviction that he was a man. But then there sometimes came the feeling that the women in his life would have been better off never knowing him in the first place.
+Contingency plans must not have troubled the worker at all. He had been seducing the hearts of forbidden women for some time now. He did not now why he did it, only that there was an intoxicating feeling of power, a jolt of confidence, a strengthened conviction that he was a man. But then there sometimes came the feeling that the women in his life would have been better off never knowing him in the first place.
 
 He lay down back in bed and tried to finish what was left of the champagne. He expected he'd need a little time to wash away the guilt, as he had done when he learned he'd had a son that he was never to see. But instead in his mind was a different sort of question. He had known Rachel for some time. True, not in those intervening years after high school, but he wondered what secret should have sent her to the grave. What secrets was his client really after? Why choose Rachel over some corrupt official in Africa, or Chicago mob boss?
 
@@ -325,7 +325,7 @@ Someone interested in death, would of course be in possession of secrets beyond 
 
 This suggested that death's hand in the living world was a loose one. That the possibility of your day to die could slip through fate's grasp, provided workers at such institutions as the Bank of Secrets failed. But what were these rifts and ripples between the world of the living and the dead? These things that escaped death's grasp? He might have been able to explore this if only his plan to save Rachel had succeeded.
 
-But someone working for his client had decided it not to be, and Jonas at last felt certain he knew now what that secret actually was. He had a secret taste for forbidden women, a taste as old as his first woman, who bludgeoned him with passion and disappeared before he awoke. His potential to betray his client in order to claim a marked woman must have been anticipated. When he bumped into Rachel her secret must have been inadvertant. It was after they had met that her assignment came up. He had written out a plan for her death he believed he could bypass, and that act had caused another to be assigned the case.
+But someone working for his client had decided it not to be, and Jonas at last felt certain he knew now what that secret actually was. He had a secret taste for forbidden women, a taste as old as his first woman, who bludgeoned him with passion and disappeared before he awoke. His potential to betray his client in order to claim a marked woman must have been anticipated. When he bumped into Rachel her secret must have been inadvertent. It was after they had met that her assignment came up. He had written out a plan for her death he believed he could bypass, and that act had caused another to be assigned the case.
 
 But it seemed inescapable that her plans had only come up because of the potential seduction. That he had made her, the secret. That it was him, in the end, that caused her death.
 

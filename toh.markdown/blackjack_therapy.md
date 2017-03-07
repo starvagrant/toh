@@ -17,7 +17,7 @@ Dr. Creed saw the search for Ali being trying and difficult. Ali had never made 
 
 "How did you find me?" Creed asked.
 
-"GPS tracking dot on your vehicle. I couldn't be expected to lose track of a promising source while I went gallavanting to a week's worth of blackjack in Vegas. I am impressed you had the daring to follow up on such a flimsy lead, I might have. Now, knowing when you should follow up on a flimsy lead separates the good from the best."
+"GPS tracking dot on your vehicle. I couldn't be expected to lose track of a promising source while I went gallivanting to a week's worth of blackjack in Vegas. I am impressed you had the daring to follow up on such a flimsy lead, I might have. Now, knowing when you should follow up on a flimsy lead separates the good from the best."
 
 "Why'd you just disappear to this, this vacation?" Creed asked.
 

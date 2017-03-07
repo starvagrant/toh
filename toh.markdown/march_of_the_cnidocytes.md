@@ -23,7 +23,7 @@ Electra spoke little as well. In a state of frantic conjecture he wondered if pe
 
 "Are you asking to spend the night with me?" she asked.
 
-"It would be preferrable to the streets."
+"It would be preferable to the streets."
 
 Electra looked him over. She seemed to have anticipated this, but must have had something in the back of mind. "Sleeping under the sky fortifies one's constitution," Electra declared. Creed did not completely hear a no in that response, only a suggestion that one might be coming. The pair went back for the night bus.
 
@@ -77,13 +77,13 @@ Or were there questions of unreality to be concerned with as well. These feveris
 
 "I don't suspect that woke Cora."
 
-"She could sleep through an atomic blast. Still, I think I better check on her," Electra went in for a minute, and came out looking for a ratty looking rag, with paint flecks here and there on its surface. A minute or two later she came back with the rag, which had fresh paint on it. When Electra noticed Creed's curiosity she mentioned, "She's been fingerpainting. Must have fallen asleep without washing her hands."
+"She could sleep through an atomic blast. Still, I think I better check on her," Electra went in for a minute, and came out looking for a ratty looking rag, with paint flecks here and there on its surface. A minute or two later she came back with the rag, which had fresh paint on it. When Electra noticed Creed's curiosity she mentioned, "She's been finger-painting. Must have fallen asleep without washing her hands."
 
 "Oh," Creed did not say the word with much strength, but Electra seemed eager to qualify.
 
 "She's old enough to start using a brush, I think, but she seems to be just as fascinated by the feeling of painting that she hasn't really given it a try. It's messy, but children need their independence I think, so I remind her for the dozenth time to wash her hands."
 
-Whilst she was clearing this up, Creed was negotiating with Electra's couch. It was a hideous brown and the upholestry was rough, but it sunk well with Creed's weight. No doubt it had been purchased at some second hand shop without a consideration for color, or maybe it had been left their by the previous home's owner. Creed fell asleep almost instantaneously, but he could swear, before he did so, a blanket being stretched over him. 
+Whilst she was clearing this up, Creed was negotiating with Electra's couch. It was a hideous brown and the upholstery was rough, but it sunk well with Creed's weight. No doubt it had been purchased at some second hand shop without a consideration for color, or maybe it had been left their by the previous home's owner. Creed fell asleep almost instantaneously, but he could swear, before he did so, a blanket being stretched over him. 
 
 --------------------------------------
 
@@ -105,7 +105,7 @@ Electra and Cora strolled down to where Creed had setup his towel and placed the
 
 Given Electra would be distracted with her daughter for a while, Creed ran down the shore. He left a trail of thick prints in the sand, then, reaching the waves he continued, until the weight of the water knocked his legs out from under him and he plunged into the water.
 
-He was in the Aegean Sea again, for the first time in six years. He had hoped to reach it without putting his academic future in jeopardy, but it was still a great comfort all the same. He'd read no more tales of Oddyseyus' great sea-borne adventures whilst landlocked in the Midwest. Making his home here, he thought, might have some difficulties, but Electra didn't seem to unnerved by his presence at breakfast. He must not have been that much of a burden to put up. He needn't worry he thought. He just lay on his back and floated in the waves, not sinking in the saltwater as he would have at home. Things could be real, things could be unreal. What did it matter. The sun, he thought, was shining. 
+He was in the Aegean Sea again, for the first time in six years. He had hoped to reach it without putting his academic future in jeopardy, but it was still a great comfort all the same. He'd read no more tales of Odysseus's' great sea-borne adventures whilst landlocked in the Midwest. Making his home here, he thought, might have some difficulties, but Electra didn't seem to unnerved by his presence at breakfast. He must not have been that much of a burden to put up. He needn't worry he thought. He just lay on his back and floated in the waves, not sinking in the saltwater as he would have at home. Things could be real, things could be unreal. What did it matter. The sun, he thought, was shining. 
 
 A pair of hands pulled at him and knocked him out of his reverie. His hips fell down into the water, and he looked around. It was Cora, the so-called shy one. She must, Creed thought, have watched him run to the sea like a child and wanted in on the fun. He had thoughts of dunking her in response, but he was to nervous to do so. With mom looking on he didn't quite know what was ok and what wasn't. Seeing as how she was learning to swim, he decided to brace his arms against the bottom of the shallows and kick in demonstration. Cora eagerly imitated, for a while, and he looked up at Electra, who was smiling.
 
@@ -121,7 +121,7 @@ When the specks became bulbs and he could see the bulbs had tentacles he realize
 
 "Put me down," she giggled.
 
-Her giggling stopped when she heard a shrill scream erupt from the other side of the beach. Reflexively, she wriggled to try to see what was going on, but Creed gripped tighter. The many lights simmered out, briefly, and then came back as dazzlings as ever. Blues and oranges, reds and yellows--all pale and bright. A portion flickered again, and more screaming and gasps of pain came from various quarters of the beach.
+Her giggling stopped when she heard a shrill scream erupt from the other side of the beach. Reflexively, she wriggled to try to see what was going on, but Creed gripped tighter. The many lights simmered out, briefly, and then came back as dazzling as ever. Blues and oranges, reds and yellows--all pale and bright. A portion flickered again, and more screaming and gasps of pain came from various quarters of the beach.
 
 "What's happening?" she asked.
 
@@ -129,7 +129,7 @@ Her giggling stopped when she heard a shrill scream erupt from the other side of
 
 "What about you?" she pleaded.
 
-"It's ok," Creed told her. "I'm protected." This was a flat out lie, but Creed didn't think the lie would matter much if he were wrong. The things were, in fact, moving right by. He felt feelers, thick noodles with spiky skin, protruding through the waters. The skin gave way to viscuous muscle that felt cold and smooth and metallic. As Creed down at the beasts it looked like mercury surrounded by fibrous tissue.
+"It's ok," Creed told her. "I'm protected." This was a flat out lie, but Creed didn't think the lie would matter much if he were wrong. The things were, in fact, moving right by. He felt feelers, thick noodles with spiky skin, protruding through the waters. The skin gave way to viscous muscle that felt cold and smooth and metallic. As Creed down at the beasts it looked like mercury surrounded by fibrous tissue.
 
 He craned his neck to see Electra, hoping to see her safe at shore. But she had been behind them, in the water, not moving. She had to have guessed by now that the shore meant safety, but she wasn't moving. He wanted to cry out to save herself at least, but she seemed frozen still, waiting to see if she were going to have to jump in and take Creed's place if he dropped her. She noticed him looking over at her, and couldn't decide if her eyes were screaming, "Tell me it's all right" or "Don't you dare."
 

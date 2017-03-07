@@ -3,7 +3,7 @@
 = Chapter 11: The Culinary Black Arts
 Characters: Sylvia Addison, Timothy, Atticus Rex, Amanda Ashton, Mr. Ashton.
 Tags: [Sex][Craving][Motivation over Dogma][Social Norms]
-Status: Annottated::Complete
+Status: Annotated::Complete
 Synopsis: The desert town of West Point Nevada encounters a rain of black sludge. This sludge grants complete fulfillment of a strong desire, but a desire alone, not wholeness. The most immediately obvious effect is on the men and women who sexual desires are their largest pang. As the story progresses, we see inhuman gamblers, a blissful bible study, and an intimidating preacher all have their own desires stoked, to disastrous consequences.
 -->
 
@@ -59,7 +59,7 @@ After some wrangling the mayor finally got up and said, "So, what is it?"
 
 "Aye," came the rest of the town. It was certainly the solution that involved the least squabbling. No decision was really made about the stranger either, who spent much of the rest of the week telling tall tales, drinking beer, and eating the savory muck.
 
-It was hard to deny the stranger's health was improving. He was a skeletal boy of 5'11" and probably a hundred and thirty pounds. In a week he went from protuding collar bones to a muscled chest. Rumors spread as always but reverberated little, involved as we all were at clearing the streets in the blazing heat and bickering over whether the thing was black manna, an ill omen or something splattered from space.
+It was hard to deny the stranger's health was improving. He was a skeletal boy of 5'11" and probably a hundred and thirty pounds. In a week he went from protruding collar bones to a muscled chest. Rumors spread as always but reverberated little, involved as we all were at clearing the streets in the blazing heat and bickering over whether the thing was black manna, an ill omen or something splattered from space.
 
 As progress was being made on the streets, another ill fated town hall meeting was called. A fair portion of the town wished to dump the goop into some kind of land fill and clear it up by the desert sands, but a one Mrs. Addison vehemently refused.
 
@@ -83,7 +83,7 @@ I was waiting for something a bit more solid than the endorsements of a complete
 
 The next week was amongst the most interesting in my life. As a journal writer and long observer of townsfolk, I noticed strange expressions on the faces of particular people. Smiles and frowns exchanged places on faces. Awkward strutting seemed to have come into fashion, for a few women looked about a dozen years younger and fifty pounds lighter. Something had clearly erased a decades worth of packaged hi-carb food. Prominent men looked nervous, geeks looked smug and confident. Sometimes these things were accompanied by a change of physical appearance, in other times there seemed to be no apparent cause.
 
-The most memorable of these occasions was my invitation to a Wednesday night Bible study, something not seen since there had been three preachers in town. It was run by Amanda Ashton, of all people, who spoke eloquently of Biblical passages on love. And her baked from scratch chocolate chip cookies were so delictable as to make one believe that yes, there was a God and He did love us. It was every bit as inviting as our Sunday church service had been repelling.
+The most memorable of these occasions was my invitation to a Wednesday night Bible study, something not seen since there had been three preachers in town. It was run by Amanda Ashton, of all people, who spoke eloquently of Biblical passages on love. And her baked from scratch chocolate chip cookies were so delectable as to make one believe that yes, there was a God and He did love us. It was every bit as inviting as our Sunday church service had been repelling.
 
 It was the next day that proved to be the most memorable. Thursday had always been a particularly involved day for me, it was my casino day. Casino day on Thursday was lightly attended as most were waiting for Friday paychecks. But Thursday held a certain allure for those that could save up for it.
 
@@ -129,7 +129,7 @@ I began to notice a pattern of arousal in her each time I offered up something t
 
 "Be gentle with me, please."
 
-"You didn't come here to be gentle," I said, and kissed her on the cheek. Then I looked into those eyes. They said "take me" like her words never could. Then it was lips, breasts, hair, wetness violently rolling over the floor until a heartstopping explosion not much latter.
+"You didn't come here to be gentle," I said, and kissed her on the cheek. Then I looked into those eyes. They said "take me" like her words never could. Then it was lips, breasts, hair, wetness violently rolling over the floor until a heart stopping explosion not much latter.
 
 "You put up a good fight," she said.
 
@@ -139,7 +139,7 @@ She left about as she as she arrived, no doubt to keep our meeting private. I gr
 
 The act was nothing like I imagined. I had long fantasized of having a harem of girls, all waiting patiently for my sexual whim because I was me. They fawned every moment over every fiber of my being, living only for my satisfaction. The real act had been a bit... antagonistic, like a conquest for lack of a better word. I supposed that's why I halted and took a harsh though not abusive tone. I didn't quite know what I was doing, but it didn't set still for me to pursue sex too freely given.
 
-All this worried me. The harem fantasy and my swift consumation. I was not concerned with the act itself, but worried about the consequences of another Mrs. Addison, also consuming Black Liquid Lust and showing up amongst the mobile homes of every man she could lay their hands on. Sex, as I knew from my lone fantasies and my current night, was not an activity that generally encouraged sharing.
+All this worried me. The harem fantasy and my swift consummation. I was not concerned with the act itself, but worried about the consequences of another Mrs. Addison, also consuming Black Liquid Lust and showing up amongst the mobile homes of every man she could lay their hands on. Sex, as I knew from my lone fantasies and my current night, was not an activity that generally encouraged sharing.
 
 I had let her go, knowing she was off to the arms of another man, but leaving a bruise in a part of her mind I expected no one else could touch. But I wondered what vendettas would be piling up, as her men fought for control of her. Not that I suspected they would ever control her now, as long as that strange tar still clogged the streets.
 
@@ -147,13 +147,13 @@ I had let her go, knowing she was off to the arms of another man, but leaving a 
 
 The next week, for the first time I had known West Point, gossiping ceased. Given the increasingly voluptuous appearance of several other women, and newly charming and muscle bound men, I imagined that the town's night life had been so active that no one talked for fear they had some secret shame to be discussed shortly.
 
-Big gossips seem to come in two varieties. The ones deflecting shameful attention from themselves and those that had no shame to hide and were building themselves up on the humiliations of others. At least these were my observations. Whatever their motives, they were all embarassingly quiet.
+Big gossips seem to come in two varieties. The ones deflecting shameful attention from themselves and those that had no shame to hide and were building themselves up on the humiliations of others. At least these were my observations. Whatever their motives, they were all embarrassingly quiet.
 
 It struck me, however, that rivalries would be breaking out in other forms throughout the town. I did not know how many had guessed that this new precipitation might be a wish-granting fluid of some kind. How much of life, I began to preoccupy myself with, involved the possession of things that could not be shared?
 
 Of particular interest to me was the conflict I foresaw between Amanda and Atticus. Both had upped their ante it seemed. Amanda gave her first talk at her Bible study, a three minute observation on the subject of forgiveness. I honestly don't know if anyone could pay attention to it over the sound of consuming their own brownies. On my first bite I admit to staring at mine, wondering if she knew how to break the laws of physics to fit more chocolate in than was possible by Nature's laws alone.
 
-In any case, discussion on the topic of Jesus was light and carefree without being trite and shallow. Inspirational quotes that you wanted to think about throughout the week. Atticus on the other hand had seemed to acquire a new poetic flair for descriptions of sin, hellfire, and now sexual promiscuity. West Point's Sundays seemed destined to be filled with terror, even as Monday rolled around and the town rolled back to beer, gambling, and the new sport of sneaking off for fornication at any time it was convenient.
+In any case, discussion on the topic of Jesus was light and carefree without being trite and shallow. Inspirational quotes that you wanted to think about throughout the week. Atticus on the other hand had seemed to acquire a new poetic flair for descriptions of sin, hell fire, and now sexual promiscuity. West Point's Sundays seemed destined to be filled with terror, even as Monday rolled around and the town rolled back to beer, gambling, and the new sport of sneaking off for fornication at any time it was convenient.
 
 Wednesday rolled around for another meeting at Amanda's, which now required a guest list in order that services should be able to fit in her trailer. I signed up for next week and went back to Thursday gambling. I had been correct in picking out the two rather improved gamblers and by avoiding them all night managed to put some money back in my gambling / book fund.
 
@@ -181,7 +181,7 @@ I returned to my trailer to find Ms. Addison waiting on me. She was wearing loos
 
 "But my body has," she corrected. Then she stood, raised her jeans to reveal her feet, which were oddly curling. She gradually lifted airborne, balancing her entire weight on her upright toes. Slowly the lifted one of her legs into vertical splits. Two thoughts instantly flashed into my head. "I hope those legs are spread for me" and "How the hell is she balancing herself with all that weight on her chest? I could feel a lust rising, which I kept internal, for I remembered how essential a little waiting, a little antagonism had once carried the day.
 
-"But can you pireoutte?" I asked, and then without much warning pulled her arm so that the only thing she could do to keep her balance was spin.
+"But can you pirouette?" I asked, and then without much warning pulled her arm so that the only thing she could do to keep her balance was spin.
 
 "Hey, you asshole!" she interjected at first.
 
@@ -245,7 +245,7 @@ Amanda wailed and hid her head in her hands. "That was my line," I whispered. It
 
 Upon saying it I seemed to have found her cheeriness button.
 
-"You've liked them?" she asked unexpectantly. "I think, you know, that Atticus, well, he's not really capturing the whole spirit of the religion I think. I mean, we're going to have to face our sins and all but I think we're given blessings here on earth too. And you know it hasn't escaped my notice that when it wasn't necessarily safe to be a Christian, when things were all uncertain and dangerous there were certain women that really stood up, and I thought, you know. I'm sorry I didn't invite you this time, that won't happen again."
+"You've liked them?" she asked unexpectedly. "I think, you know, that Atticus, well, he's not really capturing the whole spirit of the religion I think. I mean, we're going to have to face our sins and all but I think we're given blessings here on earth too. And you know it hasn't escaped my notice that when it wasn't necessarily safe to be a Christian, when things were all uncertain and dangerous there were certain women that really stood up, and I thought, you know. I'm sorry I didn't invite you this time, that won't happen again."
 
 "Well, you don't want to play favorites." I told her.
 
@@ -269,13 +269,13 @@ West Point was to become a split world for me. I was an observer by nature. I ha
 
 Outside my trailer the world had become a little different. No longer could my role as passive observer be excepted, but everyone seemed to want to put me in a different role. Elmer, the husband, nursed a well earned grudge and from Sylvia's betrayal and refused any sort of divorce. If she wanted other men, it would have to be in sin, he exclaimed. The town quickly pieced together we were in a monogamous relationship, which pleased just about everyone but a few men who had whispered things to Sylvia in the night that they dared not have repeated.
 
-The men in town saw me as the one who tamed her, and had a certain fear of me. The women looked at me as the one who restored her virtue, in some way that they didn't really have words for. I, a reader, had the right word for her. I had taken a mistress. I played a prominent role at Amanda's bible studies and no one let on, in front of her, any moral distaste for me. I was, in short, the macho man that conquered the untamable woman, the effeminate man that prefer to read over booze and poker, the moral man of Amanda's Wednesdays, and the moral outrage for living so openly and unrepentantly with a married woman.
+The men in town saw me as the one who tamed her, and had a certain fear of me. The women looked at me as the one who restored her virtue, in some way that they didn't really have words for. I, a reader, had the right word for her. I had taken a mistress. I played a prominent role at Amanda's bible studies and no one let on, in front of her, any moral distaste for me. I was, in short, the macho man that conquered the untamable woman, the effeminate man that prefer to read over booze and poker, the moral man of Amanda's Wednesdays, and the moral outrage for living so openly and unrepentant with a married woman.
 
 It was this last category I grew a secret concern about, and not because I cared if that was the general sentiment of the town. I grew concerned it was the opinion of Atticus Rex. Something did not sit right with me about the man. He had always had a solid, unreadable expression, though this was something you forgot because, as an orator, he had such an expressive voice. I couldn't shake that something was wrong in him. Of course, all I really had of his mind and opinions I acquired from his sermons. He did not accept my company in any other construct.
 
 Atticus had been the undisputed religious leader in the town for well over seven years. His sermons were always rather literal. He clearly thought of sin in terms of rather specific acts, and didn't open himself up much for interpretation. I wondered if this might indeed be a weakness of his, that he was so direct as a person he would have neglected implications others could see in his sermons, implications that betrayed his personal feelings. The tone of his sermons had grown perceptibly darker, and I journaled them because some ache told me there was something the matter.
 
-Thus I began recording the contents of his sermons, the books and chapters of scripture he cited, and paid attention to the biblical characters whose actions he chose to spotlight. It was not hard to pick up on his habit of using the term "The Whore of Babylon" as a specific reference to Sylvia. I was reading the Bible a bit more now, and noted every mention of this figure was incongrous with the spirit of the biblical prophecy. I think he just liked the term whore, but dared not use it directly upon someone who was incomprehensively popular among some women in the town.
+Thus I began recording the contents of his sermons, the books and chapters of scripture he cited, and paid attention to the biblical characters whose actions he chose to spotlight. It was not hard to pick up on his habit of using the term "The Whore of Babylon" as a specific reference to Sylvia. I was reading the Bible a bit more now, and noted every mention of this figure was incongruous with the spirit of the biblical prophecy. I think he just liked the term whore, but dared not use it directly upon someone who was incomprehensibly popular among some women in the town.
 
 If I may add a note, before the Black Rains, being a mistress in West Point would have been a terrible burden and secret. But there were still men and women, and we all knew who they were, sneaking out for gobs of goop to fuel sexual romps with members of married couples. And we all knew how ferocious tempters and temptresses they were. While I preferred the more direct title of mistress for Sylvia, the more conservative referred to my **unconventional** relationship. I think they noticed to, the ease and happiness with which a new unofficial religious leader, Amanda, felt in her company. These were reasons enough for Sylvia to return to respectable society in a way unthinkable two years ago.
 
@@ -323,17 +323,17 @@ Mr. Ashton called to report the murder and what he and his lawyers have claimed 
 
 Both Mr. Rex and Mrs. Ashton returned from an autopsy with a strange substance in their digestive system, a substance which littered the streets of West Point. The substance was in Mrs. Ashton's upper GI tract, and examiner estimates a meal of the substance approximately five hours before the shooting. Mr. Rex's entire digestive tract was full of the substance. The coroner believes he had been eating at a regular pace since eight in the previous morning, and trails in the esophagus indicate a large imbibing of the substance right before the shooting. Strangely, the substance does not seem to have any clear toxic or intoxicating properties that might have altered anyone's behavior before the incident.
 
-Being Mrs. Ashton's silent protege the general agreement was that I prepare her last rites. I made preparation for a silent vigil, as she had done, and refused to bring in a minister for an official burial. I gave no reason for this arrangement, though those that best know the events of that night understand I wished her passing to in no way resemble what Mr. Rex would have done, if they were his procedings.
+Being Mrs. Ashton's silent protege the general agreement was that I prepare her last rites. I made preparation for a silent vigil, as she had done, and refused to bring in a minister for an official burial. I gave no reason for this arrangement, though those that best know the events of that night understand I wished her passing to in no way resemble what Mr. Rex would have done, if they were his proceedings.
 
 "Being shot from behind, Amanda left no parting words, but she had scribbled a few lines on a speech she wished to deliver during her Bible study. "What profit a man to gain the whole word but lose his own soul? The answer of course is, (smile here to indicate joke) the world. But it is a different world to the soulless. It will not be enough, and the possessor of the new world will want more worlds--worlds that can only be generated from his own head. These worlds, fullest of a soulless imagination, will not contain anything that is not perverted, or which is satisfying, necessitating the creation of more worlds of equal fruitlessness.
 
 "A hunger for a food that can never satisfy--that is what the soulless inherits. But I hold as idle fantasy those stories about selling your soul to the devil, because a sale implies a quick and decisive purchase. One loses one's soul not by a contract in blood, signed once, but by every day filling it with hunger until...
 
-"The note," I informed the audience, "ends here, and considering the note in detail, I hope that it is never finished, for only one who can knows the hunger can tell of what she set out to describe. I can only imagine..." here I failed to offer a timeline, "That given her new found voice, her caring, her leadership in these strange times--that hunger has been replaced by the beautiful woman we'll always keep in our memories."
+"The note," I informed the audience, "ends here, and considering the note in detail, I hope that it is never finished, for only one who can knows the hunger can tell of what she set out to describe. I can only imagine..." here I failed to offer a time line, "That given her new found voice, her caring, her leadership in these strange times--that hunger has been replaced by the beautiful woman we'll always keep in our memories."
 
 I had observed, journaled, pondered the human spirit in a handwriting that no one else would ever understand. I wondered, in that strange moment, if that had only been practice for the one time I would have to address my entire town. I go back now to contemplating words likely never to be read.
 
-I know Atticus Rex was after myself and Sylvia next, and so I can't help but feel I should be able to describe his motives. He was a preacher that believed in the benefits of a fear of God, that humans could not be moral creatures without an awareness of their upcoming judgment. But putting the fear of God into someone who does not have it is certainly a tricky business. Particuarly when the Black Rain came.
+I know Atticus Rex was after myself and Sylvia next, and so I can't help but feel I should be able to describe his motives. He was a preacher that believed in the benefits of a fear of God, that humans could not be moral creatures without an awareness of their upcoming judgment. But putting the fear of God into someone who does not have it is certainly a tricky business. Particularly when the Black Rain came.
 
 It was impossible in the time of the Black Rain for anyone to stop, by old standards, an epidemic of infidelity. The Black Rain, when imbibed by those who strongest urge was lust, created sex symbols beyond my wildest imaginings that creatures of the flesh were overpowered by. I know I did not resist it. I spent many hours a week making love to a voluptuous woman and it never lost its appeal, it was never less ecstatic, and I trampled on social convention to continue it, and I imagine everyone else did at some point.
 

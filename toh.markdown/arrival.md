@@ -4,7 +4,7 @@
 Characters: Dr. Creed, Persephone
 Tags: Fertilizer, Myths, Stories, Living Reality, Death of Reality, Impossibility
 Status: Annotated::Staging
-Synopsis: Creed at last comes face to face with the Goddess, who has been lightly observing and interveing in Creed's story. In particularly she discusses with him the death and rebirth of reality. After this discussion she offers Creed the secrets of this process (in exchange for his never being able to return) and near the end curiously transmutes into Mary, a different "Goddess" figure. The story ends when Creed rejects the ticket for his current life.
+Synopsis: Creed at last comes face to face with the Goddess, who has been lightly observing and intervening in Creed's story. In particularly she discusses with him the death and rebirth of reality. After this discussion she offers Creed the secrets of this process (in exchange for his never being able to return) and near the end curiously transmutes into Mary, a different "Goddess" figure. The story ends when Creed rejects the ticket for his current life.
 -->
 Dr. Creed shielded his eyes from the pouring rain, and felt his shoes sink into a thick molasses of mud. They were now splattered, and the mud was clinging to him, a slow drip down, a thick disgusting goo. The rain pelted it hard but still it stuck, like an ink consuming confetti, a genetically engineered honey out of control, a black delicacy stuck to a desert flour, the corpse of a jellyfish not yet congealed. 
 
@@ -12,7 +12,7 @@ He continued to follow the path where that mysterious ooze grew thicker and thic
 
 Keeping his head down so as to keep it more out of sight, he glimpsed something that startled him at first, but which seemed obvious in hindsight. He had crossed a sewer grate where the mud was coming up, not falling down, and determined that his path would now take him through the sewers. This prospect was revolting but the physical disgust he anticipated was offset by the comfort of being away from view. 
 
-Creed darted towards an alley to plan on how to enter the sewers unnoticed, only to lose his balance. As he stumbled across the sidewalk his feet managed to look for balance on top of an unseen sewer grating, which collapsed at the slightest pressure and sent him sprawling into the sewers. He looked apprenhensively for a sign that he had been spotted, but the grating had apparently returned to its position and he had made no noise. The sewer contents must have sucked up any of the violence of his fall. This was clearly not human sewage. 
+Creed darted towards an alley to plan on how to enter the sewers unnoticed, only to lose his balance. As he stumbled across the sidewalk his feet managed to look for balance on top of an unseen sewer grating, which collapsed at the slightest pressure and sent him sprawling into the sewers. He looked apprehensively for a sign that he had been spotted, but the grating had apparently returned to its position and he had made no noise. The sewer contents must have sucked up any of the violence of his fall. This was clearly not human sewage. 
 
 As Creed got to his feet he saw lights reflecting all about a river of faded images, somehow shimmering pink. The images, which never seemed to light up for a few seconds, were full of religious images and symbolism. The popped in and out of existence with such variety and speed that he had really only been able to identify two religious traditions. Christianity, the religion which had come to him as a punisher in his childhood, and the pagan religion of the ancient Greeks, which had come to him in his studies, imagination, and adventures. 
 
@@ -20,29 +20,29 @@ Both had cropped up in the films of Hades, never quite possessing the characteri
 
 As Creed continued the physical properties of the muck did not maintain themselves, one footstep leading to a splatter of water, another to a sinking sludge, another to firm ground. He began seeing his own face at times, at different times of his life. They increased in frequency as he quickened him pace until at last that pace had increased beyond his ability to remember his surroundings. When he slackened a bit for breath it became clear the supposed sewer system was bearing no resemblance to something that would be used to drain water from the streets. 
 
-He shrugged and continued following the faces until he spotted a utility ladder on a spattered looking concrete wall. Upon closer inspection, however, it appeared as though the wall had been made of marble and the ladder, though man-made in shape, was a series of tightly wound vines. Eager to give this otherwordly drainage pipe a break he climbed out of the ground and discovered himself surrounded by a parabolical wall in which there was a curved door. A door it was likely no one would ever notice, as windowless concrete surrounded it a hundred feet high. 
+He shrugged and continued following the faces until he spotted a utility ladder on a spattered looking concrete wall. Upon closer inspection, however, it appeared as though the wall had been made of marble and the ladder, though man-made in shape, was a series of tightly wound vines. Eager to give this otherworldly drainage pipe a break he climbed out of the ground and discovered himself surrounded by a parabolic wall in which there was a curved door. A door it was likely no one would ever notice, as windowless concrete surrounded it a hundred feet high. 
 
-The rain was coming softer now, and this time it did wash off everything that had clung on or caked to him. He noticed too, that the unsightly sore on his left shoulder had gone as well. His pocket, enamated a soft glow that seemed to be coming from his original ticket. Was this at last the Theatre which he had been offered a seat so long ago in his old university? Among the things striking him as strange was the continued discovery of a new ticket in which he wondered if he were not a guest at a theatre with a film for someone else. Where on earth was this ticket leading him?
+The rain was coming softer now, and this time it did wash off everything that had clung on or caked to him. He noticed too, that the unsightly sore on his left shoulder had gone as well. His pocket, emanated a soft glow that seemed to be coming from his original ticket. Was this at last the Theatre which he had been offered a seat so long ago in his old university? Among the things striking him as strange was the continued discovery of a new ticket in which he wondered if he were not a guest at a theatre with a film for someone else. Where on earth was this ticket leading him?
 
-Staring at the featureless curved door a dread possibility occurred to him. These tickets were to places called Theatres of Hades. They were all small, emphemeral affairs. Shouldn't a Theatre of an underworld appear after death? Is that what lay behind this door? He thought for a moment of all his favorite Greek tragedies, filled with their tragic heroes. The most moving had all a single characteristic--the hero's demise was not inevitable. There had been choices away from that demise. But the hero, so determined by the weight of his choices and their consequences, had picked the end. 
+Staring at the featureless curved door a dread possibility occurred to him. These tickets were to places called Theatres of Hades. They were all small, ephemeral affairs. Shouldn't a Theatre of an underworld appear after death? Is that what lay behind this door? He thought for a moment of all his favorite Greek tragedies, filled with their tragic heroes. The most moving had all a single characteristic--the hero's demise was not inevitable. There had been choices away from that demise. But the hero, so determined by the weight of his choices and their consequences, had picked the end. 
 
 These momentary reservations, however, did little to sway him. He too had the weight of choices to follow, even if they drove him away from a life he felt tempted to settle into, a life with Electra. He turned the large knob on the door and wrenched it open. It felt rusted shut, and the crackling of small broken bones echoed in the new place. 
 
-The place reeked of pomegrenate juice mixed with a virulent strain of vinegar. A robed figure was seated, wrapped in study. Its turned, Creed could not get a good look at what it was studying, but it did not seem that it could possibly be a human book. 
+The place reeked of pomegranate juice mixed with a virulent strain of vinegar. A robed figure was seated, wrapped in study. Its turned, Creed could not get a good look at what it was studying, but it did not seem that it could possibly be a human book. 
 
 "Dr. Creed," a voice hissed and bellowed. It echoed about the place, but with each reverberation it grew sweeter. He could see the figure wrenching, writhing, but twisting into a more human figure which, in the light, appeared female.
 
 "I have a ticket," Creed declared.
 
-"Yes, you do." The hissing had gone from the voice, yet it maintained that strange inflection of being harsh but shifting towards gentleness as time passed. It turned around and he could see something thick and vicscous running over a skeletal form, and he could swear it was human skin. Whatever it was that lay ahead of him, it seemed to be trying to take a human form to speak to him. 
+"Yes, you do." The hissing had gone from the voice, yet it maintained that strange inflection of being harsh but shifting towards gentleness as time passed. It turned around and he could see something thick and viscous running over a skeletal form, and he could swear it was human skin. Whatever it was that lay ahead of him, it seemed to be trying to take a human form to speak to him. 
 
-Creed looked about in embarrassment. The walls were wending into a fabric of pomogrenate trees from which a few small fruits dangled.
+Creed looked about in embarrassment. The walls were wending into a fabric of pomegranate trees from which a few small fruits dangled.
 
-"Pomogrenate?" The figure asked.
+"Pomegranate?" The figure asked.
 
-"If I understand properly eating pomogrenate comes at a price," Creed retorted.
+"If I understand properly eating pomegranate comes at a price," Creed retorted.
 
-"A price?" The figure laughed, "Human language is so coarse at times. To compare eating pomogrenate seeds to a concept involving money. But you use what words you have I suppose."
+"A price?" The figure laughed, "Human language is so coarse at times. To compare eating pomegranate seeds to a concept involving money. But you use what words you have I suppose."
 
 "Persephone!" Creed called out in wonderment.
 
@@ -50,7 +50,7 @@ The figure turned around, and he could know see a robed figure with a human face
 
 "Yes," she smiled. "Forgive my study's ghastly appearance, I am still in transition to returning to the land of the living."
 
-"It's summmer."
+"It's summer."
 
 "Oh yes," Persephone agreed, "it is an earthly summer. But surely a scholar in this age must have noticed that, quite far south, it is winter. That I drift back between the living and dead is not so simple as my famous story, when I predictably arrive at the same time, in spring."
 
@@ -96,9 +96,9 @@ Creed felt his ego sucker punched but found himself chuckling anyway. His own la
 
 "Continue." Persephone eyed Creed curiously.
 
-"Captured in your youth by your uncle Hades, secreted away, your fate argued about by your mother, Demeter, and your father Zeus. A mother so enraged as to scourge the very earth she loved, and an uncle to persist in it this starvation for three years, as you yourself persisted. Those pomogrenate seeds you ate in all the stories... I have never been able to resolve this to my satisfaction, were you really tricked into eating them, or did you eat them knowing the consequences?"
+"Captured in your youth by your uncle Hades, secreted away, your fate argued about by your mother, Demeter, and your father Zeus. A mother so enraged as to scourge the very earth she loved, and an uncle to persist in it this starvation for three years, as you yourself persisted. Those pomegranate seeds you ate in all the stories... I have never been able to resolve this to my satisfaction, were you really tricked into eating them, or did you eat them knowing the consequences?"
 
-"I ate them of my own free will," the Goddess declared. "I knew what it would mean. It would mean that, whatever I should make of my life, it would be mine. My husband, whatever his character, would be my choice. Hades, is the truest expression of what you call greed. He takes away from others so he may possess things solely for himself, in the fortress named so aptly after him. But if he saw in me merely a pretty girl and an obedient wife he was mistaken, for my life I have always kept mine, no matter how tempestous it always seems.
+"I ate them of my own free will," the Goddess declared. "I knew what it would mean. It would mean that, whatever I should make of my life, it would be mine. My husband, whatever his character, would be my choice. Hades, is the truest expression of what you call greed. He takes away from others so he may possess things solely for himself, in the fortress named so aptly after him. But if he saw in me merely a pretty girl and an obedient wife he was mistaken, for my life I have always kept mine, no matter how tempestuous it always seems.
 
 "I believe you have most certainly got me off topic, but I believe I can tie back in. You too have a life for your own for the taking, if you work out how." Persephone returned to the mainline discussion.
 
@@ -166,7 +166,7 @@ Quotes and Images:
 Fertilizer: the muck, in all the forms it's taken, is revealed to be a kind of fertilizer for a new reality to sprout.
 "Nothing escapes the Land of the Dead unchanged."
 "A living reality is one open to those things which are impossible but happen anyway."
-Persephone's story: she ate the pomegrenate seeds of her own volition. 
+Persephone's story: she ate the pomegranate seeds of her own volition. 
 "One can't change the birth and death of reality, only hope to alter their course."
 "My ebb and return could never be adequately described by human language or the restrictions of a human narrative."
 To have a living reality is to be able to accept into your life that which you believe to be impossible, but which happens anyway. 

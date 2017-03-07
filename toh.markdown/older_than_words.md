@@ -12,7 +12,7 @@ Synopsis: Creed, Electra, and Cora escape back to Greece with the help of Ali Jo
 
 "You didn't have tickets when you came into this place," noted Electra.
 
-"One of the interrogators gave them to me. I think some independent group is invovled." Creed replied.
+"One of the interrogators gave them to me. I think some independent group is involved." Creed replied.
 
 "HADES?" Electra asked.
 
@@ -104,7 +104,7 @@ The group had no food, no money, and no passports, a situation that didn't alarm
 
 "I think I left it in the apartment," responded Creed.
 
-Electra picked up the phone, "One guidebook at homebase. The other two freshly printed, for the elder and the younger. Five miles south southwest of the Old Mine Basements. ETA? Alright." Then Electra hung up the phone. 
+Electra picked up the phone, "One guidebook at home base. The other two freshly printed, for the elder and the younger. Five miles south southwest of the Old Mine Basements. ETA? Alright." Then Electra hung up the phone. 
 
 "What was that all about?" Creed asked.
 
@@ -222,7 +222,7 @@ Creed took Electra's hands in his. "I think I have a very clear picture. Stuck a
 
 "Yes," Electra said to the floor.
 
-"And I turned eighteen. Passed high school. I could go to college and I could leave home. I didn't have to hide my doubt, my curosity, my sense of wonder, any more. The freedom was intoxicating."
+"And I turned eighteen. Passed high school. I could go to college and I could leave home. I didn't have to hide my doubt, my curiosity, my sense of wonder, any more. The freedom was intoxicating."
 
 "Intoxicating?" Electra continued looking down and tended to her meal.
 
@@ -242,7 +242,7 @@ Electra dropped her fork, and pushed herself away from the table.
 
 "Well it was only natural. Our lives were in danger. What kind of man would I be if I abandoned her?"
 
-"Right. Of course." she replied. She was a bit scared to add anything else. She didn't know what to make of Creed at the moment. He was in his thirties, single, never married. An obscure intellectual in some American province with which she wasn't familar. All this suggested, based on her long experience of dealing with technical men, that he was horrible with women. So why now did she feel this pull? This electricity that reminded of an impending checkmate?
+"Right. Of course." she replied. She was a bit scared to add anything else. She didn't know what to make of Creed at the moment. He was in his thirties, single, never married. An obscure intellectual in some American province with which she wasn't familiar. All this suggested, based on her long experience of dealing with technical men, that he was horrible with women. So why now did she feel this pull? This electricity that reminded of an impending checkmate?
 
 She tried to eat her dinner. But it was difficult to look away from him. She had been given that Blood of Apollo that she was certain both Creed and her daughter had been given. He seemed almost to anticipate the content of her vision, the fatal choice she had been offered. He was never to be able to have guessed the contents of her hallucination, what choice she had made. Did he guess it?
 
@@ -258,7 +258,7 @@ He unbuttoned her shirt, saving the last button to rip from its tether. He went 
 
 "You... bit me!" he exclaimed. Electra merely giggled, and went for a second swipe, which Creed dodged. He tried to pin her to the floor to protect himself. She wriggled under his grip, her sweat making her increasingly harder to grapple. She deflected his attempts with apparent ease, though he reapplied himself until he'd had grab of both of her wrists. 
 
-"I don't surrender when I make love," she whispered deliciously. It became clear he would have to take her, to claim her. She was a smart and beautiful woman, sweaty and alive. He felt a more sinister feeling for her flood his veins, something heart stopping and tender at the same time, the feeling of his own animal hungred. 
+"I don't surrender when I make love," she whispered deliciously. It became clear he would have to take her, to claim her. She was a smart and beautiful woman, sweaty and alive. He felt a more sinister feeling for her flood his veins, something heart stopping and tender at the same time, the feeling of his own animal hungered. 
 
 Electra finally not only broke completely free, she spotted a weakness in Creed's balance and rolled him over, not quite winding him, but sprawling him on his back. She was on top now, where she wanted to be, in control. She unclasped her bra while he took off his shirt, and in the tangle of clothes bit him on the upper arm.
 
@@ -284,9 +284,9 @@ Sweat dripping from his forehead, a trickle of blood on his shoulder, rolling ag
 
 "Yes, yes. Something much older than those words you put so much stock in doctor."
 
-Creed twirled Electra's thick black curls. He had always had a soft spot for dark hair since his first arrival in Greece. There had been a few unforgetable girls from that era. He'd been afraid to approach any of them. Playing with Electra's hair he asked, "So that girl that ran from her prison, did she get what she was hoping for?" He had wondered about the wisdom of a post-coitus conversation but couldn't muster the strength to stop one that had clearly started.
+Creed twirled Electra's thick black curls. He had always had a soft spot for dark hair since his first arrival in Greece. There had been a few unforgettable girls from that era. He'd been afraid to approach any of them. Playing with Electra's hair he asked, "So that girl that ran from her prison, did she get what she was hoping for?" He had wondered about the wisdom of a post-coitus conversation but couldn't muster the strength to stop one that had clearly started.
 
-"Umm... no. I didn't want to keep Cora locked away as I was. Remember though, you told me about how it sometimes seemed your every action was working against your desires? Well, that's how it's been. There are anonymous chatrooms for her to have net pals but they're for adults." 
+"Umm... no. I didn't want to keep Cora locked away as I was. Remember though, you told me about how it sometimes seemed your every action was working against your desires? Well, that's how it's been. There are anonymous chat rooms for her to have net pals but they're for adults." 
 
 "And what about you Electra?"
 

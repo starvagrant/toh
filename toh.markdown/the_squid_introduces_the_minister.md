@@ -45,7 +45,7 @@ Water spilt out of the creatures mouth as it spoke, yet everything was spoken in
 
 "Particularly that they've been interrupted," Creed noted.
 
-"Ah, yes. But outrank is a rather crude and rather human term for the relationship. Surely an organization of death might take on the hierarchal characteristics of a human military, a human endeavor that has caused so much death. But in this instance, I am the 'ranking' officer because I know you best." The creature's look was blank and implacable.
+"Ah, yes. But outrank is a rather crude and rather human term for the relationship. Surely an organization of death might take on the hierarchical characteristics of a human military, a human endeavor that has caused so much death. But in this instance, I am the 'ranking' officer because I know you best." The creature's look was blank and implacable.
 
 "What?" Creed asked?
 
@@ -113,7 +113,7 @@ Creed had been hoping that maybe that feeling of banality he'd had disciplining 
 
 "Nothing, I'll go back to class and stay after school." Creed walked straight back to his class, hoping not to be noticed deep in thoughts not about the events surrounding his founding fathers, but trying to remember the particular importance the he seemed to attach to Milton. It did not surprise him that his unblinking expression would be less and less obvious to each passing teacher, as the day dragged on and the tedium continued. 
 
-The puzzle vexed him long after normal school hours were ended, and his complete lack of outside initiative was appreciated by detention's observant Mr. Henson, who simply wished to get paid to read this particular outing. It wrestled with his curiousity he thought, not based in some particular passage in his book, but his approach to telling the story to begin with. 
+The puzzle vexed him long after normal school hours were ended, and his complete lack of outside initiative was appreciated by detention's observant Mr. Henson, who simply wished to get paid to read this particular outing. It wrestled with his curiosity he thought, not based in some particular passage in his book, but his approach to telling the story to begin with. 
 
 In his ten years worth of religious education, it seemed no biblical passage or religious discussion had ever truly sought out the motives of its main antagonist, Satan. Milton had offered the explanation of pride, not in a contemptuous morality tale, but in verse. The approach, fascinating in his own right and capturing his imagination in its own way, was not nearly as exciting as a premise that must have guided the poet's hand through many a sleepless night, that Satan's story had not been adequately described and expressed in the Bible.
 
@@ -149,7 +149,7 @@ Creed stepped out the door with a meek, "No prob." It was pathetic, how was is i
 
 "I'll be fine," Creed reassured.
 
-His father looked up from the paper, and said a non-commital, "Be well my boy," as if he hadn't believed a word. Jonathon climbed the stairs to the room and locked the door shut behind him. He had worked out one thing. Doubt seemed a shameful thing, an attitude in your head and expressed in private. He had confessed misgivings to two strangers, to blank and reflexive positions. It seemed faith was something you were to broadcast to the world, and doubt kept secret. Creed was in full swing doubt mode now, to the point of fleeing from his household's maintainer of faith, and he was lamenting the thought that he would at some point have to proclaim "Yes! I believe, oh I believe!" and not be able to do it convincingly. 
+His father looked up from the paper, and said a non-committal, "Be well my boy," as if he hadn't believed a word. Jonathon climbed the stairs to the room and locked the door shut behind him. He had worked out one thing. Doubt seemed a shameful thing, an attitude in your head and expressed in private. He had confessed misgivings to two strangers, to blank and reflexive positions. It seemed faith was something you were to broadcast to the world, and doubt kept secret. Creed was in full swing doubt mode now, to the point of fleeing from his household's maintainer of faith, and he was lamenting the thought that he would at some point have to proclaim "Yes! I believe, oh I believe!" and not be able to do it convincingly. 
 
 Jonathon turned on his lamp and wrote, "God had a plan, a plan where everyone believed everything." He erased the phrase instantly, but which after many minutes he put back on the page. He had promised himself that he would not give such simplistic motives in neither God nor the devil, but this phrase seemed to inspire the antagonism he was looking for. Satan would of course had some anti-plan. It all seemed too simplistic, and he didn't even have an attractive name for this against planness that Satan would have. To undo a plan was... sabotage. That was the word, and he could refer to his character now not as Satan, loaded as it was, but the Saboteur. At least, he thought, he had somewhat interesting rivals. The Planner and the Saboteur. 
 
@@ -169,7 +169,7 @@ Jonathon knew he should let her speak. Knew he should have let her voice her sus
 
 "You don't have a headache. You have a heartache. It's a girl. I'm a mother. I can tell."
 
-"No, that's not it. I think I'll worry myself about girls in college." This was not entirely true. There was red haired Alice, but she had been two years ahead of him and quite hard to corner as she was so busy with band. But she was the only redhead in his school, and that characteristic had set her apart in his mind, led him to a fantasy of what she must be like that was hard to shake off. But that old desire had been put far in the back of his mind as he concluded she would never be his. The dream of his seemed to suggest his odds would increase in college, when he did remember a short fling in his junior year that resulted in a few consumations.
+"No, that's not it. I think I'll worry myself about girls in college." This was not entirely true. There was red haired Alice, but she had been two years ahead of him and quite hard to corner as she was so busy with band. But she was the only redhead in his school, and that characteristic had set her apart in his mind, led him to a fantasy of what she must be like that was hard to shake off. But that old desire had been put far in the back of his mind as he concluded she would never be his. The dream of his seemed to suggest his odds would increase in college, when he did remember a short fling in his junior year that resulted in a few consummations.
 
 "Oh, yes, your ambition. You know, it would of course be more suitable to find a girl once at college, or in your profession, when your pathway to settling down was a little more clear. But the heart does not wait for things like ambitions. If there is someone now..." his mother said, traces of anticipation detectable.
 
@@ -187,7 +187,7 @@ He couldn't believe he'd written it. Carried away from some stroke of inspiratio
 
 Life was an experience. Faith was the insistence of a truth that could never be touched or altered by experience. He had set stock all this time in his loneliness, his attachment to his memories of happiness, his days consumed in the library. Had the Saboteur arranged it so all these activities were precisely the opposite of what he should be doing, keeping him from steeling his heart in Jesus via the illusion and experience? Terror struck him, and in that moment his father walked into his room. 
 
-Rather than push the paper away as he entered, he decided to crack a book and make it look like notes. The obvious act of one to hide the less obvious act of writing so no embarassing questions could be asked in this moment of panic. Now for the first time against an adversary to his story that could actually recognize his heretical purpose, he sought to draw his attention to a lesser crime.
+Rather than push the paper away as he entered, he decided to crack a book and make it look like notes. The obvious act of one to hide the less obvious act of writing so no embarrassing questions could be asked in this moment of panic. Now for the first time against an adversary to his story that could actually recognize his heretical purpose, he sought to draw his attention to a lesser crime.
 
 "So I guess you worked out I was in detention today," he muttered. It became clear it was an unnecessary slip but hoped the shock would distract his father from what he came up to talk about it.
 
