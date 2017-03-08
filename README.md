@@ -17,19 +17,20 @@ The folder toh.markdown contains the raw markdown files that represent the chapt
 9. A Mouse Named Margot
 10. Blackjack Therapy
 11. The Culinary Black Arts
-11. He Who the Angels Fear to Change
-12. The Garden of Treason
-13. The Collapse of the Tower of Words
-14. The Squid Introduces the Minister
-15. The Ravens Flight From the Wind Chimes
-16. The Bank of Secrets
-17. Older Than Words
-18. Arrival
-19. Epilogue
+12. He Who the Angels Fear to Change
+13. The Garden of Treason
+14. March of the Cnidoctyes
+15. The Collapse of the Tower of Words
+16. The Squid Introduces the Minister
+17. The Ravens Flight From the Wind Chimes
+18. The Bank of Secrets
+19. Older Than Words
+20. Arrival
+21. Epilogue
 
 ### Regarding Collobaration, Issues, and Pull Requests
 
-This work of fiction was conceived of as I project to be solely written by me. My initial intention in placing it on github was to have a backup copy. I have no intention of pulling in additional chapters to those listed in the Table of Contents.
+This work of fiction was conceived of as a project to be solely written by me. My initial intention in placing it on github was to have a backup copy. I have no intention of pulling in additional chapters to those listed in the Table of Contents.
 
 If you want to help the project along, the best thing you could do would be to open issues in which you offer constructive criticism either of the work as a whole or individual chapters. Having eyes on your writing is just as helpful as having eyes on your code.
 
@@ -45,4 +46,3 @@ This work is under creative commons: [creative commons 2.0, share-alike, attribu
 What this means is I'd love for anyone to derive anything from my work provided they give me credit, and don't
 prevent me from selling it. In order for that to happen, you have to release derived material under those same terms.
 ```
-
