@@ -1,0 +1,15 @@
+h1 {
+  background: #562606 url("images.etc/James-Wang/trans-film-strip-horiz.png") repeat top center;
+  height: 150px;
+  color: #8b8;
+  font-size: 5.8em;
+  padding-top: .3em;
+}
+
+body {
+  background-color: #521;
+  color: #ccf;
+}
+p {
+  background-color: #198a88;
+}
