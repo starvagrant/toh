@@ -1,55 +1,79 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
+<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on https://github.com/jonrohan -->
+<html lang="en-us">
 <head>
-	<title>Theatre of Hades</title>
-	<link rel="stylesheet" type="text/css" href="../assets/bootstrap.min.css" />
-	<link rel="stylesheet" type="text/css" href="style.css" />
-	
+	<title>Starvagrant.GitHub.io</title>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="description" content="repository page for the novel Theatre of HADES">
+
+	<link rel="stylesheet" href="stylesheets/github-generic.css">
+	<link rel="stylesheet" href="stylesheets/github-dark.css">
+<!--
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="javascripts/script.js"></script>
+-->
+
 </head>
 <body>
-<header>
-	<div class="container-fluid text-center">
-		<h1> Theatre of Hades</h1>
-	</div>
-</header>
-<div class="container-fluid text-center">
-	<div class="row">	
-		<div class="col-sm-3"></div>
-		<div class="col-sm-6 wrapper">
-			<h2> The Story </h2>
-			<p> Dr. Jonathon Creed, an obscure academic fighting the tedium of teaching ancient Greek, comes across two ancient documents. One Greek, the other Egyptian, they tell stories that, if verified, would uproot our most basic understanding of ancient history. The mysterious documents disappear from his office and the only trace of their presence is a small business card with HADES emblazoned on the front. Dr. Creed shortly discovers this is a ticket to the mysterious Theatre of HADES, which displays films from the underworld to the living. Spurred on by ambition, a revulsion towards his present, and reminiscences of his past, he seeks out every theatre and film he can find, which slowly point to something unknown and unexpected about the nature of reality itself. 
-			</p>
-			<h2> The Novel </h2>
-			<p>
-				As of this writing (3/10/17) my novel, Theatre of HADES is in it's second draft stage. I'm looking for readers and editors to comment on my work. Those familiar with the mechanics of github would be advised to make use of it's many features for comments. Those not familiar with github can <a href="https://raw.githubusercontent.com/starvagrant/toh/master/draft/TOH.Novel.2.0.0.doc"> Download </a> the novel in .doc form directly. After sufficient comment I have plans for a third and final draft.
-			</p>
-			<p>
+	<div class="wrapper">
+		<header>
+			<h1 class="title">Theatre of HADES</h1>
+		</header>
+		<div id="container">
+			<p class="tagline">Theatre of HADES: a novel by James Ginns</p>
+
+			<div id="main" role="main">
+				<div class="download-bar">
+					<div class="inner">
+						<a href="https://github.com/starvagrant/toh" class="code">View Theatre of HADES repo on GitHub</a>
+					</div>
+				<span class="blc"></span><span class="trc"></span>
+				</div>
+				<article class="markdown-body">
+					<h3>
+						<a id="the-story" class="anchor" href="#the-story" aria-hidden="true"><span class="octicon octicon-link"></span></a>The Story
+					</h3>
+					<p>
+						Dr. Jonathon Creed, an obscure academic fighting the tedium of teaching ancient Greek, comes across two ancient documents. One Greek, the other Egyptian, they tell stories that, if verified, would uproot our most basic understanding of ancient history. The mysterious documents disappear from his office and the only trace of their presence is a small business card with HADES emblazoned on the front. Dr. Creed shortly discovers this is a ticket to the mysterious Theatre of HADES, which displays films from the underworld to the living. Spurred on by ambition, a revulsion towards his present, and reminiscences of his past, he seeks out every theatre and film he can find, which slowly point to something unknown and unexpected about the nature of reality itself.
+					</p>
+					<h3>
+						<a id="the-novel" class="anchor" href="#the-novel" aria-hidden="true"><span class="octicon octicon-link"></span></a>The Novel
+					</h3>
+					<p>
+						As of this writing (3/10/17) my novel, Theatre of HADES is in it's second draft stage. I'm looking for readers and editors to comment on my work. Those familiar with the mechanics of github would be advised to make use of it's many features for comments. Those not familiar with github can <a href="https://raw.githubusercontent.com/starvagrant/toh/master/draft/TOH.Novel.2.0.0.doc"> Download the novel </a>in .doc form directly. After sufficient comment I have plans for a third and final draft.
+					</p>
+					<p>
 				I'd like to take some time to thank the makers of the software that made the composition of my novel possible. I wrote the first draft in Libreoffice, but as I grew more comfortable with Linux's command line utilities, I found them superior for novel writing. The second draft of the novel was composed entirely from the command line using git, bash, vim, and aspell. Due to interest on the part of the programmers I hang out with, I have considered writing something regarding the use of source control outside its intended purpose, which is programming. Will provide a link here if that ever gets off the ground.	
-			</p>
-			<h2> The Repo </h2>
-			<p>
-				The Theatre of Hades repo ('toh') consists of my novel written in markdown, html, and a final version of the tale in .doc format. The large Word document file should be easiest to read. However, it is not where the composition took place. When writing, I wrote each individual chapter in markdown format, in the toh.markdown folder. As such all the source control, along with html-style comments, is in the markdown. Those looking for chapter annotations and a history of the project should check there. I should note that my commit messages are quite detailed. There is one problem to writing all your chapters via the command line in that it's hard to keep chapters in order. The table_of_contents.md should be sufficient, but <code> grep -h ^= *.md | sort </code> will also present a good reference point, because the only place in my markdown files that begin with equal signs have chapter information in them. 
-			</p>
-		</div>
-		<div class="col-sm-3"></div>
-	</div>
-<footer>
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-xs-6">
-				<!-- fork me on github -->
-			</div>
-			<div class="col-xs-6">
-				<!-- creative commons -->
+					</p>
+					<h3>
+						<a id="the-repo" class="anchor" href="#the-repo" aria-hidden="true"><span class="octicon octicon-link"></span></a>The Repo
+					</h3>
+					<p>
+				The Theatre of Hades repo ('toh') consists of my novel written in markdown, html, and a final version of the tale in .doc format. The large Word document file should be easiest to read. However, it is not where the composition took place. When writing, I wrote each individual chapter in markdown format, in the toh.markdown folder. As such all the source control, along with html-style comments, is in the markdown. Those looking for chapter annotations and a history of the project should check there. I should note that my commit messages are quite detailed. There is one problem to writing all your chapters via the command line in that it's hard to keep chapters in order. The table_of_contents.md should be sufficient, but <code> grep -h ^= *.md | sort </code> will also present a good reference point, because the only place in my markdown files that begin with equal signs have chapter information in them.
+					</p>
+					<h3>
+				</article>
 			</div>
 		</div>
+		<footer>
+			<div class="owner">
+
+			<p><a href="https://github.com/starvagrant" class="avatar"><img src="https://avatars1.githubusercontent.com/u/10606561?v=3&amp;s=60" width="48" height="48"></a>View <a href="https://github.com/starvagrant">starvagrant</a> on <a href="https://www.github.com">GitHub</a></p>
+
+			</div>
+			<div class="creds">
+				<small>This page generated using <a href="https://pages.github.com/">GitHub Pages</a><br>theme by <a href="https://twitter.com/jonrohan/">Jon Rohan</a></small>
+			</div>
+		</footer>
 	</div>
-</footer>	
-</div>
-<!--
-	<script src="../assets/jquery.min.js"></script>
-	<script src="../assets/bootstrap.min.js"></script>
--->
+	<div class="current-section">
+		<a href="#top">Scroll to top</a>
+		<a href="https://github.com/starvagrant/starvagrant.github.io/tarball/master" class="tar">tar</a><a href="https://github.com/starvagrant/starvagrant.github.io/zipball/master" class="zip">zip</a><a href="" class="code">source code</a>
+		<p class="name"></p>
+	</div>
 </body>
 </html>
-
