@@ -457,6 +457,7 @@ h1.title {
 .wrapper {
   width: 675px;
   margin: 0 auto;
+  max-width: 100%;
 }
 
 #container {
@@ -479,7 +480,8 @@ p.tagline {
 
 .download-bar {
   background: #222;
-  border: 5px solid #444;
+  border-top: 5px dashed #666;
+  border-bottom: 5px dashed #666;
   padding: 10px;
   margin: 0 -35px 20px;
   position: relative;
@@ -516,11 +518,11 @@ p.tagline {
   height: 0;
   display: block;
   position: absolute;
-  bottom: -15px;
-  left: 0;
-  transform: rotate(45deg);
-  -ms-transform: rotate(45deg);  /* IE9 */
-  -webkit-transform: rotate(45deg); /* 2014 current */
+  top: -15px;
+  left: 5px;
+  transform: rotate(135deg);
+  -ms-transform: rotate(135deg);  /* IE9 */
+  -webkit-transform: rotate(135deg); /* 2014 current */
 }
 
 .download-bar .trc {
@@ -531,7 +533,7 @@ p.tagline {
   display: block;
   position: absolute;
   top: -15px;
-  right: 0;
+  right: 5px;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);  /* IE9 */
   -webkit-transform: rotate(45deg); /* 2014 current */
@@ -963,3 +965,18 @@ footer .owner p a {
 .highlight .vg { color: #008080 } /* Name.Variable.Global */
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+
+/* custom styles */
+
+h3.repo-link {
+	text-align: center;
+}
+
+.inner h1 {
+	text-align: center;
+	font-size: 3em;
+	letter-spacing: .15em;
+	margin: 5px;
+	font-family: "Andale Mono WT", "Andale Mono", "Lucida Console", "Liberation Mono", "Courier New", Courier, monospace;
+	color: #993c00;
+}
