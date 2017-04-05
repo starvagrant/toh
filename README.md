@@ -28,7 +28,7 @@ The folder toh.markdown contains the raw markdown files that represent the chapt
 20. [Arrival](toh.markdown/arrival.md)
 21. [Epilogue](toh.markdown/epilogue.md)
 
-### Regarding Collobaration, Issues, and Pull Requests
+### Regarding Collaboration, Issues, and Pull Requests
 
 This work of fiction was conceived of as a project to be solely written by me. My initial intention in placing it on github was to have a backup copy. I have no intention of pulling in additional chapters to those listed in the Table of Contents.
 
