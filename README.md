@@ -6,27 +6,27 @@ The folder toh.markdown contains the raw markdown files that represent the chapt
 
 ### Table of Contents
 
-1. The Spectre of Atlantis
-2. Civil Wars and Hosptial Beds
-3. Road Trip in Red
-4. Ooze From the Confetti Factory
-5. Traveling With Tragedy
-6. A Needle in Istanbul
-7. Something Viscous in St. Louis
-8. The Numerologist Can't Stop the Bees
-9. A Mouse Named Margot
-10. Blackjack Therapy
-11. The Culinary Black Arts
-12. He Who the Angels Fear to Change
-13. The Garden of Treason
-14. March of the Cnidoctyes
-15. The Collapse of the Tower of Words
-16. The Squid Introduces the Minister
-17. The Ravens Flight From the Wind Chimes
-18. The Bank of Secrets
-19. Older Than Words
-20. Arrival
-21. Epilogue
+1. [The Spectre of Atlantis](toh.markdown/the_spectre_of_atlantis.md)
+2. [Civil Wars and Hosptial Beds](toh.markdown/civil_wars_and_hosptial_beds.md)
+3. [Road Trip in Red](toh.markdown/road_trip_in_red.md)
+4. [Ooze From the Confetti Factory](toh.markdown/ooze_from_the_confetti_factory.md)
+5. [Traveling With Tragedy](toh.markdown/traveling_with_tragedy.md)
+6. [A Needle in Istanbul](toh.markdown/a_needle_in_istanbul.md)
+7. [Something Viscous in St. Louis](toh.markdown/something_viscous_in_st_louis.md)
+8. [The Numerologist Can't Stop the Bees](toh.markdown/the_numerologist_cant_stop_the_bees.md)
+9. [A Mouse Named Margot](toh.markdown/a_mouse_named_margot.md)
+10. [Blackjack Therapy](toh.markdown/blackjack_therapy.md)
+11. [The Culinary Black Arts](toh.markdown/the_culinary_black_arts.md)
+12. [He Who the Angels Fear to Change](toh.markdown/he_who_the_angels_fear_to_change.md)
+13. [The Garden of Treason](toh.markdown/the_garden_of_treason.md)
+14. [March of the Cnidoctyes](toh.markdown/march_of_the_cnidocytes.md)
+15. [The Collapse of the Tower of Words](toh.markdown/the_collapse_of_the_tower_of_words.md)
+16. [The Squid Introduces the Minister](toh.markdown/the_squid_introduces_the_minister.md)
+17. [The Ravens Flight From the Wind Chimes](toh.markdown/the_ravens_flight_from_the_wind_chimes.md)
+18. [The Bank of Secrets](toh.markdown/the_bank_of_secrets.md)
+19. [Older Than Words](toh.markdown/older_than_words.md)
+20. [Arrival](toh.markdown/arrival.md)
+21. [Epilogue](toh.markdown/epilogue.md)
 
 ### Regarding Collobaration, Issues, and Pull Requests
 
