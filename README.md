@@ -42,7 +42,7 @@ This repo needs some tidying. I have plans to place supplementary materials, suc
 
 ```
 **brief legal**
-This work is under creative commons: [creative commons 2.0, share-alike, attribution](https://creativecommons.org/licenses/by-sa/4.0).
+This work is under creative commons: [creative commons 4.0, attribution](https://creativecommons.org/licenses/by-sa/4.0).
 What this means is I'd love for anyone to derive anything from my work provided they give me credit, and don't
-prevent me from selling it. In order for that to happen, you have to release derived material under those same terms.
+prevent me from selling it.
 ```
